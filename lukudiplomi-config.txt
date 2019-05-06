@@ -1,0 +1,5 @@
+[1. luokka] {
+	[date]:2019.05.06|
+	[books]:https://www.example.com/lukudiplomi/kirjat/7-luokka-kirjat.txt|
+	[tasks]:https://www.example.com/lukudiplomi/tehtavat/7-luokka-tehtavat.txt|
+}
