@@ -3,3 +3,10 @@
 	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/1-luokka-kirjat.txt|
 	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/1-luokka-tehtavat.txt|
 }
+
+[2. luokka] {
+	[date]:2019.07.17|
+	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/1-luokka-kirjat.txt|
+	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/1-luokka-tehtavat.txt|
+
+}
