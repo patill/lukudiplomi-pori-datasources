@@ -1,6 +1,7 @@
 [Aika ja avaruus] {
 	[date]:2019.07.19|
 	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/aika_avaruus.txt|
+	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/Aika_avaruus_tehtavat.txt|
 }
 
 
