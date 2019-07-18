@@ -1,3 +1,9 @@
+[Aika ja avaruus] {
+	[date]:2019.07.19|
+	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/aika_avaruus.txt|
+}
+
+
 [1. luokka] {
 	[date]:2019.05.06|
 	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/1-luokka-kirjat.txt|
