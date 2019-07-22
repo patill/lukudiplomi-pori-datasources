@@ -1,9 +1,0 @@
-[Tuntematon sotilas] {
-	[b-aut]:Linna, Väinö|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jaatinen%2C+Heidi%2C+kirjoittaja&callnumber=&size=medium&title=Koski&recordid=satakirjastot.1257921&source=Solr&isbn=9512408643&index=0&w=1200&h=1200|
-	[b-tag]:sotakirjallisuus, romaani|
-	[b-des]:Teoksen kuvausteksti.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1257921|
-	[b-ser-1]:https://satakirjastot.finna.fi/Record/satakirjastot.381507|
-	[b-ser-1-t]:Sarjan ensimmäinen osa: Tunnettu sotilas.|
-}
