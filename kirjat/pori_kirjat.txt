@@ -1,0 +1,91 @@
+[Avaruussankari] {
+	[b-aut]:Agnew, Kate|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Agnew%2C+Kate&callnumber=&size=medium&title=Avaruussankari&recordid=satakirjastot.274280&source=Solr&isbn=9518834814&index=0&w=1200&h=1200|
+	[b-tag]:Aika ja avaruus|
+  [b-cat]:Lukutoukka|
+	[b-des]:Avaruusalusten ohjauskeskuksessa on hätätilanne. Kuuautosta on irronnut rengas, eivätkä astronautit pysty korjaamaan sitä ja toimittamaan huippusalaisia valokuvia maahan. Onnistuuko Ben ratkaisemaan ongelman? Sininen banaani on kirjasarja juuri lukemaan oppineille. Sarjan kirjoissa on värikkäästi kuvitetut tarinat ja hauskoja puhekuplia. |
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.274280|
+}
+
+[Samun salainen ystävä] {
+	[b-aut]:Dale, Elizabeth|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Dale%2C+Elizabeth&callnumber=&size=medium&title=Samun+salainen+yst%C3%A4v%C3%A4&recordid=satakirjastot.430053&source=Solr&isbn=9518835179&index=0&w=1200&h=1200|
+	[b-cat]:Lukutoukka|
+  [b-tag]:Aika ja avaruus|
+	[b-des]:Samu löytää taskustaan pienen avaruusolennon Sipon, ja heistä tulee ystäviä. Mutta kuinka käy, kun Sippo panee kodin mullin mallin tai kun sade uhkaa pilata Samun synttärijuhlat? Miten Sippo yllättää Samun rannalla? Kolme hauskaa ta-vu-tet-tu-a tarinaa.|
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.430053|
+}
+
+[Henkka Huimapää pelastaa maailman] {
+	[b-aut]:Emmett, Jonathan|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Emmett%2C+Jonathan&callnumber=&size=medium&title=Henkka+Huimap%C3%A4%C3%A4+pelastaa+maailman&recordid=satakirjastot.299154&source=Solr&isbn=9518837473&index=0&w=1200&h=1200|
+	[b-cat]:Lukutoukka|
+  [b-tag]:Aika ja avaruus|
+	[b-des]:Henkka on pieni poika, joka ei pelkää mitään - ei sitten mitään! Vanhempien mielestä se ei ole normaalia ja he yrittävät auttaa. Mutta sitten maailmankaikkeuden hurjimmat olennot, Örmätit, uhkaavat vallata maapallon...|
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.299154|
+}
+
+[Avaruusoliot kylässä] {
+	[b-aut]:Hart, Caryl|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Hart%2C+Caryl%2C+kirjoittaja&callnumber=&size=medium&title=Avaruusoliot+kyl%C3%A4ss%C3%A4&recordid=satakirjastot.1298493&source=Solr&isbn=9523411713&index=0&w=1200&h=1200|
+	[b-cat]:Lukutoukka|
+  [b-tag]:Ikisuosikkeja|
+	[b-des]:Mummi on päivätorkuilla, kun Ulla saa yllätysvieraita - suoraan ulkoavaruudesta! Onnistuuko hän saattamaan siniset sirokkaat, pinkit piksut, vihreät virkit ja muut avaruuden asukkaat takaisin kotiplaneetalleen ennen kuin mummi herää... Tämä raketin lailla syöksähtelevä, riimitelty tarina ei ole tästä maailmasta!|
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.1298493|
+}
+
+[Tohelo astronautti] {
+	[b-aut]:Harvey, Damian|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Harvey%2C+Damian&callnumber=&size=medium&title=Tohelo+astronautti&recordid=satakirjastot.350822&source=Solr&isbn=9518839174&index=0&w=1200&h=1200|
+	[b-tag]:Lukutoukka|
+	[b-des]:Leo on aina halunnut ryhtyä astronautiksi, ja viimein hänen unelmansa toteutuu. Siinä on vain sellainen pieni pulma, että hän pelkää korkeita paikkoja, kärsii matkapahoinvoinnista ja on vähän kömpelö. Miten Leon ensimmäinen avaruuslento mahtaakaan sujua? |
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.350822|
+}
+
+[Ystävä avaruudessa] {
+	[b-aut]:Jeffers, Oliver|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Jeffers%2C+Oliver&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4+avaruudessa&recordid=satakirjastot.323008&source=Solr&isbn=9512355159&index=0&w=1200&h=1200|
+	[b-tag]:Lukutoukka|
+	[b-des]:Kun kaapin perältä löytyy lentokone, pojan on pakko kokeilla sitä heti! Innoissaan hän lentää aina avaruuteen asti - vain huomatakseen, että tankki on tyhjentynyt. Poika tekee pakkolaskun Kuuhun, jonne on pelastautunut myös eräs toinen olento: marsilainen. Yhdessä he miettivät avun ongelmaansa. Kotiinpaluun hetki on onnellinen mutta haikea - mahtavatko he tavata enää koskaan?|
+  [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.323008|
+}
+
+[Hulda ja Jalmari avaruustiedemiehinä] {
+	[b-aut]:Majaluoma, Markus|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Majaluoma%2C+Markus&callnumber=&size=medium&title=Hulda+ja+Jalmari+avaruustiedemiehin%C3%A4&recordid=satakirjastot.462664&source=Solr&isbn=9526606981&index=0&w=1200&h=1200|
+	[b-tag]:Lukutoukka|
+	[b-des]:Hulda ja Jalmari löytävät kirpputorilta kaukoputken. Sillä näkee avaruuteen. Sillä näkee Kuun vuoret ja kraatterit ja Marsin punaisen hiekan. Sillä näkee Otavan ja löytää suunnan pohjoiseen, jossa joulupukki asuu. Mutta onko avaruudessa asukkaita? Se selviää kirjan lopussa.|
+        [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.462664|
+}
+
+[Ensimmäinen virtahepo kuussa] {
+	[b-aut]:Ross, Tony|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Ross%2C+Tony&callnumber=&size=medium&title=Ensimm%C3%A4inen+virtahepo+kuussa&recordid=satakirjastot.274455&source=Solr&isbn=9518837635&index=0&w=1200&h=1200|
+	[b-tag]:Lukutoukka|
+	[b-des]:Tarina kahdesta virtahevosta, joilla on yhteinen unelma: olla ensimmäinen virtahepo kuussa. Ökyrikas Herkules Hippo-Potamus III rakennuttaa kuulentoaan varten jättimäisen avaruuskeskuksen, kun taas Marjo... no, Marjo ei rakennuta.|
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.274455|
+}
+
+[Maailman viimeiset tyypit] {
+	[b-aut]:Brallier, Max|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Brallier%2C+Max%2C+kirjoittaja&callnumber=&size=medium&title=Maailman+viimeiset+tyypit.+1&recordid=satakirjastot.1291054&source=Solr&isbn=9510437778&index=0&w=1200&h=1200|
+	[b-tag]:Kirja-ahmatti|
+	[b-des]:Siitä asti kun hirviökatastrofi tuhosi maailman sellaisena kuin me sen tunnemme, 13-vuotias Jack on asunut puumajassaan suojanaan katapultteja ja vallihauta, seuranaan videopelit ja ravintonaan loputon varasto Oreo-keksejä ja Mountain Dew'ta. Kun taistelu zombeja, siipirähkiä ja köynnösryönejä vastaan käy yksinäiseksi, Jack yhdistää voimansa nörtti-Quintin ja ääliö-Dirkin kanssa. Jack on päättänyt pelastaa ihastuksensa Junen ja maailman - ja olla olematta enää koskaan mikään keskivertokaveri! Pystyykö hän siihen? |
+  	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.1291054|
+}
+
+[Avaruusolentojen etsijän käsikirja] {
+	[b-aut]:Brake, Mark|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Brake%2C+Mark&callnumber=&size=medium&title=Avaruusolentojen+etsij%C3%A4n+k%C3%A4sikirja+%3A+aloittelevan+avaruustutkijan+opas&recordid=satakirjastot.384420&source=Solr&isbn=9522402168&index=0&w=1200&h=1200|
+	[b-tag]:Lukutoukka|
+	[b-des]:Olemmeko yksin kaikkeudessa, vai onko ulkoavaruudessa elämää? Onko meillä kosmisia naapureita? Maailma on niin suuri, että nykyisin pidetään jo epätodennäköisenä, että olisimme sen ainoita eläviä asukkaita. Mutta miten ulkoavaruuden elämää voi etsiä? Opaskirja kertoo vaihe vaiheelta, miten elämä on syntynyt ja kehittynyt maapallolla ja kuinka elämää voi itse etsiä muualta maailmankaikkeudesta. Aloittelevalle avaruustutkijalle selviää muun muassa, millaisia elinympäristöjä ulkoavaruudessa on, kauanko siellä on voinut olla elämää, miltä vieraat elämänmuodot saattaisivat näyttää ja miten olentojen kanssa voitaisiin kommunikoida.|
+  [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.384420|
+}
+
+[Prinsessa, lurjus ja maalaispoika: tarina elokuvasta Star Wars: uusi toivo] {
+	[b-aut]:Bracken, Alexandra|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Bracken%2C+Alexandra&callnumber=&size=medium&title=Prinsessa%2C+lurjus+ja+maalaispoika+%3A+tarina+elokuvasta+Star+Wars%3A+uusi+toivo&recordid=satakirjastot.341494&source=Solr&isbn=9513242951&index=0&w=1200&h=1200|
+	[b-tag]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Galaktisen Imperiumin kaikkien aikojen suurin joukkotuhoase Kuolemantähti on valmistumassa, ja kapinallisten ainoa toivo on prinsessan, lurjuksen ja maalaispojan käsissä. Tämä kiehtova romaani kertoo alkuperäisen Star Wars -trilogian ensimmäisen elokuvan (episodi IV) tarinan kolmen päähenkilön - prinsessa Leian, Han Solon ja Luke Skywalkerin - näkökulmasta.|
+  [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.341494|
+}
