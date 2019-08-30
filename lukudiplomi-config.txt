@@ -3,22 +3,3 @@
 	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/pori_kirjat.txt|
 	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/Porin_lukudiplomi_tehtavat.txt|
 }
-[Aika ja avaruus] {
-	[date]:2019.07.19|
-	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/aika_avaruus.txt|
-	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/Aika_avaruus_tehtavat.txt|
-}
-
-
-[Epäilyttäviä asioita] {
-	[date]:2019.07.19|
-	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/ikisuosikkeja.txt|
-	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/epailyttavia_asioita_tehtavat.txt|
-}
-
-[Ikisuosikkeja] {
-	[date]:2019.07.19|
-	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/ikisuosikkeja.txt|
-	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/ikisuosikkeja_tehtavat.txt|
-
-}
