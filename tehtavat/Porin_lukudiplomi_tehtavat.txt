@@ -21,7 +21,7 @@
 
 [3] {
   [num]:1|
-  [type]:Epäilyttäviä asioita|
+  [type]:self|
   [tag]:Epäilyttäviä asioita|
   [task]:Millaisen mysteerin tai rikoksen haluaisit selvittää? Piirrä tai kirjoita.|
 }
