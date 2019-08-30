@@ -29,7 +29,7 @@
 	[b-aut]:Hart, Caryl|
 	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Hart%2C+Caryl%2C+kirjoittaja&callnumber=&size=medium&title=Avaruusoliot+kyl%C3%A4ss%C3%A4&recordid=satakirjastot.1298493&source=Solr&isbn=9523411713&index=0&w=1200&h=1200|
 	[b-cat]:Lukutoukka|
-  	[b-tag]:Ikisuosikkeja|
+  	[b-tag]:Aika ja avaruus|
 	[b-des]:Mummi on päivätorkuilla, kun Ulla saa yllätysvieraita - suoraan ulkoavaruudesta! Onnistuuko hän saattamaan siniset sirokkaat, pinkit piksut, vihreät virkit ja muut avaruuden asukkaat takaisin kotiplaneetalleen ennen kuin mummi herää... Tämä raketin lailla syöksähtelevä, riimitelty tarina ei ole tästä maailmasta!|
   	[b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.1298493|
 }
@@ -82,10 +82,46 @@
 [Avaruusolentojen etsijän käsikirja] {
 	[b-aut]:Brake, Mark|
 	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Brake%2C+Mark&callnumber=&size=medium&title=Avaruusolentojen+etsij%C3%A4n+k%C3%A4sikirja+%3A+aloittelevan+avaruustutkijan+opas&recordid=satakirjastot.384420&source=Solr&isbn=9522402168&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:Kirja-ahamatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Olemmeko yksin kaikkeudessa, vai onko ulkoavaruudessa elämää? Onko meillä kosmisia naapureita? Maailma on niin suuri, että nykyisin pidetään jo epätodennäköisenä, että olisimme sen ainoita eläviä asukkaita. Mutta miten ulkoavaruuden elämää voi etsiä? Opaskirja kertoo vaihe vaiheelta, miten elämä on syntynyt ja kehittynyt maapallolla ja kuinka elämää voi itse etsiä muualta maailmankaikkeudesta. Aloittelevalle avaruustutkijalle selviää muun muassa, millaisia elinympäristöjä ulkoavaruudessa on, kauanko siellä on voinut olla elämää, miltä vieraat elämänmuodot saattaisivat näyttää ja miten olentojen kanssa voitaisiin kommunikoida.|
   [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.384420|
+}
+
+[Onneksi oli maitoa] {
+	[b-aut]:Gaiman, Neil|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.235136&index=0&size=medium&w=250&h=250|
+	[b-cat]:Kirja-ahamatti|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Kun äiti lähtee työmatkalle, isälle jää loputtoman pitkä lista muistettavia asioita. Ja kaikkein tärkein asia on: MUISTA OSTAA MAITOA. Valitettavasti isä ei muista. Niinpä seuraavana aamuna ennen aamupalaa hänen täytyy kipaista lähikauppaan. Tämä on tarina siitä, miksi kestää ikuisuuden ennen kuin isä palaa. Merkittävää roolia tarinassa näyttelevät muun muassa aikamatkustava dinosaurus, merirosvokuningatar, kallisarvoinen timantti, muutama vampyyri sekä - kaikeksi onneksi - aivan tavallinen maitotölkki.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.235136|
+}
+
+[Pimeässä hohtava avaruus] {
+	[b-aut]:Harris, Nicholas|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.451571&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:Kirja-ahamatti|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Kun pilvettömänä yönä katsoo taivaalle, näkee kuun, tähtiä, planeettoja ja galakseja. Ne hohtavat kirkkaasti pimeässä ja valaisevat öisen taivaan. Tässä kirjassa kerrotaan jännittäviä asioita avaruudesta, ja kaiken lisäksi sen sivuja voi katsella ja lukea pimeässä!|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.451571|
+}
+
+[Tutkimusmatka avaruuteen] {
+	[b-aut]:Hiekkalinna, Tero|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.327656&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:Kirja-ahamatti|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Kirjassa tutkitaan Aurinkokunnan planeettoja, kuita ja komeettoja aina kaukaisiin tähtijoukkoihin ja galakseihin asti unohtamatta omaa galaksiamme, Linnunrataa. Kirjan opas, asiantunteva Kaukoputkimies neuvoo, mitä taivaankappaleita on mahdollista nähdä omin silmin ja mitä kiikareilla, ja millainen avaruus avautuu kaukoputken kautta. Hahmottuvatko Jupiterin raidat, entä pystymmekö näkemään galakseja?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.327656|
+}
+
+[Kepler62-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.417604&index=0&size=medium&w=250&h=250|
+	[b-cat]:Kirja-ahamatti|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Kuusiosainen avaruusseikkailu vie lukijan jännittävälle matkalle läpi avaruuden. Lapset ovat kuin uudisraivaajia saapuessaan Kepler-62e:lle ja he joutuvat vaikeiden valintojen eteen. . Päästäkseen mukaan matkalle, lasten tulee pelata läpi tietokonepeli Kepler-62. He kohtaavat avaruusolioita, sairautta ja lopulta totuuden valheiden takana. Kenet sinä pelastaisit?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=Kepler62&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
 }
 
 [Prinsessa, lurjus ja maalaispoika: tarina elokuvasta Star Wars: uusi toivo] {
@@ -95,4 +131,219 @@
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Galaktisen Imperiumin kaikkien aikojen suurin joukkotuhoase Kuolemantähti on valmistumassa, ja kapinallisten ainoa toivo on prinsessan, lurjuksen ja maalaispojan käsissä. Tämä kiehtova romaani kertoo alkuperäisen Star Wars -trilogian ensimmäisen elokuvan (episodi IV) tarinan kolmen päähenkilön - prinsessa Leian, Han Solon ja Luke Skywalkerin - näkökulmasta.|
   [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.341494|
+}
+
+[W.A.R.P. -sarja] {
+	[b-aut]:Colfer, Eoin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.334060&index=0&size=medium&w=250&h=250|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Hulvaton aikamatkaseikkailu tempaisee viktoriaanisen ajan Englannista nykypäivään.
+
+Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuikata palkkamurhaaja Garrickin uhrina oleva mies hengiltä. Suureksi hämmästyksekseen poika sinkoutuukin aikamatkalle tulevaisuudesta saapuneen uhrin mukana. Vuosisata myöhemmin 17-vuotias FBI:n agenttikokelas Chevron Savano vahtii kellariin varastoitua metallisäiliötä. Edellisen operaationsa mokanneen tytön kauhuksi säiliö alkaa sykkiä, puoli Lontoota pimenee ja menneisyydestä putkahtanut Riley ilmoittaa tarvitsevansa agentin apua. Samaan aikaan 1800-luvulla vaarallinen kuolemantaikuri Garrick löytää myös madonreiän ja on tuota pikaa kaksikon kintereillä|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=W.A.R.P.+&type=AllFields|
+}
+
+[Historian vartijat -sarja] {
+	[b-aut]:Dibben, Damian|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.431985&index=0&size=medium&w=250&h=250|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Mitä jos perheesi olisi kadonnut? Entä jos he voisivat olla missä vain, missä ajassa tahansa? Jake Djonesin vanhemmat ovat kadonneet, ja he voivat olla kirjaimellisesti missä vain, sillä Djonesien perheellä on salaisuus: he kuuluvat historian vartijoihin, salaseuraan, joka matkaa halki vuosisatojen estääkseen pahuuden voimia sotkemasta historian kulkua. Etsiessään vanhempiaan Jake matkaa 2000-luvun Lontoosta 1800-luvun Ranskaan, historian vartijoiden päämajaan, missä hänelle selviää totuus vanhempiensa katoamisesta - ja pahan ruhtinas Zeldtin suunnitelmista tuhota koko tuntemamme maailma...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=%22Historian+vartijat%22&type=AllFields|
+}
+
+[Darlah: 172 tuntia kuussa] {
+	[b-aut]:Harstad, Johan|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.266005&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:NASA palaa Kuuhun yli 40 vuoden jälkeen ja järjestää maailmanlaajuisen arvonnan. Norjalainen Mia, japanilainen Midori ja ranskalainen Antoine ovat kolme onnekasta, jotka pääsevät mukaan ainutlaatuiselle palkintomatkalle vuoden 1969 kuuraketin kopiolla. Samaan aikaan dementoinut entinen astronautti seuraa kauhulla matkan uutisointia - Kuuhun ei pidä palata! Mutta nuoret ovat jo perillä. Sitten yhteys Maahan katkeaa, tukikohdan generaattori sammuu, Antoine katoaa... Ja Kuun pimeä puoli näyttää pelottavat, visusti vaietut kasvonsa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.266005|
+}
+
+[Matka alkaa] {
+	[b-aut]:Revis, Beth|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.373170&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Avaruusalus Godspeed lähtee viemään tiedemiehistä ja asiantuntijoista koostuvaa retkikuntaa kohti tuntematonta. Tarkoituksena on asuttaa uusi planeetta kaukana galaksin toisella laidalla. Mukana ovat myös 350 vuodeksi syväjäädytetyt 17-vuotias Amy ja hänen vanhempansa. 16-vuotias Elder-poika on asunut aluksella koko ikänsä eikä tunne ulkopuolista maailmaa lainkaan. Kun Elder sattumalta löytää alukseen kätketyt ihmiset, hän ihastuu Amyyn ja alkaa kuvitella, millaista olisi puhua Amyn kanssa ja tuntea hänet. Amy herätetään vahingossa 50 vuotta liian aikaisin ja tyttö joutuu murhayrityksen kohteeksi. Myös muiden syväjäädytettyjen henki on vaarassa. Kuka on vastuussa näistä kuolemista?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.373170|
+}
+
+[Time Riders -sarja] {
+	[b-aut]:Scarrow, Alex|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.337656&index=0&size=medium&w=250&h=250|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Liam O'Connor, Maddy Carter ja Sal Vikram olisivat kuolleita, ellei herra Foster olisi pelastanut heitä viimeisellä hetkellä onnettomuudesta ja tehnyt heistä aikamatka-agenteja. Agenttien tehtävänä on estää muita aikamatkustajia muuttamasta maapallon historian tapahtumia mutta työ ei suinkaan ole helppo. Ensimmäinen tehtävä vie agentit toisen maailmansodan aikaan seuraamaan natsien tuhotöitä.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=Time+riders+Scarrow&type=AllFields&filter%5B%5D=%7Elanguage%3A%22fin%22|
+}
+
+[Sensored reality -sarja] {
+	[b-aut]:Vacklin, Anders|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.294955&index=0&size=medium&w=250&h=250|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Tervetuloa vuoteen 2117. Ilmastonmuutos ja merenpinnan kohoaminen ovat todellisuutta. Mereen vajonneesta Helsingistä, Pohjolan Venetsiasta, on tullut peliteollisuuden mekka ja videopelaamisesta elämäntapa. Kun 16-vuotiaan Bugin isä yllättäen menehtyy, hän joutuu muuttamaan Meri-Tokiosta äitinsä vanhaan kotikaupunkiin Helsingin kaupunkisaareen. Kapinallinen ja itsepäinen tyttö viettäisi päivät mieluummin pelikonsolillaan kuin uudessa koulussa, jossa kaikki menee pieleen ensi hetkestä alkaen. Bugin elämä muuttuu, kun animoitu videopeli-lohikäärme kutsuu hänet betatestaajaksi keskiajan Japaniin sijoittuvaan ninjapeliin. Uhkarohkea Bug ei voi vastustaa kiusausta. Hän vetää ylleen uuden sukupolven pelipuvun ja löytää itsensä maailmasta, jota ei tiennyt olevan olemassakaan. Pelissä Bug kohtaa ninja-sensein, joka opastaa häntä tiellä salamurhaajaksi. Sensorein varustettu puku saa henkeäsalpaavan seikkailun tuntumaan siltä kuin se olisi todellisuutta - kunnes se yllättäen onkin. Bugin suurmestarilta omaksuma kurinalaisuus ja taistelutaidot tulevat kipeästi tarpeeseen, kun arki- ja virtuaalitodellisuus kammottavalla tavalla sekoittuvat|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Sensored+reality&type=AllFields&sort=main_date_str+asc|
+}
+
+[Taskuvarkaat kiinni!] {
+	[b-aut]:Bross, Helen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1298530&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Tässä tarinassa Dina ja Lenni pääsevät tositoimiin, kun Lennin äidiltä Johannalta varastetaan kaupungilla lompakko. Onneksi kummallakin on hyvä päättelykyky ja tarkka muisti.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298530|
+}
+
+[Merirosvot aarrejahdissa] {
+	[b-aut]:French, Vivian|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.429048&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Lassi on liittynyt merirosvolaivaston miehistöön vastoin äitinsä toivetta, koska haluaa löytää kultaa ja rikastua. Hänelle selviää pian, että laivan kapteeni on pahamaineinen Mustaparta. Ja mikä vielä hurjempaa, kapteeni Mustaparta haluaa syöttää Lassin haille... |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429048|
+}
+
+[Mestarietsivä Karoliina] {
+	[b-aut]:Gorman, Karyn|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.414328&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Karoliina ei ole mikään tavallinen tyttö. Hän on nokkela mestarietsivä, joka rakastaa arvoitusten ratkomista. Onnistuuko hän selvittämään, minne kuppikakut ovat kadonneet? Entä löytääkö hän varastetun villakoiran ennen lemmikkieläinnäyttelyä?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.414328|
+}
+
+[Mysteeritytöt-sarja] {
+	[b-aut]:Carter, Alex|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.290810&index=0&size=medium&w=250&h=250|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Tytöt ovat ihastuksissaan, kun Laurenin vanhempien hotelliin majoittuu superkuuluisa elokuvatähti Isabel Duval. Tähtösellä tuntuu kuitenkin olevan myös pimeä puoli, johon ystävykset pian törmäävät. Mistä ihmeestä voi olla kyse...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?dfApplied=1&lookfor=%22Mysteerityt%C3%B6t%22&type=AllFields|
+}
+
+[Geoetsivät-sarja] {
+	[b-aut]:Hulkko, Johanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.234100&index=0&size=medium&w=250&h=250|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Geokätköilyharrastus vie nelosluokkalaisen Raparperin aina huimiin seikkailuihin, mutta joskus lipsahtaa vähän liiankin jännittäväksi.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=%22Geoetsiv%C3%A4t%22&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
+}
+
+[Emil Wern tutkii -sarja] {
+	[b-aut]:Jansson, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.273835&index=0&size=medium&w=250&h=250|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Visbyssä on joulumarkkinat. Emil voittaa pankin järjestämän kilpailun, mutta hänen mennessä hakemaan palkintoaan vastassa on murtunut pankinjohtaja. Joku on murtautunut pankkiholviin yön aikana! Miljoona kruunua on kadoksissa, ja Emilillä uusi tapaus ratkaistavanaan...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&lookfor=%22Emil+Wern+tutkii%22&type=AllFields|
+}
+
+[Kaksoisolennot] {
+	[b-aut]:Kallioniemi, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1260802&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Stefanin ja Mihain elämä mullistuu silmänräpäyksessä. Kotimaastaan Suomeen kerjäläiseksi lähetetty Mihai huomaa hämmästyksekseen elävänsä yltäkylläistä kuudesluokkalaisen elämää. Hänen kaksoisolentonsa, koululuokkansa kinginä paistattelemaan tottunut Stefan puolestaan saa totutella kovaotteiseen kohteluun kerjäläisten leirissä. Kummankin pojan oikeustaju on koetuksella. Onko omaatuntoa pakko kuunnella? Millaista on käyttää itse valtaa tai tulla nujerretuksi maanrakoon?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1260802|
+}
+
+[Manu-sarja] {
+	[b-aut]:Kökkö, Hanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.326069&index=0&size=medium&w=250&h=250|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kuudes luokka on loppumassa, ja Manu odottaa helpottuneena kesälomaa. Koulussa on vain ymmärtämättömiä opettajia ja ärsyttäviä luokkatovereita, ja kotonakin äidin kanssa puhumattomat asiat tekevät olon raskaaksi. Onneksi kesällä Manulla on aikaa paneutua rakkaimpaan harrastukseensa geokätköilyyn. Kätköä etsiessään Manu tapaa mustatukkaisen Helmin, jonka kanssa on helppo jutella ja mukava olla. Mutta onko tytöllä jokin salaisuus? Manu ja Helmi joutuvat keskelle jännittävää salamyyntivyyhteä, joka huipentuu pelottavaan sieppaukseen.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Manu+K%C3%B6kk%C3%B6&type=AllFields&sort=main_date_str+asc|
+}
+
+[Lasilapset-sarja] {
+	[b-aut]:Ohlsson, Kristina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.441176&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Billien ja hänen äitinsä uudessa kodissa tapahtuu kummia. Tuntuu kuin talo yrittäisi pelotella heidät tiehensä. Billie perehtyy kavereidensa Simonan ja Aladdinin kanssa talon historiaan, joka osoittautuukin varsin synkäksi. Mitä enemmän he saavat selville, sen pikemmin Billie haluaa muuttaa pois, ennen kuin mitään kauheaa tapahtuu. Ja sitten eräänä yönä joku tai jokin koputtaa ikkunaan...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=%22Lasilapset%22&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
+}
+
+[Gummeruksen Helppolukuinen satukirja -sarja] {
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.278556&index=0&size=medium&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Ruma ankanpoikanen on helppolukuinen satukirja. Se on suunniteltu aikuisen ja lukemaan opettelevan lapsen yhteisiin lukutuokioihin. Aikuinen voi lukea tämän perinteisen sadun ääneen, ja se sisältää myös helppoja sanoja ja lauseita, jotka lapsi voi lukea.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=helppolukuiset&lookfor0%5B%5D=Gummerus&type0%5B%5D=Series&type0%5B%5D=publisher|
+}
+
+[Mikko Mallikas -sarja] {
+	[b-aut]:Bergström, Gunilla|
+	[b-cov]:https://s3-eu-west-1.amazonaws.com/bonnier-webshop/uploads/2018/01/19120337/9789513110109_frontcover_final.jpg|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Mikko+Mallikas&type0%5B%5D=Series&sort=main_date_str+desc|
+}
+
+[Tatu ja Patu -sarja] {
+	[b-aut]:Havukainen, Aino|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.234619&index=0&size=medium&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Aino Havukaisen ja Sami Toivosen suursuosioon nousseiden kuvakirjojen anarkistinen huumori ilahduttaa niin lapsia kuin vanhempia.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Tatu+ja+Patu%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Viisikko-sarja] {
+	[b-aut]:Blyton, Enid|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1299073&index=0&size=medium&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Leo, Dick ja Anne viettävät joululomaa Kirrin Bayssa serkkunsa Paulin luona. Harminaan heillä on uusi kotiopettaja, joka joutuu heti sotajalalle Tim-koiran kanssa. Onneksi serkukset saavat muuta ajateltavaa, kun naapurin maalaistalosta löytyy ihmeellinen liukuseinä. Samanlaiseen taloon majoittautuu myös lomavieraita, joiden merkilliset puuhat suorastaan yllyttävät tutkimuksiin. Ja kun Peter-sedältä vielä varastetaan tärkeitä papereita, Viisikko huomaa olevansa keskellä uutta, huippujännittävää seikkailua.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Viisikko+Blyton&type=AllFields&sort=main_date_str+desc|
+}
+
+[Matilda] {
+	[b-aut]:Dahl, Roald|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1275520&index=0&size=medium&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Matilda Wormwoodin isä on huijariautokauppias, jonka mielestä Matilda on sietämätön kiusankappale. Hänen äitinsä taas viettää kaikki päivät bingohallissa. Ja Matildan koulua johtava neiti Trunchbull se vasta tapaus onkin. Raivopäärehtori vihaa jokaista oppilastaan ja telkeää heidät pahamaineiseen Poteroon pienimmästäkin rikkeestä. Mutta Matildallapa onkin paitsi veitsenterävä pää, myös yliluonnollisia kykyjä. Ja nyt hän on saanut mahdottomista aikuisista tarpeekseen. Varokoon koko sakki - Matilda aikoo antaa heille sellaisen opetuksen, jota he eivät ihan heti unohdakaan!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=Dahl+Matilda&type=AllFields|
+}
+
+[Neiti etsivä -sarja] {
+	[b-aut]:Keene, Carolyn|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Keene%2C+Carolyn&callnumber=&size=medium&title=Neiti+Etsiv%C3%A4+ja+jalokivilippaan+arvoitus&recordid=satakirjastot.336884&source=Solr&isbn=9513102971&index=0&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%22Neiti+etsiv%C3%A4%22&type=AllFields|
+}
+
+[Rohkeiden poikien kirja -sarja] {
+	[b-aut]:Brooks, Ben|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1261442&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:100 inspiroivaa tarinaa enemmän tai vähemmän maineikkaista miehistä, joiden myötätuntoisuus, jalomielisyys ja usko itseensä ovat tehneet maailmasta paremman paikan elää.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%22Rohkeiden+poikien+kirja%22&type=AllFields|
+}
+
+[Salainen puutarha] {
+	[b-aut]:Burnett, Frances Hodgson|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Burnett%2C+Frances+Hodgson&callnumber=&size=medium&title=Salainen+puutarha&recordid=satakirjastot.374083&source=Solr&isbn=9518844194&index=0&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Uppiniskainen Mary joutuu muuttamaan Intiasta Englantiin setänsä luokse. Kartanossa nummen keskellä yksinäinen Mary alkaa hiljalleen huomata, että hänen uusi kotinsa on salaisuuksia täynnä. Hän löytää kauan lukittuna olleen salaisen puutarhan, jonka ystävyys saa kukoistamaan.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=%22Salainen+puutarha%22+Burnett&type=AllFields#satakirjastot.337580|
+}
+
+[Iltasatuja kapinallisille tytöille -sarja] {
+	[b-aut]:Favilli, Elena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.252976&index=0&size=medium&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Tavanomaisten prinsessasatujen sijasta tässä ihanassa iltasatukirjassa tutustutaan sataan todelliseen tyttöön ja naiseen, jotka ovat muuttaneet maailmaa tai oman elämänsä - rohkeasti ja lupaa kyselemättä. He ovat eläneet kauan sitten tai he elävät nyt: he ovat hallitsijoita, merirosvoja, taiteilijoita, urheilijoita, astronautteja, tieteilijöitä, tai ihan tavallisia ihmisiä, jotka ovat tehneet jonkin pelottoman valinnan.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=%22Iltasatuja+kapinallisille+tyt%C3%B6ille%22&type=AllFields|
 }
