@@ -82,7 +82,7 @@
 [Avaruusolentojen etsijän käsikirja] {
 	[b-aut]:Brake, Mark|
 	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?author=Brake%2C+Mark&callnumber=&size=medium&title=Avaruusolentojen+etsij%C3%A4n+k%C3%A4sikirja+%3A+aloittelevan+avaruustutkijan+opas&recordid=satakirjastot.384420&source=Solr&isbn=9522402168&index=0&w=1200&h=1200|
-	[b-cat]:Kirja-ahamatti|
+	[b-cat]:Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Olemmeko yksin kaikkeudessa, vai onko ulkoavaruudessa elämää? Onko meillä kosmisia naapureita? Maailma on niin suuri, että nykyisin pidetään jo epätodennäköisenä, että olisimme sen ainoita eläviä asukkaita. Mutta miten ulkoavaruuden elämää voi etsiä? Opaskirja kertoo vaihe vaiheelta, miten elämä on syntynyt ja kehittynyt maapallolla ja kuinka elämää voi itse etsiä muualta maailmankaikkeudesta. Aloittelevalle avaruustutkijalle selviää muun muassa, millaisia elinympäristöjä ulkoavaruudessa on, kauanko siellä on voinut olla elämää, miltä vieraat elämänmuodot saattaisivat näyttää ja miten olentojen kanssa voitaisiin kommunikoida.|
   [b-ava]:https://satakirjastot.finna-test.fi/Record/satakirjastot.384420|
@@ -91,7 +91,7 @@
 [Onneksi oli maitoa] {
 	[b-aut]:Gaiman, Neil|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.235136&index=0&size=medium&w=250&h=250|
-	[b-cat]:Kirja-ahamatti|
+	[b-cat]:Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Kun äiti lähtee työmatkalle, isälle jää loputtoman pitkä lista muistettavia asioita. Ja kaikkein tärkein asia on: MUISTA OSTAA MAITOA. Valitettavasti isä ei muista. Niinpä seuraavana aamuna ennen aamupalaa hänen täytyy kipaista lähikauppaan. Tämä on tarina siitä, miksi kestää ikuisuuden ennen kuin isä palaa. Merkittävää roolia tarinassa näyttelevät muun muassa aikamatkustava dinosaurus, merirosvokuningatar, kallisarvoinen timantti, muutama vampyyri sekä - kaikeksi onneksi - aivan tavallinen maitotölkki.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.235136|
@@ -100,7 +100,7 @@
 [Pimeässä hohtava avaruus] {
 	[b-aut]:Harris, Nicholas|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.451571&index=0&size=medium&w=1200&h=1200|
-	[b-cat]:Kirja-ahamatti|
+	[b-cat]:Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Kun pilvettömänä yönä katsoo taivaalle, näkee kuun, tähtiä, planeettoja ja galakseja. Ne hohtavat kirkkaasti pimeässä ja valaisevat öisen taivaan. Tässä kirjassa kerrotaan jännittäviä asioita avaruudesta, ja kaiken lisäksi sen sivuja voi katsella ja lukea pimeässä!|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.451571|
@@ -109,7 +109,7 @@
 [Tutkimusmatka avaruuteen] {
 	[b-aut]:Hiekkalinna, Tero|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.327656&index=0&size=medium&w=1200&h=1200|
-	[b-cat]:Kirja-ahamatti|
+	[b-cat]:Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Kirjassa tutkitaan Aurinkokunnan planeettoja, kuita ja komeettoja aina kaukaisiin tähtijoukkoihin ja galakseihin asti unohtamatta omaa galaksiamme, Linnunrataa. Kirjan opas, asiantunteva Kaukoputkimies neuvoo, mitä taivaankappaleita on mahdollista nähdä omin silmin ja mitä kiikareilla, ja millainen avaruus avautuu kaukoputken kautta. Hahmottuvatko Jupiterin raidat, entä pystymmekö näkemään galakseja?|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.327656|
@@ -118,7 +118,7 @@
 [Kepler62-sarja] {
 	[b-aut]:Parvela, Timo|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.417604&index=0&size=medium&w=250&h=250|
-	[b-cat]:Kirja-ahamatti|
+	[b-cat]:Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Kuusiosainen avaruusseikkailu vie lukijan jännittävälle matkalle läpi avaruuden. Lapset ovat kuin uudisraivaajia saapuessaan Kepler-62e:lle ja he joutuvat vaikeiden valintojen eteen. . Päästäkseen mukaan matkalle, lasten tulee pelata läpi tietokonepeli Kepler-62. He kohtaavat avaruusolioita, sairautta ja lopulta totuuden valheiden takana. Kenet sinä pelastaisit?|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=Kepler62&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
