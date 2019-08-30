@@ -1,27 +1,34 @@
 [0] {
 	[num]:1|
-	[type]:self|
+	[type]:Aika ja avaruus|
 	[tag]:Aika ja avaruus|
 	[task]:Suunnittele oma avaruusalus. Millainen se olisi? Piirrä tai kirjoita.|
 }
 
 [1] {
 	[num]:2|
-	[type]:self|
+	[type]:Aika ja avaruus|
 	[tag]:Aika ja avaruus|
 	[task]:Maapallolle laskeuutuu avaruusalus. Mitä kertoisit avaruusolennoille maapallosta ja ihmisistä?|
 }
 
 [2] {
   [num]:3|
-  [type]:self|
+  [type]:Aika ja avaruus|
   [tag]:Aika ja avaruus|
   [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
 }
 
 [3] {
   [num]:1|
-  [type]:self|
+  [type]:Epäilyttäviä asioita|
   [tag]:Epäilyttäviä asioita|
   [task]:Millaisen mysteerin tai rikoksen haluaisit selvittää? Piirrä tai kirjoita.|
+}
+
+[4] {
+	[num]:1|
+	[type]:Ikisuosikkeja|
+	[tag]:Ikisuosikkeja|
+	[task]:Mitä tapahtuisi, jos kaksi eri sadun tai tarinan hahmoa kohtaisivat ja päätyisivät samaan satuun? Piirrä tai kirjoita.|
 }
