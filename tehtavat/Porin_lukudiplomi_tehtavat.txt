@@ -1,17 +1,27 @@
 [0] {
 	[num]:1|
 	[type]:self|
+	[tag]:Aika ja avaruus|
 	[task]:Suunnittele oma avaruusalus. Millainen se olisi? Piirrä tai kirjoita.|
 }
 
 [1] {
 	[num]:2|
 	[type]:self|
+	[tag]:Aika ja avaruus|
 	[task]:Maapallolle laskeuutuu avaruusalus. Mitä kertoisit avaruusolennoille maapallosta ja ihmisistä?|
 }
 
 [2] {
   [num]:3|
   [type]:self|
-  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)
+  [tag]:Aika ja avaruus|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[3] {
+  [num]:1|
+  [type]:Epäilyttäviä asioita|
+  [tag]:Epäilyttäviä asioita|
+  [task]:Millaisen mysteerin tai rikoksen haluaisit selvittää? Piirrä tai kirjoita.|
 }
