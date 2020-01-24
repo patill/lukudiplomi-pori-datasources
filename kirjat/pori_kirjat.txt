@@ -619,10 +619,219 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=verne%2C+jules+maailman+ymp%C3%A4ri+80&type=AllFields&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+desc|
 }
 
+
+
+
+[Uusi kaveri] {
+	[b-aut]:Bross, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bross%2C+Helena%2C+kirjoittaja&callnumber=&size=medium&title=Uusi+kaveri&recordid=satakirjastot.1298526&isbn=9523411985&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Eeli ja Omar aloittavat koulun. Molempia jännittää. Sitten Eeli auttaa Omaria salaisessa asiassa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298526|
+}
+
+[2 A:n kamut -sarja] {
+	[b-aut]:Hallava, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallava%2C+Anna&callnumber=&size=medium&title=2+A%3An+kamut+kykykilpailussa&recordid=satakirjastot.285126&isbn=9510422657&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Opettajalla on uutisia: koulussa järjestetään kykykilpailut. Ja Aino on aina halunnut laulajaksi! Rosana taas osaa tanssia, joten bestisten numero on pian valmis. Mutta Saarakin haluaa esiintyä Rosanan kanssa. Caara kirjoittaa nimensä ceellä kuin julkkikset ja aikoo värjätä tukan turkoosiksi esitykseen. Saaran mielestä Ainon biisivalinnat ovat lapsellisia. Keksitäänkö ratkaisu ennen kuin syntyy riita? Kun lavalle nousevat 2 A:n kamut, on esitys yllätyksiä täynnä.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=2+a%3An+kamut+hallava&type=AllFields&dfApplied=1&limit=20|
+}
+
+[Kuituset -sarja] {
+	[b-aut]:Kuronen, Kirsti|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kuronen%2C+Kirsti&callnumber=&size=medium&title=Kuituset+ja+kummitus&recordid=satakirjastot.423770&isbn=9512351943&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Nuutti ja Niilo Kuitunen ovat 7-vuotiaat kaksospojat, jotka asuvat mummun ja papan luona, koska heidän vanhempansa ovat kuolleet auto-onnettomuudessa poikien ollessa 2-vuotiaita. Pojat ovat juuri aloittaneet koulun, ja syksyn kohokohdaksi muodostuu yökoulu, joka onkin jännittävämpi kokemus kuin kukaan on osannut odottaa. Parasta on, että luokkahenki lujittuu ja ope on entistä enemmän pop.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=kuituset+kuronen&type=AllFields|
+}
+
+[Paula saa ystävän] {
+	[b-aut]:Reider, Katja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Reider%2C+Katja&callnumber=&size=medium&title=Paula+saa+yst%C3%A4v%C3%A4n&recordid=satakirjastot.339598&isbn=9518839506&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Paula kaipaa ystävää – sellaista, jonka kanssa kulkea kouluun ja jolle kertoa salaisuudet. Niinpä hän ilahtuu, kun luokalle tulee uusi tyttö. Enni ei kuitenkaan tunnu pitävän hänestä. Sitten eräänä aamuna Paula tarvitsee apua, ja Enni osuu paikalle juuri sopivasti... |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.339598|
+}
+
+[Eetu-sarja] {
+	[b-aut]:Rekola, Teija|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rekola%2C+Teija&callnumber=&size=medium&title=Eetu+ja+ruma+Rusina&recordid=satakirjastot.357966&isbn=9510395587&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Eetun perheeseen on saapunut uusi tulokas, pikkusisko Rusina joka hypnotisoi äidin ja isän. Se huutaa yöt ja rikkoo parhaat lelut. Eetu koittaa olla kiltti, mutta kun kuukaudet kuluvat, hänen taakseen kasvaa varjo. Vaan mikä eteen, kun synnytyslaitos ei ota vauvoja takaisin eikä Aunetätikään huoli yllättävää joululahjaa? Nyt on kiire, ennen kuin Rusina hurmaa veljensäkin!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=rekola+eetu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Sandra ja kaverikiemurat] {
+	[b-aut]:Virtanen, Leena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Virtanen%2C+Leena&callnumber=&size=medium&title=Sandra+ja+kaverikiemurat.+Keltanokka&recordid=satakirjastot.324791&isbn=9513162311&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Lukutoukka|
+	[b-des]: Sandralla on monta hyvää ystävää. On Annabella, Sandran paras kaveri, mutta myös Minttu-Maaria ja Natalia, jotka ovat aloittaneet koulun samalla luokalla. Mitä tehdä kun on jo Annabellan kanssa ja joku muu tulee hakemaan ulos? Onko kaikkien mahdollista leikkiä yhdessä, niin ettei kellekään tulisi paha mieli?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.324791|
+}
+
+
+[Tuukka-Omar-sarja] {
+	[b-aut]:Hakalahti, Niina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hakalahti%2C+Niina&callnumber=&size=medium&title=Yl%C3%A4mummoon%2C+Tuukka-Omar%21&recordid=satakirjastot.416289&isbn=9513161382&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Tuukka-Omar ja hänen verettömällä verivalalla vahvistettu ystävänsä Paavo saavat pulman ratkaistavakseen, kun heidän luokalleen tulee uusi oppilas, urheilullinen Olavi Virta. Yleensähän Tuukka-Omar ja Paavo pelaavat shakkia, hoitavat yhteistä minipossuaan Jaskaa ja oleilevat välitunnit kahdestaan. Mutta nyt he joutuvat uusien, urheilullisten haasteiden eteen. Entä mikä on ylä- ja alamummon salaisuus? Ja kuka kumma on Ali Tajunta, Setäpaisti? |
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=tuukka-omar&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Maailman parhaan kaverin päiväkirja] {
+	[b-aut]:Kinney, Jeff|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1309536&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Greg Heffley on tarinoinut nuoruusvuosistaan jo kolmentoista Neropatin päiväkirjan verran. Nyt on korkea aika tutustua myös hänen parhaan kaverinsa Rowley Jeffersonin näkökulmaan. Maailman parhaan kaverin päiväkirjassa Rowley ryhtyy Gregin elämäkerturiksi - mutta päätyykin kertomaan enemmän itsestään kuin ystävästään.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+parhaan+kinney&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Dunne-sarja] {
+	[b-aut]:Lagercrantz, Rose|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lagercrantz%2C+Rose%2C+kirjoittaja&callnumber=&size=medium&title=Onnekas+ken+Dunnen+saa&recordid=satakirjastot.1298542&isbn=9523412086&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Dunne on maailman onnellisin tyttö, kun pääsee viimein aloittamaan ekaluokan. Vähän se myös jännittää: mitä jos hän jääkin yksin? Onneksi niin ei käy, vaan hänestä ja Ella Fridasta tulee parhaat kaverit. |
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lagercrantz+dunne&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Viikinkitrilogia] {
+	[b-aut]:Lipasti, Roope|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lipasti%2C+Roope&callnumber=&size=medium&title=Viikinkisolmu&recordid=satakirjastot.283710&isbn=9510409154&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Linnavuoren Vilja, viikinkipoika Egil ja orvoksi jäänyt Pekko vetävässä historiallisessa seikkailussa, jossa punnitaan ystävyys ja rohkeus.
+
+Vilja asuu meren äärellä, suojatulla Linnavuorella, aikana jolloin viikingit vielä kyntivät maailman meriä. Kylään hyökkäävät viikingit jättävät jälkeensä haavoittuneen pojan, jonka Vilja ja hänen ystävänsä Pekko pelastavat. Egil on vihollinen, mutta voiko hän silti olla myös ystävä?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=viikinkitrilogia&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Mimu-sarja] {
+	[b-aut]:Neel, Julien|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Neel%2C+Julien&callnumber=&size=medium&title=P%C3%A4iv%C3%A4kirjael%C3%A4m%C3%A4%C3%A4&recordid=satakirjastot.332098&isbn=9512084619&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Mimu on terhakas ja temperamenttinen 12-vuotias tyttö, joka asuu hupsun mutta rakastettavan tieteiskirjailijan urasta haaveilevan äitinsä ja löytökissan kanssa. Mimu on ihastunut vastapäisessä talossa asuvaan poikaan, mutta ei tietenkään uskalla kertoa sitä tälle, ja pyrkii kaiken aikaa myös saattamaan äitinsä yhteen naapurin komistuksen kanssa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=mimu+neel&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Supermarsu-sarja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Noronen%2C+Paula%2C+kirjoittaja&callnumber=&size=medium&title=Supermarsu&recordid=satakirjastot.440631&isbn=9512407337&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:11-vuotiaan Emilian unelma toteutuu, kun hän saa lemmikseen ikioman marsun. Mutta Marsu-Halonen ei ole mikä tahansa karvapallo. Kun se puraisee Emiliaa sormeen, hänestä tulee Supermarsu! Ja supervoimia todella tarvitaan, kun Lahden mäkimontussa asustava Jättiläismarsu antaa Emilialle suuren supermarsutehtävän: hänen on pelastettava Itämeri. Silakoiden kuljettaminen kylpyammeeseen ei selvästikään riitä!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=supermarsu+noronen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Allu-sarja] {
+	[b-aut]:Palviainen, Jukka-Pekka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palviainen%2C+Jukka-Pekka&callnumber=&size=medium&title=Allu+ja+salainen+ihailija&recordid=satakirjastot.349590&isbn=9510420573&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Kun isän silmiin osuu lehdestä ilmoitus "Myytävänä Kuoppakylän rautatieasema", alkaa perhe pakata muuttolaatikoita, vaikkei heillä ole junaakaan. Siinä missä vanhemmat ihastelevat aseman alkuperäisiä tapetteja ja lattioita, Allu ja Aapo odottavat muuton mukana luvattua koiraa. Vahtikoiraa he tarvitsevatkin, kun vanhasta odotussalista alkaa kuulua öisin kummia ääniä ja Allulle osoitettua pinkkiä ihailijapostia ilmestyy mitä oudoimpiin paikkoihin. Rakennuksessa on muuten salaperäinen tornikin, vaan missä on sen avain?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=palviainen+allu&type=AllFields|
+}
+
+[Hilja-sarja] {
+	[b-aut]:Viherjuuri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Viherjuuri%2C+Heidi&callnumber=&size=medium&title=Hilja+ja+vihre%C3%A4n+talon+kes%C3%A4&recordid=satakirjastot.264942&isbn=9523410172&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Hilja on seitsemänvuotias poikatyttö, joka asuu pientä pintaremonttia vaativassa puutalossa äidin, isän, pikkusisko Taimin ja isosisko Veinin kanssa. Vaarikin on tiiviisti mukana vihreän talon elämässä. Hän auttaa isää remontissa, vie lapsia kalaan ja veistelee vitsejä. Mummon Hilja on nähnyt vain valokuvassa sängyn vieressä. Mummopulaa lievittävät kuitenkin naapurustossa elävät kolme rouvaa: Valkoherukkamummo, Mansikkatäti ja Sadetakkimummo. |
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hilja+viherjuuri&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+
+[Risteys] {
+	[b-aut]:Kallioniemi, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Risteys&recordid=satakirjastot.430449&isbn=951129587X&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Mitä tapahtuu, kun 13-vuotias kulmakunnan kovis saa kuoleman kynnyksellä mahdollisuuden parantaa tapansa? Voiko enkeliksi ryhtyä? Mika on tunnetusti aina pahanteossa. Hän ei anna vanhemmilleen anteeksi, että on saanut vasta hiljakkoin sattumalta tietää olevansa adoptoitu. Kun Mika rysähtää skootterilla pakettiauton kylkeen, hän on kuulevinaan äänen, joka pyytää valitsemaan. Ja Mika valitsee. Enää poika ei katso sivusta, kun joku on hakoteillä tai kaipaa apua. Moni hieraisee silmiään nähtyään hyväntekijänsä. Eihän se voi olla Mika, jonka huhutaan saaneen surmansa. Vai voiko?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430449|
+}
+
+[Kadonnut: Audrey] {
+	[b-aut]:Kinsella, Sophie|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kinsella%2C+Sophie&callnumber=&size=medium&title=Kadonnut+%3A+Audrey&recordid=satakirjastot.279236&isbn=9511291734&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Audrey on kaiket päivät kotona, sillä tyttöporukka on kiusannut häntä niin pahasti että hänellä on ahdistuneisuushäiriö. Hän piilottelee aurinkolasiensa takana eikä pysty kohtaamaan muita kuin perhettään.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.279236|
+}
+
+[Myyty tyttö] {
+	[b-aut]:Mattila-Laine, Satu|
+	[b-cov]:http://data.kirjavalitys.fi/data/servlets/ProductRequestServlet?action=getimage&ISBN=9789525940497|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Sata vuotta sitten Suomessa köyhä lapsi saatettiin myydä huutokaupalla hoidokiksi. Näitä lapsia kutsuttiin huutolaisiksi. Myyty tyttö kertoo Lempin tarinan.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1303285|
+}
+
+[Ihme] {
+	[b-aut]:Palacio, R.J.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palacio%2C+R.+J.&callnumber=&size=medium&title=Ihme&recordid=satakirjastot.300904&isbn=9510418919&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:August Pullmanin kasvot ovat pahasti epämuodostuneet. Kotikoulua tähän mennessä käynyt Auggie on nyt aloittamassa viidennen luokan oikeassa koulussa. Se kiehtoo ja pelottaa. Hän on ihan tavallinen nuori epätavallisten kasvojensa takana, mutta saako Auggie uudet koulukaverinsa uskomaan sen?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ihme+palacio&type=AllFields&limit=20&sort=|
+}
+
+[Sori vaan, se on totuus] {
+	[b-aut]:Romppainen, Katariina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Romppainen%2C+Katariina&callnumber=&size=medium&title=Sori+vaan%2C+se+on+totuus&recordid=satakirjastot.282728&isbn=9512359847&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Seiskaluokkalainen Senja on valehdellut kavereilleen kodistaan ja perheestään, koska huonomaineinen vuokralähiö Koilaakso ja köyhä siivooja-yksinhuoltajaäiti hävettävät. Isästään Senjalla on tiedossa vain nimi ja vanha valokuva.
+
+Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää Senjan isänpuoleisten sukulaisten hoiviin arvostetulle asuinalueelle. Alkujärkytyksestä toivuttuaan Senja on onnesta soikeana, varsinkin kun isänkin tapaaminen näyttää vihdoin järjestyvän. Mutta koko totuus ei ole vielä suinkaan paljastunut|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.282728|
+}
+
+[Ystäväni Vicky] {
+	[b-aut]:Wilson, Jaqueline|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wilson%2C+Jacqueline&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4ni+Vicky&recordid=satakirjastot.311469&isbn=9511203940&index=0&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Vicky on 12-vuotiaan Jaden paras ystävä, ja Jade tekee aina niin kuin Vicky haluaa. Kun Vicky menehtyy liikenneonnettomuudessa, Jaden maailma romahtaa. Miksi heidän piti riidellä juuri ennen onnettomuutta? Pian Jade huomaa, ettei komentelevainen Vicky ole jättänyt häntä - tuntuu kuin tämä yhä seuraisi Jaden jokaista liikettä ja sanaa. Eikä Jade aina ole kaikesta samaa mieltä kuin Vicky. Huono omatunto piinaa Jadea, mutta lopulta hän uskaltaa valita itse niin sanansa kuin ystävänsäkin.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.311469|
+}
+
 [] {
 	[b-aut]:|
 	[b-cov]:|
-	[b-tag]:Ikisuosikkeja|
+	[b-tag]:|
+	[b-cat]:|
+	[b-des]:|
+  	[b-ava]:|
+}
+
+
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:|
+  	[b-ava]:|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:|
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:|
   	[b-ava]:|
