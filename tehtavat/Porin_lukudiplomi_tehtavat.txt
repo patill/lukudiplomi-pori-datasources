@@ -20,14 +20,14 @@
 }
 
 [3] {
-  [num]:1|
+  [num]:4|
   [type]:Epäilyttäviä asioita|
   [tag]:Epäilyttäviä asioita|
   [task]:Millaisen mysteerin tai rikoksen haluaisit selvittää? Piirrä tai kirjoita.|
 }
 
 [4] {
-	[num]:1|
+	[num]:5|
 	[type]:Ikisuosikkeja|
 	[tag]:Ikisuosikkeja|
 	[task]:Mitä tapahtuisi, jos kaksi eri sadun tai tarinan hahmoa kohtaisivat ja päätyisivät samaan satuun? Piirrä tai kirjoita.|
