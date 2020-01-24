@@ -216,6 +216,61 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.414328|
 }
 
+[Etsiväkaksikko-sarja] {
+	[b-aut]:Horst, Jørn Lier|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Horst%2C+J%C3%B8rn+Lier%2C+kirjoittaja&callnumber=&size=medium&title=Operaatio+Myrskypilvi&recordid=satakirjastot.272630&isbn=9511310216&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Etsiväkaksikko valmiina salapoliisitehtävään! Huippusuositussa norjalaisdekkaristin lasten salapoliisisarjassa ratkot rikokset yhdessä Etsiväkaksikon kanssa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4kaksikko&type=AllFields&sort=main_date_str+asc|
+}
+
+[Pikkiriin pulmatoimisto -sarja] {
+	[b-aut]:Niemelä, Reetta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta%2C+kirjoittaja&callnumber=&size=large&title=Kaiken+Kadottajan+arvoitus&recordid=satakirjastot.295483&isbn=9522887889&index=0|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Harva tietää, että Vilskeen kaupungin järjestyksenvalvojalla Nysä Nörtillä on mielikuvitusystävä nimeltä Pikkirii. Se johtuu varmaankin siitä, että Pikkirii on hyvin pieni ja hiljainen otus. Mutta Vilskeessä on alkanut tapahtua kummia. Sukkia, myssyjä ja jopa kenkiä häviää aivan itsestään. Kaupunkilaisia on alkanut suorastaan pelottaa. Järjestyksenvalvoja Nysä Nörtti raapii neuvottomana päätään, mutta Pikkirii päättää toimia. Pikkiriin pulmatoimisto on pian valmis pelastamaan kaupunkilaiset näkymättömältä kaiken kadottajalta!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=pikkiriin+pulmatoimisto&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Mestarietsivä Peppunen] {
+	[b-aut]:Tanaka, Yoko|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tanaka%2C+kirjoittaja&callnumber=&size=medium&title=Mestarietsiv%C3%A4+Peppunen&recordid=satakirjastot.1260824&isbn=9511328735&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Mikä on salapoliisin salainen ase? Mestarietsivä Peppunen auttaa rouva Purppuraa aarteen metsästyksessä. ”Purppura” paljastuu kuitenkin huijariksi. Mestarietsivä ahdistaa roiston nurkkaan ja tainnuttaa hänet tavaramerkillään, jättiläismäisellä pierulla.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=mestari+etsiv%C3%A4+peppunen&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Hotelli Hämärä -sarja] {
+	[b-aut]:Teräs, Mila|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ter%C3%A4s%2C+Mila%2C+kirjoittaja&callnumber=&size=medium&title=Hotelli+H%C3%A4m%C3%A4r%C3%A4+ja+kummituspurkki&recordid=satakirjastot.1259685&isbn=951236462X&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Teon vanhemmat ostavat ikivanhan rotiskohotellin, ja sitten alkaa tapahtua. Hotellin käytäviltä kuuluu yöllä outoja huokauksia, ja portaiden alta nousee ihmeellisiä usvalonkeroita. Teo alkaa tutkia asiaa yhdessä veljensä Tuukan ja naapurin Leilan kanssa. Lopulta he päätyvät ovelle, jossa lukee "Löytötavaroita". Olisiko sen takana ratkaisu mysteeriin?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22hotelli+h%C3%A4m%C3%A4r%C3%A4%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Etsiväkoira-sarja] {
+	[b-aut]:Wallace, Karen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wallace%2C+Karen&callnumber=&size=medium&title=Kiilt%C3%A4v%C3%A4t+johtolangat&recordid=satakirjastot.362058&isbn=9518832706&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Eräänä aamuna maatilan eläimet heräävät ja huomaavat, että joku on yön aikana jättänyt niille lahjan. Etsiväkoira saa nuuskia, kuka on ollut asialla... Toisessa kirjassa eläimet näkevät lumessa isot jalanjäljet. Apua, kenen ne ovat? Pystyykö etsiväkoira ratkaisemaan arvoituksen?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22etsiv%C3%A4koira%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Lasse-Maijan etsivätoimisto -sarja] {
+	[b-aut]:Widmark, Martin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Widmark%2C+Martin&callnumber=&size=medium&title=Hotellin+arvoitus&recordid=satakirjastot.240285&isbn=9513130304&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Lukutoukka|
+	[b-des]:Kaupunginhotellin asiakkailta katoaa mittaamattoman arvokas kiinalainen omenaspanieli. Koiran omistavat herra ja rouva Viikari, jotka Silva-tyttärineen ovat tulleet Vallilan pikkukaupunkiin joulunviettoon. Hotellinjohtaja Ronny Hazelwood on epätoivoinen, mutta onneksi etsiväkaverukset Lasse ja Maija sattuvat paikalle. Tapaus osoittautuu yllättävän monimutkaiseksi, mutta Lassea ja Maijaa ei niin vain huijata. Terävien hoksottimiensa ja tietokoneen avulla he löytävät kuin löytävätkin todellisen syyllisen.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=lasse+maijan+etsiv%C3%A4toimisto&type=AllFields|
+}
+
+
 [Mysteeritytöt-sarja] {
 	[b-aut]:Carter, Alex|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.290810&index=0&size=medium&w=250&h=250|
@@ -242,6 +297,56 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Visbyssä on joulumarkkinat. Emil voittaa pankin järjestämän kilpailun, mutta hänen mennessä hakemaan palkintoaan vastassa on murtunut pankinjohtaja. Joku on murtautunut pankkiholviin yön aikana! Miljoona kruunua on kadoksissa, ja Emilillä uusi tapaus ratkaistavanaan...|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&lookfor=%22Emil+Wern+tutkii%22&type=AllFields|
 }
+
+
+[Löytöreteilijät-sarja] {
+	[b-aut]:Kress, Adrienne|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kress%2C+Adrienne%2C+kirjoittaja&callnumber=&size=medium&title=K%C3%A4tketty+ovi&recordid=satakirjastot.320868&isbn=9511296701&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Sebastianin säntillinen maailma menee mullin mallin, kun hän törmää pimeällä kujalla sijaitsevaan outoon kerhoon, jossa kokoontuvat aikamme suurimmat seikkailijat ja tutkimusmatkailijat. |
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=l%C3%B6yt%C3%B6retkeilij%C3%A4t+kress&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Zac Power -sarja] {
+	[b-aut]:Larry, H.I.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Larry%2C+H.+I.&callnumber=&size=medium&title=Myrkkysaari&recordid=satakirjastot.424104&isbn=9513233758&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Zac Powerilla on tehtävä. Hänellä on 24 tuntia aikaa löytää katala tiedemies huippuvaaralliselta Myrkkysaarelta, joka kuhisee tappavan vaarallisia eläimiä ja kasveja, ja pysäyttää tämän ilkeät kokeet. Ja kun samalla pitäisi huolehtia, että kulissi - tavallisen 12-vuotiaan pojan arki läksyineen, soittotunteineen ja kotitöineen - pysyy pystyssä, Zacin tehtävä vaikuttaa yhä vaativammalta!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=zac+power+larry&type=AllFields|
+}
+
+[Tagli ja Telle -sarja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Noronen%2C+Paula&callnumber=&size=medium&title=Tagli+ja+Telle+%3A+teht%C3%A4v%C3%A4+sirkussaarella&recordid=satakirjastot.445454&isbn=9513190846&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Sisarukset Tagli ja Telle asuvat ison kauppakeskus Muhkun yläkerrassa. Muhkusta he löytävät kaiken tarvitsemansa, kuten ruokaa, huvitusta ja urheiluvälineitä. Huonekaluliikkeen upottavissa sängyissä on hauska nukkua aina väillä. Ulkomaankomennukselle lähteneille vanhemmilleen he skypettävät joka ilta. Tagli ja Telle perustavat etsivätoimistonsa kauppakeskuksen salahuoneeseen, kun läheiseltä sirkussaarelta alkaa kadota eläimiä. Onneksi hätiin lennähtää myös puhuva papukaija, älykäs Seppo, josta tulee korvaamaton apu tutkimusten edetessä. Mutta uskaltaako kukaan mennä tunneliin, jota pitkin pääsisi suoraan saarelle selvittämään outoa mysteeriä? Jännittävät seikkailut jatkuvat kaupungissa ja sen alla, maalla ja merellä.
+|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=tagli+ja+telle&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Alice Jones koodaa ja ratkoo -sarja] {
+	[b-aut]:Rubin, Sarah|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rubin%2C+Sarah%2C+kirjoittaja&callnumber=&size=medium&title=N%C3%A4kym%C3%A4t%C3%B6n+vihje&recordid=satakirjastot.253479&isbn=9511312693&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Matematiikkanero Alice Jones on jo ratkaissut muutaman mysteerin. Mutta kun tiedemies katoaa lukitusta huoneesta, hänellä on käsissään tavallista vaikeampi tapaus.
+
+Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, että hän todella onnistui keksimään sellaisen? Vai onko kyse jostain paljon vaarallisemmasta? Peloton Alice ei luovuta ennen kuin saa selville totuuden.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alice+jones+koodaa&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Etsivätoimisto Henkka & Kivimutka -sarja] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=medium&title=Etsiv%C3%A4toimisto+Henkka+%26+Kivimutka&recordid=satakirjastot.439744&isbn=9512350416&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Henkka Virtanen on 10 vuotta, ihailee Sherlock Holmesia ja pitää kaverinsa J.K. Kivimutkan kanssa etsivätoimiston haarakonttoria. Henkka on Etsivätoimisto Henkka & Kivimutkan Aivot, Kivimutka sen tylympi jäsen. Tiedossa on tiukkoja tilanteita ja kimurantteja käänteitä, kunhan toimisto saa työrauhan äidin valvonnalta, isän urheiluhulluudelta ja Kauko Mäyhköltä, 8 v.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4toimisto+henkka+kivimutka&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
 
 [Kaksoisolennot] {
 	[b-aut]:Kallioniemi, Tuula|
@@ -270,6 +375,35 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=%22Lasilapset%22&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
 }
 
+[Arkeomysteeri -sarja] {
+	[b-aut]:Rossi, Nemo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rossi%2C+Nemo&callnumber=&size=medium&title=Rooman+sudet&recordid=satakirjastot.420904&isbn=951039159X&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Vanhempiensa kansainvälisen työn perässä Italiaan kotiutuneet kaverukset Kaius ja Leo ovat jo tottuneet paikalliseen suurpiirteisyyteen. Poikien todistama tuore peltikolari on sinänsä harmiton, mutta pakettiauton lastina olevien laatikoiden oudot kirjainsymbolit herättävät tarkkasilmäisten teinien huomion. Kaiuksen omatoiminen hakkerisisar Silva saa selville, että kirjainyhdistelmä IRPI viittaa paitsi arkeologisiin aarteisiin myös Apollo-jumalan muinaisiin palvelijoihin. Kirjastossa viihtyvä Kaius tonkii lisätietoa mystisestä susipapistosta, ja suoraa toimintaa kannattava Leo luotsaa kolmikon hämärämiesten salaisille kaivauksille vuoristoon. Nuorten uteliaisuus johdattaa lopulta vuosituhansia vanhan salaisuuden jäljille.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=arkeomysteeri&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Aaro Korpi -sarja] {
+	[b-aut]:Remes, Ilkka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Remes%2C+Ilkka&callnumber=&size=medium&title=Piraatit&recordid=satakirjastot.68639&isbn=9510283746&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:12-vuotias Aaro Korpi palauttaa löytämänsä laukun Katajanokalle ankkuroituun risteilijään  ja astuu samalla suden suuhun. Jännityksen mestarin pelinavaus nuorille lukijoille.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aaro+korpi+remes&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Poika: murha seitsemännellä luokalla] {
+	[b-aut]:Valmu, L.K.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Valmu%2C+L.K&callnumber=&size=medium&title=Poika+%3A+murha+seitsem%C3%A4nnell%C3%A4+luokalla&recordid=satakirjastot.307796&isbn=9512362309&index=0&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kun Hege aloittaa yläasteen Helsingin Klassisessa Yhtenäiskoulussa, hän kuulee ensimmäisen kerran Teemu Vallasta. Silloin tämä on jo kuollut. Historian opettajan ja koulun terveydenhoitajan poika on menehtynyt kesällä insuliinin yliannostukseen koulun opettajien perinteisellä mökkireissulla, jolle on tällä kertaa osallistunut poikkeuksellisesti myös Teemu ystävänsä Elian kanssa. Omia teitään kulkeva Hege tutustuu uudessa koulussaan taideluokalla opiskelevan Eliaan, jonka kanssa päätyy pohtimaan Teemun kuolemaa. Oliko se sittenkään tapaturma? Hegen on pakko puhua asiasta enolleen Olalle, joka toimii Helsingin poliisin murharyhmässä rikostutkijana.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.307796|
+}
+
+
+
 [Gummeruksen Helppolukuinen satukirja -sarja] {
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.278556&index=0&size=medium&w=250&h=250|
 	[b-tag]:Ikisuosikkeja|
@@ -294,6 +428,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:Lukutoukka|
 	[b-des]:Aino Havukaisen ja Sami Toivosen suursuosioon nousseiden kuvakirjojen anarkistinen huumori ilahduttaa niin lapsia kuin vanhempia.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Tatu+ja+Patu%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:|
+	[b-cat]:|
+	[b-des]:|
+  	[b-ava]:|
 }
 
 [Viisikko-sarja] {
