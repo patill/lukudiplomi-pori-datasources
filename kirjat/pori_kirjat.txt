@@ -430,14 +430,62 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Tatu+ja+Patu%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
-	[b-tag]:|
-	[b-cat]:|
-	[b-des]:|
-  	[b-ava]:|
+[Pekka Töpöhäntä -sarja] {
+	[b-aut]:Knuttson, Gösta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=R%C3%B6nn%2C+%C3%85sa%2C+kirjoittaja&callnumber=&size=medium&title=Pekka+T%C3%B6p%C3%B6h%C3%A4nt%C3%A4+maalla&recordid=satakirjastot.1257974&isbn=9512411210&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Metsäkulman Murrella on suuria uutisia! Maatilalle on saapunut ihan kummallinen eläin, jollaista Murre ei ole koskaan nähnyt. Monni, Pilli ja Pullakin lähtevät ihmettelemään, mahtaisiko outo otus olla karahvi, kaneli vai kenties strutsi! Kaikki kaupungin kissat kutsutaan moista ihmettä katsomaan, ja Monni yrittää usuttaa kiukkuisen eläimen Pekan kimppuun. Mutta Pekkaa naurattaa. Hän kyllä tietää, mikä otus tuo on. Eikä Monni usko silmiään, kun hän näkee mitä seuraavaksi tapahtuu.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=pekka+t%C3%B6p%C3%B6h%C3%A4nt%C3%A4&type=AllFields&filter[]=search_daterange_mv:%22[1900+TO+2018]%22|
 }
+
+[Mikä tahansa Mauri Kunnaksen kuvakirja] {
+	[b-aut]:Kunnas, Mauri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri&callnumber=&size=large&title=Koiram%C3%A4en+lapset+ja+n%C3%A4kki&recordid=satakirjastot.461352&isbn=9511218980&index=0|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Tunnetko Herra Hakkaraisen? Entä Koiramäen väen? Mauri Kunnaksen kirjoista löytyy jokaiselle sopivaa luettavaa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=kunnas%2C+mauri&type0%5B%5D=Author|
+}
+
+[Peppi-kirjat] {
+	[b-aut]:Lindgren, Astrid|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lindgren%2C+Astrid&callnumber=&size=medium&title=Peppi+Pitk%C3%A4tossu&recordid=satakirjastot.380885&isbn=9510414832&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Peppi Pitkätossu on maailman vahvin ja kiltein ja hauskin ja rikkain tyttö. Hän asuu ypöyksin talossa nimeltä Huvikumpu, seuranaan vain hevonen sekä marakatti, jonka nimi on herra Tossavainen. Lisäksi hänellä on kapsäkki täynnä kultarahoja.
+
+Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauskempaa sen jälkeen, kun Peppi muutti kaupunkiin. Peppi kun leipoo pipareja lattialla, kanniskelee hevostaan ja leikkii kuurupiiloa poliisien kanssa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=peppi+lindgren&type=AllFields&sort=main_date_str+desc|
+}
+
+[Eemeli-kirjat] {
+	[b-aut]:Lindgren, Astrid|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lindgren%2C+Astrid&callnumber=&size=medium&title=Eemelin+kootut+metkut&recordid=satakirjastot.368125&isbn=9510398934&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Vaahteramäellä Kissankulman talossa on pieni verstashuone, jossa Eemeli usein istuu veistelemässä puu-ukkoja. Ovi on teljetty ulkopuolelta, ettei Eemeli pääse ulos - ja sisäpuolelta, ettei isä pääse sisään. Verstashuoneeseen pikku Iidakin haluaisi, mutta sitä varten pitää tehdä metku. - Ei metkuja keksitä, niitä sattuu, Eemeli sanoo. Ja eräänä päivänä Iidallekin alkaa sattua ja tapahtua.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=eemeli+lindgren&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
+[Ella-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo%2C+kirjoittaja&callnumber=&size=medium&title=Ella+ja+kaverit+ihan+kuninkaina&recordid=satakirjastot.1290921&isbn=9520404759&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Timo Parvelan vastustamattoman hauska Ella ja kaverit -sarja on valloittanut maailmaa kirjojen, elokuvien, näytelmien ja musiikin muodossa - jopa sinfoniaorkesterin säestyksellä! Kuvittaja Mervi Lindman on antanut Ellalle ja hänen kavereilleen iloisen ja vauhdikkaan piirrosasun.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=ella+parvela&type=AllFields|
+}
+
+[Mikä tahansa Richard Scarryn kuvakirja] {
+	[b-aut]:Scarry, Richard|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Scarry%2C+Richard%2C+kirjoittaja%2C+taiteilija&callnumber=&size=medium&title=Mato+Matalan+onnenp%C3%A4iv%C3%A4t+%3A+Richard+Scarryn+suurimmat+suosikit&recordid=satakirjastot.1290915&isbn=9520404686&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Lukutoukka|
+	[b-des]:Mato Matala ystävineen on ollut monessa mukana! Heidän lisäkseen Richard Scarryn rakastetut kirjat tunnetaan muun muassa Touhulan urheista palomiehistä ja muista arjen sankareista, vauhdikkaista menopeleistä sekä aakkosten, numeroiden ja kauniiden käytöstapojen oppimisesta hauskalla tavalla.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=scarry+richard&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
 
 [Viisikko-sarja] {
 	[b-aut]:Blyton, Enid|
@@ -466,6 +514,35 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%22Neiti+etsiv%C3%A4%22&type=AllFields|
 }
 
+[Narnia-sarja] {
+	[b-aut]:Lewis, C.S.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lewis%2C+C.S&callnumber=&size=medium&title=Velho+ja+leijona&recordid=satakirjastot.369246&isbn=9511281240&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Peter, Susan, Edmund ja Lucy löytävät tien vaatekaapin kautta tarumaailma Narniaan. Siellä he kohtaavat mahtavan leijonan, Aslanin, ja liittoutuvat hänen kanssaan taistellakseen Valkoista Noitaa vastaan ja pelastaakseen Narnian pimeyden voimilta.|
+  	[b-ava]:https://satakirjastot.finna.fi/Cover/Show?author=Scarry%2C+Richard%2C+kirjoittaja%2C+taiteilija&callnumber=&size=medium&title=Mato+Matalan+onnenp%C3%A4iv%C3%A4t+%3A+Richard+Scarryn+suurimmat+suosikit&recordid=satakirjastot.1290915&isbn=9520404686&index=0&w=1200&h=1200|
+}
+
+[Ihan oikeat viikinkiajan lapset] {
+	[b-aut]:Suoniemi, Karoliina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Suoniemi%2C+Karoliina%2C+kirjoittaja&callnumber=&size=medium&title=Ihan+oikeat+viikinkiajan+lapset&recordid=satakirjastot.1298407&isbn=9523042092&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Millaista oli elämä nykyisen Suomen alueella noin 1000 vuotta sitten? Oliko täällä viikinkejä? Mitä lapset leikkivät, söivät ja tekivät? Osattiinko jo hiihtää tai oliko perheissä kotieläimiä? Millaisia tarinoita lapsille iltaisin kerrottiin?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298407|
+}
+
+[Fedja-setä-sarja] {
+	[b-aut]:Uspenski, Eduard|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Uspenski%2C+Eduard&callnumber=&size=medium&title=Fedja-set%C3%A4%2C+kissa+ja+koira&recordid=satakirjastot.371664&isbn=9511316281&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Kirja-ahmatti|
+	[b-des]:Isällä ja äidillä oli poika. Vaikka hän oli vasta kuusivuotias, häntä sanottiin Fedja-sedäksi, sillä hän oli aina ollut hyvin totinen lapsi. Kaikki olisi ollut hyvin, mutta äiti ei pitänyt pojan eläimistä. Ja niin Fedja-setä muutti pois kotoa Matroskin-kissan ja Musti-koiran kanssa. He asettuivat Prostokvashino-nimiseen maalaiskylään asumaan ja hankkivat Mirri-lehmän sekä iloisen traktorin, joka toimi ruoalla.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=fedja+set%C3%A4+uspenski&type=AllFields&sort=main_date_str+desc|
+}
+
+
+
 [Rohkeiden poikien kirja -sarja] {
 	[b-aut]:Brooks, Ben|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1261442&index=0&size=medium&w=1200&h=1200|
@@ -491,4 +568,62 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Tavanomaisten prinsessasatujen sijasta tässä ihanassa iltasatukirjassa tutustutaan sataan todelliseen tyttöön ja naiseen, jotka ovat muuttaneet maailmaa tai oman elämänsä - rohkeasti ja lupaa kyselemättä. He ovat eläneet kauan sitten tai he elävät nyt: he ovat hallitsijoita, merirosvoja, taiteilijoita, urheilijoita, astronautteja, tieteilijöitä, tai ihan tavallisia ihmisiä, jotka ovat tehneet jonkin pelottoman valinnan.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=%22Iltasatuja+kapinallisille+tyt%C3%B6ille%22&type=AllFields|
+}
+
+[Iltasatuja kapinallisille tytöille -sarja] {
+	[b-aut]:Favilli, Elena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Favilli%2C+Elena%2C+kirjoittaja&callnumber=&size=medium&title=Iltasatuja+kapinallisille+tyt%C3%B6ille+%3A+100+tarinaa+ihmeellisist%C3%A4+naisista&recordid=satakirjastot.252976&isbn=9515243548&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Tavanomaisten prinsessasatujen sijasta tässä ihanassa iltasatukirjassa tutustutaan sataan todelliseen tyttöön ja naiseen, jotka ovat muuttaneet maailmaa tai oman elämänsä - rohkeasti ja lupaa kyselemättä. He ovat eläneet kauan sitten tai he elävät nyt: he ovat hallitsijoita, merirosvoja, taiteilijoita, urheilijoita, astronautteja, tieteilijöitä, tai ihan tavallisia ihmisiä, jotka ovat tehneet jonkin pelottoman valinnan.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=iltasatuja+kapinallisille+tyt%C3%B6ille+favilli&type=AllFields&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Emilia Kent: runotytön tarina jatkuu] {
+	[b-aut]:Huotarinen, Vilja-Tuulia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Huotarinen%2C+Vilja-Tuulia%2C+kirjoittaja&callnumber=&size=medium&title=Emilia+Kent+%3A+runotyt%C3%B6n+tarina+jatkuu&recordid=satakirjastot.339213&isbn=9510429228&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kahden Runotyttö-fanin unelmasta syntyi helmi kaikille Runotyttöjen lukijoille. Uuden Kuun Emiliasta on tullut Aution Talon rouva Emilia Kent ja kirjailijan ura on aluillaan.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.339213|
+}
+
+[Pieni runotyttö] {
+	[b-aut]:Montgomery, L.M.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Montgomery%2C+L.+M.&callnumber=&size=medium&title=Pieni+runotytt%C3%B6&recordid=satakirjastot.429980&isbn=951041901X&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Runotyttö-sarjan ensimmäisessä kirjassa orpo Emilia Starr saa kodin Uuden Kuun kartanossa ankaran Elisabet-tädin kasvattina. Hän on lahjakas ja uneksiva tyttö, jonka luova mielikuvitus ja orastavat kirjoittajankyvyt auttavat häntä kestämään vaikeitakin aikoja. Lempeästä Laura-tädistä ja ymmärtäväisestä Jimmy-serkusta tulee Emilian ystäviä. Vähitellen hänen lahjakkuutensa alkaa herättää huomiota.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=runotytt%C3%B6+montgomery&type=AllFields|
+}
+
+[Harry Potter -sarja] {
+	[b-aut]:Rowling, J.K.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rowling%2C+J.+K.&callnumber=&size=medium&title=Harry+Potter+ja+viisasten+kivi&recordid=satakirjastot.92757&isbn=9513111466&index=0&w=1200&h=1200|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Harry Potter on mielestään ihan tavallinen poika. Tosin hän asuu huoltajiensa luona portaiden alla olevassa kaapissa. Harryn elämä muuttuu täysin, kun hän saa 11-vuotispäivänään merkillisen kirjeen. Se on kutsu Tylypahkan velhojen ja noitien kouluun.
+
+Harrylle avautuu kokonaan uusi maailma, johon kuuluvat velhot, noidat, yksisarviset ja lohikäärmeet. Harry saa tietää olevansa velhojen sukua!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=harry+potter&type=AllFields|
+}
+
+[Maailman ympäri 80 päivässä] {
+	[b-aut]:Verne, Jules|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rajala%2C+Pertti&callnumber=&size=medium&title=Maailman+ymp%C3%A4ri+80+p%C3%A4iv%C3%A4ss%C3%A4&recordid=satakirjastot.297422&source=Solr&isbn=9523041282&index=0&w=250&h=250|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Lontoolainen Phileas Fogg lyö vetoa ja aikoo matkustaa maailman ympäri 80 päivässä.
+
+Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun muassa Intian, Hong Kongin ja Amerikan kautta, mutta ehtiikö Fogg ajoissa takaisin Lontooseen?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=verne%2C+jules+maailman+ymp%C3%A4ri+80&type=AllFields&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:|
+  	[b-ava]:|
 }
