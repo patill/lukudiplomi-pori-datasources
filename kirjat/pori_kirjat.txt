@@ -2,7 +2,7 @@
 	[b-aut]:Agnew, Kate|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Agnew%2C+Kate&callnumber=&size=medium&title=Avaruussankari&recordid=satakirjastot.274280&source=Solr&isbn=9518834814&index=0&w=1200&h=1200|
 	[b-tag]:Aika ja avaruus|
-  	[b-cat]:Lukutoukka|
+  	[b-cat]:1. Lukutoukka|
 	[b-des]:Avaruusalusten ohjauskeskuksessa on hätätilanne. Kuuautosta on irronnut rengas, eivätkä astronautit pysty korjaamaan sitä ja toimittamaan huippusalaisia valokuvia maahan. Onnistuuko Ben ratkaisemaan ongelman? Sininen banaani on kirjasarja juuri lukemaan oppineille. Sarjan kirjoissa on värikkäästi kuvitetut tarinat ja hauskoja puhekuplia. |
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274280|
 }
@@ -10,7 +10,7 @@
 [Samun salainen ystävä] {
 	[b-aut]:Dale, Elizabeth|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dale%2C+Elizabeth&callnumber=&size=medium&title=Samun+salainen+yst%C3%A4v%C3%A4&recordid=satakirjastot.430053&source=Solr&isbn=9518835179&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
   	[b-tag]:Aika ja avaruus|
 	[b-des]:Samu löytää taskustaan pienen avaruusolennon Sipon, ja heistä tulee ystäviä. Mutta kuinka käy, kun Sippo panee kodin mullin mallin tai kun sade uhkaa pilata Samun synttärijuhlat? Miten Sippo yllättää Samun rannalla? Kolme hauskaa ta-vu-tet-tu-a tarinaa.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430053|
@@ -19,7 +19,7 @@
 [Henkka Huimapää pelastaa maailman] {
 	[b-aut]:Emmett, Jonathan|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Emmett%2C+Jonathan&callnumber=&size=medium&title=Henkka+Huimap%C3%A4%C3%A4+pelastaa+maailman&recordid=satakirjastot.299154&source=Solr&isbn=9518837473&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
   	[b-tag]:Aika ja avaruus|
 	[b-des]:Henkka on pieni poika, joka ei pelkää mitään - ei sitten mitään! Vanhempien mielestä se ei ole normaalia ja he yrittävät auttaa. Mutta sitten maailmankaikkeuden hurjimmat olennot, Örmätit, uhkaavat vallata maapallon...|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.299154|
@@ -28,7 +28,7 @@
 [Avaruusoliot kylässä] {
 	[b-aut]:Hart, Caryl|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hart%2C+Caryl%2C+kirjoittaja&callnumber=&size=medium&title=Avaruusoliot+kyl%C3%A4ss%C3%A4&recordid=satakirjastot.1298493&source=Solr&isbn=9523411713&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
   	[b-tag]:Aika ja avaruus|
 	[b-des]:Mummi on päivätorkuilla, kun Ulla saa yllätysvieraita - suoraan ulkoavaruudesta! Onnistuuko hän saattamaan siniset sirokkaat, pinkit piksut, vihreät virkit ja muut avaruuden asukkaat takaisin kotiplaneetalleen ennen kuin mummi herää... Tämä raketin lailla syöksähtelevä, riimitelty tarina ei ole tästä maailmasta!|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298493|
@@ -38,7 +38,7 @@
 	[b-aut]:Harvey, Damian|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Harvey%2C+Damian&callnumber=&size=medium&title=Tohelo+astronautti&recordid=satakirjastot.350822&source=Solr&isbn=9518839174&index=0&w=1200&h=1200|
 	[b-tag]:Aika ja avaruus|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Leo on aina halunnut ryhtyä astronautiksi, ja viimein hänen unelmansa toteutuu. Siinä on vain sellainen pieni pulma, että hän pelkää korkeita paikkoja, kärsii matkapahoinvoinnista ja on vähän kömpelö. Miten Leon ensimmäinen avaruuslento mahtaakaan sujua? |
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.350822|
 }
@@ -46,7 +46,7 @@
 [Ystävä avaruudessa] {
 	[b-aut]:Jeffers, Oliver|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jeffers%2C+Oliver&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4+avaruudessa&recordid=satakirjastot.323008&source=Solr&isbn=9512355159&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Kun kaapin perältä löytyy lentokone, pojan on pakko kokeilla sitä heti! Innoissaan hän lentää aina avaruuteen asti - vain huomatakseen, että tankki on tyhjentynyt. Poika tekee pakkolaskun Kuuhun, jonne on pelastautunut myös eräs toinen olento: marsilainen. Yhdessä he miettivät avun ongelmaansa. Kotiinpaluun hetki on onnellinen mutta haikea - mahtavatko he tavata enää koskaan?|
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.323008|
@@ -55,7 +55,7 @@
 [Hulda ja Jalmari avaruustiedemiehinä] {
 	[b-aut]:Majaluoma, Markus|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Majaluoma%2C+Markus&callnumber=&size=medium&title=Hulda+ja+Jalmari+avaruustiedemiehin%C3%A4&recordid=satakirjastot.462664&source=Solr&isbn=9526606981&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Hulda ja Jalmari löytävät kirpputorilta kaukoputken. Sillä näkee avaruuteen. Sillä näkee Kuun vuoret ja kraatterit ja Marsin punaisen hiekan. Sillä näkee Otavan ja löytää suunnan pohjoiseen, jossa joulupukki asuu. Mutta onko avaruudessa asukkaita? Se selviää kirjan lopussa.|
         [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462664|
@@ -64,7 +64,7 @@
 [Ensimmäinen virtahepo kuussa] {
 	[b-aut]:Ross, Tony|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ross%2C+Tony&callnumber=&size=medium&title=Ensimm%C3%A4inen+virtahepo+kuussa&recordid=satakirjastot.274455&source=Solr&isbn=9518837635&index=0&w=1200&h=1200|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Tarina kahdesta virtahevosta, joilla on yhteinen unelma: olla ensimmäinen virtahepo kuussa. Ökyrikas Herkules Hippo-Potamus III rakennuttaa kuulentoaan varten jättimäisen avaruuskeskuksen, kun taas Marjo... no, Marjo ei rakennuta.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274455|
@@ -192,7 +192,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Bross, Helen|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bross%2C+Helena%2C+kirjoittaja&callnumber=&size=medium&title=Taskuvarkaat+kiinni%21&recordid=satakirjastot.1298530&isbn=9523412027&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Tässä tarinassa Dina ja Lenni pääsevät tositoimiin, kun Lennin äidiltä Johannalta varastetaan kaupungilla lompakko. Onneksi kummallakin on hyvä päättelykyky ja tarkka muisti.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298530|
 }
@@ -201,7 +201,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:French, Vivian|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=French%2C+Vivian&callnumber=&size=medium&title=Merirosvot+aarrejahdissa&recordid=satakirjastot.429048&isbn=9518839166&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Lassi on liittynyt merirosvolaivaston miehistöön vastoin äitinsä toivetta, koska haluaa löytää kultaa ja rikastua. Hänelle selviää pian, että laivan kapteeni on pahamaineinen Mustaparta. Ja mikä vielä hurjempaa, kapteeni Mustaparta haluaa syöttää Lassin haille... |
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429048|
 }
@@ -210,7 +210,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Gorman, Karyn|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Gorman%2C+Karyn&callnumber=&size=medium&title=Mestarietsiv%C3%A4+Karoliina&recordid=satakirjastot.414328&isbn=9518837597&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Karoliina ei ole mikään tavallinen tyttö. Hän on nokkela mestarietsivä, joka rakastaa arvoitusten ratkomista. Onnistuuko hän selvittämään, minne kuppikakut ovat kadonneet? Entä löytääkö hän varastetun villakoiran ennen lemmikkieläinnäyttelyä?|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.414328|
 }
@@ -219,7 +219,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Horst, Jørn Lier|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Horst%2C+J%C3%B8rn+Lier%2C+kirjoittaja&callnumber=&size=medium&title=Operaatio+Myrskypilvi&recordid=satakirjastot.272630&isbn=9511310216&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Etsiväkaksikko valmiina salapoliisitehtävään! Huippusuositussa norjalaisdekkaristin lasten salapoliisisarjassa ratkot rikokset yhdessä Etsiväkaksikon kanssa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4kaksikko&type=AllFields&sort=main_date_str+asc|
 }
@@ -228,7 +228,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Niemelä, Reetta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta%2C+kirjoittaja&callnumber=&size=large&title=Kaiken+Kadottajan+arvoitus&recordid=satakirjastot.295483&isbn=9522887889&index=0|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Harva tietää, että Vilskeen kaupungin järjestyksenvalvojalla Nysä Nörtillä on mielikuvitusystävä nimeltä Pikkirii. Se johtuu varmaankin siitä, että Pikkirii on hyvin pieni ja hiljainen otus. Mutta Vilskeessä on alkanut tapahtua kummia. Sukkia, myssyjä ja jopa kenkiä häviää aivan itsestään. Kaupunkilaisia on alkanut suorastaan pelottaa. Järjestyksenvalvoja Nysä Nörtti raapii neuvottomana päätään, mutta Pikkirii päättää toimia. Pikkiriin pulmatoimisto on pian valmis pelastamaan kaupunkilaiset näkymättömältä kaiken kadottajalta!|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=pikkiriin+pulmatoimisto&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
@@ -237,7 +237,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Tanaka, Yoko|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tanaka%2C+kirjoittaja&callnumber=&size=medium&title=Mestarietsiv%C3%A4+Peppunen&recordid=satakirjastot.1260824&isbn=9511328735&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Mikä on salapoliisin salainen ase? Mestarietsivä Peppunen auttaa rouva Purppuraa aarteen metsästyksessä. ”Purppura” paljastuu kuitenkin huijariksi. Mestarietsivä ahdistaa roiston nurkkaan ja tainnuttaa hänet tavaramerkillään, jättiläismäisellä pierulla.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=mestari+etsiv%C3%A4+peppunen&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
@@ -246,7 +246,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Teräs, Mila|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ter%C3%A4s%2C+Mila%2C+kirjoittaja&callnumber=&size=medium&title=Hotelli+H%C3%A4m%C3%A4r%C3%A4+ja+kummituspurkki&recordid=satakirjastot.1259685&isbn=951236462X&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Teon vanhemmat ostavat ikivanhan rotiskohotellin, ja sitten alkaa tapahtua. Hotellin käytäviltä kuuluu yöllä outoja huokauksia, ja portaiden alta nousee ihmeellisiä usvalonkeroita. Teo alkaa tutkia asiaa yhdessä veljensä Tuukan ja naapurin Leilan kanssa. Lopulta he päätyvät ovelle, jossa lukee "Löytötavaroita". Olisiko sen takana ratkaisu mysteeriin?|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22hotelli+h%C3%A4m%C3%A4r%C3%A4%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
@@ -255,7 +255,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Wallace, Karen|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wallace%2C+Karen&callnumber=&size=medium&title=Kiilt%C3%A4v%C3%A4t+johtolangat&recordid=satakirjastot.362058&isbn=9518832706&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Eräänä aamuna maatilan eläimet heräävät ja huomaavat, että joku on yön aikana jättänyt niille lahjan. Etsiväkoira saa nuuskia, kuka on ollut asialla... Toisessa kirjassa eläimet näkevät lumessa isot jalanjäljet. Apua, kenen ne ovat? Pystyykö etsiväkoira ratkaisemaan arvoituksen?|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22etsiv%C3%A4koira%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
@@ -264,7 +264,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Widmark, Martin|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Widmark%2C+Martin&callnumber=&size=medium&title=Hotellin+arvoitus&recordid=satakirjastot.240285&isbn=9513130304&index=0&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Kaupunginhotellin asiakkailta katoaa mittaamattoman arvokas kiinalainen omenaspanieli. Koiran omistavat herra ja rouva Viikari, jotka Silva-tyttärineen ovat tulleet Vallilan pikkukaupunkiin joulunviettoon. Hotellinjohtaja Ronny Hazelwood on epätoivoinen, mutta onneksi etsiväkaverukset Lasse ja Maija sattuvat paikalle. Tapaus osoittautuu yllättävän monimutkaiseksi, mutta Lassea ja Maijaa ei niin vain huijata. Terävien hoksottimiensa ja tietokoneen avulla he löytävät kuin löytävätkin todellisen syyllisen.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=lasse+maijan+etsiv%C3%A4toimisto&type=AllFields|
 }
@@ -406,7 +406,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 [Gummeruksen Helppolukuinen satukirja -sarja] {
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=&callnumber=&size=medium&title=Kultakutri+ja+kolme+karhua&recordid=satakirjastot.1257979&source=Solr&isbn=951241077X&index=0&w=250&h=250|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Ruma ankanpoikanen on helppolukuinen satukirja. Se on suunniteltu aikuisen ja lukemaan opettelevan lapsen yhteisiin lukutuokioihin. Aikuinen voi lukea tämän perinteisen sadun ääneen, ja se sisältää myös helppoja sanoja ja lauseita, jotka lapsi voi lukea.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=helppolukuiset&lookfor0%5B%5D=Gummerus&type0%5B%5D=Series&type0%5B%5D=publisher|
 }
@@ -415,7 +415,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-aut]:Bergström, Gunilla|
 	[b-cov]:https://finna.fi/Cover/Show?author=Bergstr%C3%B6m%2C+Gunilla&callnumber=&size=medium&title=Mikko+Mallikas+lapsenvahtina&recordid=vaski.3180868&source=Solr&isbn=9513101541&index=0&w=250&h=250/9789513110109_frontcover_final.jpg|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]: Mikko Mallikas seikkailee.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=Mikko+Mallikas&type0%5B%5D=Series&sort=main_date_str+desc|
 }
@@ -424,7 +424,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-aut]:Havukainen, Aino|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Havukainen%2C+Aino&callnumber=&size=medium&title=Tatu+ja+Patu+etsivin%C3%A4+%3A+tapaus+Puolittaja&recordid=satakirjastot.251537&source=Solr&isbn=9511304348&index=0&w=250&h=250|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Aino Havukaisen ja Sami Toivosen suursuosioon nousseiden kuvakirjojen anarkistinen huumori ilahduttaa niin lapsia kuin vanhempia.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Tatu+ja+Patu%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
@@ -433,7 +433,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-aut]:Knuttson, Gösta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=R%C3%B6nn%2C+%C3%85sa%2C+kirjoittaja&callnumber=&size=medium&title=Pekka+T%C3%B6p%C3%B6h%C3%A4nt%C3%A4+maalla&recordid=satakirjastot.1257974&isbn=9512411210&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Metsäkulman Murrella on suuria uutisia! Maatilalle on saapunut ihan kummallinen eläin, jollaista Murre ei ole koskaan nähnyt. Monni, Pilli ja Pullakin lähtevät ihmettelemään, mahtaisiko outo otus olla karahvi, kaneli vai kenties strutsi! Kaikki kaupungin kissat kutsutaan moista ihmettä katsomaan, ja Monni yrittää usuttaa kiukkuisen eläimen Pekan kimppuun. Mutta Pekkaa naurattaa. Hän kyllä tietää, mikä otus tuo on. Eikä Monni usko silmiään, kun hän näkee mitä seuraavaksi tapahtuu.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=pekka+t%C3%B6p%C3%B6h%C3%A4nt%C3%A4&type=AllFields&filter[]=search_daterange_mv:%22[1900+TO+2018]%22|
 }
@@ -442,7 +442,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-aut]:Kunnas, Mauri|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri&callnumber=&size=large&title=Koiram%C3%A4en+lapset+ja+n%C3%A4kki&recordid=satakirjastot.461352&isbn=9511218980&index=0|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Tunnetko Herra Hakkaraisen? Entä Koiramäen väen? Mauri Kunnaksen kirjoista löytyy jokaiselle sopivaa luettavaa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=kunnas%2C+mauri&type0%5B%5D=Author|
 }
@@ -451,7 +451,7 @@ Tohtori Learner kehitteli parhaillaan näkymättömyyspukua. Onko mahdollista, e
 	[b-aut]:Lindgren, Astrid|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lindgren%2C+Astrid&callnumber=&size=medium&title=Peppi+Pitk%C3%A4tossu&recordid=satakirjastot.380885&isbn=9510414832&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Peppi Pitkätossu on maailman vahvin ja kiltein ja hauskin ja rikkain tyttö. Hän asuu ypöyksin talossa nimeltä Huvikumpu, seuranaan vain hevonen sekä marakatti, jonka nimi on herra Tossavainen. Lisäksi hänellä on kapsäkki täynnä kultarahoja.
 
 Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauskempaa sen jälkeen, kun Peppi muutti kaupunkiin. Peppi kun leipoo pipareja lattialla, kanniskelee hevostaan ja leikkii kuurupiiloa poliisien kanssa.|
@@ -462,7 +462,7 @@ Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauske
 	[b-aut]:Lindgren, Astrid|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lindgren%2C+Astrid&callnumber=&size=medium&title=Eemelin+kootut+metkut&recordid=satakirjastot.368125&isbn=9510398934&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Vaahteramäellä Kissankulman talossa on pieni verstashuone, jossa Eemeli usein istuu veistelemässä puu-ukkoja. Ovi on teljetty ulkopuolelta, ettei Eemeli pääse ulos - ja sisäpuolelta, ettei isä pääse sisään. Verstashuoneeseen pikku Iidakin haluaisi, mutta sitä varten pitää tehdä metku. - Ei metkuja keksitä, niitä sattuu, Eemeli sanoo. Ja eräänä päivänä Iidallekin alkaa sattua ja tapahtua.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=eemeli+lindgren&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
 }
@@ -471,7 +471,7 @@ Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauske
 	[b-aut]:Parvela, Timo|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo%2C+kirjoittaja&callnumber=&size=medium&title=Ella+ja+kaverit+ihan+kuninkaina&recordid=satakirjastot.1290921&isbn=9520404759&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Timo Parvelan vastustamattoman hauska Ella ja kaverit -sarja on valloittanut maailmaa kirjojen, elokuvien, näytelmien ja musiikin muodossa - jopa sinfoniaorkesterin säestyksellä! Kuvittaja Mervi Lindman on antanut Ellalle ja hänen kavereilleen iloisen ja vauhdikkaan piirrosasun.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=ella+parvela&type=AllFields|
 }
@@ -480,7 +480,7 @@ Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauske
 	[b-aut]:Scarry, Richard|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Scarry%2C+Richard%2C+kirjoittaja%2C+taiteilija&callnumber=&size=medium&title=Mato+Matalan+onnenp%C3%A4iv%C3%A4t+%3A+Richard+Scarryn+suurimmat+suosikit&recordid=satakirjastot.1290915&isbn=9520404686&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Mato Matala ystävineen on ollut monessa mukana! Heidän lisäkseen Richard Scarryn rakastetut kirjat tunnetaan muun muassa Touhulan urheista palomiehistä ja muista arjen sankareista, vauhdikkaista menopeleistä sekä aakkosten, numeroiden ja kauniiden käytöstapojen oppimisesta hauskalla tavalla.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=scarry+richard&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
 }
@@ -616,7 +616,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Bross, Helena|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bross%2C+Helena%2C+kirjoittaja&callnumber=&size=medium&title=Uusi+kaveri&recordid=satakirjastot.1298526&isbn=9523411985&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Eeli ja Omar aloittavat koulun. Molempia jännittää. Sitten Eeli auttaa Omaria salaisessa asiassa.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298526|
 }
@@ -625,7 +625,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Hallava, Anna|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallava%2C+Anna&callnumber=&size=medium&title=2+A%3An+kamut+kykykilpailussa&recordid=satakirjastot.285126&isbn=9510422657&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Opettajalla on uutisia: koulussa järjestetään kykykilpailut. Ja Aino on aina halunnut laulajaksi! Rosana taas osaa tanssia, joten bestisten numero on pian valmis. Mutta Saarakin haluaa esiintyä Rosanan kanssa. Caara kirjoittaa nimensä ceellä kuin julkkikset ja aikoo värjätä tukan turkoosiksi esitykseen. Saaran mielestä Ainon biisivalinnat ovat lapsellisia. Keksitäänkö ratkaisu ennen kuin syntyy riita? Kun lavalle nousevat 2 A:n kamut, on esitys yllätyksiä täynnä.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=2+a%3An+kamut+hallava&type=AllFields&dfApplied=1&limit=20|
 }
@@ -634,7 +634,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Kuronen, Kirsti|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kuronen%2C+Kirsti&callnumber=&size=medium&title=Kuituset+ja+kummitus&recordid=satakirjastot.423770&isbn=9512351943&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Nuutti ja Niilo Kuitunen ovat 7-vuotiaat kaksospojat, jotka asuvat mummun ja papan luona, koska heidän vanhempansa ovat kuolleet auto-onnettomuudessa poikien ollessa 2-vuotiaita. Pojat ovat juuri aloittaneet koulun, ja syksyn kohokohdaksi muodostuu yökoulu, joka onkin jännittävämpi kokemus kuin kukaan on osannut odottaa. Parasta on, että luokkahenki lujittuu ja ope on entistä enemmän pop.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=kuituset+kuronen&type=AllFields|
 }
@@ -643,7 +643,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Reider, Katja|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Reider%2C+Katja&callnumber=&size=medium&title=Paula+saa+yst%C3%A4v%C3%A4n&recordid=satakirjastot.339598&isbn=9518839506&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Paula kaipaa ystävää – sellaista, jonka kanssa kulkea kouluun ja jolle kertoa salaisuudet. Niinpä hän ilahtuu, kun luokalle tulee uusi tyttö. Enni ei kuitenkaan tunnu pitävän hänestä. Sitten eräänä aamuna Paula tarvitsee apua, ja Enni osuu paikalle juuri sopivasti... |
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.339598|
 }
@@ -652,7 +652,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Rekola, Teija|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rekola%2C+Teija&callnumber=&size=medium&title=Eetu+ja+ruma+Rusina&recordid=satakirjastot.357966&isbn=9510395587&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Eetun perheeseen on saapunut uusi tulokas, pikkusisko Rusina joka hypnotisoi äidin ja isän. Se huutaa yöt ja rikkoo parhaat lelut. Eetu koittaa olla kiltti, mutta kun kuukaudet kuluvat, hänen taakseen kasvaa varjo. Vaan mikä eteen, kun synnytyslaitos ei ota vauvoja takaisin eikä Aunetätikään huoli yllättävää joululahjaa? Nyt on kiire, ennen kuin Rusina hurmaa veljensäkin!|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=rekola+eetu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
@@ -661,7 +661,7 @@ Yhdessä kumppaniensa kanssa Fogg kokee hurjia seikkailuja. Matka kulkee muun mu
 	[b-aut]:Virtanen, Leena|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Virtanen%2C+Leena&callnumber=&size=medium&title=Sandra+ja+kaverikiemurat.+Keltanokka&recordid=satakirjastot.324791&isbn=9513162311&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]: Sandralla on monta hyvää ystävää. On Annabella, Sandran paras kaveri, mutta myös Minttu-Maaria ja Natalia, jotka ovat aloittaneet koulun samalla luokalla. Mitä tehdä kun on jo Annabellan kanssa ja joku muu tulee hakemaan ulos? Onko kaikkien mahdollista leikkiä yhdessä, niin ettei kellekään tulisi paha mieli?|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.324791|
 }
@@ -802,7 +802,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 	[b-aut]:Kunnas, Mauri|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri&callnumber=&size=medium&title=Kes%C3%A4+Koiram%C3%A4ess%C3%A4&recordid=satakirjastot.359559&isbn=9511288008&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Vanhoista ajoista kerrotaan harvoin yhtä kiehtovasti ja jännittävästi kuin Mauri Kunnaksen Koiramäki-tarinoissa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=koiram%C3%A4ki+kunnas&type=AllFields|
 }
@@ -811,7 +811,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 	[b-aut]:Kurenniemi, Marjatta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kurenniemi%2C+Marjatta&callnumber=&size=medium&title=Onnelin+ja+Annelin+talo&recordid=satakirjastot.285049&isbn=9510404446&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Onneli ja Anneli ovat ihan tavallisia pikkutyttöjä, ehkä vähän onnellisempia vain kuin useimmat muut. Eräänä kesäpäivänä he pääsevät muuttamaan Tingelstiinan ja Tangelstiinan naapuriin - ikiomaan taloonsa! Talven kynnyksellä uutta asuntoa etsivä Vaaksanheimon väki mahtuu somasti viettämään pikkujoulua tyttöjen nukkekotiin, mutta vastapäätä muuttanut orpokoti aiheuttaa kaikenlaista mieliharmia. Kun hajuvesitehtailija Viksari ja pääylioikaisuinsinööri Oikotie ryhtyvät juonimaan, tarvitaan Kissanmintun kaupungin pelastamiseksi paitsi Onnelin ja Annelin kekseliäisyyttä myös Vekotiitus Vappusen nukutuskelloa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=onneli+ja+anneli+kurenniemi&type=AllFields|
 }
@@ -820,7 +820,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 	[b-aut]:Mayer, Kirsten|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mayer%2C+Kirsten&callnumber=&size=medium&title=Vaara+merell%C3%A4&recordid=satakirjastot.423699&isbn=9511262084&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Tintti seikkailee lukemaan opettelevien värikkäissä tarinakirjoissa, jotka pohjautuvat elokuvaan Tintin seikkailut.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=Tintin+seikkailut+mayer&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
 }
@@ -829,7 +829,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 	[b-aut]:Nopola, Sinikka|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Sinikka&callnumber=&size=medium&title=Hein%C3%A4hattu+ja+Vilttitossu&recordid=satakirjastot.95233&isbn=9513090485&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:"Minä olen saanut tarpeekseni", Vilttitossu sanoo sisarelleen Heinähatulle eräänä aamuna. Naapurissa saa ihania herkkuja, ja kun lähtee vielä vähän pidemmälle, voi päästä seikkailuun.
 Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. Matkallaan he tutustuvat Alibullenin neiteihin, Elvis Staraan ja joutuvat tekemisiin kahden innokkaan poliisin, Rillirouskun ja Isonavan kanssa.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=hein%C3%A4hattu+vilttitossu+nopola&type=AllFields|
@@ -839,7 +839,7 @@ Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. 
 	[b-aut]:Nopola, Sinikka|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Sinikka&callnumber=&size=medium&title=Risto+R%C3%A4pp%C3%A4%C3%A4j%C3%A4+ja+Nuudelip%C3%A4%C3%A4&recordid=satakirjastot.93123&isbn=9513114783&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Riston taloon on muuttanut tyttö, Nelli Perhonen. Rauha Räppääjä keksii, että uusi perhe pitää toivottaa tervetulleeksi mustikkapiirakalla, jonka Risto vie korissa Nellille. Koriin on unohtunut kohtalokas, lähettämätön kirje, Rauhan rakkaudentunnustus alakerran herra Lindbergille. Koska allekirjoituksena on "Ikätoverisi yläkerrasta", Nelli luulee, että kirje on Ristolta.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=risto+r%C3%A4pp%C3%A4%C3%A4j%C3%A4+nopola&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
@@ -848,7 +848,7 @@ Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. 
 	[b-aut]:Nordqvist, Sven|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nordqvist%2C+Sven&callnumber=&size=medium&title=Viirun+ja+Pesosen+kylv%C3%B6puuhat&recordid=satakirjastot.95118&isbn=9513095142&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:Viiru ja Pesonen ovat valloittaneet lukijoita maailmalla yli 13 miljoonan myydyn kirjan voimin. Parivaljakon edesottamuksista on saatu nauttia myös elokuvissa ja teattereissa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=viiru+ja+pesonen+nordqvist&type=AllFields&sort=main_date_str+desc|
 }
@@ -857,7 +857,7 @@ Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. 
 	[b-aut]:Parvela, Timo|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Ella+ja+kaverit.+1&recordid=satakirjastot.296446&isbn=9513171566&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:"Minä olen Ella. Minulla on mukava luokka ja mukava opettaja. Tai oli, sillä viime aikoina opettaja on ollut vähän kiristynyt. Se johtuu luultavasti siitä, että hän oli ensin häämatkalla, sitten teatterissa ja lopuksi vielä luokkaretkellä. Matkailu ei selvästikään sovi opettajalle. Meistä kaikista se on tosi kummallista, sillä minulla, Patella, Tuukalla, Sampalla, Hannalla ja Tiinalla oli tosi mukavaa."|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ella+parvela+NOT+pate&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
 }
@@ -866,7 +866,7 @@ Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. 
 	[b-aut]:Pilkey, Dav|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pilkey%2C+Dav&callnumber=&size=medium&title=Kapteeni+Kalsari+seikkailee&recordid=satakirjastot.286916&source=Solr&isbn=9513123804&index=0&w=250&h=250|
 	[b-tag]:Kirja vai elokuva|
-	[b-cat]:Lukutoukka|
+	[b-cat]:1. Lukutoukka|
 	[b-des]:TERVETULOA KAPTEENI KALSARI! Hänen todellinen henkilöllisyytensä on NIIN salainen, ettei edes hän itse tiedä sitä!
 Kun Erno ja Huuko olivat koko rankan päivän vitsailleet, kujeilleet ja aiheuttaneet sekasortoa koulussa, he riensivät mieluusti vanhaan majaan Ernon takapihalle. Huukosta oli kiva piirtää ja Ernosta kiva sepittää tarinoita. He olivat vuosien varrella luoneet satoja omia sarjakuvia, mutta kaikista poikien keksimistä supersankareista mahtavin oli ilman muuta ihmeellinen Kapteeni Kalsari.
 Rehtori Kruppikin joutuu sen karvaasti kokemaan, kun pojat pistävät tuulemaan ja tilaavat 3-D Hypnosormuksen. Hervottoman hauska kirja kahdesta kekseliäästä pojasta, jotka ovat tempauksillaan koulun ilona ja riesana.|
