@@ -563,15 +563,6 @@ Naapurissa asuvat Tommi ja Annika, ja heidän elämänsä on ollut paljon hauske
 
 [Iltasatuja kapinallisille tytöille -sarja] {
 	[b-aut]:Favilli, Elena|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.252976&index=0&size=medium&w=250&h=250|
-	[b-tag]:Ikisuosikkeja|
-	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Tavanomaisten prinsessasatujen sijasta tässä ihanassa iltasatukirjassa tutustutaan sataan todelliseen tyttöön ja naiseen, jotka ovat muuttaneet maailmaa tai oman elämänsä - rohkeasti ja lupaa kyselemättä. He ovat eläneet kauan sitten tai he elävät nyt: he ovat hallitsijoita, merirosvoja, taiteilijoita, urheilijoita, astronautteja, tieteilijöitä, tai ihan tavallisia ihmisiä, jotka ovat tehneet jonkin pelottoman valinnan.|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=%22Iltasatuja+kapinallisille+tyt%C3%B6ille%22&type=AllFields|
-}
-
-[Iltasatuja kapinallisille tytöille -sarja] {
-	[b-aut]:Favilli, Elena|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Favilli%2C+Elena%2C+kirjoittaja&callnumber=&size=medium&title=Iltasatuja+kapinallisille+tyt%C3%B6ille+%3A+100+tarinaa+ihmeellisist%C3%A4+naisista&recordid=satakirjastot.252976&isbn=9515243548&index=0&w=1200&h=1200|
 	[b-tag]:Ikisuosikkeja|
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
