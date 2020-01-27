@@ -987,3 +987,60 @@ Mistä matikanope oikein puhuu? Se mitä newyorkilaiselle Percy Jacksonille tapa
 	[b-des]:13-vuotias suomalaispoika Oskari suorittaa miehuuskoetta metsästysretkellä Lapin erämaassa, kun hän kokee elämänsä yllätyksen. Alasammutun lentokoneen pelastuskapselista kömpii esiin Yhdysvaltain presidentti, jota terroristit jahtaavat. Metsästysreissu muuttuu hurjaksi pelastusoperaatioksi, jossa pelissä on sekä Oskarin oma että maailman mahtavimman miehen henki.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.348560|
 }
+
+
+
+[Eka B -sarja] {
+	[b-aut]:Bross, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bross%2C+Helena&callnumber=&size=medium&title=Luokan+reiluin+reppu.+Eka+B&recordid=satakirjastot.292961&isbn=9513136310&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Eero on menossa kouluun, ja vasta edellisenä iltana äiti ja isä huomaavat, että hänen vanha reppunsa on aivan liian pieni. Isä kaivaa esiin töistä saamansa hienon repun, joka on aika reilun kokoinen. Kun koulu alkaa, Eero huomaa pian, että hänellä on eka B:n ehdottomasti isoin reppu. Hyötyäkin siitä on, vaikkapa silloin kun yhteiselle kivikokoelmalle pitää löytää säilytyspaikka. Eero on reilu, ja niin on hänen reppunsakin!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=eka+b+bross&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Kahjo kouluni -sarja] {
+	[b-aut]:Gutman, Dan|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Gutman%2C+Dan&callnumber=&size=medium&title=Ihan+p%C3%B6hk%C3%B6+ope&recordid=satakirjastot.265012&isbn=9513229610&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tokaluokkalainen Arttu pitää jalkapallosta ja videopeleistä, mutta koulusta hän ei pidä laisinkaan. Artun mielestä koulussa on ihan mälsää, ja hänen yllätyksekseen myös luokan uusi opettaja, neiti Hassula, on samaa mieltä hänen kanssaan. Kaiken kukkuraksi osoittautuu, ettei uusi opettaja osaa lainkaan laskea, saati lukea tai kirjoittaa. Artun luokka on siis saanut seuraansa koko universumin pöhköimmän opettajan. Mahtaako luku- ja laskutaidoton neiti Hassula olla edes oikea ope?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=kahjo+kouluni+gutman&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Karoliina -sarja] {
+	[b-aut]:Kallioniemi, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Karoliina+ja+noidutut+tossut&recordid=satakirjastot.374987&isbn=9511230018&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]: Tomera 6-vuotias Karoliina Paju saa vihdoin aloittaa Ruusutarhan esikoulun! Melkein kaikki Kissankellot-ryhmän eskarilaiset ovat onneksi tuttuja jo päiväkodista. Kiinassa syntyneen Linin pinkkien hiletossujen rinnalla Karoliinan omat tarhatossut näyttävät kauhean tylsiltä. Ei siis ihme, että ne muuttuvat yhtäkkiä noidutuiksi, ne vain kieppuvat kieppumistaan - onhan ne ostettu naapurin noita-akalta! Kun sanavalmiin Karoliinan mielikuvitus lähtee villiin laukkaan, aika ei käy pitkäksi kavereilla eikä opettajilla!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=karoliina+kallioniemi+tuula&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Reuhurinteen ala-aste -sarja] {
+	[b-aut]:Kallioniemi, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Reuhurinne.+1&recordid=satakirjastot.411660&isbn=9511223720&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Reuhurinteen koulussa arkisimmistakin pikku asioista saattaa paisua uskomaton soppa. Eikä ihme, sillä samaan luokkaan mahtuvat kaikki koulun oppilaat ekaluokkalaisista kuudesluokkalaisiin. Jokainen päivä on seikkailu myös opettaja Aapeli Käelle, joka yrittää parhaansa mukaan paimentaa katrastaan opintiellä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=reuhurinteen+kallioniemi+tuula&type=AllFields|
+}
+
+[Patrik ja superseniorit] {
+	[b-aut]:Klingenberg, Malin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Klingenberg%2C+Malin%2C+kirjoittaja&callnumber=&size=medium&title=Patrik+ja+superseniorit.+Osa+1%2C+Seniorivoimaa%21&recordid=satakirjastot.1297568&isbn=9515247128&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Eräässä pikkukaupungissa, ihan tavallisessa koulussa, istuu ihan tavallinen poika uppoutuneena omiin ajatuksiinsa. Hänen nimensä on Patrik ja hän rakastaa karttoja. Hän omistaa kolme karttaa, yhden koko maailmasta, yhden tähtitaivaasta ja yhden kotikaupungistaan.Patrik pysyttelee mieluummin omissa ajatuksissaan, sillä häntä kiusataan koulussa. Ja pian inhottava Irene on taas hänen kimpussaan. Patrik päättää karata koulusta ja nousee vahingossa bussiin, joka onkin täynnä eläkeläisiä ryhmämatkalla. Miten mälsää!Mutta kun bussi viekin supersenioreiden salaiseen tapaamiseen, pääsee Patrik mukaan seikkailuun, josta ei puutu vauhtia eikä hullunkurisia käänteitä. Mikä on datalääkitsin? Mitä tarkoittaa hälytys 001? Pelastavatko Patrik ja superseniorit kidnapatun Elsan rikolliskoplan kynsistä ajoissa? Ja mitä tekemistä inhottavalla Irenellä on kidnappauksen kanssa?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=patrik++superseniorit+klingenberg&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
+}
+
+[Koulussa on käärme] {
+	[b-aut]:Ross, Tony|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Walliams%2C+David%2C+kirjoittaja&callnumber=&size=medium&title=Koulussa+on+k%C3%A4%C3%A4rme%21&recordid=satakirjastot.1239919&isbn=9523410423&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Lemmikkipäivään saadaan säpinää, kun Miranda esittelee oman eläinystävänsä?
+Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat kouluun kissoja, koiria ja suloisia gerbiilejä, Miranda ratsastaa pihaan valtavalla pytonilla. Ensi säikähdyksestä selvittyään luokkakaverit huomaavat, että Peppiina on mitä mukavin matelija. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1239919|
+}
