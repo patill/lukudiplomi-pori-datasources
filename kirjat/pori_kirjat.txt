@@ -811,7 +811,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Koiramäki-sarja] {
 	[b-aut]:Kunnas, Mauri|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri&callnumber=&size=medium&title=Kes%C3%A4+Koiram%C3%A4ess%C3%A4&recordid=satakirjastot.359559&isbn=9511288008&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Lukutoukka|
 	[b-des]:Vanhoista ajoista kerrotaan harvoin yhtä kiehtovasti ja jännittävästi kuin Mauri Kunnaksen Koiramäki-tarinoissa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=koiram%C3%A4ki+kunnas&type=AllFields|
@@ -820,7 +820,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Onneli ja Anneli -sarja] {
 	[b-aut]:Kurenniemi, Marjatta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kurenniemi%2C+Marjatta&callnumber=&size=medium&title=Onnelin+ja+Annelin+talo&recordid=satakirjastot.285049&isbn=9510404446&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Lukutoukka|
 	[b-des]:Onneli ja Anneli ovat ihan tavallisia pikkutyttöjä, ehkä vähän onnellisempia vain kuin useimmat muut. Eräänä kesäpäivänä he pääsevät muuttamaan Tingelstiinan ja Tangelstiinan naapuriin - ikiomaan taloonsa! Talven kynnyksellä uutta asuntoa etsivä Vaaksanheimon väki mahtuu somasti viettämään pikkujoulua tyttöjen nukkekotiin, mutta vastapäätä muuttanut orpokoti aiheuttaa kaikenlaista mieliharmia. Kun hajuvesitehtailija Viksari ja pääylioikaisuinsinööri Oikotie ryhtyvät juonimaan, tarvitaan Kissanmintun kaupungin pelastamiseksi paitsi Onnelin ja Annelin kekseliäisyyttä myös Vekotiitus Vappusen nukutuskelloa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=onneli+ja+anneli+kurenniemi&type=AllFields|
@@ -829,7 +829,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Tintin seikkailut -sarja] {
 	[b-aut]:Mayer, Kirsten|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mayer%2C+Kirsten&callnumber=&size=medium&title=Vaara+merell%C3%A4&recordid=satakirjastot.423699&isbn=9511262084&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Lukutoukka|
 	[b-des]:Tintti seikkailee lukemaan opettelevien värikkäissä tarinakirjoissa, jotka pohjautuvat elokuvaan Tintin seikkailut.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=Tintin+seikkailut+mayer&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
@@ -839,7 +839,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Jali ja suklaatehdas] {
 	[b-aut]:Dahl, Roald|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dahl%2C+Roald%2C+kirjoittaja&callnumber=&size=medium&title=Jali+ja+suklaatehdas&recordid=satakirjastot.1291053&isbn=9510437271&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Kirja-ahmatti|
 	[b-des]:Willy Wonkan kuuluisa suklaatehdas avaa viimeinkin ovensa yleisölle! Vain viisi onnekasta lasta saa kutsun tutustumaan sen saloihin. Ja voittajat ovat: äärimmäisen lihava poika jonka harrastus on syöminen, hemmoteltu pikkuprinsessa joka tanssittaa vanhempiaan täysin pillinsä mukaan, vähä-älyinen purkanjauhajatyttö jolla on maailman nopeimmat leuat, lelupistoolia heilutteleva, tv:n orjuuttama gangsterinalku - sekä Jali, rehellinen ja ystävällinen sankarimme, rohkea kunnon kaveri, joka on valmis elämänsä hurjimpaan seikkailuun!|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jali+ja+suklaatehdas&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
@@ -848,7 +848,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Lasse-sarja] {
 	[b-aut]:Jacobsson, Anders|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Olsson%2C+S%C3%B6ren&callnumber=&size=medium&title=Lasse+Kreikassa&recordid=satakirjastot.243669&isbn=9511276719&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Kirja-ahmatti|
 	[b-des]:Anderssonin perhe lentää lomalle Kreikkaan. Lassea jännittää kauheasti, ja päässä pyörii sata kysymystä. Kuinka selviytyä turvatarkastuksesta? Mitä tehdä, kun huomaa maailman suloisimman tytön toisen pojan seurassa? Anderssonit ystävystyvät kreikkalaisen perheen kanssa, joka on yhtä kahjo kuin Lassen perhe. Heilläkin on kömpelö isä joka tykkää kalastaa, ja Lassen ikäinen likkojenhurmaaja.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lasse+jacobsson&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
@@ -857,7 +857,7 @@ Yllättäen äiti päättää lähteä Norjaan tienaamaan kunnolla ja jättää 
 [Me rosvolat -sarja] {
 	[b-aut]:Kolu, Siri|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kolu%2C+Siri&callnumber=&size=medium&title=Me+Rosvolat&recordid=satakirjastot.275179&isbn=9511243934&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Kirja-ahmatti|
 	[b-des]:Vilja on rosvopäällikkö Hurja-Kaarlo Rosvolan heräteryöstö - tavallisesti Rosvolat nappaavat autoista vain karkkeja ja muuta syötävää, barbeja ja lehtiä. Mummolamatkalla ollut Vilja tulee mukaan vähän vahingossa, rosvoperheen omien lasten Helen ja Kallen seuraksi.
 
@@ -868,7 +868,7 @@ Tytön järkytys muuttuu pian ymmärrykseksi. Hänestä on hauskaa, kun kaahataa
 [Spiderwickin kronikat -sarja] {
 	[b-aut]:DiTerlizzi, Tony|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=DiTerlizzi%2C+Tony&callnumber=&size=medium&title=Spiderwickin+kronikat+%3A+kirjat+I-V&recordid=satakirjastot.260207&isbn=9510341142&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Miksi isän piti mennä uusiin naimisiin? Yksitoistavuotias Nicholas ei voi sietää uutta sisarpuoltaan Laurieta. Mikään ei ole ollut ennallaan sen jälkeen, kun Laurie ja hänen äitinsä muuttivat yhteen Nicholasin, hänen veljensä ja isänsä kanssa. Ensin Laurie sai Nicholasin huoneen. Sitten kävi ilmi, että tyttö on kiinnostunut haltijoista ja muista keksityistä olennoista! Nicholas muuttaa nopeasti käsitystään Lauriesta ja näkymättömistä kummajaisista, kun kaksikko pelastaa talon lähistöltä löytyneen najadin hengen. Uusi kokemus muuttuu kuitenkin äkkiä painajaiseksi, kun he vahingossa herättävät vihaisen jättiläisen uniltaan. Yhdessä Nicholas ja Laurie lähtevät hakemaan apua yllättävältä taholta Lammenneidon laulu aloittaa Spiderwickin kronikoiden toisen osan, jossa selvitetään näkymättömän maailman tapahtumia floridalaisen Nicholasin ja Laurien näkökulmasta.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=diterlizzi+spiderwickin&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
@@ -877,7 +877,7 @@ Tytön järkytys muuttuu pian ymmärrykseksi. Hänestä on hauskaa, kun kaahataa
 [Jos vielä jään] {
 	[b-aut]:Forman, Gayle|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Forman%2C+Gayle&callnumber=&size=medium&title=Jos+viel%C3%A4+j%C3%A4%C3%A4n&recordid=satakirjastot.421753&isbn=9510409537&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Rakkaus musiikkiin saattoi 17-vuotiaan Mian yhteen poikaystävänsä Adamin kanssa, mutta nyt se uhkaa myös erottaa heidät. Kaksivuotisen suhteen ylle on kerääntynyt pilviä, kun Mia on päättänyt pyrkiä arvostettuun Juilliardin musiikkiakatemiaan New Yorkiin. Sisäänpääsy merkitsisi muuttoa maan toiselle puolelle, kauaksi Adamista, jonka rockbändi on tekemässä läpimurtoa kotikaupungin musiikkimaailmassa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jos+viel%C3%A4+j%C3%A4%C3%A4n+forman&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
@@ -886,7 +886,7 @@ Tytön järkytys muuttuu pian ymmärrykseksi. Hänestä on hauskaa, kun kaahataa
 [Coraline varjojen talossa] {
 	[b-aut]:Gaiman, Neil|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Russell%2C+P.+Craig&callnumber=&size=medium&title=Coraline&recordid=satakirjastot.357136&isbn=9522330663&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
+	[b-tag]:Kirja_vai_elokuva|
 	[b-cat]:Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Kun Coraline löytää omituisen oven, hän astuu sen kautta toiseen maailmaan ja toiseen taloon, joka muistuttaa hänen omaa kotiaan... paitsi että siellä kaikki on paremmin. Ainakin aluksi. Ruoka on makoisampaa, naapurit ovat jännittävämpiä ja lelulaatikko täynnä leijailevia vieterienkeleitä sekä hampaitaan narskuttavia dinosauruksen kalloja. Mutta talossa asuvat myös toinen isä ja toinen äiti, jotka haluavat, että Coraline jää asumaan heidän luokseen. He haluavat, että hän ompelee silmiinsä napit eikä ikinä lähde pois. Coraline joutuu käyttämään kaikki keinonsa ja urheutensa, mikäli hän mielii palata oikeaan kotiinsa ja pelastaa oikeat vanhempansa.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=gaiman+coraline&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
