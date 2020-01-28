@@ -1168,3 +1168,208 @@ Tätä oli teinirakkaus ennen tekstiviestejä, Facebookia, Twitteriä, Instagram
 Park Sheridan luovii läpi lukuvuosien pitäen matalaa profiilia, kuunnellen Smithsiä ja vältellen ikätovereitaan. Sitten uusi tyttö, Eleanor, astuu koulubussiin. Isokokoinen, punatukkainen ja omaperäisesti pukeutuva tyttö on välitön kohde kiusaajien silmissä. Kun Park huomaa viereisellä penkillä istuvan Eleanorin lukevan sarjakuviaan salaa, syntyy hiljainen ystävyys. Hitaasti ja härnäävästi siitä kehittyy jotakin enemmän. Eleanor ja Park kertovat varovaisesti kehittyvän rakkaustarinansa vuorotellen, hersyvän dialogin kautta.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.364228|
 }
+
+
+
+[Pyjamapiraatit] {
+	[b-aut]:Crowe, Caroline|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Crowe%2C+Caroline&callnumber=&size=medium&title=Pyjamapiraatit&recordid=satakirjastot.421434&isbn=951883718X&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Kun kapteeni Ryönäparran papukaijapaatissa tulee ilta, merirosvot vetävät ylleen pyjamat. Eivätkä asuja korista pääkallot ja sääriluut, vaan yöpuku voi olla violetti tai sateenkaarikuosinen. Ja iltatoimet ovat varmasti räväkät!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.421434|
+}
+
+[Painajaispuoti-sarja] {
+	[b-aut]:Hai, Magdalena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hai%2C+Magdalena%2C+kirjoittaja&callnumber=&size=medium&title=Painajaispuoti+ja+kamala+kutituspulveri&recordid=satakirjastot.1257110&isbn=9510433640&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Varokaa aavetöhnää!
+Uusi karmivan hauska Lukupalat-sarja kertoo neuvokkaasta Ninnistä, joka pestautuu kauppa-apulaiseksi eriskummalliseen Painajaispuotiin.
+Ninni etsii töitä ja astuu rohkeasti sisään Painajaispuotiin. Myyntitiskin takaa hän löytää kaupan omistajan Kumma-Ukon, joka on tikahtumassa nauruun. Joku ketku on ripotellut tämän päälle aimo annoksen kutituspulveria!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=hai+painajaispuoti&type=AllFields|
+}
+
+[Hei merirosvokapteeni] {
+	[b-aut]:Jones, Gareth P.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jones%2C+Gareth+P.&callnumber=&size=medium&title=Hei+merirosvokapteeni%21&recordid=satakirjastot.443409&isbn=9518837279&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ensin merirosvolaivaan tarvitaan kapteeni. Mistä sellaisen tunnistaa: koukusta, papukaijasta vai tuuheasta parrasta? Onnistuvatko yliperämies Heikki ja merirosvomiehistö palkkaamaan laivaansa kelpo johtajan?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.443409|
+}
+
+[Hirviö tuli taloon!] {
+	[b-aut]:Knapman, Timothy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Knapman%2C+Timothy&callnumber=&size=medium&title=Hirvi%C3%B6+tuli+taloon%21&recordid=satakirjastot.323699&isbn=9518836574&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ulkona sataa, ja Jalmarilla on tylsää. Niinpä hän päättää rakentaa majan. Entä jos sinne tulee hirviö? kysyvät äiti ja isä. Jalmaria ei pelota, sillä yksin on kurjaa leikkiä kovin kauan.
+Mutta onko hän samaa mieltä vielä silloin, kun majaan oikeasti muuttaa hirviö?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.323699|
+}
+
+[Yökoulu-sarja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Noronen%2C+Paula&callnumber=&size=medium&title=Y%C3%B6koulu+ja+kadonnut+opettaja&recordid=satakirjastot.255064&isbn=9510421189&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Paula Norosen kammottavan hauska Yökoulu avaa ovensa uudessa Lukupalat-sarjassa.
+Yökoulunkäynti ei ole yhtään hullumpaa. Paitsi jos oma opettaja katoaa merkillisellä tavalla ja luokkaan astelee hämärähommista innostunut outo sijainen...
+Zombipoika Paavo ja vampyyrityttö Martta päättävät selvittää kadonneen opettaja Kammosen mysteerin. Kouluhuoneen oven takaa he löytävät Kammosen haisevan perintökengän. Johtaako se heidät oikeille jäljille?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=y%C3%B6koulu+noronen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
+}
+
+[Kissapojan yö] {
+	[b-aut]:Richemont, Enid|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Richemont%2C+Enid&callnumber=&size=medium&title=Kissapojan+y%C3%B6&recordid=satakirjastot.360992&isbn=9518837074&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Eräänä iltana Rasmus-kissalla on omituinen olo. Se katsoo kauhuissaan käpäliään, joihin putkahtaa oudon näköisiä sormia ja varpaita. Pian Rasmus huomaa osaavansa jopa puhua! Sen omistaja Masa on järkyttynyt - mitä Rasmukselle on oikein tapahtunut?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.360992|
+}
+
+
+[Maan kätkemät] {
+	[b-aut]:Aarnio, Reetta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Aarnio%2C+Reeta&callnumber=&size=medium&title=Maan+k%C3%A4tkem%C3%A4t&recordid=satakirjastot.439503&isbn=9511229044&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Viidesluokkainen Liina yrittää totutella uuteen kaupunkiin ja uuteen kouluun. Eräällä kirjastoreissulla hän löytää oven, joka johtaa aivan toisenlaiseen maailmaan. Muutamat koulun oppilaat käyvät iltaisin "taikatunneilla" ja oppivat asioita maahisista, tontuista ja veden väestä. Liinakin huomaa kuuluvansa joukkoon, jolla on kyky nähdä ja kokea asioita, joita muut ihmiset eivät näe. Tunneilla Liina tutustuu punatukkaiseen Siriin ja ujoon Eetuun, ja pian he ovat tiivis kolmikko. Kun koulun pihalta ja tarhasta alkaa kadota lapsia, vain Liina, Siri ja Eetu ymmärtävät, että maahisilla on sormensa pelissä. Miksi ihmisten ja maahisten Rauhanomaisen rinnakkaiselon sopimusta on yhtäkkiä rikottu?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.439503|
+}
+
+[Monsterijengi-sarja] {
+	[b-aut]:Apps, Roy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Apps%2C+Roy&callnumber=&size=medium&title=Ukkini+on+vampyyri&recordid=satakirjastot.291377&isbn=9525701042&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Jonathan Leechin elämä on kääntymässä huonoon suuntaan. Vai onko? Hän on paljastamassa perheen synkimmän salaisuuden. Isoisän! Eikä siinä vielä kaikki. Jonathan tutustuu muutamiin epätavallisiin uusiin ystäviin, jotka opettavat hänelle muutamia vertahyytäviä asioita myös hänestä itsestään...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=monsterijengi+apps&type=AllFields&sort=main_date_str+asc|
+}
+
+[Hirviökäsikirja] {
+	[b-aut]:Koski, Mervi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Koski%2C+Mervi&callnumber=&size=medium&title=Hirvi%C3%B6k%C3%A4sikirja&recordid=satakirjastot.341638&isbn=951235232X&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Lasten ja nuorten ikuinen lempiaihe herää henkiin tässä huiman monipuolisessa ja hauskassa hirviöoppaassa, joka esittelee liki 80 toinen toistaan karmivampaa otusta eri puolilta maailmaa. Valikoimassa ovat mukana tunnetuimmat kammotukset sekä kaukomailta että lähempää, mm. Medusa, kyklooppi, lohikäärme, jeti, isojalka, vampyyri, Loch Nessin hirviö, hippokamppi, ukkoslintu ja Kerberos.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.341638|
+}
+
+[Taika Taksinen -sarja] {
+	[b-aut]:Kolu, Siri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kolu%2C+Siri&callnumber=&size=medium&title=Tervemenoa+Taika+Taksinen&recordid=satakirjastot.261111&isbn=9511290894&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kun Roosa Hurme 10-vuotispäivänään muuttaa Sirkuslaakson lähiöön, hänellä ei ole vielä aavistustakaan, että naapurissa asuu noita. Ja että hänestä tulee noidanvastustaja. Pian Roosa kuitenkin huomaa, että kunnallispoliitikko ja yrittäjä Taika Taksisessa on jotakin epäilyttävää. Ja Taksisen huvituspalvelun punaisissa ilmapalloissa melkoisen outoa kaasua.
+Lähiönoidat ovat katalia vihollisia. Mutta Roosaa ei helpolla lannisteta. Tietokoneita harrastavan ystävänsä Larsin kanssa hän päättää paljastaa lähiönoita Taika Taksisen ja selvittää, mihin oikein ovat joutuneet Sirkuslaaksosta kadonneet lapset.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=taika+taksinen+kolu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Suuri hirviökirja] {
+	[b-aut]:Marijanović, Stanislav|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Marijanovi%C4%87%2C+Stanislav&callnumber=&size=medium&title=Suuri+hirvi%C3%B6kirja&recordid=satakirjastot.253697&isbn=9516278477&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Arvoisat ihmiset. Tämä kirja on toisenlainen kuin kaikki muut maailman kirjat, sillä sitä ei ole kirjoittanut ihminen, vaan oikea HIRVIÖ! Luit aivan oikein: hirviö on kirjoittanut sen. Tähän saakka ihmiset ovat luulleet hirviöitä mielikuvitusolennoiksi, jotka kuuluvat vain sadun ja fantasian maailmaan. Mutta, uskokaa tai älkää, hirviöt ovat yhtä todellisia kuin ihmiset, kasvit, eläimet, pilvet ja kaikki muu. Hirviöt vain ovat tähän asti pysyneet visusti piilossa. Syyn siihen löydät tästä kirjasta. Samalla selviää myös, miksi hirviöt eivät enää halua piileskellä... Tieto hirviöiden olemassaolosta voi tietysti tuntua järkyttävältä. Mutta hirviöt pelottavat meitä vain, koska emme tiedä niistä mitään! Kannattaa siis ehdottomasti tutustua niihin ja lukea tämä kirja. Sitä paitsi, hirviöt ovat meille läheisempää sukua kuin arvaammekaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.253697|
+}
+
+[Avaimenkantaja-sarja] {
+	[b-aut]:Peltoniemi, Sari|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Peltoniemi%2C+Sari&callnumber=&size=medium&title=Taivazalan+joutsen&recordid=satakirjastot.247005&isbn=9513187381&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Mirandan, Veeran ja Olavin kesä huipentuu hurjaan seikkailuun, joka muuttaa heidän elämänsä ja käsityksensä niin Kielisestä kuin sen asukkaistakin: Kielisestä on ikiaikaisia yhteyksiä muihin maailmoihin ja kylässä asuu avaimenkantaja, joka voi liikkua maailmojen välillä.
+Eräänä elokuun päivänä Kielisen kylän taivaalle ilmestyi merkillinen lintuparvi. Tavallisten lintujen lisäksi siinä oli papukaijoja ja undulaatteja ja jopa merikotka. Parvi kuljetti mukanaan koria, jossa matkusti Opri koiriensa Fanelin ja Fonarin sekä taivaskissa Natalian kanssa. Opri oli tullut Taivazalasta Kieliseen etsimään poikaansa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=avaimenkantaja+%22peltoniemi%22&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Shen ja mopsit] {
+	[b-aut]:Reeve, Philip|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Reeve%2C+Philip%2C+kirjoittaja&callnumber=&size=medium&title=Shen+ja+mopsit&recordid=satakirjastot.324379&isbn=9522305375&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Shen joutuu haaksirikkoon pohjoisessa meren jäädyttyä äkillisesti. Kerran sukupolven aikana ilmaantuva tositalvi on saapunut! Shenillä on mukanaan 66 mopsia, ja kun hän tapaa Shika- nimisen tytön, he osallistuvat koiravaljakollaan huimaan kilpailuun, jonka aikana he tapaavat otuksia jos jonkinlaisia.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.324379|
+}
+
+[Noitapeili] {
+	[b-aut]:Teräs, Mila|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ter%C3%A4s%2C+Mila&callnumber=&size=medium&title=Noitapeili&recordid=satakirjastot.385966&isbn=9511292994&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hugo ja Lydia löytävät Noitapeili-nimisen kirjan välistä kummallisen kartan. Kartta johdattaa heidät ensin unohdettujen tarinoiden kirjastoon ja sieltä salaista reittiä Kyöpelinvuorelle. Kyöpelin kaupungissa on alkamassa suuri Noitakonferenssi. Kun Kyöpelinvuoren holvissa säilytetty noitapeili juhlan kunniaksi nostetaan esiin, Lydia joutuu peilin takaiseen varjojen maahan. Onnistuuko Hugon pelastaa Lydia ilkeän Peilien valtiaan kynsistä?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.385966|
+}
+
+
+[Alismaan tarinat -sarja] {
+	[b-aut]:Collins, Suzanne|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Collins%2C+Suzanne&callnumber=&size=medium&title=Gregor+ja+Turman+ennustus&recordid=satakirjastot.328106&isbn=9510398829&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:11-vuotias Gregor ja hänen pikkusiskonsa seikkailevat jälleen Alismaan salaisessa maailmassa New Yorkin alla.
+Gregor on onnellinen saatuaan isänsä takaisin. Perheidylli ei kestä pitkään, kun Boots katoaa veljensä valvonnasta Keskuspuistossa. Yhtäkkiä Gregorin pahat aavistukset käyvät toteen ja hänen on palattava hämärän valtakuntaan pelastaakseen jättiläistorakoiden palvoman siskonsa. Rotat näyttävät kuitenkin olevan se todellinen uhka, sillä ennustuksen toteuttamiseksi ne ovat vannoneet tappavansa pienokaisen. Vain Gregor yksin voi estää rottien katalat aikeet surmaamalla Alismaan vitsauksen, jättimäisen valkoisen rotan, mutta väistämättömässä kohtaamisessa tappajan vaistot joutuvat ottamaan mittaa omantunnon äänistä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alismaan+tarinat+collins&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Huimaa-sarja] {
+	[b-aut]:Hurme, Vuokko|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hurme%2C+Vuokko&callnumber=&size=medium&title=Kiepaus&recordid=satakirjastot.281615&isbn=9515242940&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Lenna Anderssen eli elämänsä kahdeksan ensimmäistä vuotta kaupungissa, jonka nimi oli Kardum, maailmassa, joka oli kääntynyt nurin päin. Siellä missä ennen oli taivas, oli nyt maa, ja missä piti olla maata jalkojen alla, olikin vain huikaiseva pudotus tyhjyyteen. Tapahtuma, jota kutsuttiin Kiepaukseksi, oli mullistanut kaiken. Ihmiset ovat kuitenkin oppineet pärjäämään ylösalaisessa maailmassaan, ja Lennan perheen elämä Kardumissa on oikeastaan juuri sopivan jännittävää ja mukavaa - kunnes puhdas vesi alkaa loppua. Miten Lennan ja hänen perheensä, äidin, isän, pikkusiskon ja lemmikkikanan, käy? Uskaltavatko he lähteä etsimään tulevaisuuttaan toisesta maailmasta, joka ehkä on jossain heidän allaan, taivaalla?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=huimaa+hurme&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Painajaisakatemia-sarja] {
+	[b-aut]:Lorey, Dean|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lorey%2C+Dean&callnumber=&size=medium&title=Painajaisakatemia&recordid=satakirjastot.316969&isbn=9511228439&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Hirveän hyvä sekoitus hirviöitä, seikkailua, nasevaa dialogia ja huumoria - uusi suosikkisarja alkaa Charlie Benjamin on poika, joka ei ole koskaan elänyt tavallista elämää. Sopeutuminen arkeen ja koulumaailmaan on vaikeaa, sillä Charlien näkemät painajaisunet avaavat portin hirviöiden maailmaan Hornaan ja takaavat samalla hirviöiden pääsyn maan pinnalle. Niiden, joilla on kyky, on päästävä Painajaisakatemian koulutettavaksi. Pelko ruokkii mielikuvitusta ja painajaisia, ja Charlien ystävineen on opittava hallitsemaan molemmat, jotta he voisivat onnistua mahdottomassa. Onnistuuko heidän pelastaa Charlien vanhemmat Hornan pahimpien hirviöiden kimpusta?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=painajaisakatemia+lorey&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Jäälohikäärme] {
+	[b-aut]:Martin, George R.R.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Martin%2C+George+R.+R.&callnumber=&size=medium&title=J%C3%A4%C3%A4lohik%C3%A4%C3%A4rme&recordid=satakirjastot.357578&isbn=9525802124&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Legendojen mystinen jäälohikäärme herätti pelkoa, sillä kukaan ei ollut milloinkaan kesyttänyt sellaista. Yli lentävä jäälohikäärme jätti jälkeensä lohduttoman kylmän ja jäisen maan. Mutta Adaraa ei pelottanut - hän oli talvilapsi, syntynyt ankarimpien kenenkään muistamien pakkasten aikaan.
+Adara ei muistanut ensimmäistä kertaa, jolloin oli nähnyt jäälohikäärmeen. Tuntui kuin se olisi aina ollut osa hänen elämäänsä, kuin hän olisi aina nähnyt sen vilaukselta leikkiessään hyisessä lumessa vielä pitkään sen jälkeen, kun muut lapset olivat paenneet kylmyyttä sisätiloihin. Neljäntenä ikävuonnaan hän kosketti sitä, viidentenä hän ratsasti ensimmäistä kertaa sen leveässä, jäisessä selässä. Ja sitten Adaran seitsemäntenä ikävuotena, eräänä tyynenä kesäpäivänä, pohjoisen tuliset lohikäärmeet pyyhälsivät hänen rauhalliselle kotitilalleen...
+|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.357578|
+}
+
+[Ikimaa-sarja] {
+	[b-aut]:Ohtonen, Kimmo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ohtonen%2C+Kimmo%2C+kirjoittaja&callnumber=&size=medium&title=Ikimaa+%3A+soturin+tie&recordid=satakirjastot.427108&isbn=951131565X&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Pohjoisimman maankolkan pohjoisimmasta kylästä katoaa nainen. 12-vuotias Oliver lähtee etsimään äitiään ainoana tukenaan Jätti-karhu. Kaukana Ikimaassa Kalla-tyttö opiskelee viimeistä vuottaan soturikoulussa. Hän haaveilee vapaudesta, elämästä Aarniolan muurien takana. Kallan ja Oliverin hartioilla lepää toivo, kun kuiskaajien kilta ja klaanien vastarinta nousevat kuningas Viktoria vastaan pelastaakseen aarniokansan tuholta.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ohtonen+ikimaa&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Sisarla] {
+	[b-aut]:Simukka, Salla|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Simukka%2C+Salla&callnumber=&size=medium&title=Sisarla+%3A+seikkailu+toisessa+maailmassa&recordid=satakirjastot.388697&isbn=951319065X&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Aliisa tiesi, että oli alkamassa seikkailu ja jos hän jotain oli toivonut, niin oikeaa seikkailua!
+Sinä talvena lumisade vain jatkui ja jatkui. Pakkanen kiristyi ja koko maailma uhkasi hukkua kinoksiin. 11-vuotias Aliisa putosi lumen halki toiseen maahan, Sisarlaan - ja seikkailuun.
+Sisarlan sydämessä on ihmeellinen puutarha, jossa asuu mitä merkillisimpiä otuksia: tuulikeijuja, unienkutojia, kyselijäkukkia. Ja yhdessä puussa keikkuu tyttö, Meri. Aliisa on koko ikänsä kaivannut parasta ystävää, ja nyt tuo toive toteutuu. Tytöt eivät ole sattumalta joutuneet Sisarlaan: heidän on löydettävä Sisarlaa hallitseva kuningatar ja saatava oman maailmansa lumisade loppumaan. Mutta Aliisa joutuu vielä vaikeamman tehtävän eteen, kun Meri näyttää unohtaneen heidän ystävyytensä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.388697|
+}
+
+[Synkät vedet -sarja] {
+	[b-aut]:Sten, Camilla|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Sten%2C+Camilla&callnumber=&size=medium&title=Syvyyksiss%C3%A4&recordid=satakirjastot.384689&isbn=9511313177&index=0&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Suunnistustunti sumuisella saarella saa karmivan käänteen, kun poika Tuvan luokalta katoaa. Tukholman saaristo, pimeä syksy, synkkä meri paksun sumun peitossa. 12-vuotias Tuva tuntee kotipaikkansa saaret, luodot ja vedet läpikotaisin. Mutta tänä syksynä jokin on vialla. Tuva näkee outoja hahmoja metsässä, ja tummat pelottavat varjot aaltoilevat meressä. "Katsahdan epätoivoisesti olkani yli ja näen jonkin seuraavan venettä. Kelmeä kuiskaus vedessä, kylmä virtaus pinnan alla, paljon nopeampi kuin vene. Se ei anna minun päästä karkuun."|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=synk%C3%A4t+vedet+sten&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
