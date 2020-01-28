@@ -1050,7 +1050,7 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Kallioniemi, Tuula|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Konsta%2C+eka+A&recordid=satakirjastot.308561&isbn=9511197134&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Konsta aloittaa koulun ja saa opettajakseen pulskan ja iloisen Mirjami Leppäsen. Syksyn mittaan pienen ekaluokkalaisen päässä risteilevät kymmenet kysymykset. Entä jos ei lempeästä opettajasta huolimatta opikaan lukemaan? Mitä jos myöhästyy? Miksi pitää mennä puheopetukseen? Joutuuko vankilaan, jos heittää koulun pihalla kiellosta huolimatta lumipallon? Tuula Kallioniemi tunnetaan koulumaailmassa aapisten kirjoittajana.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=konsta+kallioniemi+tuula&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
@@ -1059,7 +1059,7 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Pantermüller, Alice|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Panterm%C3%BCller%2C+Alice&callnumber=&size=medium&title=Lotta+Levoton+ja+suuri+kanikaaos&recordid=satakirjastot.257111&isbn=9522882240&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:"Nimeni on Lotta, olen 10-vuotias ja ihan normaali. Ainakin normaalimpi kuin vanhempani ja kaksi pönttöveljeäni. Siksi en ollenkaan ymmärrä, miksi juuri minulle on viime aikoina sattunut niin paljon kummia juttuja. Vaikka se, että koulussa taululle ilmestyy itsestään todella noloja tekstejä tai että lempiruokani maistuu yhtäkkiä ruusukaalilta. Yök! Johtuuko se intialaisesta nokkahuilusta, jonka äiti antoi minulle? Tällaiseen minulla ei nyt riitä aika. Haluan nimittäin oman lemmikkieläimen. Ja minulla on jo hyvä suunnitelma sen saamiseksi."|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lotta+levoton+panterm%C3%BCller&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
@@ -1068,7 +1068,7 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Peirce, Lincoln|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Peirce%2C+Lincoln&callnumber=&size=medium&title=Iso+Nipa+on+ykk%C3%B6nen&recordid=satakirjastot.311656&isbn=9511282069&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Hyväntahtoista alakouluhuumoria ja mahtavaa tilannekomiikkaa! Helppolukuisen sarjakuvakertomuksen vitsikäs antisankari saa pojatkin tarttumaan kirjaan Nipalla on taipumusta sarkastisiin huomioihin ja aika suuret luulot itsestään. Hänellä on myös tapana ajautua selkkauksiin, vaikkei hän mikään pahis olekaan. Eräänä päivänä hän tajuaa rikkoneensa ennätyksen. Kukaan muu ei ole aiemmin saanut seitsemää muistutusta yhden ainoan koulu päivän aikana. Vihdoin hän on osoittanut olevansa jossakin lajissa ykkönen!|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=iso+nipa+peirce&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
@@ -1077,7 +1077,7 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Pichon, Liz|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pichon%2C+Liz%2C+kirjoittaja%2C+kuvittaja&callnumber=&size=medium&title=Tom+Gatesin+mahtava+maailma&recordid=satakirjastot.283819&isbn=9522940798&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Tom Gates on selitysten mestari, taitava piirustelija, pilapiirtäjä ja kirjoittaja - sekä ainakin äreän opettajansa herra Fullermanin mielestä - varsinainen riesa. Tomin mahtavasta töherrysten ja raapustusten täyttämästä päiväkirjasta löytyy rutkasti hassuja ja sekopäisiä juttuja, jotka saavat lukijan voihkimaan naurusta.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=tom+gates+pichon&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
@@ -1086,7 +1086,7 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Russell, Rachel Renée|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Russell%2C+Rachel+Ren%C3%A9e&callnumber=&size=medium&title=Nolo+el%C3%A4m%C3%A4ni.+1%2C+Olisinpa+suosittu&recordid=satakirjastot.357203&isbn=9513235025&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Nikki siirtyy hulppeaan yksityiskouluun isänsä hyönteistorjuntafirman saaman sopimuksen ansiosta, mutta sopeutuminen ei ole ihan helppoa. Koulun SS-porukan (Söpöt ja Suositut) johtaja, valovoimainen mutta ilkeä McKenzie ottaa Nikkin hampaisiinsa, ja vanhempien nolot lohdutusyritykset vain pahentavat tilannetta. Nikki suunnittelee jo vaihtavansa takaisin vanhaan kouluun, mutta toisessa vaakakupissa painavat uudet ystävät Chloe ja Zoey, taidekilpailu ja söpösti hymyilevä Brandon...|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=nolo+el%C3%A4m%C3%A4ni+russell&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
@@ -1095,9 +1095,76 @@ Opettaja Välkky järjestää luokalleen lemmikkipäivän. Kun muut tuovat koulu
 	[b-aut]:Walliams, David|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Walliams%2C+David%2C+kirjoittaja&callnumber=&size=medium&title=Maailman+rikkain+poika&recordid=satakirjastot.318755&isbn=9513174867&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa, koulusta, kouluun|
-	[b-cat]:Kirja-ahmatti|
+	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:12-vuotias Joe Spud on rikas, suorastaan järjettömän, tolkuttoman rikas!
 Hänellä on kotikartanossaan mm. formula-auto, keilarata, elokuvateatteri, jopa kaksi krokotiilia! Mutta tärkein puuttuu: oma ystävä.
 Joe käy aluksi Englannin kalleinta yksityiskoulua, jossa oppiaineina on mm. hevospoolo, kuninkaallistietous ja pensaiden muotoilu. Koulussa häntä kuitenkin kiusataan, koska isä Spud on luonut jättiomaisuutensa Puhtopeppu-vessapaperilla. Nyt Joe aloittaa uudessa, aivan tavallisessa koulussa, missä hän ystävystyy mukavan Bobin kanssa. Uusilla luokkakavereilla ei ole aavistustakaan Spudin perheen valtavasta omaisuudesta. Mutta eräänä päivänä koulun pihaan pörrähtää helikopteri tuomaan Joen unohtunutta historianläksyä... Kun yllättävät tapahtumat pääsevät vauhtiin, moni ymmärtää, mikä elämässä on todella tärkeää.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.318755|
+}
+
+
+[Runoilija X] {
+	[b-aut]:Acevedo, Elizabeth|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Acevedo%2C+Elizabeth%2C+kirjoittaja&callnumber=&size=medium&title=Runoilija+X&recordid=satakirjastot.1294294&isbn=9512365723&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Xiomara Batista on aina pitänyt sanansa sisällään. Harlemin kaduilla kukaan ei kuuntele häntä, mutta kaikki kyllä näkevät hänet. Jotta epätoivottu huomio kohdistuisi minne tahansa paitsi hänen kehoonsa, Xiomara antaa nyrkkiensä puhua puolestaan. Raamatun sanomaa noudattavalle, ankaralle äidille hän ei voi uskoutua. Xiomaralla on kuitenkin paljon sanottavaa, ja hän vuodattaa turhautumisensa ja intohimonsa muistikirjan sivuille - erityisesti ihastuttuaan samalla kurssilla olevaan poikaan. Kun Xiomara saa kutsun koulun lavarunouskerhoon, hänelle tarjoutuu tilaisuus tulla kuulluksi. Mutta kykeneekö hän lausumaan ajatuksensa ääneen?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294294|
+}
+
+[Mitä sain tietää meduusoista] {
+	[b-aut]:Benjamin, Ali|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Benjamin%2C+Ali&callnumber=&size=medium&title=Mit%C3%A4+sain+tiet%C3%A4%C3%A4+meduusoista&recordid=satakirjastot.297131&isbn=9511304119&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kun Suzyn paras ystävä hukkuu, Suzy alkaa selvittää syytä: tappoivatko meduusat Frannyn?
+Toisinaan, kun tunnemme itsemme kaikkein yksinäisimmiksi, päättää maailma avautua mitä ihmeellisimmillä tavoilla. Suzy on aina tiennyt asioita, joita muut hänen ikäisensä eivät tiedä. Hän tietää, että jotkut sydämet lyövät vain 412 miljoonaa kertaa, mikä voi kuulostaa paljolta. Totuus on, että lyönnit riittävät juuri ja juuri 12 vuoteen. Mutta sitä hän ei ymmärrä, miksi hänen ystävänsä Frannyn elämä päättyi niin äkkiä... ennen kuin Suzy ehti pyytää ystävältään anteeksi.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.297131|
+}
+
+[Yksi] {
+	[b-aut]:Crossan, Sarah|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Crossan%2C+Sarah%2C+kirjoittaja&callnumber=&size=medium&title=Yksi&recordid=satakirjastot.385781&isbn=9515244331&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Teini-ikäiset Grace ja Tippi eivät siedä, että heitä tuijotetaan, mutta he ovat tottuneet siihen. He ovat siamilaiset kaksoset, yhtä kaikin mahdollisin tavoin. He toivovat enemmän kuin mitään muuta, että heidät nähtäisiin yksitellen, kumpikin vuorollaan, kahtena erillisenä ihmisenä kuten muutkin. He haluavat oikeita, omia ystäviä. Entä rakkaus?Kun vanhemmilla ei ole varaa jatkaa tyttöjen kotikoulutusta, heidän täytyy mennä tavalliseen kouluun muiden nuorten armoille. Vaikka muutos ei ole helppo, samalla avartuu maailma.Mutta Tippin ja Gracen edessä on raastava valinta. Heidän on tehtävä päätös, joka voi muuttaa heidän elämänsä peruuttamattomasti... |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.385781|
+}
+
+[Nörtti-sarja] {
+	[b-aut]:Delikouras, Aleksi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Delikouras%2C+Aleksi&callnumber=&size=medium&title=N%C3%B6rtti+%3A+new+game&recordid=satakirjastot.370420&isbn=9511258850&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:DragonSlayer666 elää mieluiten virtuaalimaailmassa - vain tietokoneriippuvuudesta huolestunut äiti voisi estää häntä tulemasta maailman parhaaksi pelaajaksi! Nuori mies raportoi elämäänsä vimmaisella nörttiliturgiallaan koneella 24/7 ja kommentoi hankaliakin asioita: koulukiusaamista ja pelimaailman tarjoamaa pakoa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=n%C3%B6rtti+delikouras&type=AllFields&sort=main_date_str+asc|
+}
+
+[Joku vieraileva tähti] {
+	[b-aut]:Palviainen, Jukka-Pekka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palviainen%2C+Jukka-Pekka&callnumber=&size=medium&title=Joku+vieraileva+t%C3%A4hti&recordid=satakirjastot.329024&isbn=9510381071&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Atte on pojista ainoa, joka pystyy venymään Alpo Korvan rooliin Häräntappoase-näytelmässä. Tosielämän yllätyskohtauksissa oikeita repliikkejä ei tunnu sitten löytyvänkään. Ainakaan silloin, kun tarkkisluokan kiehtova tyttö tulee kirjastossa vastaan ja lainaa samaisen romaanin. Mustiin verhoutunut Anni huomaa kohta vajoavansa päiväunelmiin. Kun Annin apua tarvitaan näytelmän puvuston korjailussa, hän on riemuissaan tutustuessaan valovoimaiseen Elovena-poikaan Atteen. Samalla hän ihmettelee, mitä onkaan tapahtumassa sille ahdistuneelle naisenalulle, joka tähän asti on halunnut vain paeta omiin mielikuviinsa? Kuvankauniin vastanäyttelijättärensä Jennin suhteen Atte on tunteissaan harvinaisen selvillä vesillä. Mutta salaperäisen Annin sydämen elämää suurempi Alpo Korvakin kai yrittäisi voittaa omakseen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.329024|
+}
+
+[Painajainen leirikoulussa] {
+	[b-aut]:Pietikäinen, Markku|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.423914&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Villen, Jussin ja Emman luokan seikkailu leirikoulussa muuttuu totiseksi todeksi, kun leiripaikan erikoinen isäntä Väinö Kolu ottaa koko luokan panttivangikseen. Yrmeä Kolu näyttää kykenevän julmiin tekoihin, ja leiriläisten riveissä leviävät sekasorto ja pelko. Löytävätkö he yhdessä keinon selviytyä?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.423914|
+}
+
+[Eleanor & Park] {
+	[b-aut]:Rowell, Rainbow|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rowell%2C+Rainbow&callnumber=&size=medium&title=Eleanor+%26+Park&recordid=satakirjastot.364228&isbn=9522604712&index=0&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kouluvuosi 1986. Kaksi syrjäänvetäytyvää oman tiensä kulkijaa kohtaavat koulubussissa. Eleanor ja Park tietävät, että ensirakkaus on harvoin ikuista. Silti he heittäytyvät sen vietäviksi.
+Tätä oli teinirakkaus ennen tekstiviestejä, Facebookia, Twitteriä, Instagramia ja Snapchatia.
+Park Sheridan luovii läpi lukuvuosien pitäen matalaa profiilia, kuunnellen Smithsiä ja vältellen ikätovereitaan. Sitten uusi tyttö, Eleanor, astuu koulubussiin. Isokokoinen, punatukkainen ja omaperäisesti pukeutuva tyttö on välitön kohde kiusaajien silmissä. Kun Park huomaa viereisellä penkillä istuvan Eleanorin lukevan sarjakuviaan salaa, syntyy hiljainen ystävyys. Hitaasti ja härnäävästi siitä kehittyy jotakin enemmän. Eleanor ja Park kertovat varovaisesti kehittyvän rakkaustarinansa vuorotellen, hersyvän dialogin kautta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.364228|
 }
