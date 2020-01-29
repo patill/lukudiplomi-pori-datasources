@@ -1373,3 +1373,21 @@ Sisarlan sydämessä on ihmeellinen puutarha, jossa asuu mitä merkillisimpiä o
 	[b-des]:Suunnistustunti sumuisella saarella saa karmivan käänteen, kun poika Tuvan luokalta katoaa. Tukholman saaristo, pimeä syksy, synkkä meri paksun sumun peitossa. 12-vuotias Tuva tuntee kotipaikkansa saaret, luodot ja vedet läpikotaisin. Mutta tänä syksynä jokin on vialla. Tuva näkee outoja hahmoja metsässä, ja tummat pelottavat varjot aaltoilevat meressä. "Katsahdan epätoivoisesti olkani yli ja näen jonkin seuraavan venettä. Kelmeä kuiskaus vedessä, kylmä virtaus pinnan alla, paljon nopeampi kuin vene. Se ei anna minun päästä karkuun."|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=synk%C3%A4t+vedet+sten&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
+
+
+
+
+[Futisjunnut-sarja] {
+	[b-aut]:Anrell, Lasse|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Anrell%2C+Lasse&callnumber=&size=medium&title=Zlatan+on+t%C3%A4hti&recordid=satakirjastot.332182&isbn=9511312782&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Bruno pääsee pelaamaan Alin futisjoukkueeseen, huippua! Bruno on mestari syöttämään. Häntä kuitenkin harmittaa, kun joukkueessa saa pelata myös Emma, joka on vähän liiankin hyvää pataa Alin kanssa. Eihän tyttöjen kanssa voi pelata! Mutta Ali on toista mieltä. Emma on Alin ystävä. Bruno nakkelee niskojaan ja murjottaa. Pian pojan on kuitenkin pakko myöntää, että futisjunnuihin mahtuvat pelaamaan sekä pojat että tytöt. Viimeistään silloin, kun itse Zlatan kehuu futisjunnuja valmentajalle.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.332182|
+	[additionalInformation]:Tässä siis lisätietoja|
+	[help]:Jotain ohjetta voisi olla tässä|
+	[b-ser-1]:https://satakirjastot.finna.fi/Record/satakirjastot.344241|
+	[b-ser-1-t]:Kotikenttien kingi|
+	[b-ser-2]:https://satakirjastot.finna.fi/Record/satakirjastot.1253350|
+	[b-ser-2-t]:Messi on mahtava|
+}
