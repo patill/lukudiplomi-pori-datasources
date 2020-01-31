@@ -1457,3 +1457,58 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Murskatappio, nöyryytys ja päälle päätteeksi pukuhuoneessa paljon puhuva käytetty vessapaperinpala. Eikö noin 11-vuotiaan ole siinä tilanteessa syytä lopettaa urheilu ja ryhtyä konsolien kuninkaaksi? Vilpun, Leksan ja Tapion mielestä on. Mutta sitten tulee synkkä ja myrskyinen yö, kuusia kaatuu ja vesirännejä putoilee, ja aamulla kaikki on toisin. Pennalan kylän huippupelaajat, Jyrsijän pojat, saavat sählyturnaukseen yllättävän haastajan, jonka ruoriin tarttuu maailmanmestari. Voiko altavastaajista sittenkin tulla mestareita?|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=s%C3%A4hlymestarit&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2015+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
+
+
+[Tanssii Emman kanssa] {
+	[b-aut]:Aho, Elisabeth|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Aho%2C+Elisabet&callnumber=&size=medium&title=Tanssii+Emman+kanssa&recordid=satakirjastot.376219&isbn=9518836124&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Yhdeksäsluokkalainen Emma Vainio on oikeastaan helpottunut, kun hänen parinsa ilmoittaa lopettavansa kilpatanssin. Emma on saanut tarpeekseen Joonaksen laiskasta harjoittelutahdista ja myöhästelystä. \n\nKuin tilauksesta kuvioihin ilmestyy komea Matias, joka pyytää Emmaa tanssimaan kanssaan. Emma on innoissaan, sillä Matias on taitava ja motivoitunut harjoittelemaan. Heidän askeleensa tuntuvat sopivan yhteen täydellisesti. \n\nPari viikkoa ennen tärkeitä kisoja Emma saa musertavia uutisia. Matiaksen vanha tanssipari on palannut, ja Emma on jo toista kertaa samana syksynä ilman paria. Onko hänen unohdettava tanssihaaveensa lopullisesti? |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.376219|
+}
+
+[Hattutemppu] {
+	[b-aut]:Mack, W.C.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mack%2C+W.+C.&callnumber=&size=medium&title=Hattutemppu&recordid=satakirjastot.462082&isbn=9512358395&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Jonathan McDonald on poikkeuksellisen pienikokoinen 11-vuotias sisupussi, jonka intohimo on jääkiekko. Hän pelaa Cougarin junnujoukkueessa hyvällä menestyksellä lyhyestä varrestaan huolimatta. Kaikki alkaa mennä pieleen sen jälkeen, kun paikkakunnalle muuttaa Eddie Bosko - korsto, joka on pelannut aiemmin Sharkseissa. Ei riitä, että Eddie on pelissä vahvempi, hän on myös matikkanero, ja matematiikka on Jonathanin heikko kohta. Niinpä äiti päättää järjestää pojalleen tukiopetusta, jota antamaan tulee hänen uuden työtoverinsa poika - Eddie Bosko! Jonathanin tulevaisuus näyttää synkkääkin synkemmältä...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462082|
+}
+
+[Kiekkotähti-sarja] {
+	[b-aut]:Nordström, Gunnar|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nordstr%C3%B6m%2C+Gunnar&callnumber=&size=medium&title=Suuntana+NHL&recordid=satakirjastot.87052&isbn=9512343487&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:19-vuotias maalivahtilahjakkuus Adam Wallgren on päässyt pelaamaan Seattle Wondersin farmijoukkueeseen ja tavoittelee paikkaa NHL-jäillä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=kiekkot%C3%A4hti+nordstr%C3%B6m&type=AllFields&limit=50|
+}
+
+[Aloituskiekko] {
+	[b-aut]:Pehkonen, Kirsi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pehkonen%2C+Kirsi&callnumber=&size=medium&title=Aloituskiekko&recordid=satakirjastot.450752&isbn=9512354241&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Uusi romaanisarja seuraa kahden tytön, Hillan ja Nooran, matkaa kohti huippu-urheilua. Hilla pelaa jääkiekkoa ja Noora pöytätennistä - Noora vammaisurheilijana, sillä hänen toinen jalkansa on taaperosta asti ollut proteesi. Yhdessä tytöt pitävät puoliaan pissiksiä ja poikien ajoittaista uhittelua ja väheksyntää vastaa. Aloitusosassa tytöt lähtevät uuteen kouluun urheiluluokalle, ja ensi kertaa urheilu alkaa näyttää tavoitteelliselta. Mutta ei kai liian totiselta?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.450752|
+}
+
+[E-urheilun käsikirja] {
+	[b-aut]:Rönkä, Otto|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=R%C3%B6nk%C3%A4%2C+Otto%2C+kirjoittaja&callnumber=&size=medium&title=E-urheilun+k%C3%A4sikirja&recordid=satakirjastot.1260794&isbn=9511329944&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Elektroninen urheilu on tulevaisuuden urheilu. \n\nVideopelikilpailuista on tullut lyhyessä ajassa valtavan suosittuja. Kisoissa liikkuu valtavia rahasummia, ja turnauksia katsovat miljoonat ihmiset ympäri maailman. Mistä e-urheilussa oikein on kyse? Urheilutoimittaja Otto Rönkä valottaa tässä kirjassa alan historiaa ja kehitystä, esittelee suurimpia pelejä ja paljastaa myös, miten e-urheilijaksi ryhdytään.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1260794|
+}
+
+[Tähtiketju-sarja] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle%2C+kirjoittaja&callnumber=&size=medium&title=Kyl%C3%A4kaukalon+lupaus&recordid=satakirjastot.241233&isbn=9512363585&index=0&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Painakaa nimi mieleen, tulette vielä kuulemaan hänestä: Jonne Susi. Ysiluokkalainen tulee kaukaa pohjoisesta ja aikoo valloittaa etelän kaukalot. Töitä on tehty sitä varten monta vuotta, luistelu sujuu ja lämäri lähtee kovaa. Huono juttu on se, että suunnistajaperheen vesan ainoa pelituntuma on hankittu veteraanien höntsävuorolla. Mutta voiko Jonne silti onnistua? Ottaako uusi junnuseura untuvikon vastaan tähtenä vai tumpelona?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=t%C3%A4htiketju+veirto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
