@@ -338,7 +338,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Etsivätoimisto Henkka & Kivimutka -sarja] {
 	[b-aut]:Veirto, Kalle|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=medium&title=Etsiv%C3%A4toimisto+Henkka+%26+Kivimutka&recordid=satakirjastot.439744&isbn=9512350416&index=0&w=1200&h=1200|
-	[b-tag]:Epäilyttäviä asioita|
+	[b-tag]:Epäilyttäviä asioita; Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Henkka Virtanen on 10 vuotta, ihailee Sherlock Holmesia ja pitää kaverinsa J.K. Kivimutkan kanssa etsivätoimiston haarakonttoria. Henkka on Etsivätoimisto Henkka & Kivimutkan Aivot, Kivimutka sen tylympi jäsen. Tiedossa on tiukkoja tilanteita ja kimurantteja käänteitä, kunhan toimisto saa työrauhan äidin valvonnalta, isän urheiluhulluudelta ja Kauko Mäyhköltä, 8 v.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4toimisto+henkka+kivimutka&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
@@ -466,10 +466,10 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Ella-sarja] {
 	[b-aut]:Parvela, Timo|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo%2C+kirjoittaja&callnumber=&size=medium&title=Ella+ja+kaverit+ihan+kuninkaina&recordid=satakirjastot.1290921&isbn=9520404759&index=0&w=1200&h=1200|
-	[b-tag]:Ikisuosikkeja|
+	[b-tag]:Ikisuosikkeja; Kirja vai elokuva|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Timo Parvelan vastustamattoman hauska Ella ja kaverit -sarja on valloittanut maailmaa kirjojen, elokuvien, näytelmien ja musiikin muodossa - jopa sinfoniaorkesterin säestyksellä! Kuvittaja Mervi Lindman on antanut Ellalle ja hänen kavereilleen iloisen ja vauhdikkaan piirrosasun.|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=ella+parvela&type=AllFields|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=ella+parvela&type=AllFields|
 }
 
 [Mikä tahansa Richard Scarryn kuvakirja] {
@@ -840,14 +840,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=viiru+ja+pesonen+nordqvist&type=AllFields&sort=main_date_str+desc|
 }
 
-[Ella-sarja] {
-	[b-aut]:Parvela, Timo|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Ella+ja+kaverit.+1&recordid=satakirjastot.296446&isbn=9513171566&index=0&w=1200&h=1200|
-	[b-tag]:Kirja vai elokuva|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:"Minä olen Ella. Minulla on mukava luokka ja mukava opettaja. Tai oli, sillä viime aikoina opettaja on ollut vähän kiristynyt. Se johtuu luultavasti siitä, että hän oli ensin häämatkalla, sitten teatterissa ja lopuksi vielä luokkaretkellä. Matkailu ei selvästikään sovi opettajalle. Meistä kaikista se on tosi kummallista, sillä minulla, Patella, Tuukalla, Sampalla, Hannalla ja Tiinalla oli tosi mukavaa."|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ella+parvela+NOT+pate&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
-}
 
 [Kapteeni Kalsari -sarja] {
 	[b-aut]:Pilkey, Dav|
@@ -1511,4 +1503,69 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Painakaa nimi mieleen, tulette vielä kuulemaan hänestä: Jonne Susi. Ysiluokkalainen tulee kaukaa pohjoisesta ja aikoo valloittaa etelän kaukalot. Töitä on tehty sitä varten monta vuotta, luistelu sujuu ja lämäri lähtee kovaa. Huono juttu on se, että suunnistajaperheen vesan ainoa pelituntuma on hankittu veteraanien höntsävuorolla. Mutta voiko Jonne silti onnistua? Ottaako uusi junnuseura untuvikon vastaan tähtenä vai tumpelona?|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=t%C3%A4htiketju+veirto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+
+
+[Älä päästä norsua kaivinkoneen rattiin] {
+	[b-aut]:Cleveland-Peck, Patricia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cleveland-Peck%2C+Patricia%2C+kirjoittaja&callnumber=&size=medium&title=%C3%84l%C3%A4+p%C3%A4%C3%A4st%C3%A4+norsua+kaivinkoneen+rattiin&recordid=satakirjastot.1261556&isbn=9523410938&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Älä päästä norsua kaivinkoneen rattiin... siitä seuraa sotku, joka kyllä ottaa pattiin. \n\nEntäpä potkulautaileva gorilla tai jääkarhu parturina? Kenguru vessakaverina tai mustekala pukeutumisneuvojana? Eläimet tarjoavat kyllä innokkaasti apuaan, mutta harkitse vielä tartutko tarjoukseen. Tämä hulvattomasti riimitelty kuvakirja kertoo, miksi se todellakin kannattaa...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1261556|
+}
+
+[Karlon sirkus -sarja] {
+	[b-aut]:Dolan, Penny|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dolan%2C+Penny&callnumber=&size=medium&title=Jongl%C3%B6%C3%B6ri+Joni&recordid=satakirjastot.240984&isbn=9518834032&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Jonglööri Jonin asuntovaunu on niin pieni, ettei siellä voi heitellä palloja. Mutta pihalla taas Joni pitää liian kovaa meteliä. Missä Joni-parka sitten voisi harjoitella? Kiva ta-vu-tet-tu tarina kertoo Karlon Sirkuksen hauskoista sattumuksista.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=dolan+karlon+sirkus&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Kissa Killi -sarja] {
+	[b-aut]:Korolainen, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Korolainen%2C+Tuula&callnumber=&size=medium&title=Kissa+Killi+ja+Sottapytty&recordid=satakirjastot.252602&isbn=9513147002&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Joskus kaikki tuntuu olevan kateissa. Kissa Killi ei löydä kampaansa eikä tiikeripaitaansa ja sukatkin ovat eri paria. Äiti joutuu etsimään Killin rakennuspalikat ja isän pelipyyhkeen ja hermostuu sitten siihen, että saa yksin siivota kaikkien sotkut. Mutta ei se vielä mitään. Kun Killi kurkistaa peiliin, sieltä hyppää esiin Sottapytty eli Sottis, aivan Killin näköinen pieni kissa. Ja Sottis vasta osaakin sotkea! Se panee tavarat hyrskyn myrskyn ja liisteröi seinätkin hillolla. Killi riehaantuu mukaan ja huomaa, että sotkeminen on tosi hauskaa. Tutun kotitontun taikavälineineen on tultava apuun, jotta asiat saadaan tolalleen.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22kissa+killi%22+korolainen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Siiri-sarja] {
+	[b-aut]:Nopola, Tiina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Tiina&callnumber=&size=medium&title=Siiri+ja+kolme+Ottoa&recordid=satakirjastot.96210&isbn=9513118746&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Siiri kaipaa itselleen kaveria, Hän katselee äitinsä vatsaa ja kysyy: "Onko siellä vauva?" \n\nKun vauvaa ei tule, Siiri haluaa koiran. "Keskustellaan siitä tunnin päästä", isä ja äiti sanovat. Kun äiti ja isä tuntuvat unohtavan koko koira-asian, Siiri päättää hankkia koiran itse. \n\nKoiranhakumatkalla hän tutustuu kolmeen Ottoon. Ratkaisevatko pikku-Otto, keski-Otto ja iso-Otto Siirin koiraongelman?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=siiri+nopola+tiina&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Elias ja sukkapallopommipuu] {
+	[b-aut]:Paretskoi, Jyri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Paretskoi%2C+Jyri%2C+kirjoittaja&callnumber=&size=medium&title=Elias+ja+sukkapallopommipuu&recordid=satakirjastot.1259686&isbn=9512364646&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Äidin tyhjä kardemummapötkylä muuttaa Eliaksen ja Lulu-koiran päivän suunnitelmat. Eliaksesta tulee kaamea Kauhistuttaja ja Lulusta Hirmu, ihmissyöjätiikeri. Kaksikko kohtaa puistossa ilkeän neron, Kurre K. Oravaisen, ja siitä seuraakin huima tapahtumien vyöry, johon liittyy herneitä, aivastuspulveria ja sinisiä, punaisia, mustia, raidallisia, lammaskuvioisia ja pörröisiä sukkapalloja. Sekä yksi tyttö nimeltä Emma. \n\nRiemastuttavan vauhdikas tarina siitä, miten tylsä päivä saadaan täyteen tapahtumia. Tarvitaan vain mahtava mielikuvitus -ja tietysti sukkapalloja!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1259686|
+}
+
+[Pate-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Paten+aikakirjat&recordid=satakirjastot.445606&source=Solr&isbn=9513178005&index=0&w=250&h=250|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Paten päivityksissä on potkua! \n\nSupersuosituista Ella-kirjoista tuttu Pate saa nyt ikioman kirjasarjansa, jossa on runsas, sarjakuvamainen kuvitus ja helppolukuinen taitto. \n\nMillainen tyyppi Pate oikein on? Hän on hyvä urheilemaan. Hän ei aina ihan tajua, missä mennään, mutta se ei haittaa. Kaverina hän on antelias ja hyvä ystävä -- kaikki saavat maistaa hänen purukumiaan. Pate on myös luotettava. Suurinkin salaisuutesi pysyy Patella tallessa. Hän on nimittäin unohtanut sen jo. Kaikki pitävät Patesta ja Pate pitää kaikista, jopa Pukarista. Pateen olisi helppo ihastua, ellei hänen äitinsä olisi rehtori. Kukaan ei halua anopikseen rehtoria.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=parvela+pate+NOT+ella&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Nukkumatin vastaisku] {
+	[b-aut]:Saarivirta, Leila|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Saarivirta%2C+Leila%2C+kirjoittaja&callnumber=&size=medium&title=Nukkumatin+vastaisku&recordid=satakirjastot.274852&isbn=9511319329&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Herätys! Nukkumatti bloggaa, tubettaa ja somettaa. Nykypäivän satuhahmossa on särmää ja hersyvää huumoria. \n\nNukkumatti huomaa järkytyksekseen tipahtaneensa Huippuhahmot-äänestyksessä häntäpäähän, kauas Joulupukin, Hammaskeijun ja jopa Tonttu Toljanterin taakse. Ihmiset ovat selvästi unohtaneet Nukkumatin ja unen tärkeyden.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274852|
 }
