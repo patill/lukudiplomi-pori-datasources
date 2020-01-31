@@ -1431,29 +1431,29 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=futistytt%C3%B6+kanto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Futaajat-sarja] {
+	[b-aut]:Ljunggren, Magnus|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ljunggren%2C+Magnus&callnumber=&size=medium&title=Turnausp%C3%A4iv%C3%A4&recordid=satakirjastot.236046&isbn=9523211080&index=0&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:On Karuselliturnauksen aika! Futaajat saa vastaansa parhaat joukkueet. \\nParas joukkue -kirjasarjassa tytöt ja pojat seikkailevat yhdessä. Kirjat käsittelevät jalkapalloa ja kaikkea sen ympärillä tapahtuvaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=futaajat+ljunggren&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[] {
+[Nuorten jalkapallokirja -sarja] {
 	[b-aut]:|
-	[b-cov]:|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Part%2C+Michael&callnumber=&size=medium&title=Messi+%3A+uskomaton+tarina&recordid=satakirjastot.428916&isbn=952321327X&index=0&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Ainutlaatuinen kasvutarina jalkapallomaailman valtiaaksi! Tämä kirja on ainoa nuorille tehty tosielämään perustuva tarina Messistä ja hänen polustaan Barcelonaan koko maailman tuntemaksi pelaajaksi.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%22nuorten+jalkapallokirja%22&type=AllFields&filter[]=search_daterange_mv:%22[2015%20TO%202100]%22|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Sählymestarit-sarja] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=medium&title=Jyrsij%C3%B6iden+haaste&recordid=satakirjastot.265591&isbn=9512359073&index=0&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Murskatappio, nöyryytys ja päälle päätteeksi pukuhuoneessa paljon puhuva käytetty vessapaperinpala. Eikö noin 11-vuotiaan ole siinä tilanteessa syytä lopettaa urheilu ja ryhtyä konsolien kuninkaaksi? Vilpun, Leksan ja Tapion mielestä on. Mutta sitten tulee synkkä ja myrskyinen yö, kuusia kaatuu ja vesirännejä putoilee, ja aamulla kaikki on toisin. Pennalan kylän huippupelaajat, Jyrsijän pojat, saavat sählyturnaukseen yllättävän haastajan, jonka ruoriin tarttuu maailmanmestari. Voiko altavastaajista sittenkin tulla mestareita?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=s%C3%A4hlymestarit&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2015+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
