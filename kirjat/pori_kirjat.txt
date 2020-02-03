@@ -1718,3 +1718,206 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 	[b-des]:"Tsädäm, ihmiset. Tsä-däm! Jotenkin olin tämän aavistanut mutta en ollut antanut itselleni lupaa uskoa siihen. Se oli niin älytöntä. Hirvittävän, puistattavan, hiuksiaraastavan älytöntä. Isä ja äiti aikoivat hakea Raaka remontti -ohjelmaan." 13-vuotiaan Mayan elämä ei ole helppoa, kun vanhemmat ovat sellaisia kuin ovat: erittäin hyviä vääntämään elämän umpisolmuun. Talo pitäisi remontoida, mutta rahaa siihen ei liiemmin löydy, kun äiti haaveilee taiteilijaelämästä ja isä sai juuri kenkää YT-neuvotteujen tuloksena. Niinpä vanhemmat päättävät hakea uuteen reality-sarjaan, missä koko perheen kaikki kauheudet lätkäistäisiin kaikkien katsojien ruodittavaksi. Maya pakenee pohjoiseen mummolaan ja pikkuserkkunsa Nooran luo, mutta ei elämä sielläkään sen helpompaa ole. Etenkään, kun mummo on kovin altis kiipeämään barrikadeille ja Nooran ihastus Reima onkin kiinnostunut Mayasta. Puhumattakaan siitä sotkusta, mikä syntyy, kun Reima katoaa...|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.347483|
 }
+
+
+
+[Karhu ja rohkea jänis] {
+	[b-aut]:Bates, Ivan|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bates%2C+Ivan&callnumber=&size=medium&title=Karhu+ja+rohkea+j%C3%A4nis&recordid=satakirjastot.427241&isbn=9518837198&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Karhu vain nauraa hohottaa, kun muut metsän eläimet juoksevat sitä karkuun. Pöllö kutsuu kokoon hätäkokouksen: karhu täytyy saada kuriin! Urhea jänis tarjoutuu auttamaan. \n\nMutta pystyykö pieni jänis opettamaan isolle karhulle, että toisten kanssa voi leikkiä myös kiltisti?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.427241|
+}
+
+[Ikioma kamu] {
+	[b-aut]:Bright, Rachel|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bright%2C+Rachel&callnumber=&size=medium&title=Ikioma+kamu&recordid=satakirjastot.385590&isbn=9518836590&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Muru-hiirellä on mukava kotikolo ja aika liuta siskoja ja veljiä, silti jotain tuntuu puuttuvan. Muru kaipaa ikiomaa ystävää. Riimitelty tarina on lämminhenkinen ylistys ystävyydelle ja ihana iltasatukirja.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.385590|
+}
+
+[Mansikki ja moni muu: runoja] {
+	[b-aut]:Heikkilä, Mervi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Heikkil%C3%A4%2C+Mervi&callnumber=&size=medium&title=Mansikki+ja+moni+muu+%3A+runoja&recordid=satakirjastot.426543&isbn=9516078834&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Siinä lehmänhäntä heiluu ja sorkkaa laitetaan vauhdilla toisen eteen, kun lehmä ehtii keikkua itämaisella matolla, hakea töitä pitsanpaistajana ja laulaa karaokessa. Välillä se tanssii masurkkaa, toisinaan pajupillin tahtiin, ja vielä pitäisi huolehtia vasikoistakin. Mervi Heikkilän runoissa on maanläheistä ja vauhdikasta MUU-voimaa. Ne ovat ilmeikkäitä huumorintajuisia, viisaita ja lämpöisiä - kuten lehmä itse.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.426543|
+}
+
+[Älytön äyriäinen] {
+	[b-aut]:Kanto, Anneli|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kanto%2C+Anneli&callnumber=&size=medium&title=%C3%84lyt%C3%B6n+%C3%A4yri%C3%A4inen+ja+muita+el%C3%A4inriimej%C3%A4&recordid=satakirjastot.284710&isbn=9512355434&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Anneli Kannon uutuuskirjassa aakkoset tulevat tutuiksi riemastuttavien lorujen ja veikeiden eläinten kautta. Kerimäen kirkon rotta, coloradokuoriainen, Urjalan urpiainen, Ålandin merikåtka ja moni muu otus seikkailevat mainioissa riimeissä, jotka mukailevat kuulua pilailurunon muotoa, limerikkiä. Eskarilaiselle, ekaluokkalaiselle ja pienemmillekin sopiva lorukirja hurmaa kekseliäisyydellään. Anneli Kannon hauskoista runoista löytyy tulkinnan tasoja sekä lapselle että aikuiselle, ja Kaisa Rekisen raikkaasti kuvittamat eläinhahmot saavat mielikuvituksen lentoon!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.284710|
+}
+
+[Satakieli ja lakaisukone] {
+	[b-aut]:Niska, Heikki|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niska%2C+Heikki&callnumber=&size=medium&title=Satakieli+ja+lakaisukone&recordid=satakirjastot.299099&isbn=951314139X&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Näin tuumii Jossitteleva piimä Heikki Niskan iloisessa, nonsensehenkisessä lastenrunokokoelmassa, jossa liikutaaan niin maaseudulla kuin Helsingin eri kaupunginosissakin. Luvassa on leikkimieltä ja riemukkaita yllätyksiä, niin kuin oikeassa elämässäkin. Satakieli voi rakastua jämerään lakaisukoneeseen ja musta kissa tulppaaniin, etanaparin matka omiin häihinsä saattaa kestää niin kauan että morsian ei ole enää nuori, vaan jo oikea muori, kun pääsee perille. Oma osastonsa kokoelmassa on myös herkkusuille ja hyvän ruuan ystäville. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.299099|
+}
+
+[Risto Räppääjä maala, merellä ja ilmassa] {
+	[b-aut]:Nopola, Matias|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Matias%2C+kirjoittaja&callnumber=&size=medium&title=Risto+R%C3%A4pp%C3%A4%C3%A4j%C3%A4+maalla%2C+merell%C3%A4+ja+ilmassa&recordid=satakirjastot.1290920&isbn=952040483X&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Risto Räppääjän räppikuvakirja kulkuvälineistä! \n\nRäppääjäfanien pikkusiskot- ja -veljetkin pääsevät nyt kyytiin! Tässä kuvakirjassa matkaa tehdään riimien rytmittämänä! \n\nKun Risto Räppääjä ja hänen ystävänsä ovat matkanjohtajina, reissut taittuvat monenmoisilla menopeleillä. Joukkoon mahtuu niin tuttuja kuin sangen erikoisiakin kulkuneuvoja! Hilpeässä seurassa huristellaan kovaa ja kekseliäästi mielikuvituksen maanteillä, seilataan ajatusten aalloilla ja liidetään sanaleikkien siivin.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1290920|
+}
+
+[Siilin satupuu] {
+	[b-aut]:Perkiö, Pia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Perki%C3%B6%2C+Pia+kirjoittaja&callnumber=&size=medium&title=Siilin+satupuu&recordid=satakirjastot.275162&isbn=951319518X&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Siilin satupuun runoissa metsän eläimet puuhailevat hyväntuulisina: sammakko valmistautuu hyppykilpailuihin, siili viettää syntymäpäiviä, hämähäkit tekevät täkkiä, myyrä pitää päiväkotia.\n\nOravavaari päättää yllättää muut aamupuurolla ja illan tullen ketunpoikanen saa nukahtaa keinuvaan ketun kehtolauluun.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.275162|
+}
+
+[Allakka pullakka] {
+	[b-aut]:Ruohonen, Laura|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/4/5/6/saha/kirjasampo/0_2431293891588161250.png?itok=j1QrwuwD|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tiedätkö, mistä Sir Kasimir Koi unelmoi? Entä kuka on Himalajan Hilma? Tähän kirjaan tarttumalla tutuksi tulevat myös Mahtimummelin määräykset.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.392571|
+}
+
+
+
+[Hassut Tassut] {
+	[b-aut]:|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=&callnumber=&size=medium&title=Hassut+tassut&recordid=satakirjastot.312060&isbn=9513150399&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kop-kop-koppiainen menee naparetkelle ja ötökät nakupellen huvipuistoon, hiiri hulmuttaa viiriään pakkasessa ja tiikeri uneksii kissakuusta ja tiikerikakusta. Tuula Korolaisen toimittama teos sisältää hellyttäviä ja humoristisia runoja 20 suomalaiselta runoilijalta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.312060|
+}
+
+[Yöpuu] {
+	[b-aut]:Heikkilä, Mervi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Heikkil%C3%A4%2C+Mervi&callnumber=&size=medium&title=Y%C3%B6puu+%3A+H%C3%B6yhensaarten+runoja&recordid=satakirjastot.318997&isbn=9516076580&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Sinitiaisen siiven alla / on siilille unilaulu. Sen lauluajan kertoo / luonnon kellotaulu. Samalla laululla nukkumaan / vaipuu myös koivuhiiri, sammakko, karhu, mäyrä, / unisten tassujen piiri. Kun on aika käydä yöpuulle, voi sänkyyn kavuta näiden runojen seurassa. Kun Yöpuun eläimille koittaa ilta ja taas sarastaa aamu, on lukijankin hyvä jättää päivän hulina taakseen. Uni tulee samaa matkaa vaaksiaisen tanssin, metsänompun talviunen, unettoman lohikäärmeen ja kanojen telttaretken kanssa. Houkutus on suuri avata kirja myös aamulla...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.318997|
+}
+
+[Hui hai hajamieli!] {
+	[b-aut]:Hirvonen, Hannu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hirvonen%2C+Hannu&callnumber=&size=medium&title=Hui+hai+hajamieli%21&recordid=satakirjastot.310027&isbn=9512363054&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hui hai hajamieli! -kirjassa tapaat leppoisien kummitusten ja kissan lisäksi jatkuvasti sairastelevan Soikku Saikkulin, rovasti Pullan ja Puustinna-ruustinnan, Mökkön ja Detienne Etiäisen, tanssikenkään muuttavan hiiriparin ja kaiken maailman perunat. Ja kun kissa yllättäen katoaa, kutsutaan apuun Pola Saliisi, soikea salapoliisi ja kovaksi keitetty dekkari, jonka isä on kanalan vekkari.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.310027|
+}
+
+[Tukaani puussa] {
+	[b-aut]:Itkonen, Jukka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Itkonen%2C+Jukka%2C+kirjoittaja&callnumber=&size=medium&title=Tukaani+puussa&recordid=satakirjastot.1261514&isbn=9522889172&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:"Onhan näitä, värikkäitä merten kaloja. Ja lyhtykala osaa sytytellä valoja. \n\nMeitä on niin moneksi, ja lähdetäänpä tästä: Elämä on parhaimmillaan aina värikästä." \n\nTälle reissulle kannattaa pakata mukaan utelias katse ja iloista mieltä. Saatat tavata tukaanin, kiivin, vesipuhvelin, uupuneen undulaatin - ja tietenkin pandan. Marakatin päässä on patti ja neitoperholla kerho. Mikä mursumuoria lämmittää ja kirahvia kummaksuttaa?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1261514|
+}
+
+[Kulta, voisitko syöstä tulta?] {
+	[b-aut]:Lehtinen, Emilia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lehtinen%2C+Emilia&callnumber=&size=medium&title=Kulta%2C+voisitko+sy%C3%B6st%C3%A4+tulta%3F+%3A+tarinoita+edistyneille+lohik%C3%A4%C3%A4rmeiden+kasvattajille&recordid=satakirjastot.437948&isbn=9510358983&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Lohikäärmeestä on moneksi! Se herättää huomiota seurapiireissä, ymmärtää haisevien juustojen päälle ja tempaa ratsastajan villiin rodeoon. Emilia Lehtisen ja Laura Valojärven uutuus on välttämätön opus kaikille lohikäärmefarmista haaveileville. Lastenrunokokoelma sisältää kymmenen hurjaa tarinaa, joiden kyydissä saa kiljua riemusta ja pikkuisen pelätäkin. Miksi petojen valioyksilö vaihtaa liharavinnon kesäkeittoon? Mihin Leonardo da Vinci tarvitsee lohikäärmettä? Soveltuvatko lohikäärmeet bisneskäyttöön? Entä mitä tekee lohikäärme, kun hienon herran pylly pärähtää?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.437948|
+}
+
+[Määt ja muut: runoja eläimistä ja ihmisistä] {
+	[b-aut]:Mariska|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mariska%2C+kirjoittaja&callnumber=&size=medium&title=M%C3%A4%C3%A4t+ja+Muut+%3A+runoja+el%C3%A4imist%C3%A4+ja+ihmisist%C3%A4&recordid=satakirjastot.1257028&isbn=952040175X&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Pörröturkki ihmeissänsä ympärilleen kurkki; täysi oli vatsa mutta tyhjä käpypurkki. Joko arvon lukija te jutun selvititte? Olikohan käpyvoro kenties kurre itte? \n\nMariskan eläinrunot ovat täynnä riimien riemua ja kerronnan keveyttä. Runot on kirjoitettu rennolla kädellä, huvittamaan ja liikuttamaan niin lasta kuin aikuista lukijaa. Rytmikkään laululyriikan tavoin ne tarttuvat ja menevät ihon alle, päähän ja sydämeen. \n\nKokoelman sivuilla seikkailee joukko toinen toistaan rakastettavampia eläinhahmoja, kuten uhmaikäinen Lissu Lokintyttö, syrjinnästä apea Pentti Kyy, kuuhullu susi nimeltä Nanna, uneton Rouva Rupikonna, Lammas, joka tahtoo olla Villipeto, sekä moni muu. Siellä täällä vilahtaa myös pieni Siiri Sirpelöinen. Runojen tunnelmat vaihtelevat hulluttelevasta surumieliseen ja anarkiasta kaihoon.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1257028|
+}
+
+[Ketunhäntä kainalossa] {
+	[b-aut]:Ravantti, Leena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ravantti%2C+Leena&callnumber=&size=medium&title=Ketunh%C3%A4nt%C3%A4+kainalossa&recordid=satakirjastot.441641&isbn=9516275427&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Sanoilla voi leikkiä ja laulaa, laverrella, sanoilla voi maalata ja hui hai-hassutella. Nappaa sanasta kiinni ja hyppää sen kyytiin! Yksi ketunhännän huiskaus vain ja runo vie mukanaan kuvittelun kiehtovaan maailmaan, tarun ja toden rajamaille. Siellä ovat värit valloillaan ja tuuli suhisee kummia, siellä kuullaan juttuja tintin vintistä ja hiiren piparjuuresta, eikä siitäkään ole mitään takeita, mitä mistäkin paikkakunnasta kerrotaan...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.441641|
+}
+
+[Tippukivitapaus] {
+	[b-aut]:Ruohonen, Laura|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ruohonen%2C+Laura&callnumber=&size=medium&title=Tippukivitapaus&recordid=satakirjastot.326271&isbn=9511310003&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:ässä kirjassa hervoton hanuri sinkoaa Seija Soijan seikkailuun, kutterikuski Kusti tanssittaa tankkeria, Nirso Napero, Diktaatta ja Rämeämmä panevat hösseliksi, Villit pilkkijät pyytävät tikariturskan, Raakalainen laatii ruokalistan ja tulivuori itkee.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.326271|
+}
+
+
+[Revi se] {
+	[b-aut]:Happonen, Kaisa|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Happonen%2C+Kaisa%2C+kirjoittaja&callnumber=&size=medium&title=Revi+se&recordid=satakirjastot.1257120&isbn=9510431028&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Revi se - ja kokoa maailma uusiks! Karri Paleface Miettisen ja Kaisa Happosen rohkea runokirja innostaa runovallankumoukseen. Revi se on uudenlainen ja liikkeelle laittava runokokoelma. Se on oivaltava, suorapuheinen ja kantaaottava; sen teemat käsittelevät niin ilmastonmuutosta ja rahaa kuin myös omaa pääkoppaa ja seksuaalisuutta. Runot on toteutettu leikkaamalla, tussaamalla ja irrottamalla sanoja irti kontekstistaan. Kirja kannustaa lukijaa avaamaan pään ja sanomaan ääneen, tarttumaan rohkeasti kynään, saksiin tai näppikseen. Mitkä tahansa tekstit ja asenteet voi repiä ja rakentaa uudelleen - kuka tahansa voi löytää oman sanomisen tapansa. Maailma on täynnä sanoja. Ota ne käyttöön! Rap-artisti Karri Paleface Miettinen on tunnettu suorista sanoistaan ja maailmanpoliittisista kannanotoistaan. Kuvakirjailija Kaisa Happonen tuo runokokoelmaan myös humoristisia ja herkkiä äänenpainoja. Kaisa Happonen on monialainen kuvakirjailija ja käsikirjoittaja. Hänen Mur, eli Karhu -kirjansa (Tammi, 2016) käännösoikeudet on myyty kymmenelle eri kielialueelle.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1257120|
+}
+
+[Mikä onni, 6B] {
+	[b-aut]:Korolainen, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Korolainen%2C+Tuula&callnumber=&size=medium&title=Mik%C3%A4+onni%2C+6B&recordid=satakirjastot.388560&isbn=9513150437&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Lusikkajoen koulun 6B saa opettajaltaan Viivi Kiveltä tehtävän: "Kirjoita runo onnesta: Mitä onni on? Mistä olet onnellinen ja milloin? Mikä voi olla onnen este?" Tehtävä on ensin monen mielestä tyhmä, mutta sitten nuoret innostuvat ja jokainen kirjoittaa jotain, riimitellen tai vapaasti, tosissaan tai kieli poskessa. Luokan yhteiseen kirjaan pääsevät mukaan kaikki.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.388560|
+}
+
+[Paha puuska] {
+	[b-aut]:Kuronen, Kirsti|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kuronen%2C+Kirsti&callnumber=&size=medium&title=Paha+puuska&recordid=satakirjastot.341137&isbn=9512358824&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Neljätoistavuotiaan Hillan vuotta nuorempi pikkuveli Lauri tekee itsemurhan menemällä junan alle. Hilla kelaa tapahtumat läpi suurella tunteella: poliisien ilmoitus, vanhempien reaktio, kavereiden kohtaaminen, hautajaiset? Äiti purkaa suruaan kotitöihin, isä asuu toimistollaan kunnes muuttaa pois kotoa kokonaan. Hilla istuu Laurin lempikivellä ja käy armotonta keskustelua veljensä kanssa, yrittää löytää tapahtuneelle syyn.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.341137|
+}
+
+[Keinu meren yllä tai Sininen pieni aasi] {
+	[b-aut]:Laulajainen, Leena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Laulajainen%2C+Leena&callnumber=&size=medium&title=Keinu+meren+yll%C3%A4+%3A+valitut+runot+1987-1997&recordid=satakirjastot.457846&source=Solr&isbn=9513146650&index=0&w=250&h=250|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Keinu meren yllä on valikoima Leena Laulajaisen runohelmiä runokokoelmista Lumileopardi tanssii (1987), Yksisarvinen ja sadepuu (1992) ja Sinisen delfiinin laulut (1997). Runoissa kuljetaan ylitse meren ja läpi sinisen tuulen, seikkaillaan meren prinssin kanssa, kuunnellaan meren kehtolaulua, sukelletaan satujen ja myyttien alkulähteille, leikitellään kielellä ja sanoilla.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=%28%22keinu+meren+yll%C3%A4%22+OR+%22sininen+pieni+aasi%22%29+laulajainen&type=AllFields&filter[]=search_daterange_mv:%22[2000%20TO%202100]%22|
+}
+
+[Huviksi ja haitaksi] {
+	[b-aut]:Oster, Grigori|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Oster%2C+Grigori&callnumber=&size=medium&title=Huviksi+ja+haitaksi&recordid=satakirjastot.348057&isbn=9510360465&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Huviksi ja haitaksi on omistettu tottelemattomille lapsille. Viimeaikaisissa tutkimuksissa on havaittu, että kun lapsia kehottaa pesemään kätensä, useimmat lähtevät letti viuhuen jatkamaan salamyhkäisiä leikkejään. Tieteilijät ovatkin päätelleet, että tällaisille lapsille ei pidä antaa hyviä vaan erityisen huonoja neuvoja. Grigori Oster on itäisen naapurimaamme tunnetuimpia ja rakastetuimpia lastenkirjailijoita, jonka hurjissa loruissa on karismaa kuin merirosvon tarinoissa. Huviksi ja haitaksi on kokoelma Osterin runojen parhaimmistoa. Anarkistisilla, käänteistä psykologiaa ovelasti harjoittavilla runoilla aivopestyt lapset toimivat yllättäen kuin mallioppilaat.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.348057|
+}
+
+[Joku siipi pitäis olla] {
+	[b-aut]:Savisaari, Aira|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Savisaari%2C+Aira&callnumber=&size=medium&title=Joku+siipi+pit%C3%A4is+olla&recordid=satakirjastot.244443&isbn=9510355100&index=0&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Punainen viilaa pulpetin kantta kieli karhea, kuin jäinen lumi se on raivostunut kumi Bileitä, läksyjä, hyvää läppää, kavereita ja kiusaajia, poikia ja tyttöjä. Elämä on ihanaa tänään, mutta sattuu huomenna. Mikä parasta, älä oleta kenenkään aikuisen ymmärtävän, mitä nyt on meneillä. Joku siipi pitäis olla riimittelee nuorten arjen iloista ja rosoista. Tässä maailmassa surffataan aallonharjalta aina pohjaan saakka. Runokirjaa maustavat nuorten omat jutut: mistä tietää onko tyttö varattu, kuinka vanhemmat huutavat yöllä toisilleen ja miten moponraato elvytetään. Lisäksi selviää monia muita meidän luokan asioita.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.244443|
+}
