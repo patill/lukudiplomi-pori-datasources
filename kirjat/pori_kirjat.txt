@@ -1921,3 +1921,238 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 	[b-des]:Punainen viilaa pulpetin kantta kieli karhea, kuin jäinen lumi se on raivostunut kumi Bileitä, läksyjä, hyvää läppää, kavereita ja kiusaajia, poikia ja tyttöjä. Elämä on ihanaa tänään, mutta sattuu huomenna. Mikä parasta, älä oleta kenenkään aikuisen ymmärtävän, mitä nyt on meneillä. Joku siipi pitäis olla riimittelee nuorten arjen iloista ja rosoista. Tässä maailmassa surffataan aallonharjalta aina pohjaan saakka. Runokirjaa maustavat nuorten omat jutut: mistä tietää onko tyttö varattu, kuinka vanhemmat huutavat yöllä toisilleen ja miten moponraato elvytetään. Lisäksi selviää monia muita meidän luokan asioita.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.244443|
 }
+
+
+
+[Vähän aikaa vielä!] {
+	[b-aut]:Jüngling, Christine|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=J%C3%BCngling%2C+Christine&callnumber=&size=medium&title=V%C3%A4h%C3%A4n+aikaa+viel%C3%A4%21&recordid=satakirjastot.462440&isbn=951883282X&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Iina ja Peetu vierailevat ystäviensä Essin ja Juuson luona. Mutta tänään ei jäädäkään koko päiväksi tietokoneen tai television ääreen. Essi ja Juuso ovat tehneet vanhempiensa kanssa sopimuksen: jos he pitävät kiinni yhdessä sovituista televisio- ja tietokonesäännöistä, he saavat palkakseen puuhapäivän seikkailupuistossa. Ja siitä tuleekin hauska!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462440|
+}
+
+[Pet agents -sarja] {
+	[b-aut]:Kaarla, Riina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1290925&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Kati-e on itsenäinen nörttityttö, joka rakastaa eläimiä yhtä palavasti kuin elektroniikkaa ja koodausta. Alkuun Kati-e autteli lemmikkiasioissa lähinnä naapureita ja tuttuja, mutta kun apua alettiin pyytää yhä kauempaa, hän päätti rakentaa itselleen lentävän robottiapulaisen, Ti-botin. Pet Agents - lemmikkiagentit - oli syntynyt! Kati-en ja Ti-botin päiväohjelma on taas täynnä tehtävää: Sofia kaipaa apua koirarodun valinnassa, rouva Frangille täytyy löytää koiranulkoilutusapua ja 13-viikkoisen Hugo-pennun vatsa on sekaisin. Lisäksi kotona pitää siivota rottien häkki ja hankkia eläimille ruokaa. Onneksi Kati-e voi lennättää Ti-botin asiakaskäynneille ensi hätään! Lemmikkipulmien ohella agenttikaksikko osaa auttaa visaisemmissakin villieläimiin liittyvissä kysymyksissä. Mitä tulee tehdä, kun tienvarresta löytää oravanpoikasen? Saako sammakonpoikasista ja muista puron asukeista perustaa kotiakvaarion? Kati-e kyllä kertoo!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&lookfor=pet+agents+kaarla&type=AllFields|
+}
+
+[Talvikki ja ensimmäinen älypuhelin] {
+	[b-aut]:Katajvuori, Riina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Katajavuori%2C+Riina%2C+kirjoittaja&callnumber=&size=medium&title=Talvikki+ja+ensimm%C3%A4inen+%C3%A4lypuhelin&recordid=satakirjastot.1294311&isbn=9512365545&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tätä päivää Talvikki on odottanut. Hän saa ENSIMMÄISEN älypuhelimensa. Vihdoinkin Talvikki pääsee luokan keskusteluryhmään, käyttämään emojeita, ottamaan kunnollisia kuvia ja kuvaamaan videoita. Talvikki poseeraa parhaan kaverinsa Mesin kanssa omakuvissa, mutta vanhainkodin mukava Mummeli avaa heidän valokuvaajan silmänsä muillekin asioille. Ja onko uimahalli ainoa paikka, missä ei koko ajan näplätä kännykkää?\n\nKauheaa - illalla Talvikki ei löydä puhelintaan mistään!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294311|
+}
+
+[RTasseli ja Tuisku] {
+	[b-aut]:Karvonen, Tytti|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Karvonen%2C+Tytti%2C+kirjoittaja&callnumber=&size=medium&title=Rasseli+ja+Tuisku&recordid=satakirjastot.270366&isbn=9522028959&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:"On kuitenkin tilanteita, joissa sotilaallinen kuri on välttämätön. Tällainen tilanne on leiriruokailu. Ruokaa saa ottaa tarkasti määritellyn ja erittäin monimutkaisen järjestelmän mukaisesti. Se kehittää kasvavien lasten hermorakennetta. Olenhan ammatiltani myös koirakouluttaja ja neurologi. Lapset, muodostakaa ihmispyramidi!"\n\nOletko luullut, että koirat eivät osaa videoblogata? Onko kesäloma ankea kuin kylmä kaurapuuro, kun paras kaveri on poissa? Entä aikuiset, ovatko he hönttejä, jotka näkevät vain oman napansa?\n\nEletään kesäkuun alkua suomalaisessa pikkukaupungissa. 11-vuotiaalla Tuiskulla on tylsää. Paras kaveri Mette on Barcelonassa. Äidillä on selvitystila poikaystävänsä kanssa. Isällä ja hänen naisystävällään on vauvaprojekti, joka pitää isän kiireisenä.\n\nOnneksi on Rasseli, Tuiskun sekarotuinen koira. Se pitää hulvatonta videoblogia ja toimii koulutettuna rakkausneuvojana.\n\nYhdessä parivaljakko lähtee etsimään seikkailuja. He päätyvät Vakavoimalan kesäleirille, jota ohjaa Hellä Unelma - eriskummallinen kasvattaja, joka rakastaa painia ja pellehyppyjä. Leirillä Tuisku tapaa Pyryn ja lapset ystävystyvät. Mutta ymmärtävätkö vanhemmat sen, minkä Hellä Unelma käsittää? Huomaavatko aikuiset, miten lapset kaipaavat heitä? Vai onko lasten tehtävä jotakin hurjaa, jotta vanhemmat tajuavat? |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.270366|
+}
+
+[Tee-se-itse SLIME: limat ja löllöt, ihanat ällöt] {
+	[b-aut]:Ngo, Janessa|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ngo%2C+Janessa%2C+kirjoittaja&callnumber=&size=medium&title=Tee-se-itse+SLIME+%3A+limat+ja+l%C3%B6ll%C3%B6t%2C+ihanat+%C3%A4ll%C3%B6t&recordid=satakirjastot.448400&isbn=9523215477&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Slime on tämän vuoden kovin ilmiö lasten keskuudessa - kaikki tekee omia Slimejä, mutta luotettavia ohjeita on huonosti saatavilla ja osa netissä olevista ohjeista sisältää myrkyllisiä Euroopassa kiellettyjä aineita. Venyvät, poksuvat, pehmeät ja tahmeat slimet, eli limat voit valmistaa helposti itse. Tästä kirjasta löydät hauskat vinkit erilaisiin kotitekoisiin limoihin selkeiden ohjeiden kera. Kaikki raaka-aineet löydät suomalaisista kaupoista!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.448400|
+}
+
+[Onni-poika tykkää pelata] {
+	[b-aut]:Pelliccioni, Sanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pelliccioni%2C+Sanna&callnumber=&size=medium&title=Onni-poika+tykk%C3%A4%C3%A4+pelata&recordid=satakirjastot.346294&isbn=9523121812&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Plääh, Onnilla on kamala flunssa! Mutta jokin on silloinkin hauskaa: saa kuumaa kaakaota, kurkkupas-tilleja ja - mikä parasta - saa pelata tietokoneella!\n\nOlavista on epäreilua, kun veli on saanut pelata niin paljon. Ja isin päätä kuumottaa liiasta pelaamisesta.\n\nVälillä leikitään ulkonakin ja pelataan shakkia. Olaville uusi tietokonepeli on liian jännä, Onnin mielestä taas muissa perheissä saa pelata enemmän. Veljekset kinastelevat ja lapset istuisivat aina tietokoneen ääressä. Äiti haluaisi heittää koko pelin parvekkeelta alas. Sitten isi uskoo keksivänsä ratkaisun pelaamiseen! Toimiiko se?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.346294|
+}
+
+[Mauri ja vähä-älypuhelin] {
+	[b-aut]:Salmi, Veera|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Salmi%2C+Veera&callnumber=&size=medium&title=Mauri+ja+v%C3%A4h%C3%A4-%C3%A4lypuhelin&recordid=satakirjastot.316692&isbn=9511290959&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Eräänän yönä Pasilassa asuvan Maurin puhelin muuttuu rämästä vähä-älypuhelimesta oikeaksi Konegtig-puhelimeksi.\n\nAiemmin Mauri luuli, että hänellä on koko luokan rämin kännykkä, varsinainen vähä-älypuhelin, mutta ei se olekaan. Eräänä yönä se muuttui aidoksi Konegtig-puhelimeksi, ja siihen alkoi tulla salaperäisiä Whatsapp-viestejä pikkutyypeiltä Nakuna-Uusi-Bebasta. Onneksi, sillä sen jälkeen kun Maurin paras kaveri muutti takaisin kotimaahansa Egyptiin, kaikki on ollut aika tylsää. Jos äidillä olisi rahaa, Mauri voisi lentää Egyptiin katsomaan Bashiria. Mutta koska hänellä ei ole, Mauri alkaa kaivaa tunnelia Pasilan ja Egyptin välille, sillä sitä voi käyttää ihan ilmaiseksi.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.316692|
+}
+
+
+[Kauhuhkännykkä] {
+	[b-aut]:Holopainen, Anu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Holopainen%2C+Anu%2C+kirjoittaja&callnumber=&size=medium&title=Kauhuk%C3%A4nnykk%C3%A4&recordid=satakirjastot.1294388&isbn=9522029912&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kauhukännykkä on alakouluikäisille suunnattu kauhuromaani, joka helppolukuisuutensa, maltillisen sivumääränsä ja sopivasti jännittävän tarinan ansiosta houkuttaa myös vähemmän lukevia lapsia kirjojen pariin. Kirja aloittaa Iik!-sarjan.\n\nViidesluokkalaiset Saku ja Sussa ovat paitsi kaksoset, myös parhaat kaverit. Eräänä talvipäivänä Saku löytää maasta kännykän, joka ei vaikuta aivan tavalliselta Samsungilta, mutta luokan häijyin poika Ville nappaa sen itselleen.\n\nSaku ei saa ajatuksiaan puhelimen hohtavista kuorista, ja pian koko koulu huomaa, että Villelle on tapahtumassa jotakin outoa - poika lintsaa koulusta, kuljeksii ympäri kylää kännykkäänsä uppoutuneena ja karkaa opettajalta mitä kummallisimmalla tavalla. Saku lähtee päähänpistosta seuraamaan Villeä ja näkee uskomattoman tapahtuman, joka todistaa, että puhelimessa todella on jotain yliluonnollista.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294388|
+}
+
+[Suuri limakirja] {
+	[b-aut]:Jagan, Alyssa|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jagan%2C+Alyssa%2C+kirjoittaja%2C+valokuvaaja&callnumber=&size=medium&title=Suuri+limakirja&recordid=satakirjastot.430898&isbn=9511320807&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Liman tekeminen on palkitsevaa! Suuri limakirja tekee upeiden limojen sekoittelusta helppoa ja hauskaa. Kirjasta löytyy kaikki tarvittava rakenteeltaan täydellisten limojen luomiseen sateenkaaren väreissä. Aloita perusreseptillä ja tuunaa limasi upeilla väreillä ja jännittävillä lisäaineksilla sohjolimaksi, jäävuorilimaksi, konfettilimaksi?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430898|
+}
+
+[Arttu Tirttu -sarja] {
+	[b-aut]:Kaarla, Riina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kaarla%2C+Riina&callnumber=&size=medium&title=Arttu+Tirttu+her%C3%A4%C3%A4+henkiin&recordid=satakirjastot.441980&isbn=952288796X&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:"Jos sä nyt sanot jollekin, että sun paras kaveri on limutölkin kokoinen kuminen ukko, niin sua pidetään joko outona, säälittävänä tai jälkeenjääneenä. Todennäköisesti sua pidetään outona, säälittävänä JA jälkeenjääneenä. Oli opettaja mitä mieltä tahansa, niin mä en tunnusta olevani mitään noista, vaikka mun paras kaveri on Arttu."\n\nHykerryttävän hauska kirja kertoo ilmaislahjaksi saadusta lelusta, joka kimpaantuu lyhyestä elinkaarestaan ja herää henkiin. Lukuisissa kodeissa käytyään se päättää lopulta jäädä asumaan Jimin ja hänen mummonsa luokse. Jimi on asiasta ensin eri mieltä, mutta lopulta hänestä ja Artusta tulee parhaat kaverit.\n\nArttu Tirttu herää henkiin aloittaa uuden vauhdikkaan sarjan, joka on täynnä huumoria, jännitystä ja nolojakin tilanteita. Kirjan nopeasti etenevä tarina ja runsas, sarjakuvamainen kuvitus imevät mukaansa ja tekevät siitä helposti lähestyttävän kirjakammoisellekin lukijalle.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=arttu+tirttu&type=AllFields&sort=main_date_str+asc|
+}
+
+[Nyt pelittää!: miten pelejä tehdään] {
+	[b-aut]:Lappalainen, Elina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lappalainen%2C+Elina&callnumber=&size=medium&title=Nyt+pelitt%C3%A4%C3%A4%21+%3A+miten+pelej%C3%A4+tehd%C3%A4%C3%A4n%3F&recordid=satakirjastot.248045&isbn=9513193055&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kaikki pelaavat, mutta millainen oikeastaan on hyvä peli, miksi pelit koukuttavat ja miten niitä pelejä tehdään? Palkitut tekijät Elina Lappalainen ja Jussi Kaakinen vievät lukijansa kurkistamaan pelistudion arkeen ja esittelevät pelialan ammatit ajankohtaisessa lasten tietokirjassa. Nyt pelittää! - Miten pelejä tehdään? kertoo pelisuunnittelijan, graafikon, ohjelmoijan ja muusikon työstä hauskasti ja havainnollisesti.\n\nKirjassa Sofia ja Oliver pääsevät tutustumaan pelistudioon koodari-äidin mukana, ja tekemään omaa peliä. Kuvitettu ja tarinallinen kirja käy läpi pelin tekemisen eri vaiheita. Miten pelisuunnittelija ideoi pelin säännöt ja maailman, miksi graafikko piirtää jopa satoja luonnoskuvia, miten äänisuunnittelija saa aikaan messevän loiskahduksen ja miten ohjelmoija saa pelin moottorin hyrräämään.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248045|
+}
+
+[Niko ja taistelu Jamijasta] {
+	[b-aut]:Lehtinen, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lehtinen%2C+Tuula&callnumber=&size=medium&title=Niko+ja+taistelu+Jamijasta&recordid=satakirjastot.336065&isbn=9522026999&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Avaruusolento Jamija saapuu Maahan ja saa Nikon elämän mullistumaan. Hauskoja, hämmentäviä ja pelottaviakin seikkailuja kokeva kaksikko lumoaa niin 6?10-vuotiaat lukijansa kuin heidän vanhempansakin. Kirjan vakavammat teemat yksinäisyys ja pelimaailman houkutus kulkevat luontevasti vauhdikkaan tarinan lomassa. Kymmenvuotiaan Nikon elämä on muuttunut surkeaksi perheen maallemuuton takia. Kesäloma on alkanut, mutta Niko viettää sitä yksin sisällä, ja ainoa asia joka kiinnostaa on sotapelien pelaaminen. Kunnes eräänä päivänä Niko tapaa Jamijan, uteliaan avaruusolion kaukaa Zerwa-planeetalta. Maitopurkin kokoinen olento haluaa pitää hauskaa salaisilla retkillään Maahan eikä aina ihan ymmärrä, miksi lehmiä ei saa häiritä tai pullonpalautusautomaatilla leikkiä. Parivaljakko joutuu moniin noloihin, hauskoihin ja jännittäviinkin tilanteisiin yrittäessään pitää salassa Jamijan olemassaolon. Mutta mitä tapahtuu kun kuvioon astuu naapurin poika Saku, ja Jamijan uteliaisuus uhkaa koitua kohtalokkaaksi taisteluksi?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.336065|
+}
+
+[Nettitaidot] {
+	[b-aut]:Mäkilä, Elli|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4kil%C3%A4%2C+Elli&callnumber=&size=medium&title=Nettitaidot&recordid=satakirjastot.364020&isbn=9511290347&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Opi kaikki tärkeimmät netti- ja mediataidot Reuhurinteen lasten kanssa! Ennen kuin aloitat internetin käytön, sinun on hyvä tietää miten internet toimii, miten erotat oikean tiedon väärästä, miten nettiin laitettu kuva tai teksti voi elää, miten nettiä käytetään turvallisesti. Kirjassa käydään läpi monia tärkeitä seikkoja median ja netin ilmiöistä, mediaturvallisuudesta, netin käytön säännöistä, sosiaalisesta mediasta. Media on läsnä joka paikassa aamusta iltaan, siksi medialukutaito on tärkeä taito.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.364020|
+}
+
+[Etsiväkerho Hurrikaani ja tyly tubettaja] {
+	[b-aut]:Mäkipää, Jari|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4kip%C3%A4%C3%A4%2C+Jari&callnumber=&size=medium&title=Etsiv%C3%A4kerho+Hurrikaani+ja+tyly+tubettaja&recordid=satakirjastot.292479&isbn=9513191400&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Pihlakylän koulu sekoaa, kun joukkoon liittyy uusi oppilas Jimpo - Suomen suosituin tubettaja!\n\nEnsimmäisestä koulupäivästä lähtien seiskaluokkalaisen Jimpon ympärillä pörrää innokas faniparvi. Viiviä koko tapaus ärsyttää. Kolmasluokkalainen käy niin kierroksilla, että muut etsivät epäilevät hänen salailevan jotakin. Pian Jimpo hankkii videoillaan toisenkin vastustajan. Liitutaululle ilmestyy uhkausviesti, joka käskee Jimpoa lopettamaan tubettamisen. Jimpo vastaa entistä räväkämmillä postauksilla, mutta nimetön vihamies ei aio jäädä toimettomaksi Viivin vastustuksesta huolimatta Etsiväkerho Hurrikaani ryhtyy auttamaan Jimpoa. Samaan aikaan etsivien huomiosta kilpailevat haaveet tube-tähteydestä, päämajan remontti ja Karoliinan uusi, kypsempi tyyli.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.292479|
+}
+
+
+[Tubettajan käsikirja] {
+	[b-aut]:Back, Roni|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Back%2C+Roni&callnumber=&size=medium&title=Tubettajan+%5Bk%C3%A4sikirja%5D&recordid=satakirjastot.442785&isbn=951131842X&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Tubettajan käsikirja kertoo kaiken, mitä haluat tietää tubettamisesta! Kirja sisältää käytännön vinkkejä, asiallista faktaa ja monien Suomen ykköstubettajien kokemuksia aiheesta. Mikäli aiot ryhtyä itse tubettajaksi tai olet muuten vain kiinnostunut aiheesta, tämä kirja on juuri sinulle!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.442785|
+}
+
+[YouTube: maailmanennätykset: planeetan parhaat temput ja taidonnäytteet] {
+	[b-aut]:Besley, Adrian|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Besley%2C+Adrian&callnumber=&size=medium&title=YouTube+%3A+maailmanenn%C3%A4tykset+%3A+planeetan+parhaat+temput+ja+taidonn%C3%A4ytteet&recordid=satakirjastot.248999&isbn=9512362481&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:YouTube on internetin suosituin videopalvelu, josta löytyy yli 100 miljoonaa videota ihailtavaksi, hämmästeltäväksi ja jaettavaksi. YouTube-maailmanennätykset kokoaa yhteen huikeimmat temput ja taidonnäytteet, jotka videopalveluun on koskaan ladattu: pienimmät ja suurimmat, vahvimmat ja hulluimmat, nopeimmat ja ihmeellisimmät. Kenen hitti sai ennätysajassa miljardi katselukertaa YouTubessa? Kuka on maailman nopein pizzantekijä? Millainen oli pisin onnistunut koripalloheitto? Missä on käyty maailman suurin tyynysota? Kenellä on maailman vahvimmat hiukset tai pisimmät viikset? Kuka on maailman nopein tekstiviestin kirjoittaja? Missä on maailman korkein silta? Millaisia ovat maailman suurin kani tai pienin hevonen? Tai missä on maailman nopein vessa?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248999|
+}
+
+[Paras kirja ikinä] {
+	[b-aut]:Miklu|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/saha.kirjastot.fi/images/kirjasampo/EPAnYK3HvQ9RDPJxedoUET_Vqrjnv4ee_5DYFekO8L4.jpg?itok=ReCJMgrg|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Ihan sama oletko lapsi, vanhempi, mummeli, pappeli vai kameli, tämä on oikea kirja juuri sinulle.\n\nSupersuosittu tubettaja Miklu päästää lukijan päänsä sisään: kompaktista paketista löydät noloimmat tarinat, parhaat neuvot ja hämärimmät piirustukset. Jos et ole koskaan tarttunut kirjaan, tämä opus muuttaa käsityksesi lukemisesta. Se on Paras Kirja Ikinä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1309356|
+}
+
+[Virityksiä] {
+	[b-aut]:Palviainen, Jukka-Pekka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palviainen%2C+Jukka-Pekka%2C+kirjoittaja&callnumber=&size=medium&title=Virityksi%C3%A4&recordid=satakirjastot.293853&isbn=951236395X&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Valtteri ajaa kolarin paetessaan poliiseja viritetyllä mopollaan. Kukaan ulkopuolinen ei onneksi loukkaannu, mutta Valtteri itse joutuu jalkaleikkaukseen. Samassa sairaalahuoneessa majailee Einari, jonka sota-ajan juttuja on kiva kuunnella. Einarin lapsenlapsi Amanda tekee nettiin humoristisia videoita. Kun Amanda saa vlogiinsa rasittavan häirikön, hän pyytää Valtterilta apua. Kaikesta voi päätellä, että kirjoittaja on joku tuttu. Häirikön jäljittäminen paljastaa monta muutakin salaisuutta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.293853|
+}
+
+[Oikeella tavalla online] {
+	[b-aut]:Stowell, Louie|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Stowell%2C+Louie&callnumber=&size=medium&title=Oikeella+tavalla+online&recordid=satakirjastot.386957&isbn=9522886548&index=0&w=1200&h=1200|
+	[b-tag]:Slimeä ja somea|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kaikki siitä, miten internetissä käyttäytyään.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.386957|
+}
+
+
+
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:|
+	[b-ava]:|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:|
+	[b-ava]:|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:|
+	[b-ava]:|
+}
+
+
+
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:|
+	[b-ava]:|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:|
+	[b-ava]:|
+}
+
+[] {
+	[b-aut]:|
+	[b-cov]:|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:|
+	[b-ava]:|
+}
