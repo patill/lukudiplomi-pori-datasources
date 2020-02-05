@@ -2100,59 +2100,425 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 
 
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Pikku hiiri, tuuliviiri] {
+	[b-aut]:Jäntti, Riikka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=J%C3%A4ntti%2C+Riikka&callnumber=&size=medium&title=Pikku+hiiri%2C+tuuliviiri&recordid=satakirjastot.356191&isbn=9513182479&index=0&w=1200&h=1200|
 	[b-tag]:Ritareita ja prinsessoja|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Lämmin ja humoristinen kuvakirja pikku kaupunkilaishiiren touhuista kotona ja tarhassa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.356191|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Hys! Minä luen nyt] {
+	[b-aut]:Kelly, John|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kelly%2C+John%2C+kirjoittaja&callnumber=&size=medium&title=Hys%21+Min%C3%A4+luen+nyt&recordid=satakirjastot.1298495&isbn=9523411764&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ei saa häiritä! Emma lukee nyt kirjaa.\n\nEmma lukee kaikkien aikojen parasta tarinaa. Hän on juuri päässyt henkeäsalpaavaan kohtaan, jossa... kun huoneeseen jytistelee joukko seikkailua kaipaavia merirosvoja, estradilla viihtyviä pingviinejä ja maapallon valtiaiksi pyrkiviä avaruusolentoja. Malttavatkohan ne odottaa, kunnes Emma saa kirjansa luettua?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298495|
+}
+
+[Missä olet, prinssi Hurmelo?] {
+	[b-aut]:Misslin, Sylvie|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Misslin%2C+Sylvie&callnumber=&size=medium&title=Miss%C3%A4+olet%2C+prinssi+Hurmelo%3F&recordid=satakirjastot.356845&isbn=9522886343&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Reippaat prinsessaystävykset eivät enää jaksa odottaa prinssiään. He ottavat tilanteen haltuun ja uskaltautuvat huimalle etsintäretkelle suureen metsään. Metsän poluilla kuitenkin eksyy helposti, ja prinsessat tarvitsevat lukijan apua löytääkseen etsimänsä. Metsästä löytyykin jos jonkinlaista linnaa ja röttelöä, otusta ja olentoa ? jopa muutama prinssikin. Mutta missä ihmeessä piileksii prinssi Hurmelo?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.356845|
+}
+
+[Reima Ritari etsii apuria!] {
+	[b-aut]:Sperring, Mark|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Sperring%2C+Mark%2C+kirjoittaja&callnumber=&size=medium&title=Reima+Ritari+etsii+apuria%21&recordid=satakirjastot.1261559&isbn=9523410997&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Kiinnostaisiko ritarin apulaisen paikka?\n\nReima Ritari tarvitsee apulaisen! Jonkun joka parsisi sukat, viikkaisi housut ja kiillottaisi haarniskan. Ja kun rosvot, möröt ja lohikäärmeet käyvät kimppuun - silloin Reima Ritari vasta avun tarpeessa onkin...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1261559|
+}
+
+[Rufus Ritari ja hurjat turnajaiset] {
+	[b-aut]:Watkins, Sam|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Watkins%2C+Sam&callnumber=&size=medium&title=Rufus+Ritari+ja+hurjat+turnajaiset&recordid=satakirjastot.277117&isbn=9518838429&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Rufus rakastaa kaikkea, mikä liittyy ritareihin! Hän ei ole yhtään kiinnostunut jalkapallosta, toisin kuin paras ystävänsä Oliver. Mutta kun koulussa pelataan tärkeä jalkapallo-ottelu, Rufuksen ritarintaidoista on yllättävää hyötyä...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.277117|
+}
+
+[Ritarilinnan sankarit] {
+	[b-aut]:Wiechmann, Heike|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wiechmann%2C+Heike%2C+kirjoittaja%2C+taiteilija&callnumber=&size=medium&title=Ritarilinnan+sankarit&recordid=satakirjastot.1298535&isbn=9523411969&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ritarilinna Hiirenvirna on joutunut sekasortoon: rosvoritarit uhkaavat vallata sen! Linnanneito Iiris pyytää apua hiiriystäviltään Vinniltä ja Vannilta. Urheasti toimeen tarttuvat hiiriritarit tapaavat vihreän Tuure-lohikäärmeen, jonka avulla punoutuu juoni linnan pelastamiseksi...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298535|
+}
+
+[Ritari Arkajalka] {
+	[b-aut]:Woodward, Kay|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Woodward%2C+Kay%2C+kirjoittaja&callnumber=&size=medium&title=Ritari+Arkajalka&recordid=satakirjastot.1239908&isbn=9523410415&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Viljami on tavallinen poika siihen asti, kunnes hän täyttää kaksikymmentäyksi. Silloin hänet lyödään ritariksi. Mutta miten arasta Viljamista kasvaisi rohkea? Oikeasti hän haluaisi vain saada muut nauramaan! |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1239908|
+}
+
+
+
+[Totta toinen puoli] {
+	[b-aut]:Frölander-Ulf, Lena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Fr%C3%B6lander-Ulf%2C+Lena&callnumber=&size=medium&title=Totta+toinen+puoli&recordid=satakirjastot.307969&isbn=9518516197&index=0&w=1200&h=1200|
 	[b-tag]:Ritareita ja prinsessoja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Nea-täti näyttää aivan tavalliselta tädiltä. Sellaiselta, joka kastelee pelargonioita, kertoilee sisäkorvan tasapainoelimestä ja tarjoaa pyöreitä keksejä.\n\nMutta jos katsot hiukan tarkemmin, voit nähdä että hänellä on isot ryppyiset korvannipukat. Sellaisiksi ne muuttuivat, kun hän käytti Maharadzan timanttikorvakoruja Burmaneshissä vuonna tuhatyhdeksänsataakolmekymmentäneljä. Silloin häntä kutsuttiin Zabira Finjangiksi ja hän tanssi kilisevissä kuunkeltaisissa housuissa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.307969|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Sorsa norsun räätälinä] {
+	[b-aut]:Itkonen, Jukka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Itkonen%2C+Jukka&callnumber=&size=medium&title=Sorsa+norsun+r%C3%A4%C3%A4t%C3%A4lin%C3%A4&recordid=satakirjastot.241682&isbn=9511227033&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Näitä tarinoita et voi lukea nauramatta! Verbaalivelho on tehnyt taas taikojaan ja siirtänyt klassisten satujen parhaat palat villisti mukaillen nykypäivään - Minun tekee mieli piimää, lohikäärme sanoi. - Poikkeanpa tuossa ruskeassa mökissä. Piparkakkutalossa asui kuusi pientä kääpiötä. - Silirimpsis, lohikäärme sanoi, - eikös teitä pitäisi olla kaikkiaan seitsemän. - Eikä teidän pitäisi asua piparkakkutalossa. Noidan täällä pitäisi asua, oikein ilkeän vanhan syyläleuan. - Tuo ei pidä paikkaansa alkuunkaan! kääpiöt raivostuivat. - Me ostimme tämän talon noidalta osamaksulla!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.241682|
+}
+
+[Kuninkaan ritari] {
+	[b-aut]:Knapman, Timothy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Knapman%2C+Timothy&callnumber=&size=medium&title=Kuninkaan+ritari&recordid=satakirjastot.455355&isbn=9522887870&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kuninkaan ritarissa seikkailuun sukelletaan keskiaikaisissa tunnelmissa. Ja missä varustuksessa! Lukija on kuninkaan paras ja kiitellyin ritari, jonka tehtävänä on pitää isäntänsä elossa. Kuulostaa helpolta, eikö? Moni on kuitenkin valmis surmaamaan kuninkaan syrjäyttääkseen tämän vallasta, joten tehtävä osoittautuukin yllättävän haastavaksi...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.455355|
+}
+
+[Lennokas: satuja jotka saivat siivet] {
+	[b-aut]:Kivilaakso, Sirpa (toim.)|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=&callnumber=&size=medium&title=Lennokas+%3A+satuja%2C+jotka+saivat+siivet&recordid=satakirjastot.414096&isbn=9522882976&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Isällä oli tapana lennättää joka ilta pientä poikaansa korkealla pään päällä. Hän kaappasi Leon suurien kämmeniensä väliin ja käänsi pojan lentoasentoon. Leo nosti käsivartensa siiviksi. Mahassa kutitti joka kerta. Sitten isä rymisteli Leon kanssa ympäri kotia. Poika tunsi ilmavirran kasvoillaan ja kiljahteli riemusta. Isä jyrisi: ?Leo Lekkeri lentää, nyt Leo Lekkeri lentää!?\n\nKirja sisältää Finnairin henkilökunnan ja matkustajien kirjoittamia satuja lapsille ja lapsiperheille. Tarinoissa noustaan satujen siiville ja lennetään kohti huikeita seikkailuja ja eksoottisia maita; ystävystytään ja opitaan arvostamaan erilaisuutta. Ääneen pääsevät myös lapsimatkustajat: kirjaan on koottu lasten sympaattisia ja humoristisia letkautuksia lentämisestä. Merkittävä osa kirjan tuotosta ohjataan uuden lastensairaalan tukemiseen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.414096|
+}
+
+[Gattonautti ja muita arkisatuja] {
+	[b-aut]:Peltoniemi, Sari|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Peltoniemi%2C+Sari&callnumber=&size=medium&title=Gattonautti+ja+muita+arkisatuja&recordid=satakirjastot.273148&isbn=9513165760&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Vilja ryhtyy huolehtimaan vanhasta haudasta, jossa lepää Anna-tyttö kaukaa menneisyydestä. Millaista Annan elämä mahtoi olla, Vilja pohtii ja vie haudalle orvokin taimen ja samettikukan. Viljasta melkein tuntuu, että Anna katselee ja iloitsee siitä miten haudasta tulee taas kaunis. Jaakko tutustuu salaperäiseen vesikissaan, Ranta-Telleen, joka uhoaa rakentavansa avaruusveneen ja ryhtyvänsä gattonautiksi. Jaakkokin haluaa gattonautiksi! Eräällä luokalla on kolme Johannaa. Heitä ruvetaan sanomaan Iso-Johannaksi, Keski-Johannaksi ja Pikku-Johannaksi. Kukaan tytöistä ei pidä lempinimestään. Vasta luokkakuvan ottamisen jälkeen asiaan löytyy ratkaisu.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.273148|
+}
+
+[Etsivätoimisto Mysteeri -sarja] {
+	[b-aut]:Tynkkynen, Jutta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tynkkynen%2C+Jutta&callnumber=&size=medium&title=Etsiv%C3%A4toimisto+Mysteeri+ja+Pyh%C3%A4n+Birman+safiiri&recordid=satakirjastot.436516&isbn=9522027014&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Legendaarinen kadonnut safiiri, kolme innokasta salapoliisia ja sinä! Etsivätoimisto Mysteeri ja Pyhän Birman safiiri on alakouluikäisille lapsille suunnattu salapoliisitarina, jonka lukemisen lisäksi lukijat pääsevät itse ratkaisemaan tarinaan sisältyviä etsivätehtäviä sekä seikkailemaan salapoliisien oman aarteenetsintäseikkailun parissa.\n\nSalaperäinen roisto aikoo iskeä kyntensä kuuluisaan Pyhän Birman safiiriin ja uhkailee italialaista, hyvin rikasta Monte Cristallon kreiviä jalokiven saadakseen. Ruhtinaansalon alakoulua käyvät Etsivätoimisto Mysteerin salapoliisit Roosa ja Timi pääsevät kuitenkin roiston kieron juonen jäljille. Tapausta auttaa ratkaisemaan myös Roosan pikkusisko Aurora, joka haluaa oikeaksi etsiväksi, kuten varmaan sinäkin. Liity siis Ruhtinaansalon etsivätoimiston seuraan ja auta selvittämään, kuka uhkailija on ja mistä oikein on kysymys. Entä miten Pyhän Birman safiiri liittyykään tapaukseen? Ratkaise samalla Auroran kanssa Virallisten etsiväkokeiden tehtäviä ja selvitä, olisiko sinusta oikeaksi etsiväksi. Pääset myös leikkimään omaa salapoliisiseikkailua kirjan ohjeiden mukaan. Ota jo suurennuslasisi esille, sillä tämä mysteeri vie sinut seuraamaan johtolankoja kreivin hienoilta cocktailkutsuilta aina Himalajan vuoren juurella olevaan vaaralliseen viidakkoon asti!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&lookfor=etsiv%C3%A4toimisto+mysteeri&type=AllFields&sort=main_date_str+asc|
+}
+
+
+
+[Peter Pan] {
+	[b-aut]:Barrie, J.M.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Barrie%2C+J.+M.&callnumber=&size=medium&title=Peter+Pan&recordid=satakirjastot.122582&isbn=9518843325&index=0&w=1200&h=1200|
 	[b-tag]:Ritareita ja prinsessoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Peter Pan - poika, joka ei tahdo kasvaa aikuiseksi - vie Darlingin lapset ilmojen halki ihmeelliselle saarelle, missä mikä tahansa on mahdollista. Kun vastassa on petoja, punanahkoja ja pelottavan Kapteeni Koukun verenhimoinen merirosvolauma, huima seikkailu voi alkaa? Ensimmäistä kertaa kokonaisuudessaan suomennettu klassikko poikkeaa elokuvien ja aiempien kirjojen typistetystä Peter Pan -tarinasta. Muun muassa Kapteeni Koukku ja merirosvot nousevat tässä kirjassa värikkäästi esille.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.122582|
+}
+
+[Gepardi katsoo peiliin: faabeleita] {
+	[b-aut]:Huovi, Hannele|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Huovi%2C+Hannele&callnumber=&size=medium&title=Gepardi+katsoo+peiliin+%3A+faabeleita&recordid=satakirjastot.92794&isbn=9513128393&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kirahvi halusi olla hiljaa. Se halusi olla omissa oloissaan ja ajatella ajatuksiaan. Se ei halunnut olla ilkeä kenellekään, mutta se halusi olla yksin. "Minun on pakko", ajatteli kirahvi. Sitten se teki sen, mikä oli pakko tehdä: kasvatti itselleen kaulan.\n\nGepardi katsoo peiliin on kokoelma nykyajan faabeleita, kirpeitä ja oudolla tavalla tuttuja. Hannele Huovin tarinoiden ja Kirsi Neuvosen kuvien vuoropuhelu kertoo eläimistä, jotka muistuttavat ihmistä: gepardista, joka rakastaa kauneutta, vaaraa rakastavasta sisiliskosta, alakuloisesta tapiirista, karhusta, joka etsii kenkiä, kamelista joka uskaltaa luottaa vaistoihinsa, herttua-apinasta, pensselisioista ja monista muista oudoista otuksista.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.92794|
+}
+
+[Ja he elivät onnellisina...: uusi loppuja vanhoille saduille] {
+	[b-aut]:Kiiski, Sanna (toim.)|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=&callnumber=&size=medium&title=Ja+he+eliv%C3%A4t+onnellisina..+%3A+uusia+loppuja+vanhoille+saduille&recordid=satakirjastot.360918&isbn=9524924129&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Saduista olemme oppineet, että suuretkin vaikeudet ovat voitettavissa ja että kaikille tarinoille on mahdollista rakentaa onnellinen loppu. Tässä kirjassa tunnetut henkilöt kertovat, miten tuttujen satuhahmojen tarinat heidän mielestään jatkuvat. Miten kävi Ruususelle ja Lumikille? Mihin vei Hannun ja Kertun tie? Tuliko Kultakutrista eläinten käyttäytymisen tutkija? Vanhoille saduille uusia jatko-osia kehittelevät Marco Hietala, Anja Snellman, Juha Vuorinen, Maria Guzenina-Richardson, Dome Karukoski, Lauri Karhuvaara, Sami Garam, Viivi Pumpanen, Paola Suhonen, Marika Krook, Paula Noronen, Jenni Pääskysaari, Jarkko Valtee ja Osku Heiskanen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.360918|
+}
+
+[PUiden tarinoita -sarja] {
+	[b-aut]:Küttner, Iiro|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=K%C3%BCttner%2C+Iiro&callnumber=&size=medium&title=Puusepp%C3%A4&recordid=satakirjastot.370265&isbn=9526798058&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:"Sanottiin, että hänen käsissään puu lakkasi olemasta puuta, hänen käsissään se muuttui kullaksi, arvostamisen arvoisiksi ajatuksiksi ja kauniiksi uniksi." Keisarillinen puuseppä saa hallitsijalta käskyn valmistaa ihan mitä itse haluaa. Puuseppä tietää heti, mitä hänen täytyy ensimmäistä kertaa elämässään rakentaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=puiden+tarinoita+k%C3%BCttner&type=AllFields|
+}
+
+[Siuntio Silosäkeen tarinat] {
+	[b-aut]:Rowling, J.K.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rowling%2C+J.+K.&callnumber=&size=medium&title=Siuntio+Silos%C3%A4keen+tarinat&recordid=satakirjastot.345335&isbn=9513148017&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Siuntio Silosäkeen tarinat sisältää johtolankoja jotka osoittautuivat ratkaiseviksi Harry Potterin viimeisessä tehtävässä, Voldemortin hirnyrkkien tuhoamisessa. Albus Dumbledore jätti satukokoelman perinnöksi Hermionelle seitsemännessä ja viimeisessä Potter-kirjassa. Yksi tarinoista, Tarina kolmesta veljeksestä, on Harry Potter ja kuoleman varjelukset -kirjassa. Neljä muuta paljastetaan nyt ensimmäistä kertaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.345335|
+}
+
+[Ihan oikeat prinsessat ja prinssit] {
+	[b-aut]:Suoniemi, Karoliina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Suoniemi%2C+Karoliina%2C+kirjoittaja&callnumber=&size=large&title=Ihan+oikeat+prinsessat+ja+prinssit&recordid=satakirjastot.326258&isbn=9523041622&index=0|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Satujen prinsessat nukkuivat sata vuotta tai tanssivat keskiyöhön asti tanssiaisissa, mutta mitä aivan oikeat prinsessat ja prinssit tekivät ja miten he elivät?\n\nMitä kuninkaallisen perheen lapset opiskelivat? Millaisilla leluilla he leikkivät? Mitä he söivät, missä he asuivat? Ja mitä heille myöhemmin kävi?\n\nSelkokielisessä kirjassa sukelletaan historiallisten prinssien ja prinsessojen elämään ja tutustuaan esimerkiksi Kaarina Maununtyttären, Ruotsin kuningatar Kristiinan ja Venäjän viimeisen tsaariperheen lasten tarinoihin Samalla päästään kurkistamaan myös lasten arkeen historiassa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.326258|
+}
+
+[Maamies ja lohikäärme] {
+	[b-aut]:Tolkien, J.R.R.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tolkien%2C+J.+R.+R.&callnumber=&size=medium&title=Maamies+ja+lohik%C3%A4%C3%A4rme&recordid=satakirjastot.59514&isbn=9510088986&index=0&w=1200&h=1200|
+	[b-tag]:Ritareita ja prinsessoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kun rauhalliselle maaseudulle ilmaantuu ensin jättiläinen ja sitten lohikäärme, kansa on kauhuissaan. Miten käy Gilesin, mainion maamiehen, joka joutuu niiden kanssa vastakkain. Sormusten herran kirjoittajan kiehtova tarina sijoittuu muinaiseen Britanniaan, jossa oli "nykyistä enemmän aikaa ja vähemmän ihmisiä, joten useimmat miehet olivat merkkimiehiä".|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.59514|
 }
 
 
 
-
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Sinttu- ja Eppu-sarjat] {
+	[b-aut]:Hallberg, Lin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallberg%2C+Lin&callnumber=&size=medium&title=Maailman+ihanin+Sinttu&recordid=satakirjastot.426303&isbn=9513139689&index=0&w=1200&h=1200|
 	[b-tag]:Yllätyksiä luonnossa|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Maailman paras Sinttu -kirjassa seurataan, kuinka tokaluokkalainen Elina ja hänen ystävänsä Anni, Maikki ja Hanna pääsevät vihdoin aloittamaan ratsastustunnit Siltakylän tallilla. Hepat ovat niin ihania, että tytöt ajattelevat niitä heti ensimmäiseksi aamulla ja aina viimeiseksi illalla. Koulupäiväkin kuluu madellen, kun tiedossa on ratsastustunti.\n\nElina menee päästään pyörälle, kun hän tapaa Sintun, maailman ihanimman shetlanninponin. Elinasta tuntuu, että hän ja Sinttu yksinkertaisesti kuuluvat yhteen. Hän saakin hoitaa Sinttua heti ensimmäisellä tunnilla.\n\nTalli on pikkutytöille jännittävä paikka, ja he haluavat oppia poneista kaiken huippunopeasti. Onneksi siellä on mukava ja jämpti ratsastuksen-opettaja Inka, joka on oikea ponitietopankki. Isoistakin tallitytöistä voi aina ottaa mallia.\n\nEräänä päivänä kun Elina tulee tallille, Sinttu onkin kipeä. Se ontuu kaviotaan ja joutuu pian eläinsairaalaan. Kuinkahan Sinttu nyt selviää? Elina päättää, että hänestä tulee vielä taitavista taitavin ponityttö, joka pitää Sintusta hyvää huolta.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%28sinttu+OR+eppu%29+hallberg&type=AllFields&limit=50|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Täplä-sarja] {
+	[b-aut]:Halvarsson, Isabelle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Halvarsson%2C+Isabelle%2C+kirjoittaja&callnumber=&size=medium&title=T%C3%A4pl%C3%A4+%3A+vaarallinen+matka&recordid=satakirjastot.251339&isbn=9523214489&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Yhtäkkiä pieni jackrussellinterrierin pentu tunsi, kuinka häkki keinahti. Häkki nostettiin maasta ja kannettiin autoon, joka oli tulvillaan vieraita, ikäviä hajuja. Pentu oli uupunut ja aivan kauhuissaan. Sillä oli nälkä ja jano, koska se ei ollut saanut ruokaa eikä vettä pitkään aikaan.\n\nPian auto lähti ajamaan kohti Suomea...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=t%C3%A4pl%C3%A4+halvarsson&type=AllFields|
+}
+
+[Onnenkepparit-sarja] {
+	[b-aut]:Jalo, Merja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jalo%2C+Merja%2C+kirjoittaja&callnumber=&size=medium&title=Olivia+ja+Onnent%C3%A4hti&recordid=satakirjastot.1257108&isbn=9510430943&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tokaluokkalaiset tytöt perustavat keppihevosille tallin, jossa sattuu ja tapahtuu.\n\nOlivian paras ystävä käy joka viikko talleilla ratsastamassa ihanilla poneilla, mutta Olivia on allerginen, ja joutuu ihailemaan ystävänsä harrastusta kaukaa. Eräänä kesäloman päivänä hän löytää Onnentähden, maailman suloisimman keppihevosen. Pian koko Olivian kaveriporukka on keppariharrastuksen lumoissa: pihaan perustetaan keppihevosille oma talli ja kisojakin pidetään. Olivia on viimeinkin oikea hevostyttö!\n\n
+Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ikäisille ja alakoululaisille suunnatun sarjan, jossa on Reetta Niemensivun vauhdikas ja söpö kuvitus.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=onnenkepparit+jalo&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Leon lemmikit -sarja] {
+	[b-aut]:Llewellyn, Claire|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Llewellyn%2C+Claire&callnumber=&size=medium&title=Miisun+torkut&recordid=satakirjastot.412779&isbn=9518830622&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Miisu-kissa haluaisi ottaa nokoset, mutta ei saa hetken rauhaa. Äiti hätistää sen pois kaapista, isä tuolilta - ja ulkonakin Haukku alkaa jahdata Miisua. Löytyisikö puun oksalta rauhallinen nukkumapaikka?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=llewellyn+leon&type=AllFields|
+}
+
+[Aada ja jääkarhu -sarja] {
+	[b-aut]:Marttinen, Tittamari|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Marttinen%2C+Tittamari&callnumber=&size=medium&title=Aada+ja+j%C3%A4%C3%A4karhu+%3A+hauska+kaupunkiretki&recordid=satakirjastot.452554&isbn=9518838879&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Aadan paras ystävä on jääkarhu. Jääkarhun paras ystävä on Aada. Yhdessä he lähtevät retkelle kaupunkiin. Jääkarhua kiinnostaa kaikki. Puistossa se ihastuu villakoiraan ja pelästyy lehti-imuria. Se kokeilee skeittilautaa, pelaa koripalloa ja hoitaa leikkikarhuja. Aadan mielestä hauskinta on istua jääkarhun harteilla ja vilkutella ihmisille korkeuksista. Kauppatorilla jääkarhu tutustuu aitoihin merikarhuihin. Tavaratalosta se löytää pehmeän sohvan ja päättää ottaa päiväunet. Aada ei aina tiedä, pitäisikö sen tempuille itkeä vai nauraa.\n\nMutta entäs sitten, kun jääkarhu katoaa iltapäiväruuhkassa! Aada pelästyy. Miten hän oikein löytää ystävänsä? Onneksi Aada saa vastaantulevilta ihmisiltä vihjeitä ja löytää jääkarhun lopulta yllättävästä paikasta?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aada+ja+j%C3%A4%C3%A4karhu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Pelastetaan eläimet] {
+	[b-aut]:Moser, Annette|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Moser%2C+Annette%2C+kirjoittaja&callnumber=&size=medium&title=Pelastetaan+el%C3%A4imet%21&recordid=satakirjastot.1298540&isbn=9523411926&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Sisu ja Onni päättävät alkaa pelastaa hämähäkkejä, sillä kaikilla eläimillä on oikeus elää! Fridasta tulee eläintenpelastaja valppaan Simson-koiransa avulla, kun tämä saa lenkillä vainun kissanpojasta. Kenelle eksynyt pikkuinen mahtaa kuulua? Seitsemän pientä tarinaa eläinten maailmasta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298540|
+}
+
+[Uljas-sarja] {
+	[b-aut]:Niemelä, Reetta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4ni+Uljas&recordid=satakirjastot.376910&isbn=9511283251&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tikkumäen ponikerho on parasta, mitä Iiris tietää, ja Uljas on maailman ihanin poni. Ponikerhossa käyvät myös Iiriksen paras kaveri Riina sekä Pauli,johon molemmat tytöt ovat pihkassa.\n\nApuohjaajaksi saadaan teinityttö Milla, kokenut ratsastaja. Kerran Iiris näkee Millan potkaisevan Patu-hevosta. Iiris on paikalla myös silloin, kun Milla ärähtelee Uljakselle ja pakottaa sen esteille raipalla. Saako niin tehdä?\n\nIiris alkaa vältellä Millaa. Mutta inhottava salaisuus ei jätä häntä rauhaan. Miten Milla voi kohdella heppoja niin sydämettömästi! Voiko siitä kertoa kenellekään? Uljas on lopulta se, joka tulee apuun.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=uljas+niemel%C3%A4&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Tavutettu eläinkirja -sarja] {
+	[b-aut]:Palanterä, Jaana|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palanter%C3%A4%2C+Jaana&callnumber=&size=medium&title=Niveljalkaiset+ja+nilvi%C3%A4iset&recordid=satakirjastot.412367&isbn=9527040655&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Lasten eläinkirjasarja antaa tietoa monenlaisista eläimistä lukemista opetteleville lapsille. Jokaisessa kirjassa esitellään 25 eläintä. Etusijalla ovat Suomessa elävät eläimet. Niiden lisäksi esitellään eräitä tunnetuimpia tai muuten mielenkiintoisia eläimiä. Kuvissa on lisäksi eläinten tärkeimpiä tunnusmerkkejä kuvaavia laatikoita. Kuvaukset aidoista eläimistä tuovat vaihtelua opetukseen, ja jo hyvin nuoretkin lapset voivat tutustua erilaisiin eläimiin kuvien ja tekstin avulla niin kotona kuin koulussakin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=tavutettu+el%C3%A4inkirja+palanter%C3%A4&type=AllFields&dfApplied=1&limit=20|
+}
+
+[Miksi leppäkertulla on pilkut?: lapsi kysyy luonnosta] {
+	[b-aut]:Vehmanen, Suvi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Vehmanen%2C+Suvi&callnumber=&size=medium&title=Miksi+lepp%C3%A4kertulla+on+pilkut%3F+%3A+lapsi+kysyy+luonnosta&recordid=satakirjastot.441700&isbn=9524921235&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Uusi teema loistavan vastaanoton saaneen Lapsen oman luontokirjan tekijöiltä. Hillevi-hiiri ihmettelee yhdessä lasten kanssa luonnon monia kummallisuuksia. Kirjassa kuljetaan keväästä kesän ja syksyn kautta talveen ja uuteen kevääseen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.441700|
+}
+
+
+[Tutut oudot eläimet: 100+3 asiaa joita et eläinkunnasta tiennyt] {
+	[b-aut]:Cruz, Carlos da|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cruz%2C+Carlos+da&callnumber=&size=medium&title=Tutut+oudot+el%C3%A4imet+%3A+100%2B3+asiaa+joita+et+el%C3%A4inkunnasta+tiennyt&recordid=satakirjastot.430443&isbn=9513182339&index=0&w=1200&h=1200|
 	[b-tag]:Yllätyksiä luonnossa|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Hauska ja värikäs tietokirja esittelee outoja eläintapoja maapallon joka kolkasta.\n\nFlora Von Hetula on biologi-seikkailijatar, jonka erikoisalaa ovat erikoisesti käyttäytyvät eläimet. Kirja kiertää Floran seurassa koko maapallon ja esittelee hänen löytämiään merkillisiä tapoja ja ominaisuuksia. Osa eläimistä on meille hyvinkin tuttuja kuten sammakot, elefantit ja muurahaiset, mutta tiedämmekö niistäkään kaikkea? Tiesitkö esimerkiksi, että virtahepojen maito on vaaleanpunaista, merisaukolla on turkissaan taskut ja sammakko syö silmiensä avulla? Tutut oudot eläimet sisältää runsaasti hauskoja visuaalisia elementtejä, joissa riittää tutkittavaa moneksi lukukerraksi! Lisäviihdykettä tarjoavat kirjan lomaan sirotellut tietokilpailukysymykset.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430443|
 }
 
-[] {
-	[b-aut]:|
-	[b-cov]:|
+[Venla-sarja] {
+	[b-aut]:Lukkarila, Päivi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lukkarila%2C+P%C3%A4ivi&callnumber=&size=medium&title=Venlan+alkeiskurssi&recordid=satakirjastot.316953&isbn=9512353768&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kahdeksanvuotiaan Venlan unelma toteutuu, kun hän pääsee ratsastuskoulun alkeiskurssille. Enimmäkseen ratsastus on helppoa ja kivaa, mutta jännitystäkin riittää. Viimeisen ratsastustunnin jälkeen on suoritettava tehtävärata. Kuinka Venla selviää siitä, kun hänellä on ratsunaan hurja ja vireä Kirppu?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=venla+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Tassu-trio-sarja] {
+	[b-aut]:Meripaasi, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Meripaasi%2C+Helena&callnumber=&size=medium&title=Kuriton+koiranpentu&recordid=satakirjastot.414196&isbn=9511304356&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Unelmien koiranpentu saa Allun elämän sekaisin. Eläinystävien uusi koukuttava toivesarja!\n\nAllu on ruikuttanut koiraa jo kauan, mutta äidin vastaus on ollut ehdoton ei. Ei paimenkoiraa, ei terrieriä, ei spanielia, ei edes chihuahuaa dobermannista puhumattakaan! Mutta siinä se nyt on, tekemässä tuhojaan heidän olohuoneensa matolla: kääpiöpinseri-pentu Kirppu, väri kuin dobermannilla, sukutaulu täynnä muotovalioita.\n\nAllu ei tunne uudesta koulustaan ketään, mutta pian hän törmää Christaan, joka on suuri kissojenystävä, ja Erikaan, jonka upean valkoisen koiran hän pelastaa tieltä harhailemasta. Heitä kaikkia yhdistää rakkaus eläimiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=meripaasi+tassu-trio&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Miten ötökät elävät] {
+	[b-aut]:Romano, Teresa|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Romano%2C+Teresa&callnumber=&size=medium&title=Miten+%C3%B6t%C3%B6k%C3%A4t+el%C3%A4v%C3%A4t&recordid=satakirjastot.429110&isbn=9515016436&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Tiesitkö, että hepokatin korvat ovat sen polvissa? Entä sen, että maasiira hengittää kiduksilla kuten kalat? Tai että vain naarashyttyset imevät verta? Hämähäkit ja kärpäset, muurahaiset ja kastemadot, hepokatit ja sokeritoukat - luonnon pienet ihmeet kuljeskelevat aivan silmiemme alla. Niiden maailma on täynnä kekseliäitä ratkaisuja ja vitsikkäitä veijarimaisuuksia. Miten ötökät elävät -kirjassa esitellään kaksitoista pikkuötökkää. Saat tietää kaiken tarpeellisen ötököiden lisääntymisestä, ravinnosta ja puolustautumisesta sekä vinkkejä siitä, miten voit tarkkailla pikkuötököitä luonnossa. Tai vaikka omassa kylppärissä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429110|
+}
+
+[Luontopartio pelastaa eläimiä] {
+	[b-aut]:Rottböll, Grethe|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/armas.btj.fi/295d/3903/295d390322af07812563b9bc4cb5c036?itok=u1XB72xj|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hei sinä siellä! Tykkäätkö luonnosta ja eläimistä?\n\nOnni ja Leena tykkäävät myös. He perustavat oman kerhon: Luontopartion. Luonto ja eläimet tarvitsevat apua, ja tehtävää on paljon. Onni ja Leena nikkaroivat lepakkopönttöjä, suojelevat perhosen toukkien nokkospuskakodin, pelastavat sammakot pyörätieltä ja rakentavat asuntoja mehiläisille.\n\nRyhdy sinäkin luonnon apulaiseksi! Kirjassa on paljon vinkkejä, joiden avulla voit itsekin suojella lähiluontoasi.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1312081|
+}
+
+[Karhun kakkaa ja muita eläinten jälkiä] {
+	[b-aut]:Seed, Andy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Seed%2C+Andy%2C+kirjoittaja&callnumber=&size=medium&title=Karhun+kakkaa+ja+muita+el%C3%A4inten+j%C3%A4lki%C3%A4&recordid=satakirjastot.1299503&isbn=9523082698&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Ryhdy eläinsalapoliisiksi ja lähde retkelle luontoon. Tämä opas kertoo hauskasti eläinten jättämistä jäljistä: kakasta, oksennuspalloista, jalanjäljistä, höyhenistä ja karvatupsuista sekä muista luonnosta löytyvistä merkeistä. Jäljistä voi oppia päättelemään niidenjättäjän. Jännittävää luontoretkeä eläinten jäljillä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1299503|
+}
+
+[Mikä tahansa Holy Webbin kirjoista] {
+	[b-aut]:Webb, Holly|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Webb%2C+Holly&callnumber=&size=medium&title=Max%2C+pikku+karkulainen&recordid=satakirjastot.257835&isbn=9512351609&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Pieni nöpönenäinen kissanpentu on epätoivoinen, kun kukaan ei tunnu haluavan sitä omakseen, kuten sen sisarukset halutaan. Muutaman viikon ikäinen hauveli Max sen sijaan saa kodin ja oman pikku emännän, mutta ikävöi tätä koulupäivän aikana niin kovasti, että lähtee etsimään tätä. Maailma on vaarallinen paikka kaikille pienille eläinlapsille...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=webb%2C+holly&type=AllFields|
+}
+
+
+[Loukuttaja] {
+	[b-aut]:Aho, Marja|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/6/7/2/saha/kirjasampo/0_-2610026518813216986.jpg?itok=-9aXzKDK|
 	[b-tag]:Yllätyksiä luonnossa|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:|
-	[b-ava]:|
+	[b-des]:Usva on luokan hyljeksitty, kissanpissalta haiseva kummajainen, joka vapaa-ajallaan haluaa mieluummin loukuttaa pakkasessa värjötteleviä kulkukissoja, kuin osallistua luokan rientoihin. Hän haluaisi palavasti puhua eläinten oikeuksista eläinsuojeluneuvojana toimivan, löytöeläintaloa pyörittävän äitinsä tavoin, mutta häneltä puuttuu rohkeus sanoa epäkohdista ääneen. Hän tietää, että jos hän koulussa avaisi suunsa kertoakseen Jennalle ja luokan muille tytöille mielipiteensä näiden huonosta lemmikkien kohtelusta, saisi hän koko luokan ivat päälleen. Koulun ruokalassa hän katsoo surullisena, kun muut syövät lihaa. Hän haluaisi kertoa kaikille, millaisissa oloissa tuotantoeläimet joutuvat elämään.\n\nUsva ihailee isosiskoaan Unnaa, muiden mielipiteistä vähät välittävää aktivistia, joka luontoa ja eläimiä suojellakseen ja niiden kaltoinkohtelulle huomiota saadakseen on valmis vaikka köyttämään itsensä kettingillä puuhun tai turkistarhan oveen. Usvan isäpuoli Ii-Pee yrittää valaa arkaan tyttöön itseluottamusta puujalkavitseillään ja rennolla elämänasenteellaan.\n\nUsvan rohkeus ja ääni ovat kadoksissa, kunnes eteen tulee tilanteita, jotka pakottavat hänet avaamaan suunsa ja pihisemään ilmoille mielipiteensä. Siitä rohkaistuneena hän puuttuu Jennan eläinten kohteluun ja huomaa löytäneensä sen, mikä on piilotellut aivan liian kauan syvällä hänen sisuksissaan - oman äänensä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1297611|
+}
+
+[Klara-sarja] {
+	[b-aut]:Hagmar, Pia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hagmar%2C+Pia&callnumber=&size=medium&title=Klara+ja+unelmien+hevonen&recordid=satakirjastot.281153&isbn=9511254723&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Klara ei voisi olla onnellisempi! Hän saa hoitohevosekseen ihanan Siggen, jolle hän voi kertoa kaikki ilonsa ja surunsa.\n\nYllättäen tallilla alkaa kiertää huhu, että joku aikoo ostaa hänen rakkaan Siggensä!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=klara+hagmar&type=AllFields&filter[]=search_daterange_mv:%22[2011%20TO%202100]%22|
+}
+
+[Cecilia-sarja] {
+	[b-aut]:Heimonen, Satu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Heimonen%2C+Satu&callnumber=&size=medium&title=Suokaislan+suloinen+Cecilia&recordid=satakirjastot.245978&isbn=9518836388&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Eläinrakas Milka saa isältään maailman parhaan 11-vuotislahjan: oman, hartaasti toivotun kissan! Suokaislan suloinen Cecilia on täydellinen ragdoll-pentu. Milka on onnensa kukkuloilla, kunnes selviää, ettei isä ole neuvotellut lemmikkihankinnasta etukäteen Milkan äidin kanssa. Hyväksyisivätkö äiti ja isäpuoli uuden maukuvan perheenjäsenen? Mieltä painaa myös riita parhaiden kavereiden, Viivin ja Venjan kanssa. Kaksostytöt suhtautuvat Ceciliaan oudon viileästi. Onneksi Milka tutustuu reiluun Heiniin ja välit kaksosiinkin lämpiävät pikkuhiljaa. Kunpa Cecilia vain saisi jäädä...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=cecilia+heimonen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Etsijät--sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Matka+alkaa&recordid=satakirjastot.246933&isbn=9518874743&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kolme karhua - jääkarhu Kallik, mustakarhu Lusa ja harmaakarhu Toklo - joutuvat pentuina eroon perheistään, ja heidän on selviydyttävä yksin karussa erämaassa. He päätyvät yhteen ja lähtevät huimaan seikkailuun etsimään uutta tulevaisuutta oppaanaan Ujurak, harmaakarhun pentu, joka ei ole aivan tavallinen karhu...\n\nEtsijät (Seekers) on Soturikissat-kirjoistaan tunnetun ERIN HUNTERIN toinen eläinfantasiasarja. Se vie lukijan villiin pohjoiseen luontoon ja ilmaston lämmetessä muuttuvaan ympäristöön. Matka alkaa on sarjan ensimmäinen osa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22etsij%C3%A4t%22++hunter%2C+erin+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Selviytyjät-sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Yll%C3%A4tt%C3%A4v%C3%A4+vihollinen&recordid=satakirjastot.276922&isbn=9518875030&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Keneen voi luottaa tosipaikan tullen?\n\nBella ja muut hihnakoirat ovat asettuneet Suuren murahduksen jälkeen metsään, jossa on kylliksi puhdasta vettä ja saalista. Aluetta alkaa kuitenkin vaatia laumalleen hurjien villikoirien pitelemätön johtaja. Uusia selviytymis- ja taistelutaitoja Lykyltä oppineet hihnakoirat eivät anna periksi vaan panevat vastaan kaikin tavoin.\n\nBella punoo vihollislauman pään menoksi mutkikkaan juonen, joka perustuu Lykyn älykkääseen ja ovelaan toimintaan. Vaikka Lykky kaipaa itsenäistä elämäänsä, hän ei halua jättää tovereitaan pulaan ja suostuu auttamaan. Lykkyä koetellaan tehtävässä monin tavoin - ja hänen todellinen luontonsa testataan, kun päätösten aika koittaa.\n\nSelviytyjät (Survivors) on Erin Hunterin eläinfantasiasarja, jossa lukija pääsee tarkastelemaan maailmaa koiran silmin. Yllättävä vihollinen on sarjan toinen osa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22selviytyj%C3%A4t%22++hunter%2C+erin+NOT+etsij%C3%A4t+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Soturikissat-sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Villiin+luontoon&recordid=satakirjastot.341197&isbn=9518844607&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:"Vain tuli voi pelastaa klaanimme."\n\nSukupolvien ajan neljä villikissojen klaania - Myrskyklaani, Jokiklaani, Tuuliklaani ja Varjoklaani - on jakanut metsän soturiesi-isiensä säätämien lakien mukaan. Muiden klaanien reviirejä uhkaava Varjoklaani kuitenkin voimistuu päivä päivältä, ja Myrskyklaanin kissat ovat vakavassa vaarassa. Uljaita sotureita kuolee, ja jotkut varsin salaperäisellä tavalla.\n\nKeskelle näitä tapahtumia ilmestyy tavallinen kotikissa nimeltä Ruska - joka saattaa osoittautua Myrskyklaanin kaikkein urheimmaksi soturiksi.\n\nVilliin luontoon on koko Soturikissat-sarjan ensimmäinen kirja.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=+%22soturikissat%22++hunter%2C+erin+&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
+}
+
+[Jasmiina-sarja] {
+	[b-aut]:Lukkarila, Päivi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lukkarila%2C+P%C3%A4ivi&callnumber=&size=medium&title=Ihana+Panda&recordid=satakirjastot.307492&isbn=9512359391&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Jasmiinalle käy niin kuin elokuvissa: hän saa isotädiltään perinnön ponin ostamista varten. No, perintö ei ole suurensuuri, mutta kyllä sillä jonkinlaisen ponin voi hankkia. Eräänä päivänä myyntisivustoille ilmestyy unelmaponi Panthera, jonka huimaa uraa Jasmiina on seurannut jo pitkään. Esteratsuksi Pantherasta ei enää ole, ja hintakin on turhan kova. On järjetöntä haaveilla ponista, joka ei sovi omiin tarpeisiin millään mittareilla, mutta Jasmiina ei vain saa Pandaa mielestään.\n\nKolmetoistavuotiaan Jasmiinan kouluratsastusharrastusta seuraava sarja alkaa. Ratsastuksen ja tallitunnelmien lomassa uudessa sarjassa pohditaan kotijoukkojen merkitystä nuoren harrastajan taustavoimina.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jasmiina+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Delfiinien laulu] {
+	[b-aut]:St. John, Lauren|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Delfiinien+laulu&recordid=satakirjastot.319415&isbn=9525613852&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Martine on jo ehtinyt sopeutua uuteen elämäänsä Etelä-Afrikassa isoäitinsä ja valkoisen kirahvinsa luona, kun hän tempautuu uuteen huimaan seikkailuun. Luokkaretkellä tapahtuu kauhea onnettomuus, ja Martine koulutovereineen joutuu veden varaan haita kuhisevaan mereen. Viime hetkellä lauma delfiinejä pelastaa lapset ja kuljettaa heidät autiolle rannalle. Martinen erätaidot ja kyky puhua eläimille tulevat tarpeeseen, kun lapset yrittävät pelastaa itsensä ja ympäristön eläimet suurelta vaaralta. Kykeneekö Martine tekemään delfiineille vastapalveluksen ja estämään suuren katastrofin? Näkeekö hän enää koskaan rakasta valkoista kirahviaan? Delfiinin laulu on brittiläisen, Zimbabwessa kasvaneen Lauren St Johnin toinen nuorten seikkailukirja.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.319415|
+}
+
+[Valkoinen kirahvi] {
+	[b-aut]:St. John, Lauren|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Valkoinen+kirahvi&recordid=satakirjastot.235140&isbn=9525613453&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Martine on yksitoista vuotta vanha, kun hänen vanhempansa kuolevat tulipalossa ja hänet lähetetään Afrikkaan asumaan isoäitinsä luokse. Hänen uusi kotinsa on Sawubonan villieläinpuisto. Se on julma ja kaunis paikka, täynnä salaisuuksia. Mitä isoäiti piilottelee? Miksi Martine tuntee olevansa niin ulkopuolinen? Miksi häntä pidetään kaukana eläimistä? Seikkailu alkaa, kun Martine yksinäisenä yönä katsoo ulos ikkunasta ja näkee nuoren hopeanhohtoisen kirahvin... Valkoinen kirahvi on värikkäästi kirjoitettu ja mukaansatempaava seikkailukirja varhaisnuorille tytöille ja pojille. Kirja kuvaa kiehtovalla tavalla Afrikan luontoa ja eläimiä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.235140|
+}
+
+[Viimeinen leopardi] {
+	[b-aut]:St. John, Lauren|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Viimeinen+leopardi&recordid=satakirjastot.306966&isbn=9522400602&index=0&w=1200&h=1200|
+	[b-tag]:Yllätyksiä luonnossa|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Lauren St Johnin rakastetut, Afrikkaan sijoittuvat nuortenromaanit saavat jatkoa! Yksitoistavuotias orpotyttö Martine lähtee ystävänsä Benin kanssa kohti Zimbabwea. Matkalla he kuulevat legendan viimeisestä leopardista. Tarujen mukaan kukkuloilla elää jättimäinen leopardi, jonka surmaaja löytää suuren aarteen leopardin viimeisen leposijan alta. Martine ja Ben joutuvat elämänsä seikkailuun vastustaessaan katalia salametsästäjiä ja yrittäessään pelastaa viimeisen leopardin. Viimeinen leopardi on itsenäinen jatko-osa romaaneille Valkoinen kirahvi (2007) ja Delfiinien laulu (2008). Afrikassa kasvaneen ja Lontoossa asuvan Lauren St Johnin nuortenkirjoissa jännittävät juonenkäänteet yhdistyvät Afrikan luonnon ainutlaatuiseen kuvailuun ja vahvaan luonnonsuojelulliseen teemaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.306966|
 }
