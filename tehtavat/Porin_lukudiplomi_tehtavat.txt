@@ -27,8 +27,246 @@
 }
 
 [4] {
-	[num]:5|
+  [num]:5|
+  [type]:Epäilyttäviä asioita|
+  [task]:Mitä välineitä etsivä tarvitsee? Tee lista välineistä ja kerro, mihin sitä käytetään.|
+}
+
+[5] {
+  [num]:6|
+  [type]:Epäilyttäviä asioita|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+
+[6] {
+	[num]:7|
 	[type]:Ikisuosikkeja|
 	[tag]:Ikisuosikkeja|
 	[task]:Mitä tapahtuisi, jos kaksi eri sadun tai tarinan hahmoa kohtaisivat ja päätyisivät samaan satuun? Piirrä tai kirjoita.|
+}
+
+[7] {
+  [num]:8|
+  [type]:Ikisuosikkeja|
+  [tag]:|
+  [task]:Kerro, millaista olisi, jos Punahilkka tai Hannu ja Kerttu kävisivät samaa koulua kuin sinä.|
+}
+
+[8] {
+  [num]:9|
+  [type]:Ikisuosikkeja|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[9] {
+  [num]:10|
+  [type]:Kaverikiemuroita|
+  [tag]:|
+  [task]:Olet joutunut autiolle saarelle. Kirjoita sieltä kirje ystävällesi.|
+}
+
+[10] {
+  [num]:11|
+  [type]:Kaverikiemuroita|
+  [tag]:|
+  [task]:Tee lista asioista, joita kaverin kanssa voi tehdä. Laita ne järjestykseen niin, että ensimmäisenä on mukavin asia.|
+}
+
+[11] {
+  [num]:12|
+  [type]:Kaverikiemuroita|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[12] {
+  [num]:13|
+  [type]:Kirja vai elokuva|
+  [tag]:|
+  [task]:Millaiset asiat ovat tärkeitä kirjassa ja millasiet elokuvassa? Vertaile kirjaa ja elokuvaa.|
+}
+
+[13] {
+  [num]:14|
+  [type]:Kirja vai elokuva|
+  [tag]:|
+  [task]:Tee oma viiden minuutin elokuva (esim. tabletilla tai puhelimella), jossa esität tarinan tärkeimmät tapahtumat.|
+}
+
+[14] {
+  [num]:15|
+  [type]:Kirja vai elokuva|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[15] {
+  [num]:16|
+  [type]:Koulussa, koulusta, kouluun|
+  [tag]:|
+  [task]:Jos saisit rakentaa unelmien koulun, millainen se olisi? Piirrä tai kirjoita.|
+}
+
+[16] {
+  [num]:17|
+  [type]:Koulussa, koulusta, kouluun|
+  [tag]:|
+  [task]:Minkä uuden oppiaineen haluaisit kouluun? Mitä sen tunneilla tehtäisiin? Piirrä tai kirjoita.|
+}
+
+[17] {
+  [num]:18|
+  [type]:Koulussa, koulusta, kouluun|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[18] {
+  [num]:19|
+  [type]:Lohikäärmeitä ja hirviöitä|
+  [tag]:|
+  [task]:Kirjoita jatkoa kirjan tapahtumiin. Mitä voisi tahaptua vaikkapa vuoden tai kymmenen vuoden kuluttua?|
+}
+
+[19] {
+  [num]:20|
+  [type]:Lohikäärmeitä ja hirviöitä|
+  [tag]:|
+  [task]:Opettajasi on muuttunut fantasiaolennoksi (esim. lohikäärmeeksi). Mitä hänelle on tapahtunut? Piirrä tai kirjoita.|
+}
+
+[20] {
+  [num]:21|
+  [type]:Lohikäärmeitä ja hirviöitä|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[21] {
+  [num]:22|
+  [type]:Nappiksia ja lätkäkiekkoja|
+  [tag]:|
+  [task]:Mitä tapahtuu, jos urheiluvälineet menevät sekaisin (esim. miten jääkiekkoa pelataan jalkapallolla tai trampoliinilla hypitään luistimet jalassa)? Kirjoita sellaisesta pelistä.|
+}
+
+[22] {
+  [num]:23|
+  [type]:Nappiksia ja lätkäkiekkoja|
+  [tag]:|
+  [task]:Keksi uusi urheilulaji. Piirrä tai kirjoita.|
+}
+
+[23] {
+  [num]:24|
+  [type]:Nappiksia ja lätkäkiekkoja|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[24] {
+  [num]:25|
+  [type]:Pöljäilyä ja hassuja tilanteita|
+  [tag]:|
+  [task]:Mikä on hassuinta, mitä kirjassa tapahtui?|
+}
+
+[25] {
+  [num]:26|
+  [type]:Pöljäilyä ja hassuja tilanteita|
+  [tag]:|
+  [task]:Tee sarjakuva jostain hassusta tilanteesta, mitä sinulle on tapahtunut. Voit tehdä sen myös sarjiskoneella: https://sarjiskone.fi/|
+}
+
+[26] {
+  [num]:27|
+  [type]:Pöljäilyä ja hassuja tilanteita|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[27] {
+  [num]:28|
+  [type]:Riimejä ja loruja|
+  [tag]:|
+  [task]:Ota vanhan lehden tai kirjan sivu ja tee sivulla olevista sanoista runo. Vedä yli tai suttaa tussilla ne sanat, joita et halua runoosi ja jätä näkyviin ne sanat, jotka haluat jättää runoosi.|
+}
+
+[28] {
+  [num]:29|
+  [type]:Riimejä ja loruja|
+  [tag]:|
+  [task]:Kirjoita haiku Yöstäjän Runorobotilla. Kokeile erilaisia sanoja ja katso millaisen lopputuloksen saat. https://www.yostaja.fi/runorobotti|
+}
+
+[29] {
+  [num]:30|
+  [type]:Riimejä ja loruja|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[30] {
+  [num]:31|
+  [type]:Slimeä ja somea|
+  [tag]:|
+  [task]:Tee oma tubevideo kirjasta, josta pidät (ei tarvitse oikeasti julkaista YouTubessa).|
+}
+
+[31] {
+  [num]:32|
+  [type]:Slimeä ja somea|
+  [tag]:|
+  [task]:Tapaat ihmisen, joka ei ole koskaan käyttänyt somea. Mitä kertoisit hänelle somesta ja somen käyttämisestä.|
+}
+
+[32] {
+  [num]:33|
+  [type]:Slimeä ja somea|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[33] {
+  [num]:34|
+  [type]:Ritareita ja prinsessoja|
+  [tag]:|
+  [task]:Kirjoita tarinalle uusi loppu. Mitä voisi tapahtua?|
+}
+
+[34] {
+  [num]:35|
+  [type]:Ritareita ja prinsessoja|
+  [tag]:|
+  [task]:Tee lukemasi kirjan päähenkilölle unelmien koti. Millaisessa kodissa päähenkilö haluaisi asua, entä missä se olisi? Piirrä tai kirjoita.|
+}
+
+[35] {
+  [num]:36|
+  [type]:Ritareita ja prinsessoja|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
+}
+
+[36] {
+  [num]:37|
+  [type]:Yllätyksiä luonnossa|
+  [tag]:|
+  [task]:Millainen on lempipaikkasi luonnossa? Mikä siitä tekee erityisen, miksi viihdyt siellä? Piirrä tai kirjoita.|
+}
+
+[37] {
+  [num]:38|
+  [type]:Yllätyksiä luonnossa|
+  [tag]:|
+  [task]:Piirrä sarjakuva, jossa seikkailee jokin eläin. Eläin voi olla lukemastasi kirjasta tai voit keksiä itse aivan uuden hahmon.|
+}
+
+[38] {
+  [num]:39|
+  [type]:Yllätyksiä luonnossa|
+  [tag]:|
+  [task]:Kirjoita kirjasta kirja-arvostelu ja lähetä se Satakirjastot-sivuille (http://bit.ly/omavinkki)|
 }
