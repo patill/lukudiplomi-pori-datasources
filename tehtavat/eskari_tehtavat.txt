@@ -1,5 +1,6 @@
 [0] {
 	[num]:1|
-
+  [type]:|
+	[tag]:|
 	[task]:Millaisia kirjan hahmot ovat (suuria, pieniä, karvaisia, pelokkaita) ja kuinka ne liikkuvat? Osaatteko itse liikkua kuin ne? Kokeilkaa!|
 }
