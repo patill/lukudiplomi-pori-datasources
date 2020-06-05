@@ -1,0 +1,18 @@
+[En (hirveästi) pelkää pimeää] {
+	[b-aut]:Milbourne, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352815&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Tunteet ja tunnetaidot|
+
+	[b-des]:Tämä tunnelmallinen kuvakirja kertoo pimeänpelosta ja auttaa kekseliäästi sen voittamisessa. Kirja sisältää satoja pieniä reikiä, joiden läpi valo säteilee ja luo uudenlaisia varjoja. Tartu taskulamppuun ja valaise hämärä pois!\n\n
+Kun aurinko laskee, Pimeä liukuu esiin ja kasvaa suuremmaksi... ja suuremmaksi... ja pian se peittää kaiken. Pimeä on valtava ja loputon, vähän niin kuin seikkailu. Kaikkein ihmeellisintä on, että vain silloin kun on pilkkopimeää, voi nähdä kaikki tähdet.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1352815|
+}
+
+[Karhun ärripurripäivä] {
+	[b-aut]:Jones, Stella|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.421140&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Tunteet ja tunnetaidot|
+
+	[b-des]:Kamalan huono tuuli leviää ympäri metsän...\nKaikki alkaa Karhusta, joka saa Myyrän pois tolaltaan. Myyrä taas kamppaa Siilin, joka suututtaa Ketun. Pian Karhun pahan mielen puuska on tehnyt kaikista ärripurreja.\nMikä ihme muuttaisi metsän eläimet taas onnellisiksi? Suloinen satu tarttuvista ja vaihtuvista tuulista.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.421140|
+}
