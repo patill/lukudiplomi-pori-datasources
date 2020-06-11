@@ -1951,7 +1951,7 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294311|
 }
 
-[RTasseli ja Tuisku] {
+[Rasseli ja Tuisku] {
 	[b-aut]:Karvonen, Tytti|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Karvonen%2C+Tytti%2C+kirjoittaja&callnumber=&size=medium&title=Rasseli+ja+Tuisku&recordid=satakirjastot.270366&isbn=9522028959&index=0&w=1200&h=1200|
 	[b-tag]:Slimeä ja somea|
@@ -2248,7 +2248,7 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.360918|
 }
 
-[PUiden tarinoita -sarja] {
+[Puiden tarinoita -sarja] {
 	[b-aut]:Küttner, Iiro|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=K%C3%BCttner%2C+Iiro&callnumber=&size=medium&title=Puusepp%C3%A4&recordid=satakirjastot.370265&isbn=9526798058&index=0&w=1200&h=1200|
 	[b-tag]:Ritareita ja prinsessoja|
