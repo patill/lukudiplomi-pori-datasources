@@ -1,0 +1,6 @@
+[Lukudiplomi alle kouluikäisille] {
+	[date]:2020.06.06|
+	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/kirjat/eskari_kirjat.txt|
+	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/eskari_tehtavat.txt|
+
+}
