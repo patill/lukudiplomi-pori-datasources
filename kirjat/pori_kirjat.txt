@@ -2148,14 +2148,13 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=t%C3%A4pl%C3%A4+halvarsson&type=AllFields|
 }
 
-[Onnenkepparit-sarja] {
+[Unelmakoirat-sarja] {
 	[b-aut]:Jalo, Merja|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jalo%2C+Merja%2C+kirjoittaja&callnumber=&size=medium&title=Olivia+ja+Onnent%C3%A4hti&recordid=satakirjastot.1257108&isbn=9510430943&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1358422&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Tokaluokkalaiset tytöt perustavat keppihevosille tallin, jossa sattuu ja tapahtuu.\n\nOlivian paras ystävä käy joka viikko talleilla ratsastamassa ihanilla poneilla, mutta Olivia on allerginen, ja joutuu ihailemaan ystävänsä harrastusta kaukaa. Eräänä kesäloman päivänä hän löytää Onnentähden, maailman suloisimman keppihevosen. Pian koko Olivian kaveriporukka on keppariharrastuksen lumoissa: pihaan perustetaan keppihevosille oma talli ja kisojakin pidetään. Olivia on viimeinkin oikea hevostyttö!\n\n
-Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ikäisille ja alakoululaisille suunnatun sarjan, jossa on Reetta Niemensivun vauhdikas ja söpö kuvitus.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=onnenkepparit+jalo&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:Ekaluokkalaiset Aino ja Isla asuvat viereisissä rapuissa ja ovat parhaita ystävyksiä. Tytöt haaveilevat omasta koirasta, mutta kummankaan äiti ei ole suopea ajatukselle. Lea-tädillä on huostaan otettujen koirien hoitola, ja kun hoitolassa on tilapäisesti täyttä, Ainon äiti suostuu ottamaan yhden koiran kahdeksi viikoksi perheeseen. Aino ja Isla haaveilevat mahdollisuudesta pitää Aksu kokonaan omanaan, ja tätä silmällä pitäen he laativat nerokkaan suunnitelman.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22unelmakoirat%22+jalo&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20|
 }
 
 [Leon lemmikit -sarja] {
@@ -2167,23 +2166,18 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=llewellyn+leon&type=AllFields|
 }
 
-[Aada ja jääkarhu -sarja] {
-	[b-aut]:Marttinen, Tittamari|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Marttinen%2C+Tittamari&callnumber=&size=medium&title=Aada+ja+j%C3%A4%C3%A4karhu+%3A+hauska+kaupunkiretki&recordid=satakirjastot.452554&isbn=9518838879&index=0&w=1200&h=1200|
+[Hotelli Flamingo -sarja] {
+	[b-aut]:Milway, Alex|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352991&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Aadan paras ystävä on jääkarhu. Jääkarhun paras ystävä on Aada. Yhdessä he lähtevät retkelle kaupunkiin. Jääkarhua kiinnostaa kaikki. Puistossa se ihastuu villakoiraan ja pelästyy lehti-imuria. Se kokeilee skeittilautaa, pelaa koripalloa ja hoitaa leikkikarhuja. Aadan mielestä hauskinta on istua jääkarhun harteilla ja vilkutella ihmisille korkeuksista. Kauppatorilla jääkarhu tutustuu aitoihin merikarhuihin. Tavaratalosta se löytää pehmeän sohvan ja päättää ottaa päiväunet. Aada ei aina tiedä, pitäisikö sen tempuille itkeä vai nauraa.\n\nMutta entäs sitten, kun jääkarhu katoaa iltapäiväruuhkassa! Aada pelästyy. Miten hän oikein löytää ystävänsä? Onneksi Aada saa vastaantulevilta ihmisiltä vihjeitä ja löytää jääkarhun lopulta yllättävästä paikasta?|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aada+ja+j%C3%A4%C3%A4karhu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:Hotelli Flamingo aloittaa uuden hurmaavasti kuvitetun kirjasarjan, jossa kymmenvuotias Anna Dupont perii hotellin - ja elää jokaisen tytön unelmaa!\n\n
+Hotellilla Annaa kohtaa ikävä yllätys, sillä hotelli on suurremontin tarpeessa. Mutta ei hätää, uskollisen eläinhenkilökuntansa kanssa neuvokas Anna järjestää paikat kuntoon, ja pian ensimmäiset vieraat saavat tulla.\n\n
+Uutta yrittäjää ei katsota pelkästään hyvällä: kilpailevan hotellin mafiosomainen omistaja tulee vierailulle eikä laisinkaan pidä hotellin loistokkaasta tunnelmasta... |
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hotelli+flamingo+milway&type=AllFields&sort=main_date_str+asc|
 }
 
-[Pelastetaan eläimet] {
-	[b-aut]:Moser, Annette|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Moser%2C+Annette%2C+kirjoittaja&callnumber=&size=medium&title=Pelastetaan+el%C3%A4imet%21&recordid=satakirjastot.1298540&isbn=9523411926&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Sisu ja Onni päättävät alkaa pelastaa hämähäkkejä, sillä kaikilla eläimillä on oikeus elää! Fridasta tulee eläintenpelastaja valppaan Simson-koiransa avulla, kun tämä saa lenkillä vainun kissanpojasta. Kenelle eksynyt pikkuinen mahtaa kuulua? Seitsemän pientä tarinaa eläinten maailmasta.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298540|
-}
+
 
 [Uljas-sarja] {
 	[b-aut]:Niemelä, Reetta|
@@ -2211,6 +2205,26 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 	[b-des]:Uusi teema loistavan vastaanoton saaneen Lapsen oman luontokirjan tekijöiltä. Hillevi-hiiri ihmettelee yhdessä lasten kanssa luonnon monia kummallisuuksia. Kirjassa kuljetaan keväästä kesän ja syksyn kautta talveen ja uuteen kevääseen.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.441700|
 }
+
+[Arvaa kenen luut] {
+	[b-aut]:Cap, Henri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1253414&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-des]:Nosta läppä ja katso mikä eläin alta paljastuu! Hauskasti ja yksityiskohtaisesti kuvitettu lasten tietokirja kertoo paitsi ihmisen luustosta, myös eläinkunnan erikoisuuksista: esimerkiksi hummerin luuranko on kehon ulkopuolella ja hevosen kavio on oikeastaan keskisormi. Lintujen luissa on ilmaa, ja kalojen ranka on rustoa. Kirjan läpistä on jännä arvuutella, minkä eläimen luut ovat kyseessä. Ihmisen, viherliskon ja makiapinan erottaminen toisistaan ei ole niin helppoa kuin voisi kuvitella...|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1253414|	
+}
+
+[Hyönteiset 30 sekunnissa] {
+	[b-aut]:Claybourne, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355686&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-des]:Miksi pölypunkki ei ole hyönteinen mutta muurahainen on? Hyönteisillä ei ole luurankoa - miten ihmeessä ne pysyvät kasassa? Kuinka tulikärpänen saa takapuolensa loistamaan pimeässä? Entä minkälaista on lääkärin potilaalle määräämä toukkahoito?\n\n
+	Hyönteiset 30 sekunnissa paljastaa pienelle luonnontutkijalle maailman suurimman eläinryhmän salat.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355686|	
+}
+
 
 
 [Tutut oudot eläimet: 100+3 asiaa joita et eläinkunnasta tiennyt] {
@@ -2249,14 +2263,6 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429110|
 }
 
-[Luontopartio pelastaa eläimiä] {
-	[b-aut]:Rottböll, Grethe|
-	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/armas.btj.fi/295d/3903/295d390322af07812563b9bc4cb5c036?itok=u1XB72xj|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Hei sinä siellä! Tykkäätkö luonnosta ja eläimistä?\n\nOnni ja Leena tykkäävät myös. He perustavat oman kerhon: Luontopartion. Luonto ja eläimet tarvitsevat apua, ja tehtävää on paljon. Onni ja Leena nikkaroivat lepakkopönttöjä, suojelevat perhosen toukkien nokkospuskakodin, pelastavat sammakot pyörätieltä ja rakentavat asuntoja mehiläisille.\n\nRyhdy sinäkin luonnon apulaiseksi! Kirjassa on paljon vinkkejä, joiden avulla voit itsekin suojella lähiluontoasi.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1312081|
-}
 
 [Karhun kakkaa ja muita eläinten jälkiä] {
 	[b-aut]:Seed, Andy|
@@ -2277,13 +2283,13 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 }
 
 
-[Loukuttaja] {
-	[b-aut]:Aho, Marja|
-	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/6/7/2/saha/kirjasampo/0_-2610026518813216986.jpg?itok=-9aXzKDK|
+[Hurja jengi -sarja] {
+	[b-aut]:Blabey, Aaron|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355685&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Usva on luokan hyljeksitty, kissanpissalta haiseva kummajainen, joka vapaa-ajallaan haluaa mieluummin loukuttaa pakkasessa värjötteleviä kulkukissoja, kuin osallistua luokan rientoihin. Hän haluaisi palavasti puhua eläinten oikeuksista eläinsuojeluneuvojana toimivan, löytöeläintaloa pyörittävän äitinsä tavoin, mutta häneltä puuttuu rohkeus sanoa epäkohdista ääneen. Hän tietää, että jos hän koulussa avaisi suunsa kertoakseen Jennalle ja luokan muille tytöille mielipiteensä näiden huonosta lemmikkien kohtelusta, saisi hän koko luokan ivat päälleen. Koulun ruokalassa hän katsoo surullisena, kun muut syövät lihaa. Hän haluaisi kertoa kaikille, millaisissa oloissa tuotantoeläimet joutuvat elämään.\n\nUsva ihailee isosiskoaan Unnaa, muiden mielipiteistä vähät välittävää aktivistia, joka luontoa ja eläimiä suojellakseen ja niiden kaltoinkohtelulle huomiota saadakseen on valmis vaikka köyttämään itsensä kettingillä puuhun tai turkistarhan oveen. Usvan isäpuoli Ii-Pee yrittää valaa arkaan tyttöön itseluottamusta puujalkavitseillään ja rennolla elämänasenteellaan.\n\nUsvan rohkeus ja ääni ovat kadoksissa, kunnes eteen tulee tilanteita, jotka pakottavat hänet avaamaan suunsa ja pihisemään ilmoille mielipiteensä. Siitä rohkaistuneena hän puuttuu Jennan eläinten kohteluun ja huomaa löytäneensä sen, mikä on piilotellut aivan liian kauan syvällä hänen sisuksissaan - oman äänensä.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1297611|
+	[b-des]:Saammeko esitellä: Hurja jengi. Mahdottoman rämäpäinen ja vaarallinen ja... kerta kaikkiaan hurja! Mutta nyt he aikovat ryhtyä sankareiksi.Tästedes herrat Susi,Piraija, Käärme ja Hai vannovat ryhtyvänsä vain ja ainoastaan hyviin tekoihin... halusit tai et. Hyppää jo kyytiin!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hurja+jengi+blabey&type=AllFields&sort=main_date_str+asc|
 }
 
 [Klara-sarja] {
@@ -2304,23 +2310,6 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=cecilia+heimonen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Etsijät--sarja] {
-	[b-aut]:Hunter, Erin|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Matka+alkaa&recordid=satakirjastot.246933&isbn=9518874743&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Kolme karhua - jääkarhu Kallik, mustakarhu Lusa ja harmaakarhu Toklo - joutuvat pentuina eroon perheistään, ja heidän on selviydyttävä yksin karussa erämaassa. He päätyvät yhteen ja lähtevät huimaan seikkailuun etsimään uutta tulevaisuutta oppaanaan Ujurak, harmaakarhun pentu, joka ei ole aivan tavallinen karhu...\n\nEtsijät (Seekers) on Soturikissat-kirjoistaan tunnetun ERIN HUNTERIN toinen eläinfantasiasarja. Se vie lukijan villiin pohjoiseen luontoon ja ilmaston lämmetessä muuttuvaan ympäristöön. Matka alkaa on sarjan ensimmäinen osa.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22etsij%C3%A4t%22++hunter%2C+erin+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
-
-[Selviytyjät-sarja] {
-	[b-aut]:Hunter, Erin|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Yll%C3%A4tt%C3%A4v%C3%A4+vihollinen&recordid=satakirjastot.276922&isbn=9518875030&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Keneen voi luottaa tosipaikan tullen?\n\nBella ja muut hihnakoirat ovat asettuneet Suuren murahduksen jälkeen metsään, jossa on kylliksi puhdasta vettä ja saalista. Aluetta alkaa kuitenkin vaatia laumalleen hurjien villikoirien pitelemätön johtaja. Uusia selviytymis- ja taistelutaitoja Lykyltä oppineet hihnakoirat eivät anna periksi vaan panevat vastaan kaikin tavoin.\n\nBella punoo vihollislauman pään menoksi mutkikkaan juonen, joka perustuu Lykyn älykkääseen ja ovelaan toimintaan. Vaikka Lykky kaipaa itsenäistä elämäänsä, hän ei halua jättää tovereitaan pulaan ja suostuu auttamaan. Lykkyä koetellaan tehtävässä monin tavoin - ja hänen todellinen luontonsa testataan, kun päätösten aika koittaa.\n\nSelviytyjät (Survivors) on Erin Hunterin eläinfantasiasarja, jossa lukija pääsee tarkastelemaan maailmaa koiran silmin. Yllättävä vihollinen on sarjan toinen osa.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22selviytyj%C3%A4t%22++hunter%2C+erin+NOT+etsij%C3%A4t+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
 
 [Soturikissat-sarja] {
 	[b-aut]:Hunter, Erin|
@@ -2338,31 +2327,4 @@ Olivia ja Onnentähti aloittaa suosittujen heppakirjailijoiden uuden, leikki-ik�
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Jasmiinalle käy niin kuin elokuvissa: hän saa isotädiltään perinnön ponin ostamista varten. No, perintö ei ole suurensuuri, mutta kyllä sillä jonkinlaisen ponin voi hankkia. Eräänä päivänä myyntisivustoille ilmestyy unelmaponi Panthera, jonka huimaa uraa Jasmiina on seurannut jo pitkään. Esteratsuksi Pantherasta ei enää ole, ja hintakin on turhan kova. On järjetöntä haaveilla ponista, joka ei sovi omiin tarpeisiin millään mittareilla, mutta Jasmiina ei vain saa Pandaa mielestään.\n\nKolmetoistavuotiaan Jasmiinan kouluratsastusharrastusta seuraava sarja alkaa. Ratsastuksen ja tallitunnelmien lomassa uudessa sarjassa pohditaan kotijoukkojen merkitystä nuoren harrastajan taustavoimina.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jasmiina+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
-
-[Delfiinien laulu] {
-	[b-aut]:St. John, Lauren|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Delfiinien+laulu&recordid=satakirjastot.319415&isbn=9525613852&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Martine on jo ehtinyt sopeutua uuteen elämäänsä Etelä-Afrikassa isoäitinsä ja valkoisen kirahvinsa luona, kun hän tempautuu uuteen huimaan seikkailuun. Luokkaretkellä tapahtuu kauhea onnettomuus, ja Martine koulutovereineen joutuu veden varaan haita kuhisevaan mereen. Viime hetkellä lauma delfiinejä pelastaa lapset ja kuljettaa heidät autiolle rannalle. Martinen erätaidot ja kyky puhua eläimille tulevat tarpeeseen, kun lapset yrittävät pelastaa itsensä ja ympäristön eläimet suurelta vaaralta. Kykeneekö Martine tekemään delfiineille vastapalveluksen ja estämään suuren katastrofin? Näkeekö hän enää koskaan rakasta valkoista kirahviaan? Delfiinin laulu on brittiläisen, Zimbabwessa kasvaneen Lauren St Johnin toinen nuorten seikkailukirja.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.319415|
-}
-
-[Valkoinen kirahvi] {
-	[b-aut]:St. John, Lauren|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Valkoinen+kirahvi&recordid=satakirjastot.235140&isbn=9525613453&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Martine on yksitoista vuotta vanha, kun hänen vanhempansa kuolevat tulipalossa ja hänet lähetetään Afrikkaan asumaan isoäitinsä luokse. Hänen uusi kotinsa on Sawubonan villieläinpuisto. Se on julma ja kaunis paikka, täynnä salaisuuksia. Mitä isoäiti piilottelee? Miksi Martine tuntee olevansa niin ulkopuolinen? Miksi häntä pidetään kaukana eläimistä? Seikkailu alkaa, kun Martine yksinäisenä yönä katsoo ulos ikkunasta ja näkee nuoren hopeanhohtoisen kirahvin... Valkoinen kirahvi on värikkäästi kirjoitettu ja mukaansatempaava seikkailukirja varhaisnuorille tytöille ja pojille. Kirja kuvaa kiehtovalla tavalla Afrikan luontoa ja eläimiä.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.235140|
-}
-
-[Viimeinen leopardi] {
-	[b-aut]:St. John, Lauren|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=St.+John%2C+Lauren&callnumber=&size=medium&title=Viimeinen+leopardi&recordid=satakirjastot.306966&isbn=9522400602&index=0&w=1200&h=1200|
-	[b-tag]:Eläinmaailman ihmeet|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Lauren St Johnin rakastetut, Afrikkaan sijoittuvat nuortenromaanit saavat jatkoa! Yksitoistavuotias orpotyttö Martine lähtee ystävänsä Benin kanssa kohti Zimbabwea. Matkalla he kuulevat legendan viimeisestä leopardista. Tarujen mukaan kukkuloilla elää jättimäinen leopardi, jonka surmaaja löytää suuren aarteen leopardin viimeisen leposijan alta. Martine ja Ben joutuvat elämänsä seikkailuun vastustaessaan katalia salametsästäjiä ja yrittäessään pelastaa viimeisen leopardin. Viimeinen leopardi on itsenäinen jatko-osa romaaneille Valkoinen kirahvi (2007) ja Delfiinien laulu (2008). Afrikassa kasvaneen ja Lontoossa asuvan Lauren St Johnin nuortenkirjoissa jännittävät juonenkäänteet yhdistyvät Afrikan luonnon ainutlaatuiseen kuvailuun ja vahvaan luonnonsuojelulliseen teemaan.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.306966|
 }
