@@ -1,21 +1,3 @@
-[Avaruussankari] {
-	[b-aut]:Agnew, Kate|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Agnew%2C+Kate&callnumber=&size=medium&title=Avaruussankari&recordid=satakirjastot.274280&source=Solr&isbn=9518834814&index=0&w=1200&h=1200|
-	[b-tag]:Aika ja avaruus|
-  	[b-cat]:1. Lukutoukka|
-	[b-des]:Avaruusalusten ohjauskeskuksessa on hätätilanne. Kuuautosta on irronnut rengas, eivätkä astronautit pysty korjaamaan sitä ja toimittamaan huippusalaisia valokuvia maahan. Onnistuuko Ben ratkaisemaan ongelman? Sininen banaani on kirjasarja juuri lukemaan oppineille. Sarjan kirjoissa on värikkäästi kuvitetut tarinat ja hauskoja puhekuplia. |
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274280|
-}
-
-[Samun salainen ystävä] {
-	[b-aut]:Dale, Elizabeth|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dale%2C+Elizabeth&callnumber=&size=medium&title=Samun+salainen+yst%C3%A4v%C3%A4&recordid=satakirjastot.430053&source=Solr&isbn=9518835179&index=0&w=1200&h=1200|
-	[b-cat]:1. Lukutoukka|
-  	[b-tag]:Aika ja avaruus|
-	[b-des]:Samu löytää taskustaan pienen avaruusolennon Sipon, ja heistä tulee ystäviä. Mutta kuinka käy, kun Sippo panee kodin mullin mallin tai kun sade uhkaa pilata Samun synttärijuhlat? Miten Sippo yllättää Samun rannalla? Kolme hauskaa ta-vu-tet-tu-a tarinaa.|
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430053|
-}
-
 [Henkka Huimapää pelastaa maailman] {
 	[b-aut]:Emmett, Jonathan|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Emmett%2C+Jonathan&callnumber=&size=medium&title=Henkka+Huimap%C3%A4%C3%A4+pelastaa+maailman&recordid=satakirjastot.299154&source=Solr&isbn=9518837473&index=0&w=1200&h=1200|
@@ -23,6 +5,15 @@
   	[b-tag]:Aika ja avaruus|
 	[b-des]:Henkka on pieni poika, joka ei pelkää mitään - ei sitten mitään! Vanhempien mielestä se ei ole normaalia ja he yrittävät auttaa. Mutta sitten maailmankaikkeuden hurjimmat olennot, Örmätit, uhkaavat vallata maapallon...|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.299154|
+}
+
+[Avaruustarinoita] {
+	[b-aut]:Grimm, Sandra|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1358489&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:1. Lukutoukka|
+  	[b-tag]:Aika ja avaruus|
+	[b-des]:Pian maasta irtautumisen jälkeen astronautti Marko huomaa, että meteoriitti uhkaa törmätä rakettiin. Kaiken kukkuraksi radioyhteys Maahan katkeaa. Miten tästä selvitään? \n\nEmmaakin jännittää. Hänellä on vastassaan Marsin luolasta löytynyt avaruusolento. Toivottavasti se on kiltti... Neljä lennokasta tarinaa astronauteista.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1358489|
 }
 
 [Avaruusoliot kylässä] {
@@ -52,6 +43,15 @@
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.323008|
 }
 
+[Pieni avaruuskirja] {
+	[b-aut]:Kunnas, Mauri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1292979&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:1. Lukutoukka|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Mikä on linnunrata? Voiko mustaan aukkoon tipahtaa? Minkä niminen on suurin planeetta? Aurinkokuntamme ihmeitä - planeetat, Kuu, asteroidit, vuoden- ja vuorokaudenajat - pienimmille tiedonjanoisille. |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1292979|	
+}
+
 [Hulda ja Jalmari avaruustiedemiehinä] {
 	[b-aut]:Majaluoma, Markus|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Majaluoma%2C+Markus&callnumber=&size=medium&title=Hulda+ja+Jalmari+avaruustiedemiehin%C3%A4&recordid=satakirjastot.462664&source=Solr&isbn=9526606981&index=0&w=1200&h=1200|
@@ -69,6 +69,25 @@
 	[b-des]:Tarina kahdesta virtahevosta, joilla on yhteinen unelma: olla ensimmäinen virtahepo kuussa. Ökyrikas Herkules Hippo-Potamus III rakennuttaa kuulentoaan varten jättimäisen avaruuskeskuksen, kun taas Marjo... no, Marjo ei rakennuta.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274455|
 }
+
+[Kun kohtaat avaruusolennon: viisi tärkeää ohjetta] {
+	[b-aut]:Tamminen, Petri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294308&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:1. Lukutoukka|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Voisiko sinun pihallesi laskeutua avaruusalus? Esimerkiksi jo huomenna? Riippuu pihan koosta. Avaruusalus tarvitsee tilaa suunnilleen saman verran kuin keskikokoinen vesilätäkkö. Entä mihin kellonaikaan avaruusalus voisi laskeutua? Avaruusalukset voivat laskeutua jopa puoli kahdeksalta aamulla. Sehän on ihan pian. Se on niin pian, että sitä kannattaa ajatella heti.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294308|	
+}
+
+[Avaruusritarit ja jäälohikäärmeet] {
+	[b-aut]:Webster, Sheryl|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.253853&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:1. Lukutoukka|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Pyöreän planeetan avaruusritarit ovat lopen kyllästyneitä jäälohikäärmeiden jatkuvaan kiusantekoon. Onneksi ritari Artturi Rohkea tutustuu jäälohikäärmeen poikaseen ja keksii ongelmaan ratkaisun - kuin leikiten! |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.253853|	
+}
+
 
 [Maailman viimeiset tyypit] {
 	[b-aut]:Brallier, Max|
@@ -97,22 +116,22 @@
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.235136|
 }
 
-[Pimeässä hohtava avaruus] {
-	[b-aut]:Harris, Nicholas|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Harris%2C+Nicholas&callnumber=&size=medium&title=Pime%C3%A4ss%C3%A4+hohtava+avaruus&recordid=satakirjastot.451571&isbn=952240117X&index=0&w=1200&h=1200|
+[Avaruus 30 sekunnissa] {
+	[b-aut]:Gifford, Clive|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322514&index=0&size=medium&w=1200&h=1200|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
-	[b-des]:Kun pilvettömänä yönä katsoo taivaalle, näkee kuun, tähtiä, planeettoja ja galakseja. Ne hohtavat kirkkaasti pimeässä ja valaisevat öisen taivaan. Tässä kirjassa kerrotaan jännittäviä asioita avaruudesta, ja kaiken lisäksi sen sivuja voi katsella ja lukea pimeässä!|
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.451571|
+	[b-des]:Vuosisatojen ajan ihmiset ovat tähtitaivaalle tähyillessään pohtineet, miten maailmankaikkeus on saanut alkunsa, mitä kaikkea sieltä löytyy ja kuinka laaja se on. Avaruuden tuntemuksemme on kasvanut, ja nyt tiedetään paljon sellaista, mistä ennen ei voitu edes uneksia.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322514|
 }
 
-[Tutkimusmatka avaruuteen] {
+[Rakettimatka avaruuteen] {
 	[b-aut]:Hiekkalinna, Tero|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hiekkalinna%2C+Tero%2C+kirjoittaja&callnumber=&size=medium&title=Tutkimusmatka+avaruuteen&recordid=satakirjastot.327656&isbn=9512363607&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324052&index=0&size=medium&w=1200&h=1200|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
-	[b-des]:Kirjassa tutkitaan Aurinkokunnan planeettoja, kuita ja komeettoja aina kaukaisiin tähtijoukkoihin ja galakseihin asti unohtamatta omaa galaksiamme, Linnunrataa. Kirjan opas, asiantunteva Kaukoputkimies neuvoo, mitä taivaankappaleita on mahdollista nähdä omin silmin ja mitä kiikareilla, ja millainen avaruus avautuu kaukoputken kautta. Hahmottuvatko Jupiterin raidat, entä pystymmekö näkemään galakseja?|
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.327656|
+	[b-des]:Rakettimatka avaruuteen lennättää jännittävälle kiertoajelulle Kaukoputkimiehen seurassa! Kirja on mahtava tietopaketti miehitetyistä avaruuslennoista, avaruusluotaimista, planeettalaskeutujista ja planeettamönkijöistä. Kirjassa perehdytään avaruusrakettien historiaan, aurinkokunnan eri planeetoille lähetettyihin avaruusluotaimiin, avaruusasemiin ja avaruussukkuloihin - unohtamatta historiallista käyntiä Kuussa 50 vuotta sitten. Lukija saa tutustua avaruusasemiin ja eläytyä niin jättimäisen Saturn V -kuuraketin laukaisuun kuin mönkijäajeluun Kuussa.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1324052|
 }
 
 [Kepler62-sarja] {
@@ -161,6 +180,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.266005|
 }
 
+[Kysy astronautilta: kaikki avaruudessa elämisestä] {
+	[b-aut]:Peake, Tim|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294247&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Miltä tuntuu matkustaa 10 kertaa luotia nopeammin? Miksi avaruudessa haisee? Kuinka nopea internet avaruudessa on? Palattuaan puolen vuoden komennukseltaan Kansainväliseltä avaruusasemalta astronautti Tim Peakelle on sadellut tuhansia kysymyksiä - onhan hän sentään avaruudessa olemisen huimapäinen asiantuntija! Kirjassaan hän vastaa yli sataan avaruusaiheiseen kysymykseen. Peake kertoo elämästä avaruudessa asiantuntevasti ja tieteellisellä tarkkuudella, mutta silti ymmärrettävästi ja huumoria unohtamatta.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294247|	
+}
+
 [Matka alkaa] {
 	[b-aut]:Revis, Beth|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Revis%2C+Beth&callnumber=&size=medium&title=Matka+alkaa&recordid=satakirjastot.373170&isbn=9511254073&index=0&w=1200&h=1200|
@@ -187,6 +215,8 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Tervetuloa vuoteen 2117. Ilmastonmuutos ja merenpinnan kohoaminen ovat todellisuutta. Mereen vajonneesta Helsingistä, Pohjolan Venetsiasta, on tullut peliteollisuuden mekka ja videopelaamisesta elämäntapa. Kun 16-vuotiaan Bugin isä yllättäen menehtyy, hän joutuu muuttamaan Meri-Tokiosta äitinsä vanhaan kotikaupunkiin Helsingin kaupunkisaareen. Kapinallinen ja itsepäinen tyttö viettäisi päivät mieluummin pelikonsolillaan kuin uudessa koulussa, jossa kaikki menee pieleen ensi hetkestä alkaen. Bugin elämä muuttuu, kun animoitu videopeli-lohikäärme kutsuu hänet betatestaajaksi keskiajan Japaniin sijoittuvaan ninjapeliin. Uhkarohkea Bug ei voi vastustaa kiusausta. Hän vetää ylleen uuden sukupolven pelipuvun ja löytää itsensä maailmasta, jota ei tiennyt olevan olemassakaan. Pelissä Bug kohtaa ninja-sensein, joka opastaa häntä tiellä salamurhaajaksi. Sensorein varustettu puku saa henkeäsalpaavan seikkailun tuntumaan siltä kuin se olisi todellisuutta - kunnes se yllättäen onkin. Bugin suurmestarilta omaksuma kurinalaisuus ja taistelutaidot tulevat kipeästi tarpeeseen, kun arki- ja virtuaalitodellisuus kammottavalla tavalla sekoittuvat|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Sensored+reality&type=AllFields&sort=main_date_str+asc|
 }
+
+
 
 [Taskuvarkaat kiinni!] {
 	[b-aut]:Bross, Helen|
