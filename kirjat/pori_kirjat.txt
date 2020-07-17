@@ -657,6 +657,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Vesta-Linnea ja kaverit] {
+	[b-aut]:Appelgren, Tove|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1290918&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:On perjantai ja Mindy on luvannut soittaa Vesta-Linnealle heti, kun koulu loppuu. Kohta, kohta, ihan kohta! Vesta-Linnea on täynnä iloista jännitystä. Tästä tulee ihana viikonloppu! Mindy tulee kylään, hän saa leikkiä Mindyn kanssa! Mitähän he tekevät yhdessä?\n\nAlex haluaisi leikkiä Vesta-Linnean kanssa, mutta ei Vesta-Linnea nyt ehdi. Milloin Mindy tulee?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1290918|
+}
+
 [Uusi kaveri] {
 	[b-aut]:Bross, Helena|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bross%2C+Helena%2C+kirjoittaja&callnumber=&size=medium&title=Uusi+kaveri&recordid=satakirjastot.1298526&isbn=9523411985&index=0&w=1200&h=1200|
@@ -675,13 +684,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=2+a%3An+kamut+hallava&type=AllFields&dfApplied=1&limit=20|
 }
 
-[Kuituset -sarja] {
-	[b-aut]:Kuronen, Kirsti|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kuronen%2C+Kirsti&callnumber=&size=medium&title=Kuituset+ja+kummitus&recordid=satakirjastot.423770&isbn=9512351943&index=0&w=1200&h=1200|
+[Dunne-sarja] {
+	[b-aut]:Lagercrantz, Rose|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lagercrantz%2C+Rose%2C+kirjoittaja&callnumber=&size=medium&title=Onnekas+ken+Dunnen+saa&recordid=satakirjastot.1298542&isbn=9523412086&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Nuutti ja Niilo Kuitunen ovat 7-vuotiaat kaksospojat, jotka asuvat mummun ja papan luona, koska heidän vanhempansa ovat kuolleet auto-onnettomuudessa poikien ollessa 2-vuotiaita. Pojat ovat juuri aloittaneet koulun, ja syksyn kohokohdaksi muodostuu yökoulu, joka onkin jännittävämpi kokemus kuin kukaan on osannut odottaa. Parasta on, että luokkahenki lujittuu ja ope on entistä enemmän pop.|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=kuituset+kuronen&type=AllFields|
+	[b-des]:Dunne on maailman onnellisin tyttö, kun pääsee viimein aloittamaan ekaluokan. Vähän se myös jännittää: mitä jos hän jääkin yksin? Onneksi niin ei käy, vaan hänestä ja Ella Fridasta tulee parhaat kaverit. |
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lagercrantz+dunne&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
 [Paula saa ystävän] {
@@ -730,13 +739,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+parhaan+kinney&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
-[Dunne-sarja] {
-	[b-aut]:Lagercrantz, Rose|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lagercrantz%2C+Rose%2C+kirjoittaja&callnumber=&size=medium&title=Onnekas+ken+Dunnen+saa&recordid=satakirjastot.1298542&isbn=9523412086&index=0&w=1200&h=1200|
+[Kajo, Kuunvalo ja Kolmikolkka] {
+	[b-aut]:Liitsola, Hilkka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324169&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Dunne on maailman onnellisin tyttö, kun pääsee viimein aloittamaan ekaluokan. Vähän se myös jännittää: mitä jos hän jääkin yksin? Onneksi niin ei käy, vaan hänestä ja Ella Fridasta tulee parhaat kaverit. |
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lagercrantz+dunne&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+	[b-des]:Kajo on Korkeamuuri-nimisessä orpokodissa asuva tyttö, joka haluaa epätoivoisesti päästä pois ankeasta ja ilottomasta elämästään. Eräänä päivänä hänelle aukeaakin tilaisuus päästä karkaamaan, mutta kuinka ollakaan: kaksi merirosvoa sieppaa hänet mukaansa - juuri niin kuin hän oli salaa toivonutkin!\n\nUimataidoton ja vähäisesti kiipeilemään tottunut Kajo on aluksi merirosvojen matkassa aivan hädissään. Kajosta tehdään kuitenkin Merenkiitäjän laivatyttö, ja muu miehistö on vain mielissään, kun Kajo ei suostu uudessa tehtävässään miten tahansa pompoteltavaksi. Samalla Kajon vanhemmista ja menneisyydestä alkaa selvitä yllättäviä asioita...|
+    [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1324169|
 }
 
 [Viikinkitrilogia] {
@@ -748,6 +757,17 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=viikinkitrilogia&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
+[Masi Tulppa: pääsy kieletty!] {
+	[b-aut]:Mäkipää, Jari|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.337071&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Alakoulua käyvällä Masi Tulpalla on täydellinen kesälomasuunnitelma: Pelaa SamuRaita, katso Bittiritaria, piirrä Hukkajätkä-sarjista. Masin ei tarvitse poistua huoneestaan edes lounaan perässä - hän vain lämmittää mikropitsan omasta jääkaapistaan. Kaikki menee kuitenkin pilalle, kun Masin vanhemmat saavat kummallisen älynväläyksen: he keksivät palkata pojalle lastenhoitajan.\n\nMasi ei törkeään temppuun niin vain alistu. Lapsenvahtipalvelu Vahtisilmän epäilyttävä toimitusjohtaja Vihtori Hiilenpää ehdottaa Masille viikon koeaikaa. Sehän sopii - Masi aikoo tehdä hyvin selväksi, ettei lastenvahtia kaivata. Hän saa vastaansa monen sortin hoitajia, joista kukaan ei näytä tajuavan olevansa tarpeeton sivuhenkilö. Lisäksi Masia häiriköi sottainen ja piinallisen puhelias naapurinpoika Pellervo Hulmukka, joka kuvittelee nappaavansa hänestä kaverin. Masi Tulpalla on tasan viikko aikaa pelastaa kesälomansa!
+|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.337071|
+  [Lisätietoja]:Vaihtoehtoisesti voi lukea selkokirjan Tuohimetsä, Riikka: Masi Tulppa: pääsy kieletty!|
+}
+
 [Mimu-sarja] {
 	[b-aut]:Neel, Julien|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Neel%2C+Julien&callnumber=&size=medium&title=P%C3%A4iv%C3%A4kirjael%C3%A4m%C3%A4%C3%A4&recordid=satakirjastot.332098&isbn=9512084619&index=0&w=1200&h=1200|
@@ -755,15 +775,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Mimu on terhakas ja temperamenttinen 12-vuotias tyttö, joka asuu hupsun mutta rakastettavan tieteiskirjailijan urasta haaveilevan äitinsä ja löytökissan kanssa. Mimu on ihastunut vastapäisessä talossa asuvaan poikaan, mutta ei tietenkään uskalla kertoa sitä tälle, ja pyrkii kaiken aikaa myös saattamaan äitinsä yhteen naapurin komistuksen kanssa.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=mimu+neel&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
-}
-
-[Supermarsu-sarja] {
-	[b-aut]:Noronen, Paula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Noronen%2C+Paula%2C+kirjoittaja&callnumber=&size=medium&title=Supermarsu&recordid=satakirjastot.440631&isbn=9512407337&index=0&w=1200&h=1200|
-	[b-tag]:Kaverikiemuroita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:11-vuotiaan Emilian unelma toteutuu, kun hän saa lemmikseen ikioman marsun. Mutta Marsu-Halonen ei ole mikä tahansa karvapallo. Kun se puraisee Emiliaa sormeen, hänestä tulee Supermarsu! Ja supervoimia todella tarvitaan, kun Lahden mäkimontussa asustava Jättiläismarsu antaa Emilialle suuren supermarsutehtävän: hänen on pelastettava Itämeri. Silakoiden kuljettaminen kylpyammeeseen ei selvästikään riitä!|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=supermarsu+noronen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
 [Allu-sarja] {
@@ -785,13 +796,12 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-[Risteys] {
+[Verkot] {
 	[b-aut]:Kallioniemi, Tuula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Risteys&recordid=satakirjastot.430449&isbn=951129587X&index=0&w=1200&h=1200|
-	[b-tag]:Kaverikiemuroita|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320327&index=0&size=medium&w=1200&h=1200|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Mitä tapahtuu, kun 13-vuotias kulmakunnan kovis saa kuoleman kynnyksellä mahdollisuuden parantaa tapansa? Voiko enkeliksi ryhtyä? Mika on tunnetusti aina pahanteossa. Hän ei anna vanhemmilleen anteeksi, että on saanut vasta hiljakkoin sattumalta tietää olevansa adoptoitu. Kun Mika rysähtää skootterilla pakettiauton kylkeen, hän on kuulevinaan äänen, joka pyytää valitsemaan. Ja Mika valitsee. Enää poika ei katso sivusta, kun joku on hakoteillä tai kaipaa apua. Moni hieraisee silmiään nähtyään hyväntekijänsä. Eihän se voi olla Mika, jonka huhutaan saaneen surmansa. Vai voiko?|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430449|
+	[b-des]:Sere on todettu kiusaajien pääpukariksi. Hän joutuu vaihtamaan koulua ja muuttamaan isovaarin luo pikkukaupunkiin. Serellä ja isovaarilla synkkaa, ja koti järven rannalla on Seren unelmapaikka. Kalastus on sekä tytön että papan mielipuuhaa. Sana kiirii entisestä koulusta, jossa Sere oli iso kiho. Uudet luokkakaverit antavat Serelle tylyn opetuksen, mitä hän ei kerro aikuisille. Kohta isovaarin talon ikkuna tuhritaan kananmunilla. Sere tunnistaa kyllä kuvion. Hän ajattelee tahtomattaan Näätää, jota itse kiusasi. Noinko kaikki oli vanhassa koulussa tapahtunut? Riittääkö nyt kiusaamisen syyksi se, että Sere on uusi oppilas?|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320327|
 }
 
 [Kadonnut: Audrey] {
