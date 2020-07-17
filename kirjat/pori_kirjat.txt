@@ -1080,6 +1080,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=patrik++superseniorit+klingenberg&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
 
+[Heinähattu, Vilttitossu ja ärhäkkä koululainen ] {
+	[b-aut]:Nopola, Sinikka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.383891&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Vilttitossua harmittaa, kun hän kuulee, että Heinähatun luokka pääsee onkiretkelle. Vilttitossu päättää huijata Heinähattua: hän pyytää naapurin Halise Alibullenia opettamaan kirjoittamista. "Kirjoita, että 'onkiretki peruutettu'", Vilttitossu ehdottaa. Halise ihmettelee outoa lausetta, mutta tottelee. Vilttitossu sujauttaa paperin kotinsa postiluukusta, Heinähattu lukee viestin, olettaa, että opettaja on sairas ja jää kotiin.\n\nSeuraavana aamuna olkihattupäinen, oudosti lyhentynyt "Heinähattu" marssii onkiretkelle luokan kanssa. Hän ryhtyy ärhäkällä tyylillään johtamaan luokkaa, joka villiintyy ennennäkemättömällä tavalla. Alibullenin neidit sattuvat kävelemään retkeläisten ohi, ja mainitsevat siitä Heinähatulle - joka pian ymmärtää asioiden oikean laidan. Mutta mitä tapahtuu, kun retkellä onkin kaksi Heinähattua? Heinähattu, Vilttitossu ja ärhäkkä koululainen on koominen tarina siitä, kun isosisko on koulussa ja pikkusisko tuntee olonsa yksinäiseksi. Se kertoo myös siitä lyhyestä ajasta ihmisen elämässä, jolloin kouluun meno on ihanaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.383891|
+	[Lisätietoja]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Heinähattu, Vilttitossu ja ärhäkkä koululainen.
+}
+
 [Koulussa on käärme] {
 	[b-aut]:Ross, Tony|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Walliams%2C+David%2C+kirjoittaja&callnumber=&size=medium&title=Koulussa+on+k%C3%A4%C3%A4rme%21&recordid=satakirjastot.1239919&isbn=9523410423&index=0&w=1200&h=1200|
@@ -1179,6 +1189,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:DragonSlayer666 elää mieluiten virtuaalimaailmassa - vain tietokoneriippuvuudesta huolestunut äiti voisi estää häntä tulemasta maailman parhaaksi pelaajaksi! Nuori mies raportoi elämäänsä vimmaisella nörttiliturgiallaan koneella 24/7 ja kommentoi hankaliakin asioita: koulukiusaamista ja pelimaailman tarjoamaa pakoa.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=n%C3%B6rtti+delikouras&type=AllFields&sort=main_date_str+asc|
+}
+
+[Luutarhurin tapaus] {
+	[b-aut]:Lipasti, Roope|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1291055&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Koulussa, koulusta, kouluun|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Oskari Onnisto aloittaa uuden sarjan, jossa opitaan, kuinka monella eri tavalla teinipojan on mahdollista munata itsensä täydellisesti. Kirja avaa painajaismaista kouluarkea hervottomalla huumorilla!\n\n- Meillä on luokan kassassa nyt 34 euroa, luokanvalvojamme laski. - Sillä päästään koulun takapihalle ja takaisin, jos hyvä tuuri käy.\n\n7 A:n opettaja on luvannut oppilaille luokkaretken. Oskarin ja kavereiden silmissä siintävät New York, Pariisi ja turkoosi meri. Todellisuus on karumpi: luokkaretki tehdään kaivokseen, joka on koko kaupungin ylpeys. Paha vain, että Oskarin isä sattuu olemaan kaivoksen johtaja Nolouden huippu saavutetaan, kun isä lähtee heille oppaaksi. Maan alla luokkaretki saa jo lähes painajaismaiset mittasuhteet, kun he tapaavat omituisen Luutarhurin. Tämä otus on ihan liian mielikuvituksellinen ollakseen edes olemassa, mutta silti se saa aikaan jopa uskomattomamman rumban kuin rehtori Limatainen maan päällä. Ja se on sitten jo aika paljon.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1291055|
 }
 
 [Joku vieraileva tähti] {
