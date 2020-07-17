@@ -941,6 +941,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=me+rosvolat+kolu&type=AllFields|
 }
 
+[Supermarsu-sarja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.440631&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:11-vuotiaan Emilian unelma toteutuu, kun hän saa lemmikseen ikioman marsun. Mutta Marsu-Halonen ei ole mikä tahansa karvapallo. Kun se puraisee Emiliaa sormeen, hänestä tulee Supermarsu! Ja supervoimia todella tarvitaan, kun Lahden mäkimontussa asustava Jättiläismarsu antaa Emilialle suuren supermarsutehtävän: hänen on pelastettava Itämeri. Silakoiden kuljettaminen kylpyammeeseen ei selvästikään riitä! Miten yksi pieni marsu (joka tosin osaa lentää ja käyttää muitakin supermarsuvoimia) voi pelastaa kokonaisen meren?|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=supermarsu+noronen&type=AllFields&sort=main_date_str+asc|
+}
+
 [Kätkijät] {
 	[b-aut]:Norton, Mary|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Norton%2C+Mary&callnumber=&size=medium&title=K%C3%A4tkij%C3%A4t&recordid=satakirjastot.322426&isbn=951038450X&index=0&w=1200&h=1200|
