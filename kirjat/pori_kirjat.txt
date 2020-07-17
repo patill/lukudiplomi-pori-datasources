@@ -1308,7 +1308,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Huimaa-sarja] {
 	[b-aut]:Hurme, Vuokko|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hurme%2C+Vuokko&callnumber=&size=medium&title=Kiepaus&recordid=satakirjastot.281615&isbn=9515242940&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-tag]:Lohikäärmeitä ja hirviöitä, Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Lenna Anderssen eli elämänsä kahdeksan ensimmäistä vuotta kaupungissa, jonka nimi oli Kardum, maailmassa, joka oli kääntynyt nurin päin. Siellä missä ennen oli taivas, oli nyt maa, ja missä piti olla maata jalkojen alla, olikin vain huikaiseva pudotus tyhjyyteen. Tapahtuma, jota kutsuttiin Kiepaukseksi, oli mullistanut kaiken. Ihmiset ovat kuitenkin oppineet pärjäämään ylösalaisessa maailmassaan, ja Lennan perheen elämä Kardumissa on oikeastaan juuri sopivan jännittävää ja mukavaa - kunnes puhdas vesi alkaa loppua. Miten Lennan ja hänen perheensä, äidin, isän, pikkusiskon ja lemmikkikanan, käy? Uskaltavatko he lähteä etsimään tulevaisuuttaan toisesta maailmasta, joka ehkä on jossain heidän allaan, taivaalla?|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=huimaa+hurme&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
@@ -1954,178 +1954,228 @@ Hän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Täss
 
 
 
-[Vähän aikaa vielä!] {
-	[b-aut]:Jüngling, Christine|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=J%C3%BCngling%2C+Christine&callnumber=&size=medium&title=V%C3%A4h%C3%A4n+aikaa+viel%C3%A4%21&recordid=satakirjastot.462440&isbn=951883282X&index=0&w=1200&h=1200|
+
+[Kysy ja kurkista! Hyvä vai paha muovi?] {
+	[b-aut]:Daynes, Katie|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352828&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Iina ja Peetu vierailevat ystäviensä Essin ja Juuson luona. Mutta tänään ei jäädäkään koko päiväksi tietokoneen tai television ääreen. Essi ja Juuso ovat tehneet vanhempiensa kanssa sopimuksen: jos he pitävät kiinni yhdessä sovituista televisio- ja tietokonesäännöistä, he saavat palkakseen puuhapäivän seikkailupuistossa. Ja siitä tuleekin hauska!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462440|
+	[b-des]:Tässä hauskasti kuvitetussa tietokirjassa on 60 avattavaa luukkua ja loputtomasti kiinnostavaa tietoa muovin hyvistä ja huonoista puolista.\n\nMistä muovi tehdään? Mitä hyötyä siitä on? Miksi meret täyttyvät muovista? Onko muoville vaihtoehtoja? Voisimmeko elää ilman sitä? Näihin ja moniin muihin ajankohtaisiin kysymyksiin löydät vastauksen, kun kurkistat tämän värikkään tietokirjan luukkujen alle. Hauskemmin ei tietoa voisi tarjoilla! |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1352828|
 }
 
-[Pet agents -sarja] {
-	[b-aut]:Kaarla, Riina|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1290925&index=0&size=medium&w=1200&h=1200|
+[Matilda pelastaa maailman] {
+	[b-aut]:Koskinen, Juha-Pekka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1259683&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Kati-e on itsenäinen nörttityttö, joka rakastaa eläimiä yhtä palavasti kuin elektroniikkaa ja koodausta. Alkuun Kati-e autteli lemmikkiasioissa lähinnä naapureita ja tuttuja, mutta kun apua alettiin pyytää yhä kauempaa, hän päätti rakentaa itselleen lentävän robottiapulaisen, Ti-botin. Pet Agents - lemmikkiagentit - oli syntynyt! Kati-en ja Ti-botin päiväohjelma on taas täynnä tehtävää: Sofia kaipaa apua koirarodun valinnassa, rouva Frangille täytyy löytää koiranulkoilutusapua ja 13-viikkoisen Hugo-pennun vatsa on sekaisin. Lisäksi kotona pitää siivota rottien häkki ja hankkia eläimille ruokaa. Onneksi Kati-e voi lennättää Ti-botin asiakaskäynneille ensi hätään! Lemmikkipulmien ohella agenttikaksikko osaa auttaa visaisemmissakin villieläimiin liittyvissä kysymyksissä. Mitä tulee tehdä, kun tienvarresta löytää oravanpoikasen? Saako sammakonpoikasista ja muista puron asukeista perustaa kotiakvaarion? Kati-e kyllä kertoo!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&lookfor=pet+agents+kaarla&type=AllFields|
+	[b-des]:Kukaan ei voi yksin pelastaa maailmaa. Niin ajattelevat myös Juhani ja Hanna Virtanen, kunnes heille syntyy pieni Matilda-tyttö. Kun Matilda kasvaa, Virtasten jokapäiväinen huoleton elämä pakkauspahvien, muovipullojen ja tyhjien säilykepurkkien maailmassa saa uuden käänteen. Miksi keittiössä on yhden roska-astian sijaan kolme ja lastentarhassa alkaa haista hapan maito? Uskaltaako äiti ja isä enää syödä mitään, etteivät jääkarhut näänny ja linnut putoile taivaalta?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1259683|
 }
 
-[Talvikki ja ensimmäinen älypuhelin] {
-	[b-aut]:Katajvuori, Riina|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Katajavuori%2C+Riina%2C+kirjoittaja&callnumber=&size=medium&title=Talvikki+ja+ensimm%C3%A4inen+%C3%A4lypuhelin&recordid=satakirjastot.1294311&isbn=9512365545&index=0&w=1200&h=1200|
+[Pelastetaan eläimet] {
+	[b-aut]:Moser, Annette|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1298540&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Tätä päivää Talvikki on odottanut. Hän saa ENSIMMÄISEN älypuhelimensa. Vihdoinkin Talvikki pääsee luokan keskusteluryhmään, käyttämään emojeita, ottamaan kunnollisia kuvia ja kuvaamaan videoita. Talvikki poseeraa parhaan kaverinsa Mesin kanssa omakuvissa, mutta vanhainkodin mukava Mummeli avaa heidän valokuvaajan silmänsä muillekin asioille. Ja onko uimahalli ainoa paikka, missä ei koko ajan näplätä kännykkää?\n\nKauheaa - illalla Talvikki ei löydä puhelintaan mistään!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294311|
+	[b-des]:Sisu ja Onni päättävät alkaa pelastaa hämähäkkejä, sillä kaikilla eläimillä on oikeus elää! Fridasta tulee eläintenpelastaja valppaan Simson-koiransa avulla, kun tämä saa lenkillä vainun kissanpojasta. Kenelle eksynyt pikkuinen mahtaa kuulua? Seitsemän pientä tarinaa eläinten maailmasta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298540|
 }
 
-[Rasseli ja Tuisku] {
-	[b-aut]:Karvonen, Tytti|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Karvonen%2C+Tytti%2C+kirjoittaja&callnumber=&size=medium&title=Rasseli+ja+Tuisku&recordid=satakirjastot.270366&isbn=9522028959&index=0&w=1200&h=1200|
+[Hulivili ja oikkuileva ilmasto] {
+	[b-aut]:Nygård, Tiina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1358493&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:"On kuitenkin tilanteita, joissa sotilaallinen kuri on välttämätön. Tällainen tilanne on leiriruokailu. Ruokaa saa ottaa tarkasti määritellyn ja erittäin monimutkaisen järjestelmän mukaisesti. Se kehittää kasvavien lasten hermorakennetta. Olenhan ammatiltani myös koirakouluttaja ja neurologi. Lapset, muodostakaa ihmispyramidi!"\n\nOletko luullut, että koirat eivät osaa videoblogata? Onko kesäloma ankea kuin kylmä kaurapuuro, kun paras kaveri on poissa? Entä aikuiset, ovatko he hönttejä, jotka näkevät vain oman napansa?\n\nEletään kesäkuun alkua suomalaisessa pikkukaupungissa. 11-vuotiaalla Tuiskulla on tylsää. Paras kaveri Mette on Barcelonassa. Äidillä on selvitystila poikaystävänsä kanssa. Isällä ja hänen naisystävällään on vauvaprojekti, joka pitää isän kiireisenä.\n\nOnneksi on Rasseli, Tuiskun sekarotuinen koira. Se pitää hulvatonta videoblogia ja toimii koulutettuna rakkausneuvojana.\n\nYhdessä parivaljakko lähtee etsimään seikkailuja. He päätyvät Vakavoimalan kesäleirille, jota ohjaa Hellä Unelma - eriskummallinen kasvattaja, joka rakastaa painia ja pellehyppyjä. Leirillä Tuisku tapaa Pyryn ja lapset ystävystyvät. Mutta ymmärtävätkö vanhemmat sen, minkä Hellä Unelma käsittää? Huomaavatko aikuiset, miten lapset kaipaavat heitä? Vai onko lasten tehtävä jotakin hurjaa, jotta vanhemmat tajuavat? |
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.270366|
+	[b-des]:Touhukas Hulivili haluaa kasvattaa omat porkkanansa itse. Säät eivät kuitenkaan suosi kasvatuspuuhia. Ihan kuin ilmasto olisi alkanut oikkuilla?\n\nHulivilistä villasukkien tulee olla mahdollisimman värikkäät ja eripariset, koska muuten elämä olisi tylsää. Tylsyyden välttämiseksi hän kylvää porkkanansiemenetkin sydämen muotoon!\n\nKylvön jälkeen seuraa kuitenkin kummia: ensin päivät ovat monta viikkoa kuumia ja kuivia, sitten tulee niin kova rankkasade, että hennot kasvinalut painuvat maahan veden voimasta.\n\nOnneksi paikalle saapuu Irmeli-etana selittämään, mistä kaikki johtuu ja miten Hulivili voisi itse vaikuttaa asioihin. Pienilläkin arjen valinnoilla kun voi olla suuri merkitys. Onnistuuko Hulivili lopulta kasvattamaan itse kalapuikkonsa, vai löytyykö niille korvaaja lähimaisemista?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1358493|
 }
 
-[Tee-se-itse SLIME: limat ja löllöt, ihanat ällöt] {
-	[b-aut]:Ngo, Janessa|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ngo%2C+Janessa%2C+kirjoittaja&callnumber=&size=medium&title=Tee-se-itse+SLIME+%3A+limat+ja+l%C3%B6ll%C3%B6t%2C+ihanat+%C3%A4ll%C3%B6t&recordid=satakirjastot.448400&isbn=9523215477&index=0&w=1200&h=1200|
+[Kadonneiden eläinten saari] {
+	[b-aut]:Pitkänen, Pasi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.259587&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Slime on tämän vuoden kovin ilmiö lasten keskuudessa - kaikki tekee omia Slimejä, mutta luotettavia ohjeita on huonosti saatavilla ja osa netissä olevista ohjeista sisältää myrkyllisiä Euroopassa kiellettyjä aineita. Venyvät, poksuvat, pehmeät ja tahmeat slimet, eli limat voit valmistaa helposti itse. Tästä kirjasta löydät hauskat vinkit erilaisiin kotitekoisiin limoihin selkeiden ohjeiden kera. Kaikki raaka-aineet löydät suomalaisista kaupoista!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.448400|
+	[b-des]:Matias vie pikkusiskonsa Jennin syntymäpäivän kunniaksi sirkukseen. Jenni rakastaa leijonia ja on pukeutunut leijonapukuun. Kun lavalle talutetaan pikkuinen leijonanpentu, Jenni pääsee silittämään sitä. Mutta sitten tapahtuu kauheita: sirkuksen katon läpi syöksyy otus, joka kaappaa mukaansa niin Jennin kuin leijonanpennunkin!\n\nMatias ja leijonaisä lähtevät yhdessä pelastusretkelle, joka vie heidät kauas meren yli, salaperäiselle viidakkosaarelle. Siellä elää toinen toistaan oudompia otuksia. Mutta ovatko Jenni ja leijonanpentu saarella? Ja miksi saarella on niin erikoisia eläimiä?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.259587|
 }
 
-[Onni-poika tykkää pelata] {
-	[b-aut]:Pelliccioni, Sanna|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pelliccioni%2C+Sanna&callnumber=&size=medium&title=Onni-poika+tykk%C3%A4%C3%A4+pelata&recordid=satakirjastot.346294&isbn=9523121812&index=0&w=1200&h=1200|
+[Niilo rakentaa pöntön] {
+	[b-aut]:Savisaari, Aira|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294306&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Plääh, Onnilla on kamala flunssa! Mutta jokin on silloinkin hauskaa: saa kuumaa kaakaota, kurkkupas-tilleja ja - mikä parasta - saa pelata tietokoneella!\n\nOlavista on epäreilua, kun veli on saanut pelata niin paljon. Ja isin päätä kuumottaa liiasta pelaamisesta.\n\nVälillä leikitään ulkonakin ja pelataan shakkia. Olaville uusi tietokonepeli on liian jännä, Onnin mielestä taas muissa perheissä saa pelata enemmän. Veljekset kinastelevat ja lapset istuisivat aina tietokoneen ääressä. Äiti haluaisi heittää koko pelin parvekkeelta alas. Sitten isi uskoo keksivänsä ratkaisun pelaamiseen! Toimiiko se?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.346294|
+	[b-des]:On kevät. Niilo ja Hilla kiipeävät lintutorniin. Niilo katsoo kiikarilla. Näyttää siltä, että harakka lentää ihan Niilon nenän edestä. Silti Niilo ei ylety sormilla lintuun. Isä kirjoittaa kaikki Niilon ja Hillan näkemät linnut havaintovihkoon. Nyt on myös pönttöpäivä. Tänään Niilo ja Hilla rakentavat linnuille pesäpöntöt. Kun Niilon ja Hillan pöntöt ovat valmiit, Niilo huomaa autotallin nurkassa tyhjän pahvilaatikon. Kohta pihalla alkaa jännittävä pönttöleikki, josta myös isä innostuu.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294306|
 }
 
-[Mauri ja vähä-älypuhelin] {
-	[b-aut]:Salmi, Veera|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Salmi%2C+Veera&callnumber=&size=medium&title=Mauri+ja+v%C3%A4h%C3%A4-%C3%A4lypuhelin&recordid=satakirjastot.316692&isbn=9511290959&index=0&w=1200&h=1200|
+[Rohkea tyttö ja jättiläiset] {
+	[b-aut]:Tucker, Zöe|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1359816&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Eräänän yönä Pasilassa asuvan Maurin puhelin muuttuu rämästä vähä-älypuhelimesta oikeaksi Konegtig-puhelimeksi.\n\nAiemmin Mauri luuli, että hänellä on koko luokan rämin kännykkä, varsinainen vähä-älypuhelin, mutta ei se olekaan. Eräänä yönä se muuttui aidoksi Konegtig-puhelimeksi, ja siihen alkoi tulla salaperäisiä Whatsapp-viestejä pikkutyypeiltä Nakuna-Uusi-Bebasta. Onneksi, sillä sen jälkeen kun Maurin paras kaveri muutti takaisin kotimaahansa Egyptiin, kaikki on ollut aika tylsää. Jos äidillä olisi rahaa, Mauri voisi lentää Egyptiin katsomaan Bashiria. Mutta koska hänellä ei ole, Mauri alkaa kaivaa tunnelia Pasilan ja Egyptin välille, sillä sitä voi käyttää ihan ilmaiseksi.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.316692|
+	[b-des]:Gretan kotimetsässä kaikki ei ole hyvin! Jättiläiset ovat rymistelleet metsään, talloneet kasvit ja kaataneet puut rakentaakseen taloja ja tehtaita. Jäteille ei mikään riitä! Talojen pitää olla koko ajan vain suurempia ja näyttävämpiä, kaupunkien mahtavampia ja korkeampia. Tehtaiden piiput tupruttavat harmaita saastepilviä Metsän eläimet ovat ahdingossa ja pyytävät pelottoman Gretan apua. Mutta miten ihmeessä pieni tyttö voi olla avuksi näin suuressa ja vakavassa asiassa? |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1359816|
 }
 
 
-[Kauhuhkännykkä] {
-	[b-aut]:Holopainen, Anu|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Holopainen%2C+Anu%2C+kirjoittaja&callnumber=&size=medium&title=Kauhuk%C3%A4nnykk%C3%A4&recordid=satakirjastot.1294388&isbn=9522029912&index=0&w=1200&h=1200|
+[Tiedeseikkailu: vesi] {
+	[b-aut]:Vartiainen, Jenni|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1305326&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Mistä sade syntyy? Miksi painava laiva kelluu vedessä, mutta kevyt viinirypäle uppoaa? Miten voit valmistaa jäätelöä itse tehdyssä pikapakastimessa? Tämä ja paljon muuta selviää, kun sukellat vesiaiheiseen tiedeseikkailuun Piin, Kelvinin ja Hoselin johdolla. Lapsi on luonnostaan utelias ja tutustuu maailmaan kysellen, tutkien ja kokeillen. Kirjan tarinat ja helpot tiedekokeet ruokkivat lapsen luontaista ihmettelyä sekä tarjoavat onnistumisen elämyksiä omien tutkimusten kautta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1305326|
+}
+
+[Vesi: kirja maailman tärkeimmästä aineesta] {
+	[b-aut]:Ertimo, Laura|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.306412&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kauhukännykkä on alakouluikäisille suunnattu kauhuromaani, joka helppolukuisuutensa, maltillisen sivumääränsä ja sopivasti jännittävän tarinan ansiosta houkuttaa myös vähemmän lukevia lapsia kirjojen pariin. Kirja aloittaa Iik!-sarjan.\n\nViidesluokkalaiset Saku ja Sussa ovat paitsi kaksoset, myös parhaat kaverit. Eräänä talvipäivänä Saku löytää maasta kännykän, joka ei vaikuta aivan tavalliselta Samsungilta, mutta luokan häijyin poika Ville nappaa sen itselleen.\n\nSaku ei saa ajatuksiaan puhelimen hohtavista kuorista, ja pian koko koulu huomaa, että Villelle on tapahtumassa jotakin outoa - poika lintsaa koulusta, kuljeksii ympäri kylää kännykkäänsä uppoutuneena ja karkaa opettajalta mitä kummallisimmalla tavalla. Saku lähtee päähänpistosta seuraamaan Villeä ja näkee uskomattoman tapahtuman, joka todistaa, että puhelimessa todella on jotain yliluonnollista.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294388|
+	[b-des]:Vesi on kirja, jossa selviää, miksi vesi on maailman tärkein aine. Teos jatkaa kaksikon Ertimo-Kontinen Yö-kirjasta (2016) tuttua lapsenkokoista tapaa käsitellä ympäröivän maailman ihmeellisyyttä avoimesti kysyen, tieteenalojen rajat unohtaen. Tekstin kanssa tasavertainen kuvitus tekee arjesta satumaista, monimutkaisesta ymmärrettävää ja vedestä kaunista.\n\nEdessä on elämäsi vesiseikkailu! Tässä kirjassa kuljetaan taivaalla laahaavista pilvistä merten syvyyksiin, Pariisin viemäreistä muinaisten tähtien räjähdyksiin. Vesi on läsnä kaikkialla elämänkulussa ihmeellisten ominaisuuksiensa takia, siksi sen ymmärtäminen avaa silmät elämän perusteille. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.306412|
 }
 
-[Suuri limakirja] {
-	[b-aut]:Jagan, Alyssa|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jagan%2C+Alyssa%2C+kirjoittaja%2C+valokuvaaja&callnumber=&size=medium&title=Suuri+limakirja&recordid=satakirjastot.430898&isbn=9511320807&index=0&w=1200&h=1200|
+[Lapsen oma metsäkirja] {
+	[b-aut]:Kuisma, Titta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355745&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Liman tekeminen on palkitsevaa! Suuri limakirja tekee upeiden limojen sekoittelusta helppoa ja hauskaa. Kirjasta löytyy kaikki tarvittava rakenteeltaan täydellisten limojen luomiseen sateenkaaren väreissä. Aloita perusreseptillä ja tuunaa limasi upeilla väreillä ja jännittävillä lisäaineksilla sohjolimaksi, jäävuorilimaksi, konfettilimaksi?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430898|
+	[b-des]:Kirjan tarinaa kuljettaa Nuppu Liituri, nuori liito-orava, joka lähtee etsimään omaa kotimetsää. Lopulta Nuppu löytää oman kodin vanhasta metsästä, Onni-haavan luota. Keväällä Nupun pesäkolossa onkin sitten jo kaksi pikkuliituria.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355745|
 }
 
-[Arttu Tirttu -sarja] {
-	[b-aut]:Kaarla, Riina|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kaarla%2C+Riina&callnumber=&size=medium&title=Arttu+Tirttu+her%C3%A4%C3%A4+henkiin&recordid=satakirjastot.441980&isbn=952288796X&index=0&w=1200&h=1200|
+[Isän luokse] {
+	[b-aut]:Linna, Martti|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.374171&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:"Jos sä nyt sanot jollekin, että sun paras kaveri on limutölkin kokoinen kuminen ukko, niin sua pidetään joko outona, säälittävänä tai jälkeenjääneenä. Todennäköisesti sua pidetään outona, säälittävänä JA jälkeenjääneenä. Oli opettaja mitä mieltä tahansa, niin mä en tunnusta olevani mitään noista, vaikka mun paras kaveri on Arttu."\n\nHykerryttävän hauska kirja kertoo ilmaislahjaksi saadusta lelusta, joka kimpaantuu lyhyestä elinkaarestaan ja herää henkiin. Lukuisissa kodeissa käytyään se päättää lopulta jäädä asumaan Jimin ja hänen mummonsa luokse. Jimi on asiasta ensin eri mieltä, mutta lopulta hänestä ja Artusta tulee parhaat kaverit.\n\nArttu Tirttu herää henkiin aloittaa uuden vauhdikkaan sarjan, joka on täynnä huumoria, jännitystä ja nolojakin tilanteita. Kirjan nopeasti etenevä tarina ja runsas, sarjakuvamainen kuvitus imevät mukaansa ja tekevät siitä helposti lähestyttävän kirjakammoisellekin lukijalle.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=arttu+tirttu&type=AllFields&sort=main_date_str+asc|
+	[b-des]:Yhdeksänvuotiaan Katrin isä maalaa taivaanrantaa Brasiliassa. Hänen pikkuveljensä on Sammakkomies, jonka keuhkoja edes lääkäri-äiti ei osaa parantaa. Katri itse on ainoa tyttö, jota Namulan koulun rehtori ja hänen opettajansa Silja Strindberg oikeasti pelkäävät. Kun Katri toimii, mitä tahansa voi tapahtua!\n\nEräänä päivänä Katri saa isältään postia. Hän näkee koulumatkalla keisaripingviinejä ja tajuaa, että hänen on pelastettava melkein yksinään maapallo, sen sademetsät ja pikkuveljensä. Siinä hommassa Operaatio Pottubileet on vasta alkua: jääkarhujen saapuessa on aika etsiä kahvilaiva ja matkata isän luokse Amazonin vihreisiin sademetsiin. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.374171|
 }
 
-[Nyt pelittää!: miten pelejä tehdään] {
-	[b-aut]:Lappalainen, Elina|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lappalainen%2C+Elina&callnumber=&size=medium&title=Nyt+pelitt%C3%A4%C3%A4%21+%3A+miten+pelej%C3%A4+tehd%C3%A4%C3%A4n%3F&recordid=satakirjastot.248045&isbn=9513193055&index=0&w=1200&h=1200|
+[Ella ja kaverit hiilijalanjäljillä] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318731&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kaikki pelaavat, mutta millainen oikeastaan on hyvä peli, miksi pelit koukuttavat ja miten niitä pelejä tehdään? Palkitut tekijät Elina Lappalainen ja Jussi Kaakinen vievät lukijansa kurkistamaan pelistudion arkeen ja esittelevät pelialan ammatit ajankohtaisessa lasten tietokirjassa. Nyt pelittää! - Miten pelejä tehdään? kertoo pelisuunnittelijan, graafikon, ohjelmoijan ja muusikon työstä hauskasti ja havainnollisesti.\n\nKirjassa Sofia ja Oliver pääsevät tutustumaan pelistudioon koodari-äidin mukana, ja tekemään omaa peliä. Kuvitettu ja tarinallinen kirja käy läpi pelin tekemisen eri vaiheita. Miten pelisuunnittelija ideoi pelin säännöt ja maailman, miksi graafikko piirtää jopa satoja luonnoskuvia, miten äänisuunnittelija saa aikaan messevän loiskahduksen ja miten ohjelmoija saa pelin moottorin hyrräämään.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248045|
+	[b-des]:Minun nimeni on Ella. Olen jo melkein kolmannella luokalla. Meidän luokkamme on kaksi ja puoli A. Se on luultavasti maailman ainoa puolikas luokka, mutta onneksi meidän opettajamme on ihan kokonainen. Hän on lisäksi tosi mukava, paitsi että viime aikoina opettaja on ollut vähän huolestunut. Hän on nimittäin pikkaisen huolissaan maapallosta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1318731|
 }
 
-[Niko ja taistelu Jamijasta] {
-	[b-aut]:Lehtinen, Tuula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lehtinen%2C+Tuula&callnumber=&size=medium&title=Niko+ja+taistelu+Jamijasta&recordid=satakirjastot.336065&isbn=9522026999&index=0&w=1200&h=1200|
+[Luontopartio pelastaa eläimiä] {
+	[b-aut]:Rottböll, Grethe|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312081&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Avaruusolento Jamija saapuu Maahan ja saa Nikon elämän mullistumaan. Hauskoja, hämmentäviä ja pelottaviakin seikkailuja kokeva kaksikko lumoaa niin 6?10-vuotiaat lukijansa kuin heidän vanhempansakin. Kirjan vakavammat teemat yksinäisyys ja pelimaailman houkutus kulkevat luontevasti vauhdikkaan tarinan lomassa. Kymmenvuotiaan Nikon elämä on muuttunut surkeaksi perheen maallemuuton takia. Kesäloma on alkanut, mutta Niko viettää sitä yksin sisällä, ja ainoa asia joka kiinnostaa on sotapelien pelaaminen. Kunnes eräänä päivänä Niko tapaa Jamijan, uteliaan avaruusolion kaukaa Zerwa-planeetalta. Maitopurkin kokoinen olento haluaa pitää hauskaa salaisilla retkillään Maahan eikä aina ihan ymmärrä, miksi lehmiä ei saa häiritä tai pullonpalautusautomaatilla leikkiä. Parivaljakko joutuu moniin noloihin, hauskoihin ja jännittäviinkin tilanteisiin yrittäessään pitää salassa Jamijan olemassaolon. Mutta mitä tapahtuu kun kuvioon astuu naapurin poika Saku, ja Jamijan uteliaisuus uhkaa koitua kohtalokkaaksi taisteluksi?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.336065|
+	[b-des]:Hei sinä siellä! Tykkäätkö luonnosta ja eläimistä?\n\nOnni ja Leena tykkäävät myös. He perustavat oman kerhon: Luontopartion. Luonto ja eläimet tarvitsevat apua, ja tehtävää on paljon. Onni ja Leena nikkaroivat lepakkopönttöjä, suojelevat perhosen toukkien nokkospuskakodin, pelastavat sammakot pyörätieltä ja rakentavat asuntoja mehiläisille.\n\nRyhdy sinäkin luonnon apulaiseksi! Kirjassa on paljon vinkkejä, joiden avulla voit itsekin suojella lähiluontoasi.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1312081|
 }
 
-[Nettitaidot] {
-	[b-aut]:Mäkilä, Elli|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4kil%C3%A4%2C+Elli&callnumber=&size=medium&title=Nettitaidot&recordid=satakirjastot.364020&isbn=9511290347&index=0&w=1200&h=1200|
+[Kuka vei roskat?] {
+	[b-aut]:Sarja, Tiina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1358494&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Opi kaikki tärkeimmät netti- ja mediataidot Reuhurinteen lasten kanssa! Ennen kuin aloitat internetin käytön, sinun on hyvä tietää miten internet toimii, miten erotat oikean tiedon väärästä, miten nettiin laitettu kuva tai teksti voi elää, miten nettiä käytetään turvallisesti. Kirjassa käydään läpi monia tärkeitä seikkoja median ja netin ilmiöistä, mediaturvallisuudesta, netin käytön säännöistä, sosiaalisesta mediasta. Media on läsnä joka paikassa aamusta iltaan, siksi medialukutaito on tärkeä taito.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.364020|
+	[b-des]:Kierrätyksestä kertova tarinallinen tietokirja lapsille.\nJoskus maanantaiaamu voi yllättää! Niin käy Akselille ja Annille, kun he lainaavat salaa isän dronea. Kopteri putoaa vahingossa biojäteastiaan, ja roska-auto vie sen mennessään. Lasten täytyy löytää drone ennen kuin isä tulee töistä, ja kouluunkin pitäisi ehtiä.\nKuka lopulta pelastaa kopterin, vai täytyykö lasten ostaa säästöillään hukatun tilalle uusi?\nDronea etsiessä Annille ja Akselille selviää, mitä jätteille tapahtuu sen jälkeen, kun ne on viety kierrätysastioihin. Tiedekoira Voltti kertoo myös, mitä vanhoista muovipulloista voi tehdä ja miksi kännykän tekoa varten täytyy kaivaa tunneleita maan alle.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1358494|
 }
 
-[Etsiväkerho Hurrikaani ja tyly tubettaja] {
-	[b-aut]:Mäkipää, Jari|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4kip%C3%A4%C3%A4%2C+Jari&callnumber=&size=medium&title=Etsiv%C3%A4kerho+Hurrikaani+ja+tyly+tubettaja&recordid=satakirjastot.292479&isbn=9513191400&index=0&w=1200&h=1200|
+[Jääkarhu Patick: operaatio tassunjälki] {
+	[b-aut]:Valtonen, Mato|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1364943&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Pihlakylän koulu sekoaa, kun joukkoon liittyy uusi oppilas Jimpo - Suomen suosituin tubettaja!\n\nEnsimmäisestä koulupäivästä lähtien seiskaluokkalaisen Jimpon ympärillä pörrää innokas faniparvi. Viiviä koko tapaus ärsyttää. Kolmasluokkalainen käy niin kierroksilla, että muut etsivät epäilevät hänen salailevan jotakin. Pian Jimpo hankkii videoillaan toisenkin vastustajan. Liitutaululle ilmestyy uhkausviesti, joka käskee Jimpoa lopettamaan tubettamisen. Jimpo vastaa entistä räväkämmillä postauksilla, mutta nimetön vihamies ei aio jäädä toimettomaksi Viivin vastustuksesta huolimatta Etsiväkerho Hurrikaani ryhtyy auttamaan Jimpoa. Samaan aikaan etsivien huomiosta kilpailevat haaveet tube-tähteydestä, päämajan remontti ja Karoliinan uusi, kypsempi tyyli.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.292479|
+	[b-des]:Patrick-jääkarhu ja Katya-kettu päättävät selvittää, miksi jäätiköllä on niin paljon muovijätettä. Apua kaverukset saavat ainakin mursuilta, lapintiiroilta ja pingviineiltä. Miten ongelmaan liittyy Roskapeikko, jolla on aina nälkä?\n\nIhmiset on saatava tajuamaan, että jätteiden leviäminen luontoon ja meriin on estettävä. Operaatio Tassunjäljessä arktiset eläimet antavat askelmerkit, joita seuraamalla muoviroskat päätyvät oikeaan paikkaan. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1364943|
 }
 
 
-[Tubettajan käsikirja] {
-	[b-aut]:Back, Roni|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Back%2C+Roni&callnumber=&size=medium&title=Tubettajan+%5Bk%C3%A4sikirja%5D&recordid=satakirjastot.442785&isbn=951131842X&index=0&w=1200&h=1200|
+[Loukuttaja] {
+	[b-aut]:Aho, Marja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1297611&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Tubettajan käsikirja kertoo kaiken, mitä haluat tietää tubettamisesta! Kirja sisältää käytännön vinkkejä, asiallista faktaa ja monien Suomen ykköstubettajien kokemuksia aiheesta. Mikäli aiot ryhtyä itse tubettajaksi tai olet muuten vain kiinnostunut aiheesta, tämä kirja on juuri sinulle!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.442785|
+	[b-des]:Usva on luokan hyljeksitty, kissanpissalta haiseva kummajainen, joka vapaa-ajallaan haluaa mieluummin loukuttaa pakkasessa värjötteleviä kulkukissoja, kuin osallistua luokan rientoihin. Hän haluaisi palavasti puhua eläinten oikeuksista eläinsuojeluneuvojana toimivan, löytöeläintaloa pyörittävän äitinsä tavoin, mutta häneltä puuttuu rohkeus sanoa epäkohdista ääneen. Hän tietää, että jos hän koulussa avaisi suunsa kertoakseen Jennalle ja luokan muille tytöille mielipiteensä näiden huonosta lemmikkien kohtelusta, saisi hän koko luokan ivat päälleen. Koulun ruokalassa hän katsoo surullisena, kun muut syövät lihaa. Hän haluaisi kertoa kaikille, millaisissa oloissa tuotantoeläimet joutuvat elämään.\n\nUsva ihailee isosiskoaan Unnaa, muiden mielipiteistä vähät välittävää aktivistia, joka luontoa ja eläimiä suojellakseen ja niiden kaltoinkohtelulle huomiota saadakseen on valmis vaikka köyttämään itsensä kettingillä puuhun tai turkistarhan oveen. Usvan isäpuoli Ii-Pee yrittää valaa arkaan tyttöön itseluottamusta puujalkavitseillään ja rennolla elämänasenteellaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1297611|
 }
 
-[YouTube: maailmanennätykset: planeetan parhaat temput ja taidonnäytteet] {
-	[b-aut]:Besley, Adrian|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Besley%2C+Adrian&callnumber=&size=medium&title=YouTube+%3A+maailmanenn%C3%A4tykset+%3A+planeetan+parhaat+temput+ja+taidonn%C3%A4ytteet&recordid=satakirjastot.248999&isbn=9512362481&index=0&w=1200&h=1200|
+[Gretan tarina] {
+	[b-aut]:Camerini, Valentina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355682&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:YouTube on internetin suosituin videopalvelu, josta löytyy yli 100 miljoonaa videota ihailtavaksi, hämmästeltäväksi ja jaettavaksi. YouTube-maailmanennätykset kokoaa yhteen huikeimmat temput ja taidonnäytteet, jotka videopalveluun on koskaan ladattu: pienimmät ja suurimmat, vahvimmat ja hulluimmat, nopeimmat ja ihmeellisimmät. Kenen hitti sai ennätysajassa miljardi katselukertaa YouTubessa? Kuka on maailman nopein pizzantekijä? Millainen oli pisin onnistunut koripalloheitto? Missä on käyty maailman suurin tyynysota? Kenellä on maailman vahvimmat hiukset tai pisimmät viikset? Kuka on maailman nopein tekstiviestin kirjoittaja? Missä on maailman korkein silta? Millaisia ovat maailman suurin kani tai pienin hevonen? Tai missä on maailman nopein vessa?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248999|
+	[b-des]:Tämä on tositarina Gretasta: toivosta, rohkeudesta ja päättäväisyydestä. Samalla se on kertomus niistä pojista ja tytöistä ympäri maailman, jotka ovat valmiit taistelemaan ihmisten välinpitämättömyyttä vastaan ja paremman tulevaisuuden puolesta. Kuvitettu elämäkerta sopii kaikille kouluikäisille.\n\nGreta Thunberg (s. 2003) on ruotsalainen rohkea ympäristöaktivisti, joka on innoittanut lukemattomat lapset ja nuoret toimiin ympäristön puolesta. Vuonna 2018 ilmastonmuutoksesta huolestunut Greta aloitti koululakon valtiopäivien päärakennuksen edessä ja vaati poliitikoilta todellisia tekoja ympäristön pelastamiseksi. Pian koululaiset Suomessa ja ympäri maailman seurasivat Gretan esimerkkiä ja toivat mielenilmauksilla äänensä kuuluviin. Thunberg on osallistunut suuriin ilmastokampanjoihin ja puhunut monilla tärkeillä foorumeilla. Hän oli ehdolla vuoden 2019 Nobelin rauhanpalkinnon saajaksi. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355682|
 }
 
-[Paras kirja ikinä] {
-	[b-aut]:Miklu|
-	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/saha.kirjastot.fi/images/kirjasampo/EPAnYK3HvQ9RDPJxedoUET_Vqrjnv4ee_5DYFekO8L4.jpg?itok=ReCJMgrg|
+[Ihme ilmat!: miksi ilmasto muuttuu] {
+	[b-aut]:Ertimo, Laura|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322513&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Ihan sama oletko lapsi, vanhempi, mummeli, pappeli vai kameli, tämä on oikea kirja juuri sinulle.\n\nSupersuosittu tubettaja Miklu päästää lukijan päänsä sisään: kompaktista paketista löydät noloimmat tarinat, parhaat neuvot ja hämärimmät piirustukset. Jos et ole koskaan tarttunut kirjaan, tämä opus muuttaa käsityksesi lukemisesta. Se on Paras Kirja Ikinä!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1309356|
+	[b-des]:Ihme ilmat! -tietokirja vastaa lasten kiperiin kysymyksiin ilmastonmuutoksesta ja kertoo, miten voimme pistää sille yhdessä hanttiin. Kaksi nokkelaa kaverusta, Lotta ja Kasper, kyllästyvät vanhempiensa vältteleviin vastauksiin kummista keleistä. He päättävät selvittää, mistä ilmaston muuttumisessa todella on kyse.\n\nIhme ilmat! on topakka ja toiveikas lasten tietokirja siitä, miten ihminen aiheuttaa ilmastonmuutoksen ja mitä me voimme tehdä paremman tulevaisuuden puolesta. Samalla se vinkkaa, miten ihan jokainen pystyy treenaamaan omia ilmastotaitojaan ja elämään niin, ettei hiilidioksidi pöllyä joka käänteessä. Ilmastonmuutoksen pinteestä ei kuitenkaan selvitä pelkillä arjen nikseillä. Siksi tämä kirja kertoo innostavasti myös yhdessä tekemisen voimasta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322513|
 }
 
-[Virityksiä] {
-	[b-aut]:Palviainen, Jukka-Pekka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palviainen%2C+Jukka-Pekka%2C+kirjoittaja&callnumber=&size=medium&title=Virityksi%C3%A4&recordid=satakirjastot.293853&isbn=951236395X&index=0&w=1200&h=1200|
+
+[Etsijät-sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Matka+alkaa&recordid=satakirjastot.246933&isbn=9518874743&index=0&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Valtteri ajaa kolarin paetessaan poliiseja viritetyllä mopollaan. Kukaan ulkopuolinen ei onneksi loukkaannu, mutta Valtteri itse joutuu jalkaleikkaukseen. Samassa sairaalahuoneessa majailee Einari, jonka sota-ajan juttuja on kiva kuunnella. Einarin lapsenlapsi Amanda tekee nettiin humoristisia videoita. Kun Amanda saa vlogiinsa rasittavan häirikön, hän pyytää Valtterilta apua. Kaikesta voi päätellä, että kirjoittaja on joku tuttu. Häirikön jäljittäminen paljastaa monta muutakin salaisuutta.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.293853|
+	[b-des]:Kolme karhua - jääkarhu Kallik, mustakarhu Lusa ja harmaakarhu Toklo - joutuvat pentuina eroon perheistään, ja heidän on selviydyttävä yksin karussa erämaassa. He päätyvät yhteen ja lähtevät huimaan seikkailuun etsimään uutta tulevaisuutta oppaanaan Ujurak, harmaakarhun pentu, joka ei ole aivan tavallinen karhu...\n\nEtsijät (Seekers) on Soturikissat-kirjoistaan tunnetun ERIN HUNTERIN toinen eläinfantasiasarja. Se vie lukijan villiin pohjoiseen luontoon ja ilmaston lämmetessä muuttuvaan ympäristöön. Matka alkaa on sarjan ensimmäinen osa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22etsij%C3%A4t%22++hunter%2C+erin+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
 }
 
-[Oikeella tavalla online] {
-	[b-aut]:Stowell, Louie|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Stowell%2C+Louie&callnumber=&size=medium&title=Oikeella+tavalla+online&recordid=satakirjastot.386957&isbn=9522886548&index=0&w=1200&h=1200|
+[Selviytyjät-sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Yll%C3%A4tt%C3%A4v%C3%A4+vihollinen&recordid=satakirjastot.276922&isbn=9518875030&index=0&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Kaikki siitä, miten internetissä käyttäytyään.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.386957|
+	[b-des]:Keneen voi luottaa tosipaikan tullen?\n\nBella ja muut hihnakoirat ovat asettuneet Suuren murahduksen jälkeen metsään, jossa on kylliksi puhdasta vettä ja saalista. Aluetta alkaa kuitenkin vaatia laumalleen hurjien villikoirien pitelemätön johtaja. Uusia selviytymis- ja taistelutaitoja Lykyltä oppineet hihnakoirat eivät anna periksi vaan panevat vastaan kaikin tavoin.\n\nBella punoo vihollislauman pään menoksi mutkikkaan juonen, joka perustuu Lykyn älykkääseen ja ovelaan toimintaan. Vaikka Lykky kaipaa itsenäistä elämäänsä, hän ei halua jättää tovereitaan pulaan ja suostuu auttamaan. Lykkyä koetellaan tehtävässä monin tavoin - ja hänen todellinen luontonsa testataan, kun päätösten aika koittaa.\n\nSelviytyjät (Survivors) on Erin Hunterin eläinfantasiasarja, jossa lukija pääsee tarkastelemaan maailmaa koiran silmin. Yllättävä vihollinen on sarjan toinen osa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22selviytyj%C3%A4t%22++hunter%2C+erin+NOT+etsij%C3%A4t+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
 }
+
+
+[Minerva: elävien luiden laakso] {
+	[b-aut]:Juba|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1253331&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Minervan huimassa vauhdissa ei aika käy pitkäksi. Lasten supersankarin seikkailut ovat täynnä vauhtia ja vaarallisia tilanteita.\n\nSaammeko esitellä: Minerva, seikkailijatar Matkustusvälineet: Gekko ja kylpyamme Matkakohde: Elävien luiden laakso Tehtävä tänään: Pelastaa Elävien luiden laakso piinaavalta kuivuudelta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1253331|
+}
+
+[Linnunsitoja] {
+	[b-aut]:Waris, Helen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.386037&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Helikopteri vie Zemin keskelle merta, majakkasaarelle, jonne Valtion, Kuilujen ja Koneiden valvovat silmät eivät yllä. Saari on vastarintaliikkeen tukikohta, eikä kenenkään ole pakko kertoa, miksi on siellä tai mistä on tullut. Majakan huipulla on kyyhkyslakka. Kyyhkyt kuljettavat viestejä meren yli, ne ovat ainoa viestintäkeino, jota Kone ei hallinnoi. Vain lintujen avulla vastarintaliike pysyy elossa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.386037|
+}
+
+[Vedenkehrääjä] {
+	[b-aut]:Waris, Helen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1260791&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Saz on päätynyt majakkasaarelta, konevastarinnan tukikohdasta meren taakse Ammabariin. Etsiessään ystäväänsä hän joutuu matkalle läpi sekasortoisen mantereen, jonka vesivarannot ovat ehtymässä. Hiekkaan hautautuvien kaupunkien ja pakolaisvirtojen keskellä Sazin täytyy valita tulevaisuus, jonka puolesta taistella.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1260791|
+}
+
+
+[Jäänvartija] {
+	[b-aut]:Waris, Helen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312071&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Vastarinnan kukistumisen jälkeen Thom on jatkanut elämäänsä Maharin Kuilussa, mutta salatun radioviestin nappaaminen suistaa kaiken raiteiltaan. Thom saa selville, että mantereiden tila on kaikkea muuta kuin vakaa. Kun kaaos leviää, Thomin seurue suuntaa asumattomaan pohjoiseen. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1312071|
+}
+
 
 
 
