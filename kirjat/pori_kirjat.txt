@@ -1229,6 +1229,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Mortina-sarja] {
+	[b-aut]:Cantini, Barbara|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352823&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Mortina asuu Tuoni-tädin ja Kaiho-koiransa kanssa aavemaisessa Villa Tuonelassa, jossa seurana ovat myös suvun esi-isät. Mortina haaveilee ikäisistään leikkikavereista, mutta Tuoni-täti on tämän kieltänyt: kylän lapset saattaisivat pahanpäiväisesti pelästyä zombityttöä, ja zombit voitaisiin häätää kodistaan, jota kyläläiset luulevat autiotaloksi. Halloween-juhlan lähestyessä neuvokas ja lannistumaton Mortina kuitenkin keksii mainion keinon ystävystyä toisten lasten kanssa! |
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&lookfor=mortina+cantini&type=AllFields&sort=main_date_str+asc|
+}
+
 [Pyjamapiraatit] {
 	[b-aut]:Crowe, Caroline|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Crowe%2C+Caroline&callnumber=&size=medium&title=Pyjamapiraatit&recordid=satakirjastot.421434&isbn=951883718X&index=0&w=1200&h=1200|
@@ -1293,15 +1302,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.439503|
 }
 
-[Monsterijengi-sarja] {
-	[b-aut]:Apps, Roy|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Apps%2C+Roy&callnumber=&size=medium&title=Ukkini+on+vampyyri&recordid=satakirjastot.291377&isbn=9525701042&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Jonathan Leechin elämä on kääntymässä huonoon suuntaan. Vai onko? Hän on paljastamassa perheen synkimmän salaisuuden. Isoisän! Eikä siinä vielä kaikki. Jonathan tutustuu muutamiin epätavallisiin uusiin ystäviin, jotka opettavat hänelle muutamia vertahyytäviä asioita myös hänestä itsestään...|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=monsterijengi+apps&type=AllFields&sort=main_date_str+asc|
-}
-
 [Hirviökäsikirja] {
 	[b-aut]:Koski, Mervi|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Koski%2C+Mervi&callnumber=&size=medium&title=Hirvi%C3%B6k%C3%A4sikirja&recordid=satakirjastot.341638&isbn=951235232X&index=0&w=1200&h=1200|
@@ -1311,13 +1311,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.341638|
 }
 
-[Taika Taksinen -sarja] {
+[Villitalo] {
 	[b-aut]:Kolu, Siri|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kolu%2C+Siri&callnumber=&size=medium&title=Tervemenoa+Taika+Taksinen&recordid=satakirjastot.261111&isbn=9511290894&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320329&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kun Roosa Hurme 10-vuotispäivänään muuttaa Sirkuslaakson lähiöön, hänellä ei ole vielä aavistustakaan, että naapurissa asuu noita. Ja että hänestä tulee noidanvastustaja. Pian Roosa kuitenkin huomaa, että kunnallispoliitikko ja yrittäjä Taika Taksisessa on jotakin epäilyttävää. Ja Taksisen huvituspalvelun punaisissa ilmapalloissa melkoisen outoa kaasua. \n\nLähiönoidat ovat katalia vihollisia. Mutta Roosaa ei helpolla lannisteta. Tietokoneita harrastavan ystävänsä Larsin kanssa hän päättää paljastaa lähiönoita Taika Taksisen ja selvittää, mihin oikein ovat joutuneet Sirkuslaaksosta kadonneet lapset.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=taika+taksinen+kolu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:Kun vanha huvila ottaa jalat alleen, talon lapset päättävät selvittää, mistä kummasta oikein on kysymys.\n\nTomtomin isä pääsee talonmieheksi mysteerimiljonääri van Böökin omistamaan vanhaan hienoon huvilaan. Rapinalinna on vielä paljon ihmeellisempi kuin Tomtom on osannut odottaa - perheen muuttoa seuraavana yönä se lähtee kaikkien asukkaiden yllätykseksi liikkeelle.\n\nMiksi talolla on jalat? Voiko sitä ohjata niin kuin autoa? Millaiseen seikkailuun se oikein on asukkaita viemässä? Ja ennen kaikkea, ketkä sitä ajavat takaa ja mistä syystä? Siinä Tomtomilla ja talon muilla lapsilla riittää ratkottavaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320329|
 }
 
 [Suuri hirviökirja] {
@@ -1327,6 +1327,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Arvoisat ihmiset. Tämä kirja on toisenlainen kuin kaikki muut maailman kirjat, sillä sitä ei ole kirjoittanut ihminen, vaan oikea HIRVIÖ! Luit aivan oikein: hirviö on kirjoittanut sen. Tähän saakka ihmiset ovat luulleet hirviöitä mielikuvitusolennoiksi, jotka kuuluvat vain sadun ja fantasian maailmaan. Mutta, uskokaa tai älkää, hirviöt ovat yhtä todellisia kuin ihmiset, kasvit, eläimet, pilvet ja kaikki muu. Hirviöt vain ovat tähän asti pysyneet visusti piilossa. Syyn siihen löydät tästä kirjasta. Samalla selviää myös, miksi hirviöt eivät enää halua piileskellä... Tieto hirviöiden olemassaolosta voi tietysti tuntua järkyttävältä. Mutta hirviöt pelottavat meitä vain, koska emme tiedä niistä mitään! Kannattaa siis ehdottomasti tutustua niihin ja lukea tämä kirja. Sitä paitsi, hirviöt ovat meille läheisempää sukua kuin arvaammekaan.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.253697|
+}
+
+[Maailman viimeiset noidat] {
+	[b-aut]:Nuotio, Eppu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318620&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kaupungissa on alkanut tapahtua kummia. Ihmisiä muuttuu sammakoiksi ja autoja jättihyytelöiksi. Sekasortoa aiheuttavien tapahtumien syynä ei voi olla kukaan muu kuin maailman viimeisen noitasuvun mustan haaran ilkeät kaksoset Lukas ja Liida. Noidat kokoontuvat hätäkokoukseen. Hetkeäkään ei ole hukattavaksi, mutta kaikki ei sujukaan ihan suunnitelmien mukaan. Kokouksen sotkee eripuraa aiheuttava yllätys, joka osoittautuu kuitenkin ratkaisevaksi tekijäksi hurjassa hyvän ja pahan taistelussa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1318620|
 }
 
 [Avaimenkantaja-sarja] {
@@ -1357,6 +1366,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
+
+[Domowik] {
+	[b-aut]:Auer, Ilkka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1276044&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Yllättävän testamentin myötä Vilma Sumeliuksen perhe muuttaa Hästebäckin kartanoon Raaseporin linnan tuntumaan. Edesmennyt isosetä on jättänyt Vilmalle kummia viestejä, joiden myötä uusi koti paljastaa salaisen puolensa. Käytävillä liikkuva aave on vain alkua. Domowik-kotihengen avulla Vilma tutustuu salaperäiseen maailmaan, josta tuntemamme sadut ovat peräisin. Hän alkaa selvittää sukunsa arvoituksia. Ja kohtaa synkät salaisuudet silmästä silmään.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1276044|
+}
+
 [Alismaan tarinat -sarja] {
 	[b-aut]:Collins, Suzanne|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Collins%2C+Suzanne&callnumber=&size=medium&title=Gregor+ja+Turman+ennustus&recordid=satakirjastot.328106&isbn=9510398829&index=0&w=1200&h=1200|
@@ -1366,24 +1385,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alismaan+tarinat+collins&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Huimaa-sarja] {
-	[b-aut]:Hurme, Vuokko|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hurme%2C+Vuokko&callnumber=&size=medium&title=Kiepaus&recordid=satakirjastot.281615&isbn=9515242940&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä, Yhteinen ympäristömme|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Lenna Anderssen eli elämänsä kahdeksan ensimmäistä vuotta kaupungissa, jonka nimi oli Kardum, maailmassa, joka oli kääntynyt nurin päin. Siellä missä ennen oli taivas, oli nyt maa, ja missä piti olla maata jalkojen alla, olikin vain huikaiseva pudotus tyhjyyteen. Tapahtuma, jota kutsuttiin Kiepaukseksi, oli mullistanut kaiken. Ihmiset ovat kuitenkin oppineet pärjäämään ylösalaisessa maailmassaan, ja Lennan perheen elämä Kardumissa on oikeastaan juuri sopivan jännittävää ja mukavaa - kunnes puhdas vesi alkaa loppua. Miten Lennan ja hänen perheensä, äidin, isän, pikkusiskon ja lemmikkikanan, käy? Uskaltavatko he lähteä etsimään tulevaisuuttaan toisesta maailmasta, joka ehkä on jossain heidän allaan, taivaalla?|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=huimaa+hurme&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
-[Painajaisakatemia-sarja] {
-	[b-aut]:Lorey, Dean|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lorey%2C+Dean&callnumber=&size=medium&title=Painajaisakatemia&recordid=satakirjastot.316969&isbn=9511228439&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Hirveän hyvä sekoitus hirviöitä, seikkailua, nasevaa dialogia ja huumoria - uusi suosikkisarja alkaa Charlie Benjamin on poika, joka ei ole koskaan elänyt tavallista elämää. Sopeutuminen arkeen ja koulumaailmaan on vaikeaa, sillä Charlien näkemät painajaisunet avaavat portin hirviöiden maailmaan Hornaan ja takaavat samalla hirviöiden pääsyn maan pinnalle. Niiden, joilla on kyky, on päästävä Painajaisakatemian koulutettavaksi. Pelko ruokkii mielikuvitusta ja painajaisia, ja Charlien ystävineen on opittava hallitsemaan molemmat, jotta he voisivat onnistua mahdottomassa. Onnistuuko heidän pelastaa Charlien vanhemmat Hornan pahimpien hirviöiden kimpusta?|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=painajaisakatemia+lorey&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
 [Jäälohikäärme] {
 	[b-aut]:Martin, George R.R.|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Martin%2C+George+R.+R.&callnumber=&size=medium&title=J%C3%A4%C3%A4lohik%C3%A4%C3%A4rme&recordid=satakirjastot.357578&isbn=9525802124&index=0&w=1200&h=1200|
@@ -1391,6 +1392,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Legendojen mystinen jäälohikäärme herätti pelkoa, sillä kukaan ei ollut milloinkaan kesyttänyt sellaista. Yli lentävä jäälohikäärme jätti jälkeensä lohduttoman kylmän ja jäisen maan. Mutta Adaraa ei pelottanut - hän oli talvilapsi, syntynyt ankarimpien kenenkään muistamien pakkasten aikaan. \n\nAdara ei muistanut ensimmäistä kertaa, jolloin oli nähnyt jäälohikäärmeen. Tuntui kuin se olisi aina ollut osa hänen elämäänsä, kuin hän olisi aina nähnyt sen vilaukselta leikkiessään hyisessä lumessa vielä pitkään sen jälkeen, kun muut lapset olivat paenneet kylmyyttä sisätiloihin. Neljäntenä ikävuonnaan hän kosketti sitä, viidentenä hän ratsasti ensimmäistä kertaa sen leveässä, jäisessä selässä. Ja sitten Adaran seitsemäntenä ikävuotena, eräänä tyynenä kesäpäivänä, pohjoisen tuliset lohikäärmeet pyyhälsivät hänen rauhalliselle kotitilalleen...|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.357578|
+}
+
+[Taikuri ja taskuvaras -trilogia] {
+	[b-aut]:Mikama, Anniina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.357829&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Taikuri ja taskuvaras aloittaa trilogian täynnä silmänkääntötemppuja, juonittelua ja jännitystä. "Vakuutan teille, että teitä vedetään nenästä ihan koko rahan edestä!"\n\nMina asuu kadulla ja varastelee henkensä pitimiksi. Tom on nuori keksijä ja taikuri, jonka Ihmeiden teatteri lumoaa yleisönsä ilta illan jälkeen. Mina ja Tom kohtaavat Helsingissä talvella 1890 ja Minalla on pian osa Tomin taikashow'ssa.Nuoret huomaavat olevansa toisilleen enemmän kuin ystävät, mutta kummankin menneisyydessä on pahoja, selvittämättömiä asioita. He joutuvat juonittelun pyörteeseen ja ajojahtiin, josta he voivat selviytyä vain rohkeutensa avulla - muutama taikatemppu hihassaan.\n\nTaikurin ja taskuvarkaan tarina jatkuu kirjoissa Huijarin oppipoika ja Tinasotamiehet.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?join=AND&bool0%5B%5D=OR&lookfor0%5B%5D=taikuri+ja+taskuvaras&lookfor0%5B%5D=tinasotamiehet&type0%5B%5D=AllFields&type0%5B%5D=AllFields&bool1%5B%5D=AND&lookfor1%5B%5D=Mikama%2C+Anniina&type1%5B%5D=Author&sort=main_date_str+asc|
 }
 
 [Ikimaa-sarja] {
@@ -1420,6 +1430,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=synk%C3%A4t+vedet+sten&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
+[Malamanteri] {
+	[b-aut]:Taylor, Thomas|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352995&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Herbert Lemon on Hotelli Nautiluksen löytötavarapisteen hoitaja. Aina ei ole helppoa palauttaa hukattuja tavaroita oikeille omistajille ja erityisen vaikeaa se on silloin, kun kadonnut on ihminen. Kun Violet Parma ilmestyy etsimään hotellista kaksitoista vuotta aiemmin kadonneita vanhempiaan, lapset lähtevät kiehtovalle arvoitusten polulle, joka ei väistä merihirviö malamanteria.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1352995|
+}
 
 
 
