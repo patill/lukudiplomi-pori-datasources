@@ -254,6 +254,18 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4kaksikko&type=AllFields&sort=main_date_str+asc|
 }
 
+
+[Sähkökatkos, Säh-kö-kat-kos] {
+	[b-aut]:Mäki, Maiju|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1364176&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Sähkökatkos! Missä taskulamppu? Entä tulitikut? Kuka uskaltaa etsiä? Pimeä koti on vaarallinen. |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1364176|
+}
+
+
+
 [Pikkiriin pulmatoimisto -sarja] {
 	[b-aut]:Niemelä, Reetta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta%2C+kirjoittaja&callnumber=&size=large&title=Kaiken+Kadottajan+arvoitus&recordid=satakirjastot.295483&isbn=9522887889&index=0|
@@ -300,14 +312,25 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-[Mysteeritytöt-sarja] {
-	[b-aut]:Carter, Alex|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Carter%2C+Alex&callnumber=&size=medium&title=Oikukkaan+diivan+tapaus&recordid=satakirjastot.290810&source=Solr&isbn=9513233782&index=0&w=250&h=250|
+[Apassit-sarja] {
+	[b-aut]:Bagge, Tapani|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1259681&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Tytöt ovat ihastuksissaan, kun Laurenin vanhempien hotelliin majoittuu superkuuluisa elokuvatähti Isabel Duval. Tähtösellä tuntuu kuitenkin olevan myös pimeä puoli, johon ystävykset pian törmäävät. Mistä ihmeestä voi olla kyse...|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?dfApplied=1&lookfor=%22Mysteerityt%C3%B6t%22&type=AllFields|
+	[b-des]:Apassit on helsinkiläisnuorten salaseura noin vuonna 1910. Salaseura tutkii kaikenlaisia salaperäisiä tapauksia. Apasseihin kuuluvat Heikki, Otto, Erik ja Samuli sekä Heikin kaksossisaret Elli ja Nelli. Heikin serkusta Almasta he saavat Hämeenlinnassa uuden jäsenen. Sarjan ensimmäinen osa Aavehevosen arvoitus ilmestyi keväällä 2018.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=apassit+bagge+&type=AllFields&sort=main_date_str+asc|
 }
+
+
+[CLUE-sarja] {
+	[b-aut]:Horst, Jørn Lier|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.433450&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:CLUE on Jorn Lier Horstin salapoliisisarja 9-13 -vuotiaille lukijoille. Salamanterin arvoitus on sarjan ensimmäinen osa, ja se julkaistiin Norjassa 2012. Sarja nousi nopeasti Norjan myydyimmäksi nuorille lukijoille suunnatuksi kirjasarjaksi. |
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=clue+horst&type=AllFields|
+}
+
 
 [Geoetsivät-sarja] {
 	[b-aut]:Hulkko, Johanna|
@@ -317,16 +340,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Geokätköilyharrastus vie nelosluokkalaisen Raparperin aina huimiin seikkailuihin, mutta joskus lipsahtaa vähän liiankin jännittäväksi.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=%22Geoetsiv%C3%A4t%22&type=AllFields&sort=main_date_str+asc|
 }
-
-[Emil Wern tutkii -sarja] {
-	[b-aut]:Jansson, Anna|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jansson%2C+Anna&callnumber=&size=medium&title=Pankkiry%C3%B6st%C3%B6&recordid=satakirjastot.273835&source=Solr&isbn=9512087677&index=0&w=250&h=250|
-	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Visbyssä on joulumarkkinat. Emil voittaa pankin järjestämän kilpailun, mutta hänen mennessä hakemaan palkintoaan vastassa on murtunut pankinjohtaja. Joku on murtautunut pankkiholviin yön aikana! Miljoona kruunua on kadoksissa, ja Emilillä uusi tapaus ratkaistavanaan...|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&lookfor=%22Emil+Wern+tutkii%22&type=AllFields|
-}
-
 
 [Löytöreteilijät-sarja] {
 	[b-aut]:Kress, Adrienne|
@@ -344,6 +357,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Zac Powerilla on tehtävä. Hänellä on 24 tuntia aikaa löytää katala tiedemies huippuvaaralliselta Myrkkysaarelta, joka kuhisee tappavan vaarallisia eläimiä ja kasveja, ja pysäyttää tämän ilkeät kokeet. Ja kun samalla pitäisi huolehtia, että kulissi - tavallisen 12-vuotiaan pojan arki läksyineen, soittotunteineen ja kotitöineen - pysyy pystyssä, Zacin tehtävä vaikuttaa yhä vaativammalta!|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=zac+power+larry&type=AllFields|
+}
+
+[Universumin avain] {
+	[b-aut]:Muhonen, Anne|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.334046&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Tarina saa alkunsa kun Kalle löytää kotoaan avaimen, joka ei kuitenkaan sovi mihinkään kotoa löytyvään lukkoon. Äiti esittää hurjan arvelun, että se voisi olla Universumin avain! Tästä alkaa Universumin oven hillitön etsintä. Etsintäpartioon liittyvät Kallen paras ystävä, lätäkön toisella puolella asustava Hirppa sekä uusi tuttavuus, Aino. Etsijät löytävät vihjeen toisensa jälkeen, mutta löytyykö ovi, ja mitä kaikkea Universumi pitääkään sisällään?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.334046|
 }
 
 [Tagli ja Telle -sarja] {
@@ -374,6 +396,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4toimisto+henkka+kivimutka&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
+
+
+[Osasto 23] {
+	[b-aut]:Frantz, Eva|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324196&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Autiolla maaseudulla, Vadelmarinteen keuhkoparantolassa, hoidetaan köyhiä kaupunkilaislapsia. Raikkaan ulkoilman uskotaan olevan hyödyksi yskiville lapsille. Stinalle laitos on pikemminkin kuin kartano, mutta hän kaipaa kotiin viiden siskonsa luo, ahtaan makuuhuoneen kerrossänkyyn.Salaperäinen potilas Ruben auttaa Stinaa sopeutumaan, ja yhdessä he vaeltavat öisin parantolan tyhjillä käytävillä.Ruben kertoo myös oudosta tulipalosta itäsiivessä. Stina havaitsee, että osastolla on käynnissä jotakin merkillistä - lääkärien käytös alkaa kummastuttaa. Pian Stina ymmärtää, että hän on itsekin suuressa vaarassa. |
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1324196|
+}
 
 [Kaksoisolennot] {
 	[b-aut]:Kallioniemi, Tuula|
@@ -409,15 +441,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vanhempiensa kansainvälisen työn perässä Italiaan kotiutuneet kaverukset Kaius ja Leo ovat jo tottuneet paikalliseen suurpiirteisyyteen. Poikien todistama tuore peltikolari on sinänsä harmiton, mutta pakettiauton lastina olevien laatikoiden oudot kirjainsymbolit herättävät tarkkasilmäisten teinien huomion. Kaiuksen omatoiminen hakkerisisar Silva saa selville, että kirjainyhdistelmä IRPI viittaa paitsi arkeologisiin aarteisiin myös Apollo-jumalan muinaisiin palvelijoihin. Kirjastossa viihtyvä Kaius tonkii lisätietoa mystisestä susipapistosta, ja suoraa toimintaa kannattava Leo luotsaa kolmikon hämärämiesten salaisille kaivauksille vuoristoon. Nuorten uteliaisuus johdattaa lopulta vuosituhansia vanhan salaisuuden jäljille.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=arkeomysteeri&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
-[Aaro Korpi -sarja] {
-	[b-aut]:Remes, Ilkka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Remes%2C+Ilkka&callnumber=&size=medium&title=Piraatit&recordid=satakirjastot.68639&isbn=9510283746&index=0&w=1200&h=1200|
-	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:12-vuotias Aaro Korpi palauttaa löytämänsä laukun Katajanokalle ankkuroituun risteilijään - ja astuu samalla suden suuhun. Jännityksen mestarin pelinavaus nuorille lukijoille.|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aaro+korpi+remes&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
 [Poika: murha seitsemännellä luokalla] {
