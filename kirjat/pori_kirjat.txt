@@ -1441,21 +1441,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
-[Futisjunnut-sarja] {
-	[b-aut]:Anrell, Lasse|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Anrell%2C+Lasse&callnumber=&size=medium&title=Zlatan+on+t%C3%A4hti&recordid=satakirjastot.332182&isbn=9511312782&index=0&w=1200&h=1200|
-	[b-tag]:Nappiksia ja lätkäkiekkoja|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Bruno pääsee pelaamaan Alin futisjoukkueeseen, huippua! Bruno on mestari syöttämään. Häntä kuitenkin harmittaa, kun joukkueessa saa pelata myös Emma, joka on vähän liiankin hyvää pataa Alin kanssa. Eihän tyttöjen kanssa voi pelata! Mutta Ali on toista mieltä. Emma on Alin ystävä. Bruno nakkelee niskojaan ja murjottaa. Pian pojan on kuitenkin pakko myöntää, että futisjunnuihin mahtuvat pelaamaan sekä pojat että tytöt. Viimeistään silloin, kun itse Zlatan kehuu futisjunnuja valmentajalle.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.332182|
-	[additionalInformation]:Tässä siis lisätietoja|
-	[help]:Jotain ohjetta voisi olla tässä|
-	[b-ser-1]:https://satakirjastot.finna.fi/Record/satakirjastot.344241|
-	[b-ser-1-t]:Kotikenttien kingi|
-	[b-ser-2]:https://satakirjastot.finna.fi/Record/satakirjastot.1253350|
-	[b-ser-2-t]:Messi on mahtava|
-}
-
 [Eetu pelaa jääkiekkoa] {
 	[b-aut]:Ekstedt, Katariina|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ekstedt%2C+Katarina&callnumber=&size=medium&title=Eetu+pelaa+j%C3%A4%C3%A4kiekkoa&recordid=satakirjastot.433249&isbn=9512360098&index=0&w=1200&h=1200|
@@ -1505,12 +1490,21 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248363|
 }
 [Elsa luistelemassa] {
-	[b-aut]:Ruuska, Kerttu|
+	[b-aut]:Rahikka, Kerttu|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rahikka%2C+Kerttu%2C+kirjoittaja&callnumber=&size=medium&title=Elsa+luistelemassa&recordid=satakirjastot.333899&isbn=9526319850&index=0&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Elsa luistelemassa -kuvakirjassa pakkanen nipistelee Elsan poskia, kun hän saapuu päiväkotiin. Elsa on innoissaan. Hän on lähdössä ensimmäistä kertaa päiväkotiryhmänsä kanssa luistelemaan. Tömpsis, miksei Elsa pysynytkään pystyssä? Miten luistimilla kävellään kuin pingviinit ja miten autoliu'ussa huristellaan? Oppi&ilon Elsa-sarjan päähenkilönä seikkailee 5-vuotias Elsa, joka on innokas ja utelias oppimaan uusia asioita.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.333899|
+}
+
+[Totti-sarja] {
+	[b-aut]:Wickström, Mika|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318829&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Totti pelaa Toukolan Teräksessä eikä mikään ole hänestä hauskempaa kuin jalkapallo. Totti on mestari pomputtelemaan palloa, mutta nyt hän haluaa oppia huiman tempun nimeltä saksipotku. Salaisesta hankkeesta saa tietää vain pallokoira Kaapo. Seuraavassa pelissä Totti aikoo hämmästyttää kaikki taidoillaan...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?dfApplied=1&lookfor=totti+wickstr%C3%B6m&type=AllFields&sort=main_date_str+asc|
 }
 
 
@@ -1523,13 +1517,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=icelove&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Futistyttö-sarja] {
-	[b-aut]:Kanto, Anneli|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kanto%2C+Anneli&callnumber=&size=medium&title=Tulik%C3%A4rp%C3%A4set&recordid=satakirjastot.328261&isbn=951235098X&index=0&w=1200&h=1200|
+[Pöllitty pallo] {
+	[b-aut]:Kallioniemi, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320326&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:"Viime talvena äiti meni kerran teatteriin ja unohti vetää housut pitkien kalsareitten päälle. Se huomasi vasta kotona. Ne nauroivat Anssin kanssa melkein pissat housussa, ja äiti näytteli, kuinka se oli tyylikkäänä kalsareissaan juonut sherryä väliajalla, mutta minä häpesin. Minusta ei ole mitään nauramista siinä, että on nolannut itsensä tummanpunaisissa puuvillakalsareissa, jotka vielä lerputtaa." Yksitoistavuotiaan tytön elämässä ei voi paljon pahempaa olla kuin äidin totaalinen tyylittömyys, vai voiko...? Oona on Kiinasta Suomeen adoptoitu tyttö, joka asuu toimittajaäitinsä ja rasittavan isoveljensä Anssin kanssa ja pelaa jalkapalloa Tulikärpäsissä. Oonan päiväkirjan sivut täyttyvät iloista ja peloista, häpeästä ja haaveista - lapsen ja teinin rajamailla häilyvän tytön tunteiden koko kirjosta. Ja tietenkin jalkapallosta!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=futistytt%C3%B6+kanto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:Salaman luokalle Rupulan lähiöön tulee uusi oppilas Eetu. Poika puhuu palturia kuin Pinokkio. Hän puhuu helposti myös muut ympäri: pian Rupulan hiekkakentällä treenaa futisjoukkue FC Wannaplay. Salaman ihmeeksi Eetu kelpuuttaa siihen poikia muiltakin luokilta, myös likkoja, Janitan ja Aliman. Ei haittaa, vaikkei kellään ole varaa nappiksiin. Valkuksi Eetu löytää nuhjuisen Massen, joka on pelannut nuorena SM-liigassa. Miksi ihmeessä Eetu tahtoo haastaa Hippolan lähiön joukkueen matsiin? Hippola on ollut jo vuosia Rupulan perivihollinen. Sen joukkueella on nurmikenttä ja nappikset. Mutta Eetu vain uhoaa: "Vapise Hippola, täältä tullaan!"|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320326|
 }
 
 [Futaajat-sarja] {
@@ -1569,6 +1563,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.376219|
 }
 
+[Cheertytöt-sarja] {
+	[b-aut]:Aho, Marja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324244&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Uusi koti, uusi kaupunki, uusi koulu. Ja koulussa opettajana noloakin nolompi isä. Yhdistelmä, joka saa yläkoulun aloittavan Jessiinan vatsan kramppaamaan kauhusta. Kaiken lisäksi pitäisi vielä löytää ystäviä.\n\nLuokassa on onneksi tyttökaksikko Nelli ja Sandra, jotka tutustuttavat Jessiinan paitsi uuteen kouluun myös kiehtovaan harrastukseen. Hengästyttävän vauhdikas cheerleading voltteineen ja ihmispyramideineen tempaa Jessiinan mukaansa. Voltteja heittää pian myös hänen sydämensä, sillä treenihallilla harjoittelee polvet veteliksi sulattava cheerleader Max.\n\nJessiinan ystävyys Nellin ja Sandran kanssa ei kuitenkaan suju ilman ongelmia. Hänen kömpelöt kärrynpyöränsä ja kaveeraaminen Nellin kanssa eivät miellytä Sandraa.\n\nCheerleadingseuran syysnäytös lähestyy. Pian Jessiinalla on edessään kaikista suurin haaste: miten oppia pelottavilta ja ylivoimaisen vaikeilta tuntuvat akrobaattiset liikkeet joukkueen esitystä varten?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aho+cheertyt%C3%B6t&type=AllFields&sort=main_date_str+asc|
+}
+
 [Hattutemppu] {
 	[b-aut]:Mack, W.C.|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mack%2C+W.+C.&callnumber=&size=medium&title=Hattutemppu&recordid=satakirjastot.462082&isbn=9512358395&index=0&w=1200&h=1200|
@@ -1576,15 +1579,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Jonathan McDonald on poikkeuksellisen pienikokoinen 11-vuotias sisupussi, jonka intohimo on jääkiekko. Hän pelaa Cougarin junnujoukkueessa hyvällä menestyksellä lyhyestä varrestaan huolimatta. Kaikki alkaa mennä pieleen sen jälkeen, kun paikkakunnalle muuttaa Eddie Bosko - korsto, joka on pelannut aiemmin Sharkseissa. Ei riitä, että Eddie on pelissä vahvempi, hän on myös matikkanero, ja matematiikka on Jonathanin heikko kohta. Niinpä äiti päättää järjestää pojalleen tukiopetusta, jota antamaan tulee hänen uuden työtoverinsa poika - Eddie Bosko! Jonathanin tulevaisuus näyttää synkkääkin synkemmältä...|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462082|
-}
-
-[Kiekkotähti-sarja] {
-	[b-aut]:Nordström, Gunnar|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nordstr%C3%B6m%2C+Gunnar&callnumber=&size=medium&title=Suuntana+NHL&recordid=satakirjastot.87052&isbn=9512343487&index=0&w=1200&h=1200|
-	[b-tag]:Nappiksia ja lätkäkiekkoja|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:19-vuotias maalivahtilahjakkuus Adam Wallgren on päässyt pelaamaan Seattle Wondersin farmijoukkueeseen ja tavoittelee paikkaa NHL-jäillä.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=kiekkot%C3%A4hti+nordstr%C3%B6m&type=AllFields&limit=50|
 }
 
 [Aloituskiekko] {
@@ -1603,6 +1597,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Elektroninen urheilu on tulevaisuuden urheilu. \n\nVideopelikilpailuista on tullut lyhyessä ajassa valtavan suosittuja. Kisoissa liikkuu valtavia rahasummia, ja turnauksia katsovat miljoonat ihmiset ympäri maailman. Mistä e-urheilussa oikein on kyse? Urheilutoimittaja Otto Rönkä valottaa tässä kirjassa alan historiaa ja kehitystä, esittelee suurimpia pelejä ja paljastaa myös, miten e-urheilijaksi ryhdytään.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1260794|
+}
+
+[Kymmenestä metristä] {
+	[b-aut]:Suvitie, Iiris|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1351199&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:12-vuotias Varpu haluaa jääräpäisesti aloittaa rohkeutta vaativan harrastuksen: uimahypyn. Päätöksestä lähtee liikkeelle vaiherikas tarina, joka palmikoi yhteen myös kolmen tytön ystävyyttä.\n\nVarpun paras kaveri Klaara inhoaa urheilua, mutta rakastaa hevosia. Uimahypyn myötä Varpun elämään saapuva vauhdikas Kata taas on velhomaailmoista innostunut Harry Potter -fani, todellinen potterhead.\n\nMiten Varpu selviää sisukkuutta vaativista treeneistä ja ensimmäisestä harjoituskilpailusta? Mitkä tekijät lopulta auttavat, että keskenään kolme erilaista tyttöä onnistuvat löytämään ystävyyden avaimet? Uskaltaako korkeanpaikankammoinen Varpu koskaan hypätä hyppytornin ylimmältä tasolta? |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1351199|
 }
 
 [Tähtiketju-sarja] {
