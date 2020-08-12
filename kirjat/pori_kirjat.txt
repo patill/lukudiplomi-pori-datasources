@@ -390,7 +390,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Etsivätoimisto Henkka & Kivimutka -sarja] {
 	[b-aut]:Veirto, Kalle|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=medium&title=Etsiv%C3%A4toimisto+Henkka+%26+Kivimutka&recordid=satakirjastot.439744&isbn=9512350416&index=0&w=1200&h=1200|
-	[b-tag]:Epäilyttäviä asioita; Pöljäilyä ja hassuja tilanteita|
+	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Henkka Virtanen on 10 vuotta, ihailee Sherlock Holmesia ja pitää kaverinsa J.K. Kivimutkan kanssa etsivätoimiston haarakonttoria. Henkka on Etsivätoimisto Henkka & Kivimutkan Aivot, Kivimutka sen tylympi jäsen. Tiedossa on tiukkoja tilanteita ja kimurantteja käänteitä, kunhan toimisto saa työrauhan äidin valvonnalta, isän urheiluhulluudelta ja Kauko Mäyhköltä, 8 v.|
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=etsiv%C3%A4toimisto+henkka+kivimutka&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
@@ -1844,6 +1844,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:"Tsädäm, ihmiset. Tsä-däm! Jotenkin olin tämän aavistanut mutta en ollut antanut itselleni lupaa uskoa siihen. Se oli niin älytöntä. Hirvittävän, puistattavan, hiuksiaraastavan älytöntä. Isä ja äiti aikoivat hakea Raaka remontti -ohjelmaan." 13-vuotiaan Mayan elämä ei ole helppoa, kun vanhemmat ovat sellaisia kuin ovat: erittäin hyviä vääntämään elämän umpisolmuun. Talo pitäisi remontoida, mutta rahaa siihen ei liiemmin löydy, kun äiti haaveilee taiteilijaelämästä ja isä sai juuri kenkää YT-neuvotteujen tuloksena. Niinpä vanhemmat päättävät hakea uuteen reality-sarjaan, missä koko perheen kaikki kauheudet lätkäistäisiin kaikkien katsojien ruodittavaksi. Maya pakenee pohjoiseen mummolaan ja pikkuserkkunsa Nooran luo, mutta ei elämä sielläkään sen helpompaa ole. Etenkään, kun mummo on kovin altis kiipeämään barrikadeille ja Nooran ihastus Reima onkin kiinnostunut Mayasta. Puhumattakaan siitä sotkusta, mikä syntyy, kun Reima katoaa...|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.347483|
 }
+
+[Kivimutka-sarja] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.392842&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kohta 13-vuotiaan Jiikoo Kivimutkan elämän täyttävät jalkapallo ja Akun taskarit. Sitten uudelta naapurilta katoaa kesken syntymäpäivien työpaikka. Jiikoo ja Suomen söpöin laulajanalku Cake M. nousevat valokeilaan pääepäiltyinä. Kun aikuiset eivät pääse puusta pitkään asioiden selvittämisessä, Kivimutkan on verestettävä etsiväntaitojaan ja tartuttava toimeen. Niin hän tutustuu Kolinaan ja Pääkallonaamaan ja joutuu elämänsä järisyttävimpään seikkailuun.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+kivimutka+NOT+henkka+AND+veirto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
 
 
 
