@@ -1855,17 +1855,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-
-
-[Karhu ja rohkea jänis] {
-	[b-aut]:Bates, Ivan|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bates%2C+Ivan&callnumber=&size=medium&title=Karhu+ja+rohkea+j%C3%A4nis&recordid=satakirjastot.427241&isbn=9518837198&index=0&w=1200&h=1200|
-	[b-tag]:Riimejä ja loruja|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Karhu vain nauraa hohottaa, kun muut metsän eläimet juoksevat sitä karkuun. Pöllö kutsuu kokoon hätäkokouksen: karhu täytyy saada kuriin! Urhea jänis tarjoutuu auttamaan. \n\nMutta pystyykö pieni jänis opettamaan isolle karhulle, että toisten kanssa voi leikkiä myös kiltisti?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.427241|
-}
-
 [Ikioma kamu] {
 	[b-aut]:Bright, Rachel|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bright%2C+Rachel&callnumber=&size=medium&title=Ikioma+kamu&recordid=satakirjastot.385590&isbn=9518836590&index=0&w=1200&h=1200|
@@ -1884,13 +1873,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.426543|
 }
 
-[Älytön äyriäinen] {
+[Älytön äyriäinen ja muita eläinriimejä] {
 	[b-aut]:Kanto, Anneli|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kanto%2C+Anneli&callnumber=&size=medium&title=%C3%84lyt%C3%B6n+%C3%A4yri%C3%A4inen+ja+muita+el%C3%A4inriimej%C3%A4&recordid=satakirjastot.284710&isbn=9512355434&index=0&w=1200&h=1200|
 	[b-tag]:Riimejä ja loruja|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Anneli Kannon uutuuskirjassa aakkoset tulevat tutuiksi riemastuttavien lorujen ja veikeiden eläinten kautta. Kerimäen kirkon rotta, coloradokuoriainen, Urjalan urpiainen, Ålandin merikåtka ja moni muu otus seikkailevat mainioissa riimeissä, jotka mukailevat kuulua pilailurunon muotoa, limerikkiä. Eskarilaiselle, ekaluokkalaiselle ja pienemmillekin sopiva lorukirja hurmaa kekseliäisyydellään. Anneli Kannon hauskoista runoista löytyy tulkinnan tasoja sekä lapselle että aikuiselle, ja Kaisa Rekisen raikkaasti kuvittamat eläinhahmot saavat mielikuvituksen lentoon!|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.284710|
+}
+
+[Kammotuksia] {
+	[b-aut]:Niemelä, Reetta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322552&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ne hiipivät hämärissä tai ryömivät koloistaan keskiyöllä. IIK! Niillä on kiiluvat silmät ja terävät hampaat. HUI! Ne ovat kammotuksia!\n\nOnko kammotusten kanssa mahdollista tulla toimeen? Tämä kirja paljastaa yöpuolen kulkijoista yllättäviä asioita, jos siis uskallat lukea! Kuka ilkimys on laittanut kirjaston kirjojen väliin nakkisiivuja? Mitä tehdä, kun yksisilmäinen otus tuijottaa ikkunan takana? Haluatko tutustua myös PÖHKÖÖN, LORVIIN JA SUKKAPÖRÖÖN?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322552|
 }
 
 [Satakieli ja lakaisukone] {
@@ -1985,6 +1983,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1257028|
 }
 
+[Mustekala löytää trikoot] {
+	[b-aut]:Nopola, Sinikka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318728&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Naali haluaa olla normaali, ja mustekala teettää kymmenlahkeiset trikoot. Kärpänen löytää minisalkun mennessään työpaikkahaastatteluun ja voikukkadiiva kärsii ?tavallisesta? lajistaan. Löytääkö orpo Amanda kodin, ja pääseekö nuuka Kaarlo saituudestaan? Kaikenikäisten riimirunot kertovat eläinten, ihmisten ja kasvien yllättävistä kohtaloista - äkkikäänteitä kaihtamatta.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1318728|
+}
+
 [Ketunhäntä kainalossa] {
 	[b-aut]:Ravantti, Leena|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ravantti%2C+Leena&callnumber=&size=medium&title=Ketunh%C3%A4nt%C3%A4+kainalossa&recordid=satakirjastot.441641&isbn=9516275427&index=0&w=1200&h=1200|
@@ -2047,6 +2054,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Huviksi ja haitaksi on omistettu tottelemattomille lapsille. Viimeaikaisissa tutkimuksissa on havaittu, että kun lapsia kehottaa pesemään kätensä, useimmat lähtevät letti viuhuen jatkamaan salamyhkäisiä leikkejään. Tieteilijät ovatkin päätelleet, että tällaisille lapsille ei pidä antaa hyviä vaan erityisen huonoja neuvoja. Grigori Oster on itäisen naapurimaamme tunnetuimpia ja rakastetuimpia lastenkirjailijoita, jonka hurjissa loruissa on karismaa kuin merirosvon tarinoissa. Huviksi ja haitaksi on kokoelma Osterin runojen parhaimmistoa. Anarkistisilla, käänteistä psykologiaa ovelasti harjoittavilla runoilla aivopestyt lapset toimivat yllättäen kuin mallioppilaat.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.348057|
+}
+
+[Haikuja räjähtävälle sydämille] {
+	[b-aut]:Pelliccioni, Sanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1359850&index=1&size=medium&w=1200&h=1200|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kuvittajana ja lastenkirjailijana tunnetun Sanna Pelliccionin ilmaisuvoimaisissa haikuissa kaikuu nuoruuden vimma, voima ja herkkyys, pelot, toiveet ja haaveet.”Kirjoitan haikuja, koska niiden muoto on niin hieno. Haikut ovat samalla keveitä ja syviä, helppoja ja hitaasti avautuvia. Haiku voi läväyttää muutamalla tavulla auki koko maailman, tiivistää epätoivon tai henkäistä ulos järkyttävän ihastumisen parilla rivillä.”Taka-ajatuksena on myös kannustaa kirjoittamaan omia runoja itselle tärkeistä aiheista - runoilu auttaa pysähtymään, pohtimaan tuntojaan, eikä sen tarvitse olla vaikeaa. Haikun muoto ohjaa kirjoittamista ja vapauttaa mielikuvituksen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1359850|
 }
 
 [Joku siipi pitäis olla] {
