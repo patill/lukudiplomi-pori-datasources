@@ -2155,7 +2155,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.306412&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Vesi on kirja, jossa selviää, miksi vesi on maailman tärkein aine. Teos jatkaa kaksikon Ertimo-Kontinen Yö-kirjasta (2016) tuttua lapsenkokoista tapaa käsitellä ympäröivän maailman ihmeellisyyttä avoimesti kysyen, tieteenalojen rajat unohtaen. Tekstin kanssa tasavertainen kuvitus tekee arjesta satumaista, monimutkaisesta ymmärrettävää ja vedestä kaunista.\n\nEdessä on elämäsi vesiseikkailu! Tässä kirjassa kuljetaan taivaalla laahaavista pilvistä merten syvyyksiin, Pariisin viemäreistä muinaisten tähtien räjähdyksiin. Vesi on läsnä kaikkialla elämänkulussa ihmeellisten ominaisuuksiensa takia, siksi sen ymmärtäminen avaa silmät elämän perusteille. |
+	[b-des]:Vesi on kirja, jossa selviää, miksi vesi on maailman tärkein aine. Teos jatkaa kaksikon Ertimo-Kontinen Yö-kirjasta (2016) tuttua lapsenkokoista tapaa käsitellä ympäröivän maailman ihmeellisyyttä avoimesti kysyen, tieteenalojen rajat unohtaen. Tekstin kanssa tasavertainen kuvitus tekee arjesta satumaista, monimutkaisesta ymmärrettävää ja vedestä kaunista.\n\nEdessä on elämäsi vesiseikkailu! Tässä kirjassa kuljetaan taivaalla laahaavista pilvistä merten syvyyksiin, Pariisin viemäreistä muinaisten tähtien räjähdyksiin. Vesi on läsnä kaikkialla elämänkulussa ihmeellisten ominaisuuksiensa takia, siksi sen ymmärtäminen avaa silmät elämän perusteille.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.306412|
 }
 
@@ -2204,7 +2204,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1358494|
 }
 
-[Jääkarhu Patick: operaatio tassunjälki] {
+[Jääkarhu Patrick: operaatio tassunjälki] {
 	[b-aut]:Valtonen, Mato|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1364943&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
@@ -2343,9 +2343,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352991&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Hotelli Flamingo aloittaa uuden hurmaavasti kuvitetun kirjasarjan, jossa kymmenvuotias Anna Dupont perii hotellin - ja elää jokaisen tytön unelmaa!\n\n
-Hotellilla Annaa kohtaa ikävä yllätys, sillä hotelli on suurremontin tarpeessa. Mutta ei hätää, uskollisen eläinhenkilökuntansa kanssa neuvokas Anna järjestää paikat kuntoon, ja pian ensimmäiset vieraat saavat tulla.\n\n
-Uutta yrittäjää ei katsota pelkästään hyvällä: kilpailevan hotellin mafiosomainen omistaja tulee vierailulle eikä laisinkaan pidä hotellin loistokkaasta tunnelmasta... |
+	[b-des]:Hotelli Flamingo aloittaa uuden hurmaavasti kuvitetun kirjasarjan, jossa kymmenvuotias Anna Dupont perii hotellin - ja elää jokaisen tytön unelmaa!\n\nHotellilla Annaa kohtaa ikävä yllätys, sillä hotelli on suurremontin tarpeessa. Mutta ei hätää, uskollisen eläinhenkilökuntansa kanssa neuvokas Anna järjestää paikat kuntoon, ja pian ensimmäiset vieraat saavat tulla.\n\nUutta yrittäjää ei katsota pelkästään hyvällä: kilpailevan hotellin mafiosomainen omistaja tulee vierailulle eikä laisinkaan pidä hotellin loistokkaasta tunnelmasta... |
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hotelli+flamingo+milway&type=AllFields&sort=main_date_str+asc|
 }
 
@@ -2392,8 +2390,7 @@ Uutta yrittäjää ei katsota pelkästään hyvällä: kilpailevan hotellin mafi
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355686&index=0&size=medium&w=1200&h=1200|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Eläinmaailman ihmeet|
-	[b-des]:Miksi pölypunkki ei ole hyönteinen mutta muurahainen on? Hyönteisillä ei ole luurankoa - miten ihmeessä ne pysyvät kasassa? Kuinka tulikärpänen saa takapuolensa loistamaan pimeässä? Entä minkälaista on lääkärin potilaalle määräämä toukkahoito?\n\n
-	Hyönteiset 30 sekunnissa paljastaa pienelle luonnontutkijalle maailman suurimman eläinryhmän salat.|
+	[b-des]:Miksi pölypunkki ei ole hyönteinen mutta muurahainen on? Hyönteisillä ei ole luurankoa - miten ihmeessä ne pysyvät kasassa? Kuinka tulikärpänen saa takapuolensa loistamaan pimeässä? Entä minkälaista on lääkärin potilaalle määräämä toukkahoito?\n\nHyönteiset 30 sekunnissa paljastaa pienelle luonnontutkijalle maailman suurimman eläinryhmän salat.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355686|	
 }
 
