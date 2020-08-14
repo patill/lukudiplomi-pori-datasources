@@ -866,7 +866,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298526|
 }
 
-[2 A.n kamut -sarja] {
+[2 A:n kamut -sarja] {
 	[b-aut]:Hallava, Anna|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallava%2C+Anna&callnumber=&size=medium&title=2+A%3An+kamut+kykykilpailussa&recordid=satakirjastot.285126&isbn=9510422657&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
@@ -1042,7 +1042,189 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Koiramäki-sarja] {
+	[b-aut]:Kunnas, Mauri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri&callnumber=&size=medium&title=Kes%C3%A4+Koiram%C3%A4ess%C3%A4&recordid=satakirjastot.359559&isbn=9511288008&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Vanhoista ajoista kerrotaan harvoin yhtä kiehtovasti ja jännittävästi kuin Mauri Kunnaksen Koiramäki-tarinoissa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=koiram%C3%A4ki+kunnas&type=AllFields|
+}
 
+[Onneli ja Anneli -sarja] {
+	[b-aut]:Kurenniemi, Marjatta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kurenniemi%2C+Marjatta&callnumber=&size=medium&title=Onnelin+ja+Annelin+talo&recordid=satakirjastot.285049&isbn=9510404446&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Onneli ja Anneli ovat ihan tavallisia pikkutyttöjä, ehkä vähän onnellisempia vain kuin useimmat muut. Eräänä kesäpäivänä he pääsevät muuttamaan Tingelstiinan ja Tangelstiinan naapuriin - ikiomaan taloonsa! Talven kynnyksellä uutta asuntoa etsivä Vaaksanheimon väki mahtuu somasti viettämään pikkujoulua tyttöjen nukkekotiin, mutta vastapäätä muuttanut orpokoti aiheuttaa kaikenlaista mieliharmia. Kun hajuvesitehtailija Viksari ja pääylioikaisuinsinööri Oikotie ryhtyvät juonimaan, tarvitaan Kissanmintun kaupungin pelastamiseksi paitsi Onnelin ja Annelin kekseliäisyyttä myös Vekotiitus Vappusen nukutuskelloa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=onneli+ja+anneli+kurenniemi&type=AllFields|
+}
+
+[Tintin seikkailut -sarja] {
+	[b-aut]:Mayer, Kirsten|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mayer%2C+Kirsten&callnumber=&size=medium&title=Vaara+merell%C3%A4&recordid=satakirjastot.423699&isbn=9511262084&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tintti seikkailee lukemaan opettelevien värikkäissä tarinakirjoissa, jotka pohjautuvat elokuvaan Tintin seikkailut.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=Tintin+seikkailut+mayer&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
+[Heinähattu ja Vilttitossu -sarja] {
+	[b-aut]:Nopola, Sinikka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Sinikka&callnumber=&size=medium&title=Hein%C3%A4hattu+ja+Vilttitossu&recordid=satakirjastot.95233&isbn=9513090485&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:"Minä olen saanut tarpeekseni", Vilttitossu sanoo sisarelleen Heinähatulle eräänä aamuna. Naapurissa saa ihania herkkuja, ja kun lähtee vielä vähän pidemmälle, voi päästä seikkailuun.\n\n Heinähattu ja Vilttitossu päättävät ottaa selvää, onko muualla paremmin. Matkallaan he tutustuvat Alibullenin neiteihin, Elvis Staraan ja joutuvat tekemisiin kahden innokkaan poliisin, Rillirouskun ja Isonavan kanssa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=hein%C3%A4hattu+vilttitossu+nopola&type=AllFields|
+}
+
+[Risto Räppääjä -sarja] {
+	[b-aut]:Nopola, Sinikka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Sinikka&callnumber=&size=medium&title=Risto+R%C3%A4pp%C3%A4%C3%A4j%C3%A4+ja+Nuudelip%C3%A4%C3%A4&recordid=satakirjastot.93123&isbn=9513114783&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Riston taloon on muuttanut tyttö, Nelli Perhonen. Rauha Räppääjä keksii, että uusi perhe pitää toivottaa tervetulleeksi mustikkapiirakalla, jonka Risto vie korissa Nellille. Koriin on unohtunut kohtalokas, lähettämätön kirje, Rauhan rakkaudentunnustus alakerran herra Lindbergille. Koska allekirjoituksena on "Ikätoverisi yläkerrasta", Nelli luulee, että kirje on Ristolta.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=risto+r%C3%A4pp%C3%A4%C3%A4j%C3%A4+nopola&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+}
+
+[Viiru ja Pesonen -sarja] {
+	[b-aut]:Nordqvist, Sven|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nordqvist%2C+Sven&callnumber=&size=medium&title=Viirun+ja+Pesosen+kylv%C3%B6puuhat&recordid=satakirjastot.95118&isbn=9513095142&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Viiru ja Pesonen ovat valloittaneet lukijoita maailmalla yli 13 miljoonan myydyn kirjan voimin. Parivaljakon edesottamuksista on saatu nauttia myös elokuvissa ja teattereissa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=viiru+ja+pesonen+nordqvist&type=AllFields&sort=main_date_str+desc|
+}
+
+
+[Kapteeni Kalsari -sarja] {
+	[b-aut]:Pilkey, Dav|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pilkey%2C+Dav&callnumber=&size=medium&title=Kapteeni+Kalsari+seikkailee&recordid=satakirjastot.286916&source=Solr&isbn=9513123804&index=0&w=250&h=250|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:TERVETULOA KAPTEENI KALSARI! Hänen todellinen henkilöllisyytensä on NIIN salainen, ettei edes hän itse tiedä sitä!\n\n Kun Erno ja Huuko olivat koko rankan päivän vitsailleet, kujeilleet ja aiheuttaneet sekasortoa koulussa, he riensivät mieluusti vanhaan majaan Ernon takapihalle. Huukosta oli kiva piirtää ja Ernosta kiva sepittää tarinoita. He olivat vuosien varrella luoneet satoja omia sarjakuvia, mutta kaikista poikien keksimistä supersankareista mahtavin oli ilman muuta ihmeellinen Kapteeni Kalsari. \n\nRehtori Kruppikin joutuu sen karvaasti kokemaan, kun pojat pistävät tuulemaan ja tilaavat 3-D Hypnosormuksen. Hervottoman hauska kirja kahdesta kekseliäästä pojasta, jotka ovat tempauksillaan koulun ilona ja riesana.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=pilkey+kapteeni+kalsari&type=AllFields|
+}
+
+
+[Jali ja suklaatehdas] {
+	[b-aut]:Dahl, Roald|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dahl%2C+Roald%2C+kirjoittaja&callnumber=&size=medium&title=Jali+ja+suklaatehdas&recordid=satakirjastot.1291053&isbn=9510437271&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Willy Wonkan kuuluisa suklaatehdas avaa viimeinkin ovensa yleisölle! Vain viisi onnekasta lasta saa kutsun tutustumaan sen saloihin. Ja voittajat ovat: äärimmäisen lihava poika jonka harrastus on syöminen, hemmoteltu pikkuprinsessa joka tanssittaa vanhempiaan täysin pillinsä mukaan, vähä-älyinen purkanjauhajatyttö jolla on maailman nopeimmat leuat, lelupistoolia heilutteleva, tv:n orjuuttama gangsterinalku - sekä Jali, rehellinen ja ystävällinen sankarimme, rohkea kunnon kaveri, joka on valmis elämänsä hurjimpaan seikkailuun!|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jali+ja+suklaatehdas&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
+[Lasse-sarja] {
+	[b-aut]:Jacobsson, Anders|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Olsson%2C+S%C3%B6ren&callnumber=&size=medium&title=Lasse+Kreikassa&recordid=satakirjastot.243669&isbn=9511276719&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Anderssonin perhe lentää lomalle Kreikkaan. Lassea jännittää kauheasti, ja päässä pyörii sata kysymystä. Kuinka selviytyä turvatarkastuksesta? Mitä tehdä, kun huomaa maailman suloisimman tytön toisen pojan seurassa? Anderssonit ystävystyvät kreikkalaisen perheen kanssa, joka on yhtä kahjo kuin Lassen perhe. Heilläkin on kömpelö isä joka tykkää kalastaa, ja Lassen ikäinen likkojenhurmaaja.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lasse+jacobsson&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+desc|
+}
+
+[Me rosvolat -sarja] {
+	[b-aut]:Kolu, Siri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kolu%2C+Siri&callnumber=&size=medium&title=Me+Rosvolat&recordid=satakirjastot.275179&isbn=9511243934&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Vilja on rosvopäällikkö Hurja-Kaarlo Rosvolan heräteryöstö - tavallisesti Rosvolat nappaavat autoista vain karkkeja ja muuta syötävää, barbeja ja lehtiä. Mummolamatkalla ollut Vilja tulee mukaan vähän vahingossa, rosvoperheen omien lasten Helen ja Kallen seuraksi. \n\nTytön järkytys muuttuu pian ymmärrykseksi. Hänestä on hauskaa, kun kaahataan nasta laudassa, pysähdytään uimaan milloin huvittaa, ryöstetään karkkeja, paetaan poliiseja ja Viljan isää, pelataan jatsia, syödään ulkona ja nukutaan teltassa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=me+rosvolat+kolu&type=AllFields|
+}
+
+[Supermarsu-sarja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.440631&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:11-vuotiaan Emilian unelma toteutuu, kun hän saa lemmikseen ikioman marsun. Mutta Marsu-Halonen ei ole mikä tahansa karvapallo. Kun se puraisee Emiliaa sormeen, hänestä tulee Supermarsu! Ja supervoimia todella tarvitaan, kun Lahden mäkimontussa asustava Jättiläismarsu antaa Emilialle suuren supermarsutehtävän: hänen on pelastettava Itämeri. Silakoiden kuljettaminen kylpyammeeseen ei selvästikään riitä! Miten yksi pieni marsu (joka tosin osaa lentää ja käyttää muitakin supermarsuvoimia) voi pelastaa kokonaisen meren?|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=supermarsu+noronen&type=AllFields&sort=main_date_str+asc|
+}
+
+[Kätkijät] {
+	[b-aut]:Norton, Mary|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Norton%2C+Mary&callnumber=&size=medium&title=K%C3%A4tkij%C3%A4t&recordid=satakirjastot.322426&isbn=951038450X&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Englantilaisen lastenkirjallisuuden fantasiaklassikko kertoo lumoavan sadun peukaloisperheestä, joka kokee ihmisten jättiläismaailmassa huimia seikkailuja.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=norton+k%C3%A4tkij%C3%A4t&type=AllFields|
+}
+
+[Ihmeotukset ja niiden olinpaikat] {
+	[b-aut]:Rowling, J.K.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rowling%2C+J.+K.&callnumber=&size=medium&title=Ihmeotukset+ja+niiden+olinpaikat&recordid=satakirjastot.264272&isbn=9513193780&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Lisko Scamanderin Tylypahkaa varten tekemä oppikirja ja hakuteos pitkästä aikaa saatavana, nyt mustavalkokuvitettuna.|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.264272|
+}
+
+[Apua, ryöstö!] {
+	[b-aut]:Trenter, Laura|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Trenter%2C+Laura&callnumber=&size=large&title=Apua%2C+ry%C3%B6st%C3%B6%21&recordid=satakirjastot.411742&isbn=9511208799&index=0|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Yhdeksänvuotias Sebastian ja hänen ystävänsä Johanna joutuvat postiryöstön silminnäkijöiksi. \n\nTapaus säikäyttää Sebastianin tolaltaan - Johanna reagoi ryhtymällä selvittämään ryöstöä omin päin. Lapset päätyvät vakoilemaan epäilyttävän tuntuista naapuria, jolla on samanlaiset kengät kuin postiryöstäjällä. \n\nPelko ei kuitenkaan jätä Sebastiania rauhaan, ja hänet viedään psykologin puheille. Kun Hämähäkkimiehestä pitävä psykologi voittaa pojan luottamuksen, voi toipuminen alkaa. Myös postiryöstön tekijät löytyvät lopulta Johannan ja Sebastianin vihjeen perusteella.|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.411742|
+}
+
+[Prätkäjengin jäljillä] {
+	[b-aut]:Trenter, Laura|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/7/2/4/saha/kirjasampo/0_2760095217449768480.jpg?itok=Vn63b394|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:10-vuotias Julian, poliisin poika, selvittelee kotikorttelissaan tapahtunutta ampumavälikohtausta: kuka moottoripyöräkerholaisista ampui isää ja miksi? Kun lisäksi näyttää siltä, että jengi on kostanut nappaamalla Julianin pikkusiskon Rebeckan, veljen on ryhdyttävä omin voimin palauttamaan perheen elämänuskoa. Shitheads-jengin päämajan ympärillä vakoillessaan Julian kohtaa Jimin - joka onneksi osoittautuu poikkeuksellisen ystävälliseksi... Kertomuksen edetessä uhka vähenee ja luottamus ja vastuu tulevat kantaviksi teemoiksi.|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.342194|
+}
+
+
+[Spiderwickin kronikat -sarja] {
+	[b-aut]:DiTerlizzi, Tony|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=DiTerlizzi%2C+Tony&callnumber=&size=medium&title=Spiderwickin+kronikat+%3A+kirjat+I-V&recordid=satakirjastot.260207&isbn=9510341142&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Miksi isän piti mennä uusiin naimisiin? Yksitoistavuotias Nicholas ei voi sietää uutta sisarpuoltaan Laurieta. Mikään ei ole ollut ennallaan sen jälkeen, kun Laurie ja hänen äitinsä muuttivat yhteen Nicholasin, hänen veljensä ja isänsä kanssa. Ensin Laurie sai Nicholasin huoneen. Sitten kävi ilmi, että tyttö on kiinnostunut haltijoista ja muista keksityistä olennoista! Nicholas muuttaa nopeasti käsitystään Lauriesta ja näkymättömistä kummajaisista, kun kaksikko pelastaa talon lähistöltä löytyneen najadin hengen. Uusi kokemus muuttuu kuitenkin äkkiä painajaiseksi, kun he vahingossa herättävät vihaisen jättiläisen uniltaan. Yhdessä Nicholas ja Laurie lähtevät hakemaan apua yllättävältä taholta Lammenneidon laulu aloittaa Spiderwickin kronikoiden toisen osan, jossa selvitetään näkymättömän maailman tapahtumia floridalaisen Nicholasin ja Laurien näkökulmasta.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=diterlizzi+spiderwickin&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Jos vielä jään] {
+	[b-aut]:Forman, Gayle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Forman%2C+Gayle&callnumber=&size=medium&title=Jos+viel%C3%A4+j%C3%A4%C3%A4n&recordid=satakirjastot.421753&isbn=9510409537&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Rakkaus musiikkiin saattoi 17-vuotiaan Mian yhteen poikaystävänsä Adamin kanssa, mutta nyt se uhkaa myös erottaa heidät. Kaksivuotisen suhteen ylle on kerääntynyt pilviä, kun Mia on päättänyt pyrkiä arvostettuun Juilliardin musiikkiakatemiaan New Yorkiin. Sisäänpääsy merkitsisi muuttoa maan toiselle puolelle, kauaksi Adamista, jonka rockbändi on tekemässä läpimurtoa kotikaupungin musiikkimaailmassa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jos+viel%C3%A4+j%C3%A4%C3%A4n+forman&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Coraline varjojen talossa] {
+	[b-aut]:Gaiman, Neil|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Russell%2C+P.+Craig&callnumber=&size=medium&title=Coraline&recordid=satakirjastot.357136&isbn=9522330663&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kun Coraline löytää omituisen oven, hän astuu sen kautta toiseen maailmaan ja toiseen taloon, joka muistuttaa hänen omaa kotiaan... paitsi että siellä kaikki on paremmin. Ainakin aluksi. Ruoka on makoisampaa, naapurit ovat jännittävämpiä ja lelulaatikko täynnä leijailevia vieterienkeleitä sekä hampaitaan narskuttavia dinosauruksen kalloja. Mutta talossa asuvat myös toinen isä ja toinen äiti, jotka haluavat, että Coraline jää asumaan heidän luokseen. He haluavat, että hän ompelee silmiinsä napit eikä ikinä lähde pois. Coraline joutuu käyttämään kaikki keinonsa ja urheutensa, mikäli hän mielii palata oikeaan kotiinsa ja pelastaa oikeat vanhempansa.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=gaiman+coraline&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+
+[Percy Jackson -sarja] {
+	[b-aut]:Smith, Dan|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Riordan%2C+Rick&callnumber=&size=medium&title=Salamavaras&recordid=satakirjastot.425999&isbn=9511228374&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:"Me emme ole tyhmiä, Percy Jackson. Oli vain ajan kysymys milloin saisimme tietää, kuka sinä olet." \n\nMistä matikanope oikein puhuu? Se mitä newyorkilaiselle Percy Jacksonille tapahtuu kesken luokkaretken, on jotain ihan pimeää. Hän saa kannoilleen Kreikan mytologian pelottavimman hirviön ja päätyy Puoliveristen leirille, jossa häntä odottaa suuri tehtävä. Percyllä on kymmenen päivää aikaa etsiä ylijumala Zeuksen mestarisalama ja estää ihmiskunnan tuhoisin sota.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=percy+jackson+riordan&type=AllFields|
+}
+
+[Big game] {
+	[b-aut]:Smith, Dan|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Smith%2C+Dan&callnumber=&size=medium&title=Big+game&recordid=satakirjastot.348560&isbn=9510408735&index=0&w=1200&h=1200|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:13-vuotias suomalaispoika Oskari suorittaa miehuuskoetta metsästysretkellä Lapin erämaassa, kun hän kokee elämänsä yllätyksen. Alasammutun lentokoneen pelastuskapselista kömpii esiin Yhdysvaltain presidentti, jota terroristit jahtaavat. Metsästysreissu muuttuu hurjaksi pelastusoperaatioksi, jossa pelissä on sekä Oskarin oma että maailman mahtavimman miehen henki.|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.348560|
+}
 
 
 
