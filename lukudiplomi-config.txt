@@ -1,6 +1,6 @@
 [Porin lukudiplomi] {
 	[date]:2020.08.22|
-	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/80df73fab6d188124d3dbb85c10a737515078826/kirjat/pori_kirjat.txt|
+	[books]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/1395a08be099c5a168a19da23e77001179d7145d/kirjat/pori_kirjat.txt|
 	[tasks]:https://raw.githubusercontent.com/patill/lukudiplomi-pori-datasources/master/tehtavat/Porin_lukudiplomi_tehtavat.txt|
 }
 
