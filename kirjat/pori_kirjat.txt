@@ -977,11 +977,11 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 [Hilja-sarja] {
-	[b-aut]:Viherjuuri|
+	[b-aut]:Viherjuuri, Heidi|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Viherjuuri%2C+Heidi&callnumber=&size=medium&title=Hilja+ja+vihre%C3%A4n+talon+kes%C3%A4&recordid=satakirjastot.264942&isbn=9523410172&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Hilja on seitsemänvuotias poikatyttö, joka asuu pientä pintaremonttia vaativassa puutalossa äidin, isän, pikkusisko Taimin ja isosisko Veinin kanssa. Vaarikin on tiiviisti mukana vihreän talon elämässä. Hän auttaa isää remontissa, vie lapsia kalaan ja veistelee vitsejä. Mummon Hilja on nähnyt vain valokuvassa sängyn vieressä. Mummopulaa lievittävät kuitenkin naapurustossa elävät kolme rouvaa: Valkoherukkamummo, Mansikkatäti ja Sadetakkimummo. |
+	[b-des]:Hilja on seitsemänvuotias poikatyttö, joka asuu pientä pintaremonttia vaativassa puutalossa äidin, isän, pikkusisko Taimin ja isosisko Veinin kanssa. Vaarikin on tiiviisti mukana vihreän talon elämässä. Hän auttaa isää remontissa, vie lapsia kalaan ja veistelee vitsejä. Mummon Hilja on nähnyt vain valokuvassa sängyn vieressä. Mummopulaa lievittävät kuitenkin naapurustossa elävät kolme rouvaa: Valkoherukkamummo, Mansikkatäti ja Sadetakkimummo.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hilja+viherjuuri&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
@@ -990,6 +990,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-aut]:Kallioniemi, Tuula|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320327&index=0&size=medium&w=1200&h=1200|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-tag]:Kaverikiemuroita|	
 	[b-des]:Sere on todettu kiusaajien pääpukariksi. Hän joutuu vaihtamaan koulua ja muuttamaan isovaarin luo pikkukaupunkiin. Serellä ja isovaarilla synkkaa, ja koti järven rannalla on Seren unelmapaikka. Kalastus on sekä tytön että papan mielipuuhaa. Sana kiirii entisestä koulusta, jossa Sere oli iso kiho. Uudet luokkakaverit antavat Serelle tylyn opetuksen, mitä hän ei kerro aikuisille. Kohta isovaarin talon ikkuna tuhritaan kananmunilla. Sere tunnistaa kyllä kuvion. Hän ajattelee tahtomattaan Näätää, jota itse kiusasi. Noinko kaikki oli vanhassa koulussa tapahtunut? Riittääkö nyt kiusaamisen syyksi se, että Sere on uusi oppilas?|
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320327|
 }
