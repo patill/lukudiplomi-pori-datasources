@@ -866,7 +866,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298526|
 }
 
-[2 A:n kamut -sarja] {
+[2 A.n kamut -sarja] {
 	[b-aut]:Hallava, Anna|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallava%2C+Anna&callnumber=&size=medium&title=2+A%3An+kamut+kykykilpailussa&recordid=satakirjastot.285126&isbn=9510422657&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
@@ -880,7 +880,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lagercrantz%2C+Rose%2C+kirjoittaja&callnumber=&size=medium&title=Onnekas+ken+Dunnen+saa&recordid=satakirjastot.1298542&isbn=9523412086&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Dunne on maailman onnellisin tyttö, kun pääsee viimein aloittamaan ekaluokan. Vähän se myös jännittää: mitä jos hän jääkin yksin? Onneksi niin ei käy, vaan hänestä ja Ella Fridasta tulee parhaat kaverit. |
+	[b-des]:Dunne on maailman onnellisin tyttö, kun pääsee viimein aloittamaan ekaluokan. Vähän se myös jännittää: mitä jos hän jääkin yksin? Onneksi niin ei käy, vaan hänestä ja Ella Fridasta tulee parhaat kaverit.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lagercrantz+dunne&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
@@ -907,7 +907,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Virtanen%2C+Leena&callnumber=&size=medium&title=Sandra+ja+kaverikiemurat.+Keltanokka&recordid=satakirjastot.324791&isbn=9513162311&index=0&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:1. Lukutoukka|
-	[b-des]: Sandralla on monta hyvää ystävää. On Annabella, Sandran paras kaveri, mutta myös Minttu-Maaria ja Natalia, jotka ovat aloittaneet koulun samalla luokalla. Mitä tehdä kun on jo Annabellan kanssa ja joku muu tulee hakemaan ulos? Onko kaikkien mahdollista leikkiä yhdessä, niin ettei kellekään tulisi paha mieli?|
+	[b-des]:Sandralla on monta hyvää ystävää. On Annabella, Sandran paras kaveri, mutta myös Minttu-Maaria ja Natalia, jotka ovat aloittaneet koulun samalla luokalla. Mitä tehdä kun on jo Annabellan kanssa ja joku muu tulee hakemaan ulos? Onko kaikkien mahdollista leikkiä yhdessä, niin ettei kellekään tulisi paha mieli?|
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.324791|
 }
 
@@ -948,7 +948,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=viikinkitrilogia&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
-[Masi Tulppa: pääsy kieletty!] {
+[Masi Tulppa - pääsy kieletty!] {
 	[b-aut]:Mäkipää, Jari|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.337071&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
