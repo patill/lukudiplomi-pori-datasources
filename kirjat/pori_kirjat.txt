@@ -1816,7 +1816,240 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Älä päästä norsua kaivinkoneen rattiin] {
+	[b-aut]:Cleveland-Peck, Patricia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cleveland-Peck%2C+Patricia%2C+kirjoittaja&callnumber=&size=medium&title=%C3%84l%C3%A4+p%C3%A4%C3%A4st%C3%A4+norsua+kaivinkoneen+rattiin&recordid=satakirjastot.1261556&isbn=9523410938&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Älä päästä norsua kaivinkoneen rattiin... siitä seuraa sotku, joka kyllä ottaa pattiin. \n\nEntäpä potkulautaileva gorilla tai jääkarhu parturina? Kenguru vessakaverina tai mustekala pukeutumisneuvojana? Eläimet tarjoavat kyllä innokkaasti apuaan, mutta harkitse vielä tartutko tarjoukseen. Tämä hulvattomasti riimitelty kuvakirja kertoo, miksi se todellakin kannattaa...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1261556|
+}
 
+[Kissa Killi -sarja] {
+	[b-aut]:Korolainen, Tuula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Korolainen%2C+Tuula&callnumber=&size=medium&title=Kissa+Killi+ja+Sottapytty&recordid=satakirjastot.252602&isbn=9513147002&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Joskus kaikki tuntuu olevan kateissa. Kissa Killi ei löydä kampaansa eikä tiikeripaitaansa ja sukatkin ovat eri paria. Äiti joutuu etsimään Killin rakennuspalikat ja isän pelipyyhkeen ja hermostuu sitten siihen, että saa yksin siivota kaikkien sotkut. Mutta ei se vielä mitään. Kun Killi kurkistaa peiliin, sieltä hyppää esiin Sottapytty eli Sottis, aivan Killin näköinen pieni kissa. Ja Sottis vasta osaakin sotkea! Se panee tavarat hyrskyn myrskyn ja liisteröi seinätkin hillolla. Killi riehaantuu mukaan ja huomaa, että sotkeminen on tosi hauskaa. Tutun kotitontun taikavälineineen on tultava apuun, jotta asiat saadaan tolalleen.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22kissa+killi%22+korolainen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Prinsessa Pikkiriikki -sarja] {
+	[b-aut]:Lampela, Hannele|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.330433&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Joko tunnet Prinsessa Pikkiriikin? Etkö? No, pian tulet tuntemaan, sillä Pikkiriikki ja hänen taikakoiransa Makkara ovat täällä jäädäkseen. Kolme ihanaa ääneenluettavaa tarinaa yhdessä kirjassa. Ensimmäisessä tarinassa komenteluun kyllästynyt Pikkiriikki lähettää taikakoiransa Makkaran avustuksella kaikki aikuiset Himskattiin määräilemästä. Toisessa Pikkiriikki näyttää pitkää nenää Räkä-Eetulle ja saa ystävän Prinsessa Pöjöläisestä. Ja kolmannessa Pikkiriikin äidin sisuksiin muuttaa rasittava Urpo ja Pikkiriikki ja Pöjöläinen päättävät rakentaa oman talon.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lampela+pikkiriikki&type=AllFields&sort=main_date_str+asc|
+}
+
+[Hurja automatka : Hur-ja au-to-mat-ka] {
+	[b-aut]:Mäki, Maiju|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1364163&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Isä ja lapset lähtevät mummolaan. Matkalla kaikki menee pieleen. Kuka uskaltaa kertoa äidille?\n\nJuttuset-kirjasarjan kirjat tarjoavat saman tarinan kahdella tavalla: tavutettuna ja ilman tavutusta. Teksti valitaan lukutaidon mukaan. Tavutetusta tekstistä hyötyvä lukija aloittaa tavutetusta tarinasta ja edistyneempi tavuttamattomasta. Kun tavutettu puoli on luettu, kannatta lukea tavuttamatonkin, koska lukusujuvuus kehittyy lukemalla samaa tekstiä useaan kertaan. |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1364163|
+}
+
+[Kauhea telttaretki : Kau-he-a telt-ta-ret-ki] {
+	[b-aut]:Mäki, Maiju|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1364166&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Mäkisen perhe lähtee telttaretkelle, mutta he eivät ole metsässä yksin. Kuka viheltää yöllä pimeässä?\n\nJuttuset-kirjasarjan kirjat tarjoavat saman tarinan kahdella tavalla: tavutettuna ja ilman tavutusta. Teksti valitaan lukutaidon mukaan. Tavutetusta tekstistä hyötyvä lukija aloittaa tavutetusta tarinasta ja edistyneempi tavuttamattomasta. Kun tavutettu puoli on luettu, kannatta lukea tavuttamatonkin, koska lukusujuvuus kehittyy lukemalla samaa tekstiä useaan kertaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1364166|
+}
+
+[Elias ja sukkapallopommipuu] {
+	[b-aut]:Paretskoi, Jyri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Paretskoi%2C+Jyri%2C+kirjoittaja&callnumber=&size=medium&title=Elias+ja+sukkapallopommipuu&recordid=satakirjastot.1259686&isbn=9512364646&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Äidin tyhjä kardemummapötkylä muuttaa Eliaksen ja Lulu-koiran päivän suunnitelmat. Eliaksesta tulee kaamea Kauhistuttaja ja Lulusta Hirmu, ihmissyöjätiikeri. Kaksikko kohtaa puistossa ilkeän neron, Kurre K. Oravaisen, ja siitä seuraakin huima tapahtumien vyöry, johon liittyy herneitä, aivastuspulveria ja sinisiä, punaisia, mustia, raidallisia, lammaskuvioisia ja pörröisiä sukkapalloja. Sekä yksi tyttö nimeltä Emma. \n\nRiemastuttavan vauhdikas tarina siitä, miten tylsä päivä saadaan täyteen tapahtumia. Tarvitaan vain mahtava mielikuvitus -ja tietysti sukkapalloja!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1259686|
+}
+
+[Pate-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Paten+aikakirjat&recordid=satakirjastot.445606&source=Solr&isbn=9513178005&index=0&w=250&h=250|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Paten päivityksissä on potkua! \n\nSupersuosituista Ella-kirjoista tuttu Pate saa nyt ikioman kirjasarjansa, jossa on runsas, sarjakuvamainen kuvitus ja helppolukuinen taitto. \n\nMillainen tyyppi Pate oikein on? Hän on hyvä urheilemaan. Hän ei aina ihan tajua, missä mennään, mutta se ei haittaa. Kaverina hän on antelias ja hyvä ystävä -- kaikki saavat maistaa hänen purukumiaan. Pate on myös luotettava. Suurinkin salaisuutesi pysyy Patella tallessa. Hän on nimittäin unohtanut sen jo. Kaikki pitävät Patesta ja Pate pitää kaikista, jopa Pukarista. Pateen olisi helppo ihastua, ellei hänen äitinsä olisi rehtori. Kukaan ei halua anopikseen rehtoria.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=parvela+pate+NOT+ella&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Nukkumatin vastaisku] {
+	[b-aut]:Saarivirta, Leila|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Saarivirta%2C+Leila%2C+kirjoittaja&callnumber=&size=medium&title=Nukkumatin+vastaisku&recordid=satakirjastot.274852&isbn=9511319329&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Herätys! Nukkumatti bloggaa, tubettaa ja somettaa. Nykypäivän satuhahmossa on särmää ja hersyvää huumoria. \n\nNukkumatti huomaa järkytyksekseen tipahtaneensa Huippuhahmot-äänestyksessä häntäpäähän, kauas Joulupukin, Hammaskeijun ja jopa Tonttu Toljanterin taakse. Ihmiset ovat selvästi unohtaneet Nukkumatin ja unen tärkeyden.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274852|
+}
+
+
+[Me Ponnekkaat -sarja] {
+	[b-aut]:Clary, Julian|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Clary%2C+Julian&callnumber=&size=medium&title=Me+Ponnekkaat&recordid=satakirjastot.250205&isbn=9511304135&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Ratkiriemukas tarina hyvin erikoisesta perheestä - naurutakuu! \n\nPonnekkaat ovat aivan tavallinen perhe: he asuvat kivassa talossa, käyvät koulussa ja töissä - ja he tykkäävät kunnon nauruista. Yksi pieni ero heissä on: he ovat hyeenoja. Kyllä, luit aivan oikein - heillä on turkki, heidän häntänsä ovat piilossa vaatteiden alla ja he to-del-la-kin tykkäävät ulvoa naurusta. \n\nTähän asti Ponnekkaat ovat onnistuneet pitämään hyeenamaisen salaisuutensa. Mutta heidän omituinen naapurinsa alkaa epäillä jotakin, ja Ponnekkaat ovat vaarassa paljastua. Ja mitä kaikki sitten sanovat?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ponnekkaat+me+clary&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Kakka] {
+	[b-aut]:Davies, Nicola|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Davies%2C+Nicola&callnumber=&size=medium&title=Kakka&recordid=satakirjastot.437137&isbn=9511224999&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kaikki kakasta: Mitä se on? Miksi sitä syntyy? Mitä sillä tehdään? Mihin se menee? Mitä elimistön jätteet oikein ovat ja mitä ruualle tapahtuu vaikkapa lampaan sisällä? Visuaalisella kakkakierroksella selviää, miltä näyttää jäniksen papana, papukaijan turaus tai näädän jätös. Paitsi että kakka on jätettä, sillä on muitakin, arvaamattomia käyttötapoja. Joillekin eläimille kakka toimii kirjeenä, ilmoitustauluna tai deitti-ilmoituksena: yhdellä nuuhkaisulla selviää, kuka läjän on tehnyt, kuinka vanha tekijä on ja kuka on pomo. Entä miten kakkaa käytetään rakennus- tai polttoaineena? Ketkä syövät kakkaa ja miksi? Miten kakka toimii posteljoonina? Tiesitkö, että eräs toukka naamioituu kakaksi, jottei se päätyisi lintujen välipalaksi?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.437137|
+}
+
+[Karhu ja kaniini -sarja] {
+	[b-aut]:Gough, Julian|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Gough%2C+Julian%2C+kirjoittaja&callnumber=&size=medium&title=Kaverin+kamalat+tavat&recordid=satakirjastot.372501&isbn=9511309374&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Eräänä päivänä karhu herää talviuniltaan - keskelle talvipäivän lumimyräkkää. Kun lumisade lakkaa, hän päättää tehdä lumiukon ja tapaa sitä tehdessään kaniinin, joka väittää osaavansa tehdä varmasti paremman. Riemastuttavaan tarinaan tupsahtaa vielä susi, lumipalloja, nahistunut porkkana ja muutama papana. Ja paljon ystävyyttä!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=karhu+ja+kaniini+gough&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Maailman paras puumaja -sarja] {
+	[b-aut]:Griffiths, Andy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312083&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kreisin kahelit seikkailut, nokkela sanailu ja mainio kuvitus siivittävät kahden kaveruksen menoa.\n\nMegakuvitettu lastanromaanisarja alkaa. Andy ja Terry asuvat maailman PARHAASSA puumajassa ja kirjoittavat siitä kirjaa. Majassa on 13 kerrosta ja se kasvaa sitä mukaa, kun kaverukset saavat uusia ideoita. Tässä majassa voi tapahtua ihan mitä tahansa, sillä sen uima-allas on täynnä tappajahaita, yläkerrassa on limsalähde ja maanalaisessa labrassa voi kehitellä vaikkapa jättiläisbanaanin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+paras+puumaja+griffiths&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Totuuskeiju] {
+	[b-aut]:Haig, Matt|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1333727&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Totuuskeijulla on huolia. Siitä tuntuu, ettei se voi koskaan saada ystäviä, sillä kaikki aina loukkaantuvat sen suorapuheisuudesta. Totuuskeijun on nimittäin aina puhuttava vain ja ainoastaan totta. Lopulta oma sukukin hylkää hänet ja Totuuskeiju päättää lähteä tien päälle. Monen mutkan kautta Totuuskeiju päätyy Helsinkiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1333727|
+}
+
+[Neropatin päiväkirja -sarja] {
+	[b-aut]:Kinney, Jeff|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kinney%2C+Jeff&callnumber=&size=medium&title=Neropatin+p%C3%A4iv%C3%A4kirja+%3A+Greg+Heffleyn+julkaisu&recordid=satakirjastot.262503&isbn=9510354821&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Elämä yläkoulussa ei ole helppoa. Greg Heffley sen tietää jos kuka. Koulun käytävillä Gregin kaltaiset ruipelot joutuvat mennen tullen väistelemään ilkeitä gorilloja, jotka ajavat partansa kaksi kertaa päivässä. \n\nSaammeko esitellä: Greg, kirjailija ja kuvittaja Jeff Kinneyn sankari, joka pitää päiväkirjaa. Tai oikeastaan se on JULKAISU. Gregin sanat ja teot eivät aina kohtaa, ja hyvistä aikomuksista tulee usein jotain aivan muuta...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=neropatin+p%C3%A4iv%C3%A4kirja+kinney&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Kaheli sakki -sarja] {
+	[b-aut]:Kunnas, Noora|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Noora&callnumber=&size=medium&title=Kaheli+sakki+ja+kauhujen+kaappi&recordid=satakirjastot.458723&isbn=9511288385&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Majatalo Perätuulessa asustaa kaheli ja sekalainen sakki, jonka tempaukset tekisivät hölmöläisetkin kateellisiksi. Kun mm. majuri Kuugenbum, piereskelevä Bertta ja porsaskaksoset Papu ja Kirppu lähtevät jäljittämään kadonnutta voimamiestä ja joutuvat tekemisiin kauhujen kaapin kanssa, kohellusta ja törttöilyä tai kauhistuksen kananlihaa ei tule puuttumaan.\n\nNoora ja Jenna Kunnaksen esikoislastenkirja on riemastuttavaa luettavaa kaikille huumorin ja Kapteeni Kalsareiden ystäville.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=kunnas+kaheli+sakki&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Puluboi-sarja] {
+	[b-aut]:Salmi, Veera|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Salmi%2C+Veera&callnumber=&size=medium&title=Puluboin+ja+ponin+kirja&recordid=satakirjastot.359506&isbn=9511265091&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Eräänä päivänä Puluboi, Hakaniemen torilla asuva pulupoika, päättää lentää pesästä. Kallion katuja kuljeskellessaan hän näkee ovisyvennyksessä istuskelevan tytön ja jää juttusille. Mai, joka haluaisi kovasti olla poni, on karannut kotoa kostoksi äidilleen, joka ei täysin ymmärrä tytön poni-innostusta. \n\nPonin ja Puluboin välille syntyy lämmin ystävyys, ja he päättävät kirjoittaa elämästään kirjan. Molemmat kertovat tapahtumista omalla äänellään ja omin kuvin. Mukaan mahtuu myös räppiä, satuja ja ennen muuta mainoksia, sillä Puluboi haaveilee mainosmiehen urasta.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=puluboi+salmi&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Herra Gummi -sarja] {
+	[b-aut]:Stanton, Andy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Stanton%2C+Andy&callnumber=&size=medium&title=Olet+ilkimys%2C+herra+Gummi%21&recordid=satakirjastot.336913&isbn=951523364X&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hyvääiltaa, te onnekkaat pikku pallerot! Saammeko esitellä ihan hirveän tyypin: herra Gummin.\n\nHän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Tässä kirjassa kerrotaan hänestä, ja yhdestä tosivihaisesta keijusta, joka asuu herra Gummin kylpyammeessa. Kirjassa kerrotaan myös jättikokoisesta koirasta nimeltä Jaska ja pahasta, superällöstä ja haisevasta teurastajahemmosta, joka on yltäpäältä roiskeissa! Ja on tässä kirjassa myös sankareita ja karkkia ja seikkailuita ja oikeastaan KAIKKEA MAHDOLLISTA kivaa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=herra+gummi+stanton&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Gangsterimummi] {
+	[b-aut]:Walliams, David|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Walliams%2C+David&callnumber=&size=medium&title=Gangsterimummi&recordid=satakirjastot.263971&isbn=9513174875&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Benin isoäiti on ihan perusmummi -- vai onko sittenkään? \n\n11-vuotias Ben on ainoa lapsi ja huono lukija, joka haluaa isona putkimieheksi. Pojan vanhemmat taas rakastavat telkkarin tanssiohjelmaa yli kaiken, ja haluaisivat Benistä ammattitanssijan. \n\nBenin on pakko vierailla kaalinhajuisen mumminsa luona joka ikinen perjantai, halusi tai ei. Kerran hän löytää mummin keittiöstä keksipurkin, joka on täynnä jalokivikoruja ja timantteja! Vähitellen paljastuu, että Benin isoäiti on nuoruudessaan salaa toiminut kansainvälisenä jalokivivarkaana. Mutta eräät kuuluisat korut häneltä aikoinaan jäivät ryöstämättä, ja nyt Benin kannustuksesta Ison-Britannian kruununjalokivet ovat vaaravyöhykeessä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.263971|
+}
+
+[Hamelnin pillipiipari] {
+	[b-aut]:Brand, Russell|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Brand%2C+Russell&callnumber=&size=medium&title=Hamelnin+pillipiipari&recordid=satakirjastot.322253&isbn=9518875278&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kun tulee aika, hän tulee. Tämä tarkoittaa, että tilanteen vaatiessa paikalle ilmestyy oikea henkilö se voi olla myös nainen huolimatta siitä, mitä sovinisti-Dave väittää. Nyt tuli aika, ja tässä tapauksessa tuli Piipari. Pillipiipari. \n\nRussell Brand ja Chris Riddell ovat päivittäneet Hamelnin kylän nykyaikaan. Näyttämölle marssivat hävyttömän omintakeisina anarkistinen, polygamiassa elävä ja maailman tuleen sytyttävä rottalauma, joukko ylimielisiä ja ilkeitä kyläläisiä, terävänäköinen Sam ja hyvän ja pahan, ilon ja surun yläpuolella oleva Pillipiipari itse. Lopputulos on hillitön, paikoin räävitön ja samalla häkellyttävän herkkä kertomus ihmisluonnosta. \n\nMutta ennen kuin Pillipiipari ja lapset katoavat taivaanrannan taa, pannaan ranttaliksi!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.322253|
+}
+
+[Sammakkoprinsessa] {
+	[b-aut]:Hallava, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallava%2C+Anna&callnumber=&size=medium&title=Sammakkoprinsessa&recordid=satakirjastot.305479&isbn=9510406511&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Romantiikkaa ja rupikonnia! \n\nMaailmassa on vain yksi poika, jota Ofelia voi suudella. Kaikki muut pojat muuttuvat hänen suudelmistaan sammakoiksi. \n\n14-vuotias Ofelia on kyllästynyt olemaan suudelmaneitsyt. Hän on päättänyt saada ensisuudelmansa mahdollisimman pian, mutta äidin järjestämä synttäriyllätys muuttaa kaiken. Ofelia saa kuulla olevansa keiju, ja hänen korvansakin kasvavat jumbomittoihin. Kaiken huipuksi kummitädin antama keijulahja aiheuttaa katastrofaalisia muutoksia suutelurintamalle.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.305479|
+}
+
+[Koiranne alkaa kohta kukkia] {
+	[b-aut]:Kivirähk, Andrus|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kivir%C3%A4hk%2C+Andrus&callnumber=&size=medium&title=Koiranne+alkaa+kohta+kukkia&recordid=satakirjastot.451787&isbn=9511296264&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Andrus Kivirähkin parissakymmenessä nasevassa lastenkertomuksessa kaikki on mahdollista. Voikukka rakastuu koirankakkaan, sukat alkavat munia, kissa ryhtyy joulupukiksi... Arkiset asiat ja esineet näyttäytyvät uudessa valossa ja kertomusten henkilöt mitä yllättävimmissä käänteissä: mummo voi ruveta ekaluokkalaiseksi ja jäätelötahra osaa totella vihellystä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.451787|
+}
+
+[Leprankukka] {
+	[b-aut]:Lipasti, Roope|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352994&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Nolo, nolompi - Oskari!\n\nOskarin uskomattomat vastoinkäymiset jatkuvat! Huumoria ja sarjakuvaa yhdistävän kirjasarjan toisessa osassa Oskarin kesän pilaavat kasvio ja kauhea leprankukka.\n\nIhana kesäloma voi alkaa, paitsi että... a) Oskari on matkalla mökille ilman mukavuuksia ja juoksevaa vettä b) hyttysten ja muiden villieläinten syötäväksi c) ellei huku sitä ennen, koska kaveri Antti ei tiedä tapin roolia veneessä. Vastoinkäymisiin lisätään vielä ainakin äidin hirveät bikinit sekä hullu rehtori, joka lomailee lähistöllä. Kun Oskari löytää kasvioonsa huumaavan tuoksuisen leprankukan, homma lähtee lopullisesti lapasesta. Tuskin edes hänen luomansa sarjakuvahahmo, Lepramies, voi heitä enää pelastaa! |
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1352994|
+}
+
+[Neronleimaus] {
+	[b-aut]:Murray, Tamsyn|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Murray%2C+Tamsyn&callnumber=&size=medium&title=Neronleimaus&recordid=satakirjastot.317847&isbn=951318532X&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Naurunpurskahduksia on luvassa, kun huippuhauska Camilla koheltaa koulumaailmassa. Näköjään kuka vain voi olla nero, jopa tietämättään! Camillan omasta mielestä hänen elämänsä on täysi vitsi. Isä on niin nolo, äiti odottaa vauvaa ja oma veli on luuseri. Ei ihme, että Camilla on kuin näkymätön perheessään - ja myös muualla. Sen lisäksi ajatuskin ekasta päivästä uudessa koulussa kauhistuttaa. Kun koulussa järjestetään iso testi, Camilla nappaa parhaat pisteet. Hän on huippulahjakas nero! Voiko näinkin käydä, vaikka valitsee vastaukset summamutikassa? Camilla on uuden humoristisen sarjan verraton sankaritar.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.317847|
+}
+
+[Shell's Angles -sarja] {
+	[b-aut]:Paretskoi, Jyri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Paretskoi%2C+Jyri%2C+kirjoittaja&callnumber=&size=medium&title=Shell%27s+Angles&recordid=satakirjastot.353285&isbn=9512357143&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Henri, Rudi ja Samu päättävät perustaa mopojengin, sillä mikä olisikaan hienompaa kuin ajella jengiliivit päällä mopolla, kaunis tyttö tarakalla? Tosin kellään ei ole tyttöystävää, eikä idean isällä Henrillä ole vielä sitä mopoakaan... Koska kuolematon idea syntyy huoltoaseman kulmilla notkuessa, nimeksi keksitään valtavan hieno ja vain kohtalaisen naurettava Shells Angles. Liiviprojektiin värvätään mukaan myös Henrin salainen ihastus Milla, ja niin Shells Angles on valmis ratsastamaan...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&dfApplied=1&lookfor=+angles+paretskoi&type=AllFields&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22|
+}
+
+[Barrikadikesä] {
+	[b-aut]:Siirilä, Jussi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Siiril%C3%A4%2C+Jussi&callnumber=&size=medium&title=Barrikadikes%C3%A4&recordid=satakirjastot.347483&isbn=951208936X&index=0&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:"Tsädäm, ihmiset. Tsä-däm! Jotenkin olin tämän aavistanut mutta en ollut antanut itselleni lupaa uskoa siihen. Se oli niin älytöntä. Hirvittävän, puistattavan, hiuksiaraastavan älytöntä. Isä ja äiti aikoivat hakea Raaka remontti -ohjelmaan." 13-vuotiaan Mayan elämä ei ole helppoa, kun vanhemmat ovat sellaisia kuin ovat: erittäin hyviä vääntämään elämän umpisolmuun. Talo pitäisi remontoida, mutta rahaa siihen ei liiemmin löydy, kun äiti haaveilee taiteilijaelämästä ja isä sai juuri kenkää YT-neuvotteujen tuloksena. Niinpä vanhemmat päättävät hakea uuteen reality-sarjaan, missä koko perheen kaikki kauheudet lätkäistäisiin kaikkien katsojien ruodittavaksi. Maya pakenee pohjoiseen mummolaan ja pikkuserkkunsa Nooran luo, mutta ei elämä sielläkään sen helpompaa ole. Etenkään, kun mummo on kovin altis kiipeämään barrikadeille ja Nooran ihastus Reima onkin kiinnostunut Mayasta. Puhumattakaan siitä sotkusta, mikä syntyy, kun Reima katoaa...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.347483|
+}
+
+[Kivimutka-sarja] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.392842&index=0&size=medium&w=1200&h=1200|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kohta 13-vuotiaan Jiikoo Kivimutkan elämän täyttävät jalkapallo ja Akun taskarit. Sitten uudelta naapurilta katoaa kesken syntymäpäivien työpaikka. Jiikoo ja Suomen söpöin laulajanalku Cake M. nousevat valokeilaan pääepäiltyinä. Kun aikuiset eivät pääse puusta pitkään asioiden selvittämisessä, Kivimutkan on verestettävä etsiväntaitojaan ja tartuttava toimeen. Niin hän tutustuu Kolinaan ja Pääkallonaamaan ja joutuu elämänsä järisyttävimpään seikkailuun.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+kivimutka+NOT+henkka+AND+veirto&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
 
 
 
