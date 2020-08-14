@@ -651,7 +651,201 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
+[Sinttu- ja Eppu-sarjat] {
+	[b-aut]:Hallberg, Lin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hallberg%2C+Lin&callnumber=&size=medium&title=Maailman+ihanin+Sinttu&recordid=satakirjastot.426303&isbn=9513139689&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Maailman paras Sinttu -kirjassa seurataan, kuinka tokaluokkalainen Elina ja hänen ystävänsä Anni, Maikki ja Hanna pääsevät vihdoin aloittamaan ratsastustunnit Siltakylän tallilla. Hepat ovat niin ihania, että tytöt ajattelevat niitä heti ensimmäiseksi aamulla ja aina viimeiseksi illalla. Koulupäiväkin kuluu madellen, kun tiedossa on ratsastustunti.\n\nElina menee päästään pyörälle, kun hän tapaa Sintun, maailman ihanimman shetlanninponin. Elinasta tuntuu, että hän ja Sinttu yksinkertaisesti kuuluvat yhteen. Hän saakin hoitaa Sinttua heti ensimmäisellä tunnilla.\n\nTalli on pikkutytöille jännittävä paikka, ja he haluavat oppia poneista kaiken huippunopeasti. Onneksi siellä on mukava ja jämpti ratsastuksen-opettaja Inka, joka on oikea ponitietopankki. Isoistakin tallitytöistä voi aina ottaa mallia.\n\nEräänä päivänä kun Elina tulee tallille, Sinttu onkin kipeä. Se ontuu kaviotaan ja joutuu pian eläinsairaalaan. Kuinkahan Sinttu nyt selviää? Elina päättää, että hänestä tulee vielä taitavista taitavin ponityttö, joka pitää Sintusta hyvää huolta.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%28sinttu+OR+eppu%29+hallberg&type=AllFields&limit=50|
+}
 
+[Täplä-sarja] {
+	[b-aut]:Halvarsson, Isabelle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Halvarsson%2C+Isabelle%2C+kirjoittaja&callnumber=&size=medium&title=T%C3%A4pl%C3%A4+%3A+vaarallinen+matka&recordid=satakirjastot.251339&isbn=9523214489&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Yhtäkkiä pieni jackrussellinterrierin pentu tunsi, kuinka häkki keinahti. Häkki nostettiin maasta ja kannettiin autoon, joka oli tulvillaan vieraita, ikäviä hajuja. Pentu oli uupunut ja aivan kauhuissaan. Sillä oli nälkä ja jano, koska se ei ollut saanut ruokaa eikä vettä pitkään aikaan.\n\nPian auto lähti ajamaan kohti Suomea...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=t%C3%A4pl%C3%A4+halvarsson&type=AllFields|
+}
+
+[Unelmakoirat-sarja] {
+	[b-aut]:Jalo, Merja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1358422&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Ekaluokkalaiset Aino ja Isla asuvat viereisissä rapuissa ja ovat parhaita ystävyksiä. Tytöt haaveilevat omasta koirasta, mutta kummankaan äiti ei ole suopea ajatukselle. Lea-tädillä on huostaan otettujen koirien hoitola, ja kun hoitolassa on tilapäisesti täyttä, Ainon äiti suostuu ottamaan yhden koiran kahdeksi viikoksi perheeseen. Aino ja Isla haaveilevat mahdollisuudesta pitää Aksu kokonaan omanaan, ja tätä silmällä pitäen he laativat nerokkaan suunnitelman.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22unelmakoirat%22+jalo&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20|
+}
+
+[Leon lemmikit -sarja] {
+	[b-aut]:Llewellyn, Claire|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Llewellyn%2C+Claire&callnumber=&size=medium&title=Miisun+torkut&recordid=satakirjastot.412779&isbn=9518830622&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Miisu-kissa haluaisi ottaa nokoset, mutta ei saa hetken rauhaa. Äiti hätistää sen pois kaapista, isä tuolilta - ja ulkonakin Haukku alkaa jahdata Miisua. Löytyisikö puun oksalta rauhallinen nukkumapaikka?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=llewellyn+leon&type=AllFields|
+}
+
+[Hotelli Flamingo -sarja] {
+	[b-aut]:Milway, Alex|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352991&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Hotelli Flamingo aloittaa uuden hurmaavasti kuvitetun kirjasarjan, jossa kymmenvuotias Anna Dupont perii hotellin - ja elää jokaisen tytön unelmaa!\n\nHotellilla Annaa kohtaa ikävä yllätys, sillä hotelli on suurremontin tarpeessa. Mutta ei hätää, uskollisen eläinhenkilökuntansa kanssa neuvokas Anna järjestää paikat kuntoon, ja pian ensimmäiset vieraat saavat tulla.\n\nUutta yrittäjää ei katsota pelkästään hyvällä: kilpailevan hotellin mafiosomainen omistaja tulee vierailulle eikä laisinkaan pidä hotellin loistokkaasta tunnelmasta... |
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hotelli+flamingo+milway&type=AllFields&sort=main_date_str+asc|
+}
+
+
+
+[Uljas-sarja] {
+	[b-aut]:Niemelä, Reetta|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4ni+Uljas&recordid=satakirjastot.376910&isbn=9511283251&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Tikkumäen ponikerho on parasta, mitä Iiris tietää, ja Uljas on maailman ihanin poni. Ponikerhossa käyvät myös Iiriksen paras kaveri Riina sekä Pauli,johon molemmat tytöt ovat pihkassa.\n\nApuohjaajaksi saadaan teinityttö Milla, kokenut ratsastaja. Kerran Iiris näkee Millan potkaisevan Patu-hevosta. Iiris on paikalla myös silloin, kun Milla ärähtelee Uljakselle ja pakottaa sen esteille raipalla. Saako niin tehdä?\n\nIiris alkaa vältellä Millaa. Mutta inhottava salaisuus ei jätä häntä rauhaan. Miten Milla voi kohdella heppoja niin sydämettömästi! Voiko siitä kertoa kenellekään? Uljas on lopulta se, joka tulee apuun.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=uljas+niemel%C3%A4&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Tavutettu eläinkirja -sarja] {
+	[b-aut]:Palanterä, Jaana|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palanter%C3%A4%2C+Jaana&callnumber=&size=medium&title=Niveljalkaiset+ja+nilvi%C3%A4iset&recordid=satakirjastot.412367&isbn=9527040655&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Lasten eläinkirjasarja antaa tietoa monenlaisista eläimistä lukemista opetteleville lapsille. Jokaisessa kirjassa esitellään 25 eläintä. Etusijalla ovat Suomessa elävät eläimet. Niiden lisäksi esitellään eräitä tunnetuimpia tai muuten mielenkiintoisia eläimiä. Kuvissa on lisäksi eläinten tärkeimpiä tunnusmerkkejä kuvaavia laatikoita. Kuvaukset aidoista eläimistä tuovat vaihtelua opetukseen, ja jo hyvin nuoretkin lapset voivat tutustua erilaisiin eläimiin kuvien ja tekstin avulla niin kotona kuin koulussakin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=tavutettu+el%C3%A4inkirja+palanter%C3%A4&type=AllFields&dfApplied=1&limit=20|
+}
+
+[Miksi leppäkertulla on pilkut?: lapsi kysyy luonnosta] {
+	[b-aut]:Vehmanen, Suvi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Vehmanen%2C+Suvi&callnumber=&size=medium&title=Miksi+lepp%C3%A4kertulla+on+pilkut%3F+%3A+lapsi+kysyy+luonnosta&recordid=satakirjastot.441700&isbn=9524921235&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Uusi teema loistavan vastaanoton saaneen Lapsen oman luontokirjan tekijöiltä. Hillevi-hiiri ihmettelee yhdessä lasten kanssa luonnon monia kummallisuuksia. Kirjassa kuljetaan keväästä kesän ja syksyn kautta talveen ja uuteen kevääseen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.441700|
+}
+
+[Arvaa kenen luut] {
+	[b-aut]:Cap, Henri|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1253414&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-des]:Nosta läppä ja katso mikä eläin alta paljastuu! Hauskasti ja yksityiskohtaisesti kuvitettu lasten tietokirja kertoo paitsi ihmisen luustosta, myös eläinkunnan erikoisuuksista: esimerkiksi hummerin luuranko on kehon ulkopuolella ja hevosen kavio on oikeastaan keskisormi. Lintujen luissa on ilmaa, ja kalojen ranka on rustoa. Kirjan läpistä on jännä arvuutella, minkä eläimen luut ovat kyseessä. Ihmisen, viherliskon ja makiapinan erottaminen toisistaan ei ole niin helppoa kuin voisi kuvitella...|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1253414|	
+}
+
+[Hyönteiset 30 sekunnissa] {
+	[b-aut]:Claybourne, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355686&index=0&size=medium&w=1200&h=1200|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-des]:Miksi pölypunkki ei ole hyönteinen mutta muurahainen on? Hyönteisillä ei ole luurankoa - miten ihmeessä ne pysyvät kasassa? Kuinka tulikärpänen saa takapuolensa loistamaan pimeässä? Entä minkälaista on lääkärin potilaalle määräämä toukkahoito?\n\nHyönteiset 30 sekunnissa paljastaa pienelle luonnontutkijalle maailman suurimman eläinryhmän salat.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355686|	
+}
+
+
+
+[Tutut oudot eläimet: 100+3 asiaa joita et eläinkunnasta tiennyt] {
+	[b-aut]:Cruz, Carlos da|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cruz%2C+Carlos+da&callnumber=&size=medium&title=Tutut+oudot+el%C3%A4imet+%3A+100%2B3+asiaa+joita+et+el%C3%A4inkunnasta+tiennyt&recordid=satakirjastot.430443&isbn=9513182339&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hauska ja värikäs tietokirja esittelee outoja eläintapoja maapallon joka kolkasta.\n\nFlora Von Hetula on biologi-seikkailijatar, jonka erikoisalaa ovat erikoisesti käyttäytyvät eläimet. Kirja kiertää Floran seurassa koko maapallon ja esittelee hänen löytämiään merkillisiä tapoja ja ominaisuuksia. Osa eläimistä on meille hyvinkin tuttuja kuten sammakot, elefantit ja muurahaiset, mutta tiedämmekö niistäkään kaikkea? Tiesitkö esimerkiksi, että virtahepojen maito on vaaleanpunaista, merisaukolla on turkissaan taskut ja sammakko syö silmiensä avulla? Tutut oudot eläimet sisältää runsaasti hauskoja visuaalisia elementtejä, joissa riittää tutkittavaa moneksi lukukerraksi! Lisäviihdykettä tarjoavat kirjan lomaan sirotellut tietokilpailukysymykset.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430443|
+}
+
+[Venla-sarja] {
+	[b-aut]:Lukkarila, Päivi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lukkarila%2C+P%C3%A4ivi&callnumber=&size=medium&title=Venlan+alkeiskurssi&recordid=satakirjastot.316953&isbn=9512353768&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kahdeksanvuotiaan Venlan unelma toteutuu, kun hän pääsee ratsastuskoulun alkeiskurssille. Enimmäkseen ratsastus on helppoa ja kivaa, mutta jännitystäkin riittää. Viimeisen ratsastustunnin jälkeen on suoritettava tehtävärata. Kuinka Venla selviää siitä, kun hänellä on ratsunaan hurja ja vireä Kirppu?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=venla+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Tassu-trio-sarja] {
+	[b-aut]:Meripaasi, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Meripaasi%2C+Helena&callnumber=&size=medium&title=Kuriton+koiranpentu&recordid=satakirjastot.414196&isbn=9511304356&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Unelmien koiranpentu saa Allun elämän sekaisin. Eläinystävien uusi koukuttava toivesarja!\n\nAllu on ruikuttanut koiraa jo kauan, mutta äidin vastaus on ollut ehdoton ei. Ei paimenkoiraa, ei terrieriä, ei spanielia, ei edes chihuahuaa dobermannista puhumattakaan! Mutta siinä se nyt on, tekemässä tuhojaan heidän olohuoneensa matolla: kääpiöpinseri-pentu Kirppu, väri kuin dobermannilla, sukutaulu täynnä muotovalioita.\n\nAllu ei tunne uudesta koulustaan ketään, mutta pian hän törmää Christaan, joka on suuri kissojenystävä, ja Erikaan, jonka upean valkoisen koiran hän pelastaa tieltä harhailemasta. Heitä kaikkia yhdistää rakkaus eläimiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=meripaasi+tassu-trio&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+[Miten ötökät elävät] {
+	[b-aut]:Romano, Teresa|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Romano%2C+Teresa&callnumber=&size=medium&title=Miten+%C3%B6t%C3%B6k%C3%A4t+el%C3%A4v%C3%A4t&recordid=satakirjastot.429110&isbn=9515016436&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Tiesitkö, että hepokatin korvat ovat sen polvissa? Entä sen, että maasiira hengittää kiduksilla kuten kalat? Tai että vain naarashyttyset imevät verta? Hämähäkit ja kärpäset, muurahaiset ja kastemadot, hepokatit ja sokeritoukat - luonnon pienet ihmeet kuljeskelevat aivan silmiemme alla. Niiden maailma on täynnä kekseliäitä ratkaisuja ja vitsikkäitä veijarimaisuuksia. Miten ötökät elävät -kirjassa esitellään kaksitoista pikkuötökkää. Saat tietää kaiken tarpeellisen ötököiden lisääntymisestä, ravinnosta ja puolustautumisesta sekä vinkkejä siitä, miten voit tarkkailla pikkuötököitä luonnossa. Tai vaikka omassa kylppärissä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429110|
+}
+
+
+[Karhun kakkaa ja muita eläinten jälkiä] {
+	[b-aut]:Seed, Andy|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Seed%2C+Andy%2C+kirjoittaja&callnumber=&size=medium&title=Karhun+kakkaa+ja+muita+el%C3%A4inten+j%C3%A4lki%C3%A4&recordid=satakirjastot.1299503&isbn=9523082698&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Ryhdy eläinsalapoliisiksi ja lähde retkelle luontoon. Tämä opas kertoo hauskasti eläinten jättämistä jäljistä: kakasta, oksennuspalloista, jalanjäljistä, höyhenistä ja karvatupsuista sekä muista luonnosta löytyvistä merkeistä. Jäljistä voi oppia päättelemään niidenjättäjän. Jännittävää luontoretkeä eläinten jäljillä!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1299503|
+}
+
+[Mikä tahansa Holy Webbin kirjoista] {
+	[b-aut]:Webb, Holly|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Webb%2C+Holly&callnumber=&size=medium&title=Max%2C+pikku+karkulainen&recordid=satakirjastot.257835&isbn=9512351609&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Pieni nöpönenäinen kissanpentu on epätoivoinen, kun kukaan ei tunnu haluavan sitä omakseen, kuten sen sisarukset halutaan. Muutaman viikon ikäinen hauveli Max sen sijaan saa kodin ja oman pikku emännän, mutta ikävöi tätä koulupäivän aikana niin kovasti, että lähtee etsimään tätä. Maailma on vaarallinen paikka kaikille pienille eläinlapsille...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=webb%2C+holly&type=AllFields|
+}
+
+
+[Hurja jengi -sarja] {
+	[b-aut]:Blabey, Aaron|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355685&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Saammeko esitellä: Hurja jengi. Mahdottoman rämäpäinen ja vaarallinen ja... kerta kaikkiaan hurja! Mutta nyt he aikovat ryhtyä sankareiksi.Tästedes herrat Susi,Piraija, Käärme ja Hai vannovat ryhtyvänsä vain ja ainoastaan hyviin tekoihin... halusit tai et. Hyppää jo kyytiin!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hurja+jengi+blabey&type=AllFields&sort=main_date_str+asc|
+}
+
+[Klara-sarja] {
+	[b-aut]:Hagmar, Pia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hagmar%2C+Pia&callnumber=&size=medium&title=Klara+ja+unelmien+hevonen&recordid=satakirjastot.281153&isbn=9511254723&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Klara ei voisi olla onnellisempi! Hän saa hoitohevosekseen ihanan Siggen, jolle hän voi kertoa kaikki ilonsa ja surunsa.\n\nYllättäen tallilla alkaa kiertää huhu, että joku aikoo ostaa hänen rakkaan Siggensä!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=klara+hagmar&type=AllFields&filter[]=search_daterange_mv:%22[2011%20TO%202100]%22|
+}
+
+[Cecilia-sarja] {
+	[b-aut]:Heimonen, Satu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Heimonen%2C+Satu&callnumber=&size=medium&title=Suokaislan+suloinen+Cecilia&recordid=satakirjastot.245978&isbn=9518836388&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Eläinrakas Milka saa isältään maailman parhaan 11-vuotislahjan: oman, hartaasti toivotun kissan! Suokaislan suloinen Cecilia on täydellinen ragdoll-pentu. Milka on onnensa kukkuloilla, kunnes selviää, ettei isä ole neuvotellut lemmikkihankinnasta etukäteen Milkan äidin kanssa. Hyväksyisivätkö äiti ja isäpuoli uuden maukuvan perheenjäsenen? Mieltä painaa myös riita parhaiden kavereiden, Viivin ja Venjan kanssa. Kaksostytöt suhtautuvat Ceciliaan oudon viileästi. Onneksi Milka tutustuu reiluun Heiniin ja välit kaksosiinkin lämpiävät pikkuhiljaa. Kunpa Cecilia vain saisi jäädä...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=cecilia+heimonen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+}
+
+
+[Soturikissat-sarja] {
+	[b-aut]:Hunter, Erin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Villiin+luontoon&recordid=satakirjastot.341197&isbn=9518844607&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:"Vain tuli voi pelastaa klaanimme."\n\nSukupolvien ajan neljä villikissojen klaania - Myrskyklaani, Jokiklaani, Tuuliklaani ja Varjoklaani - on jakanut metsän soturiesi-isiensä säätämien lakien mukaan. Muiden klaanien reviirejä uhkaava Varjoklaani kuitenkin voimistuu päivä päivältä, ja Myrskyklaanin kissat ovat vakavassa vaarassa. Uljaita sotureita kuolee, ja jotkut varsin salaperäisellä tavalla.\n\nKeskelle näitä tapahtumia ilmestyy tavallinen kotikissa nimeltä Ruska - joka saattaa osoittautua Myrskyklaanin kaikkein urheimmaksi soturiksi.\n\nVilliin luontoon on koko Soturikissat-sarjan ensimmäinen kirja.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=+%22soturikissat%22++hunter%2C+erin+&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
+}
+
+[Jasmiina-sarja] {
+	[b-aut]:Lukkarila, Päivi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lukkarila%2C+P%C3%A4ivi&callnumber=&size=medium&title=Ihana+Panda&recordid=satakirjastot.307492&isbn=9512359391&index=0&w=1200&h=1200|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Jasmiinalle käy niin kuin elokuvissa: hän saa isotädiltään perinnön ponin ostamista varten. No, perintö ei ole suurensuuri, mutta kyllä sillä jonkinlaisen ponin voi hankkia. Eräänä päivänä myyntisivustoille ilmestyy unelmaponi Panthera, jonka huimaa uraa Jasmiina on seurannut jo pitkään. Esteratsuksi Pantherasta ei enää ole, ja hintakin on turhan kova. On järjetöntä haaveilla ponista, joka ei sovi omiin tarpeisiin millään mittareilla, mutta Jasmiina ei vain saa Pandaa mielestään.\n\nKolmetoistavuotiaan Jasmiinan kouluratsastusharrastusta seuraava sarja alkaa. Ratsastuksen ja tallitunnelmien lomassa uudessa sarjassa pohditaan kotijoukkojen merkitystä nuoren harrastajan taustavoimina.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jasmiina+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
 
 
 
