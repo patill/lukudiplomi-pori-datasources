@@ -762,10 +762,9 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.337071&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Alakoulua käyvällä Masi Tulpalla on täydellinen kesälomasuunnitelma: Pelaa SamuRaita, katso Bittiritaria, piirrä Hukkajätkä-sarjista. Masin ei tarvitse poistua huoneestaan edes lounaan perässä - hän vain lämmittää mikropitsan omasta jääkaapistaan. Kaikki menee kuitenkin pilalle, kun Masin vanhemmat saavat kummallisen älynväläyksen: he keksivät palkata pojalle lastenhoitajan.\n\nMasi ei törkeään temppuun niin vain alistu. Lapsenvahtipalvelu Vahtisilmän epäilyttävä toimitusjohtaja Vihtori Hiilenpää ehdottaa Masille viikon koeaikaa. Sehän sopii - Masi aikoo tehdä hyvin selväksi, ettei lastenvahtia kaivata. Hän saa vastaansa monen sortin hoitajia, joista kukaan ei näytä tajuavan olevansa tarpeeton sivuhenkilö. Lisäksi Masia häiriköi sottainen ja piinallisen puhelias naapurinpoika Pellervo Hulmukka, joka kuvittelee nappaavansa hänestä kaverin. Masi Tulpalla on tasan viikko aikaa pelastaa kesälomansa!
-|
+	[b-des]:Alakoulua käyvällä Masi Tulpalla on täydellinen kesälomasuunnitelma: Pelaa SamuRaita, katso Bittiritaria, piirrä Hukkajätkä-sarjista. Masin ei tarvitse poistua huoneestaan edes lounaan perässä - hän vain lämmittää mikropitsan omasta jääkaapistaan. Kaikki menee kuitenkin pilalle, kun Masin vanhemmat saavat kummallisen älynväläyksen: he keksivät palkata pojalle lastenhoitajan.\n\nMasi ei törkeään temppuun niin vain alistu. Lapsenvahtipalvelu Vahtisilmän epäilyttävä toimitusjohtaja Vihtori Hiilenpää ehdottaa Masille viikon koeaikaa. Sehän sopii - Masi aikoo tehdä hyvin selväksi, ettei lastenvahtia kaivata. Hän saa vastaansa monen sortin hoitajia, joista kukaan ei näytä tajuavan olevansa tarpeeton sivuhenkilö. Lisäksi Masia häiriköi sottainen ja piinallisen puhelias naapurinpoika Pellervo Hulmukka, joka kuvittelee nappaavansa hänestä kaverin. Masi Tulpalla on tasan viikko aikaa pelastaa kesälomansa!|
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.337071|
-  [Lisätietoja]:Vaihtoehtoisesti voi lukea selkokirjan Tuohimetsä, Riikka: Masi Tulppa: pääsy kieletty!|
+  [additionalInformation]:Vaihtoehtoisesti voi lukea selkokirjan Tuohimetsä, Riikka: Masi Tulppa: pääsy kieletty!|
 }
 
 [Mimu-sarja] {
@@ -1087,7 +1086,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Vilttitossua harmittaa, kun hän kuulee, että Heinähatun luokka pääsee onkiretkelle. Vilttitossu päättää huijata Heinähattua: hän pyytää naapurin Halise Alibullenia opettamaan kirjoittamista. "Kirjoita, että 'onkiretki peruutettu'", Vilttitossu ehdottaa. Halise ihmettelee outoa lausetta, mutta tottelee. Vilttitossu sujauttaa paperin kotinsa postiluukusta, Heinähattu lukee viestin, olettaa, että opettaja on sairas ja jää kotiin.\n\nSeuraavana aamuna olkihattupäinen, oudosti lyhentynyt "Heinähattu" marssii onkiretkelle luokan kanssa. Hän ryhtyy ärhäkällä tyylillään johtamaan luokkaa, joka villiintyy ennennäkemättömällä tavalla. Alibullenin neidit sattuvat kävelemään retkeläisten ohi, ja mainitsevat siitä Heinähatulle - joka pian ymmärtää asioiden oikean laidan. Mutta mitä tapahtuu, kun retkellä onkin kaksi Heinähattua? Heinähattu, Vilttitossu ja ärhäkkä koululainen on koominen tarina siitä, kun isosisko on koulussa ja pikkusisko tuntee olonsa yksinäiseksi. Se kertoo myös siitä lyhyestä ajasta ihmisen elämässä, jolloin kouluun meno on ihanaa.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.383891|
-	[Lisätietoja]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Heinähattu, Vilttitossu ja ärhäkkä koululainen.
+	[additionalInformation]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Heinähattu, Vilttitossu ja ärhäkkä koululainen.
 }
 
 [Koulussa on käärme] {
