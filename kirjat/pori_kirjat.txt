@@ -1209,7 +1209,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 [Percy Jackson -sarja] {
-	[b-aut]:Smith, Dan|
+	[b-aut]:Riordan, Rick|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Riordan%2C+Rick&callnumber=&size=medium&title=Salamavaras&recordid=satakirjastot.425999&isbn=9511228374&index=0&w=1200&h=1200|
 	[b-tag]:Kirja vai elokuva|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
@@ -1494,7 +1494,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Viidesluokkainen Liina yrittää totutella uuteen kaupunkiin ja uuteen kouluun. Eräällä kirjastoreissulla hän löytää oven, joka johtaa aivan toisenlaiseen maailmaan. Muutamat koulun oppilaat käyvät iltaisin "taikatunneilla" ja oppivat asioita maahisista, tontuista ja veden väestä. Liinakin huomaa kuuluvansa joukkoon, jolla on kyky nähdä ja kokea asioita, joita muut ihmiset eivät näe. Tunneilla Liina tutustuu punatukkaiseen Siriin ja ujoon Eetuun, ja pian he ovat tiivis kolmikko. Kun koulun pihalta ja tarhasta alkaa kadota lapsia, vain Liina, Siri ja Eetu ymmärtävät, että maahisilla on sormensa pelissä. Miksi ihmisten ja maahisten Rauhanomaisen rinnakkaiselon sopimusta on yhtäkkiä rikottu?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.439503|
+	[b-ava]:https://satakirjastot.finna-test.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=maan+k%C3%A4tkem%C3%A4t+aarnio&type=AllFields&sort=main_date_str+asc|
 }
 
 [Hirviökäsikirja] {
@@ -1961,15 +1961,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=puluboi+salmi&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
 }
 
-[Herra Gummi -sarja] {
-	[b-aut]:Stanton, Andy|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Stanton%2C+Andy&callnumber=&size=medium&title=Olet+ilkimys%2C+herra+Gummi%21&recordid=satakirjastot.336913&isbn=951523364X&index=0&w=1200&h=1200|
-	[b-tag]:Pöljäilyä ja hassuja tilanteita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Hyvääiltaa, te onnekkaat pikku pallerot! Saammeko esitellä ihan hirveän tyypin: herra Gummin.\n\nHän vihaa lapsia, pörröisiä pikku eläimiä, hauskanpitoa ja hattaraa. Tässä kirjassa kerrotaan hänestä, ja yhdestä tosivihaisesta keijusta, joka asuu herra Gummin kylpyammeessa. Kirjassa kerrotaan myös jättikokoisesta koirasta nimeltä Jaska ja pahasta, superällöstä ja haisevasta teurastajahemmosta, joka on yltäpäältä roiskeissa! Ja on tässä kirjassa myös sankareita ja karkkia ja seikkailuita ja oikeastaan KAIKKEA MAHDOLLISTA kivaa.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=herra+gummi+stanton&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
-
 [Gangsterimummi] {
 	[b-aut]:Walliams, David|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Walliams%2C+David&callnumber=&size=medium&title=Gangsterimummi&recordid=satakirjastot.263971&isbn=9513174875&index=0&w=1200&h=1200|
@@ -2099,7 +2090,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.299099|
 }
 
-[Risto Räppääjä maala, merellä ja ilmassa] {
+[Risto Räppääjä maalla, merellä ja ilmassa] {
 	[b-aut]:Nopola, Matias|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Matias%2C+kirjoittaja&callnumber=&size=medium&title=Risto+R%C3%A4pp%C3%A4%C3%A4j%C3%A4+maalla%2C+merell%C3%A4+ja+ilmassa&recordid=satakirjastot.1290920&isbn=952040483X&index=0&w=1200&h=1200|
 	[b-tag]:Riimejä ja loruja|
