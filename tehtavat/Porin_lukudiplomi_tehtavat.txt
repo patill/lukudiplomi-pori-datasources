@@ -23,14 +23,14 @@
   [num]:4|
   [type]:Eläinmaailman ihmeet|
   [tag]:Eläinmaailman ihmeet|
-  [task]:4.	Millainen on lempipaikkasi luonnossa? Mikä siitä tekee erityisen, miksi viihdyt siellä? Piirrä tai kirjoita.|
+  [task]:Millainen on lempipaikkasi luonnossa? Mikä siitä tekee erityisen, miksi viihdyt siellä? Piirrä tai kirjoita.|
 }
 
 [4] {
   [num]:5|
   [type]:Eläinmaailman ihmeet|
   [tag]:Eläinmaailman ihmeet|
-  [task]:5.	Piirrä sarjakuva tai kirjoita tarina jonkin eläimen yöllisestä seikkailusta luonnossa. Mitä hämärässä näkyy ja kuuluu?|
+  [task]:Piirrä sarjakuva tai kirjoita tarina jonkin eläimen yöllisestä seikkailusta luonnossa. Mitä hämärässä näkyy ja kuuluu?|
 }
 
 [5] {
@@ -52,7 +52,7 @@
   [num]:8|
   [type]:Epäilyttäviä asioita|
 	[tag]:Epäilyttäviä asioita|
-  [task]:8.	Mitä välineitä etsivä tarvitsee? Tee lista välineistä ja kerro, mihin sitä käytetään.|
+  [task]:Mitä välineitä etsivä tarvitsee? Tee lista välineistä ja kerro, mihin sitä käytetään.|
 }
 
 [8] {
