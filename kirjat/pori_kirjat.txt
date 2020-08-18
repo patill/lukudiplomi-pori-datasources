@@ -2325,7 +2325,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 [Rohkea tyttö ja jättiläiset] {
-	[b-aut]:Tucker, Zöe|
+	[b-aut]:Tucker, Zoë|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1359816&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
