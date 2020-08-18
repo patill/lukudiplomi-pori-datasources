@@ -1006,7 +1006,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Myyty tyttö] {
 	[b-aut]:Mattila-Laine, Satu|
-	[b-cov]:http://data.kirjavalitys.fi/data/servlets/ProductRequestServlet?action=getimage&ISBN=9789525940497|
+	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?id=satakirjastot.1303285&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Sata vuotta sitten Suomessa köyhä lapsi saatettiin myydä huutokaupalla hoidokiksi. Näitä lapsia kutsuttiin huutolaisiksi. Myyty tyttö kertoo Lempin tarinan.|
