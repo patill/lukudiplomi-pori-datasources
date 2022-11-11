@@ -1644,7 +1644,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Cavallonin kronikat -sarja] {
 	[b-aut]:Forester, Kim
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1411884&index=0&size=large&source=Solr|
+	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/armas.btj.fi/4127/d2e5/4127d2e558321e47d13d0aff87d8528e?itok=f19HPotG|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vuosisata sitten Cavallonin viisi kansaa - yksisarviset, kentaurit, vedenhevoset, pegasokset ja ihmiset - ovat käyneet sodan, joka on päättynyt katkerasti. Yksisarviset pitävät entisiä ihmisliittolaisiaan orjina. Sivistyneet kentaurit uskovat ylemmyyteensä. Vedenhevoset on ajettu merelle. Ja pegasokset, joiden väitetään aloittaneen sodan, ovat paenneet vuorille. Vapaakaupungissa asuva nuori ihmispoika Tal on kuullut vain tarinoita vanhoista ajoista ja verenhimoisista pegasoksista. Kaikki kuitenkin muuttuu yllättäen, kun kaupunkiin hyökätään. Tal tempautuu mukaan tapahtumiin, jotka ratkaisevat Cavallonin kohtalon.|
