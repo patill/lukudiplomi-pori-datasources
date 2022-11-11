@@ -1629,7 +1629,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Collins%2C+Suzanne&callnumber=&size=medium&title=Gregor+ja+Turman+ennustus&recordid=satakirjastot.328106&isbn=9510398829&index=0&w=1200&h=1200|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:11-vuotias Gregor ja hänen pikkusiskonsa seikkailevat jälleen Alismaan salaisessa maailmassa New Yorkin alla. \n\nGregor on onnellinen saatuaan isänsä takaisin. Perheidylli ei kestä pitkään, kun Boots katoaa veljensä valvonnasta Keskuspuistossa. Yhtäkkiä Gregorin pahat aavistukset käyvät toteen ja hänen on palattava hämärän valtakuntaan pelastaakseen jättiläistorakoiden palvoman siskonsa. Rotat näyttävät kuitenkin olevan se todellinen uhka, sillä ennustuksen toteuttamiseksi ne ovat vannoneet tappavansa pienokaisen. Vain Gregor yksin voi estää rottien katalat aikeet surmaamalla Alismaan vitsauksen, jättimäisen valkoisen rotan, mutta väistämättömässä kohtaamisessa tappajan vaistot joutuvat ottamaan mittaa omantunnon äänistä.|
+	[b-des]:11-vuotias Gregor ja hänen pikkusiskonsa seikkailevat jälleen Alismaan salaisessa maailmassa New Yorkin alla.\n\nGregor on onnellinen saatuaan isänsä takaisin. Perheidylli ei kestä pitkään, kun Boots katoaa veljensä valvonnasta Keskuspuistossa. Yhtäkkiä Gregorin pahat aavistukset käyvät toteen ja hänen on palattava hämärän valtakuntaan pelastaakseen jättiläistorakoiden palvoman siskonsa. Rotat näyttävät kuitenkin olevan se todellinen uhka, sillä ennustuksen toteuttamiseksi ne ovat vannoneet tappavansa pienokaisen. Vain Gregor yksin voi estää rottien katalat aikeet surmaamalla Alismaan vitsauksen, jättimäisen valkoisen rotan, mutta väistämättömässä kohtaamisessa tappajan vaistot joutuvat ottamaan mittaa omantunnon äänistä.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alismaan+tarinat+collins&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
@@ -1820,6 +1820,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Alina-sarja] {
 	[b-aut]:Huusko, Teija|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352664&index=0&size=large&source=Solr|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:12-vuotias Alina haaveilee balettitanssijan elämästä. Uusi lukukausi alkaa uuden tiukan baletinopettajan kanssa, mikä jännittää ja turhauttaa. Tuntuu kuin opettaja ei huomaisi häntä lainkaan. Vanhemmat eivät ymmärrä, miten vakavaa tämä on. Paras ystävä Venla lopettaa baletin harrastamisen, joten hänestäkään ei saa enää tukea kuten ennen. Ryhmään on tullut uuden opettajan lisäksi myös kaksi uutta tyttöä. Toinen herättää Alinassa ikävää kateutta ja toinen puolestaan huolta. Ryhmässä aloittaa myös valloittava uusi poika Jasper, johon Alina ihastuu muiden tyttöjen tavoin. Joku tytöistä pääsee tanssimaan Jasperin kanssa pääroolia joulun Lumikuningatar-näytökseen. Alina on ujo ja epävarma, mutta hänen unelmansa ovat suuret. Hän on valmis tekemään kaikkensa niiden saavuttamiseksi.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alina+huusko+teija&type=AllFields&limit=20|
@@ -1828,6 +1829,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Pallo on pyöreä, Niki Dundee!] {
 	[b-aut]:Kökkö, Hanna|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1510038&index=0&size=large&source=Solr|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Kuudesluokkalainen Niki muuttaa äitinsä kanssa Santakylän pikkukaupunkiin, jonka on vallannut jalkapallokuume. Koko Suomi on haltioissaan EM-kisojen yllätyspronssista, ja Nikin uudessa koulussakin kaikki pyörii jalkapallon ympärillä. Koska Niki on kiinnostuneempi onkimisesta, lukemisesta ja historiasta, hänestä tulee luokan ykköstykin, Mirjami Toivon eli Mimmin, silmätikku ja pilkan kohde. Koska Niki haluaa saada kavereita, hän yrittää oppia. Mikään ei vain tahdo onnistua. Hän tutustuu Ereen ja vie tämän kalaan, mutta senkin ystävyyden Mimmi pilaa. Niki ei kuitenkaan lannistu. Ja kun äidiltä lipsahtaa oleellinen tieto Nikin isästä, pojan maailma pyörähtää uuteen asentoon.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1510038|
@@ -1836,6 +1838,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 [Kuinka saavutetaan zanshin] {
 	[b-aut]:Lukkarila, Päivi|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1392548&index=0&size=large&source=Solr|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Seitsemäsluokkalainen Arsi pelaa tiiminsä kanssa CS: GO:ta ja haaveilee ammattilaispelaajan urasta. Arsin äidin mielestä e-urheilu ei ole oikeaa urheilua, joten hän vaatii poikaansa aloittamaan liikuntaharrastuksen. Kun Korsto, luokan suosituin poika, nolaa Arsin koko koulun ja etenkin ihanan Pupun silmissä, Arsi päättää antaa Korstolle opetuksen. Kun hän saa vielä vihiä, että hänen isänsä, josta äiti ei ole koskaan kertonut hiiskaustakaan, saattaisi olla karateka, on lajivalintakin selvä. Arsi ilmoittautuu karaten alkeiskurssille tarkoituksenaan höykyttää Korstoa oikein kunnolla. Eräänä päivänä Arsille tarjoutuu mahdollisuus kostaa Korstolle, muttei aivan niin kuin hän on kuvitellut. Ja sitten kaikki menee yllättävällä tavalla pieleen.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1392548|
