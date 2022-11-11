@@ -99,7 +99,7 @@
 
 [Avaruus 30 sekunnissa] {
 	[b-aut]:Gifford, Clive|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322514&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Gifford%2C+Clive%2C+kirjoittaja&callnumber=&size=medium&title=Avaruus+30+sekunnissa&recordid=satakirjastot.1322514&source=Solr&isbn=9523510967&index=0&w=250&h=250|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Vuosisatojen ajan ihmiset ovat tähtitaivaalle tähyillessään pohtineet, miten maailmankaikkeus on saanut alkunsa, mitä kaikkea sieltä löytyy ja kuinka laaja se on. Avaruuden tuntemuksemme on kasvanut, ja nyt tiedetään paljon sellaista, mistä ennen ei voitu edes uneksia.|
@@ -300,7 +300,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Arvaa kenen luut] {
 	[b-aut]:Cap, Henri|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1253414&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cap%2C+Henri%2C+kirjoittaja&callnumber=&size=medium&title=Arvaa+kenen+luut&recordid=satakirjastot.1253414&source=Solr&isbn=9511327437&index=0&w=250&h=250|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-des]:Nosta läppä ja katso mikä eläin alta paljastuu! Hauskasti ja yksityiskohtaisesti kuvitettu lasten tietokirja kertoo paitsi ihmisen luustosta, myös eläinkunnan erikoisuuksista: esimerkiksi hummerin luuranko on kehon ulkopuolella ja hevosen kavio on oikeastaan keskisormi. Lintujen luissa on ilmaa, ja kalojen ranka on rustoa. Kirjan läpistä on jännä arvuutella, minkä eläimen luut ovat kyseessä. Ihmisen, viherliskon ja makiapinan erottaminen toisistaan ei ole niin helppoa kuin voisi kuvitella...|
@@ -523,7 +523,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Apassit-sarja] {
 	[b-aut]:Bagge, Tapani|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1259681&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bagge%2C+Tapani%2C+kirjoittaja&callnumber=&size=large&title=Vanajaveden+hirvi%C3%B6&recordid=satakirjastot.1259681&source=Solr&isbn=9512365162&index=0|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Apassit on helsinkiläisnuorten salaseura noin vuonna 1910. Salaseura tutkii kaikenlaisia salaperäisiä tapauksia. Apasseihin kuuluvat Heikki, Otto, Erik ja Samuli sekä Heikin kaksossisaret Elli ja Nelli. Heikin serkusta Almasta he saavat Hämeenlinnassa uuden jäsenen. Sarjan ensimmäinen osa Aavehevosen arvoitus ilmestyi keväällä 2018.|
@@ -680,7 +680,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Mikko Mallikas -sarja] {
 	[b-aut]:Bergström, Gunilla|
-	[b-cov]:https://finna.fi/Cover/Show?author=Bergstr%C3%B6m%2C+Gunilla&callnumber=&size=medium&title=Mikko+Mallikas+lapsenvahtina&recordid=vaski.3180868&source=Solr&isbn=9513101541&index=0&w=250&h=250/9789513110109_frontcover_final.jpg|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bergstr%C3%B6m%2C+Gunilla&callnumber=&size=medium&title=Mikko+Mallikas+on+kuningas&recordid=satakirjastot.326384&source=Solr&isbn=9513166422&index=0&w=250&h=250|
 	[b-tag]:Ikisuosikkeja|
 	[b-cat]:1. Lukutoukka|
 	[b-des]: Mikko Mallikas seikkailee.|
@@ -893,7 +893,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Vesta-Linnea ja kaverit] {
 	[b-aut]:Appelgren, Tove|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1290918&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Appelgren%2C+Tove%2C+kirjoittaja&callnumber=&size=medium&title=Vesta-Linnea+ja+kaverit&recordid=satakirjastot.1290918&source=Solr&isbn=9520404678&index=0&w=250&h=250|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:On perjantai ja Mindy on luvannut soittaa Vesta-Linnealle heti, kun koulu loppuu. Kohta, kohta, ihan kohta! Vesta-Linnea on täynnä iloista jännitystä. Tästä tulee ihana viikonloppu! Mindy tulee kylään, hän saa leikkiä Mindyn kanssa! Mitähän he tekevät yhdessä?\n\nAlex haluaisi leikkiä Vesta-Linnean kanssa, mutta ei Vesta-Linnea nyt ehdi. Milloin Mindy tulee?|
@@ -1617,7 +1617,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Domowik] {
 	[b-aut]:Auer, Ilkka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1276044&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Auer%2C+Ilkka%2C+kirjoittaja&callnumber=&size=medium&title=Domowik&recordid=satakirjastot.1276044&source=Solr&isbn=9527100607&index=0&w=250&h=250|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Yllättävän testamentin myötä Vilma Sumeliuksen perhe muuttaa Hästebäckin kartanoon Raaseporin linnan tuntumaan. Edesmennyt isosetä on jättänyt Vilmalle kummia viestejä, joiden myötä uusi koti paljastaa salaisen puolensa. Käytävillä liikkuva aave on vain alkua. Domowik-kotihengen avulla Vilma tutustuu salaperäiseen maailmaan, josta tuntemamme sadut ovat peräisin. Hän alkaa selvittää sukunsa arvoituksia. Ja kohtaa synkät salaisuudet silmästä silmään.|
@@ -1644,7 +1644,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Cavallonin kronikat -sarja] {
 	[b-aut]:Forester, Kim
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solrhttps://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vuosisata sitten Cavallonin viisi kansaa - yksisarviset, kentaurit, vedenhevoset, pegasokset ja ihmiset - ovat käyneet sodan, joka on päättynyt katkerasti. Yksisarviset pitävät entisiä ihmisliittolaisiaan orjina. Sivistyneet kentaurit uskovat ylemmyyteensä. Vedenhevoset on ajettu merelle. Ja pegasokset, joiden väitetään aloittaneen sodan, ovat paenneet vuorille. Vapaakaupungissa asuva nuori ihmispoika Tal on kuullut vain tarinoita vanhoista ajoista ja verenhimoisista pegasoksista. Kaikki kuitenkin muuttuu yllättäen, kun kaupunkiin hyökätään. Tal tempautuu mukaan tapahtumiin, jotka ratkaisevat Cavallonin kohtalon.|
@@ -1810,7 +1810,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Cheertytöt-sarja] {
 	[b-aut]:Aho, Marja|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324244&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Aho%2C+Marja%2C+kirjoittaja&callnumber=&size=large&title=Kaikki+menee%2C+Jessiina%21&recordid=satakirjastot.1324244&source=Solr&isbn=9523560603&index=0|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Uusi koti, uusi kaupunki, uusi koulu. Ja koulussa opettajana noloakin nolompi isä. Yhdistelmä, joka saa yläkoulun aloittavan Jessiinan vatsan kramppaamaan kauhusta. Kaiken lisäksi pitäisi vielä löytää ystäviä.\n\nLuokassa on onneksi tyttökaksikko Nelli ja Sandra, jotka tutustuttavat Jessiinan paitsi uuteen kouluun myös kiehtovaan harrastukseen. Hengästyttävän vauhdikas cheerleading voltteineen ja ihmispyramideineen tempaa Jessiinan mukaansa. Voltteja heittää pian myös hänen sydämensä, sillä treenihallilla harjoittelee polvet veteliksi sulattava cheerleader Max.\n\nJessiinan ystävyys Nellin ja Sandran kanssa ei kuitenkaan suju ilman ongelmia. Hänen kömpelöt kärrynpyöränsä ja kaveeraaminen Nellin kanssa eivät miellytä Sandraa.\n\nCheerleadingseuran syysnäytös lähestyy. Pian Jessiinalla on edessään kaikista suurin haaste: miten oppia pelottavilta ja ylivoimaisen vaikeilta tuntuvat akrobaattiset liikkeet joukkueen esitystä varten?|
@@ -1974,7 +1974,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Maailman paras puumaja -sarja] {
 	[b-aut]:Griffiths, Andy|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312083&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Griffiths%2C+Andy%2C+kirjoittaja&callnumber=&size=medium&title=Maailman+paras+puumaja%2C+13+kerrosta&recordid=satakirjastot.1312083&source=Solr&isbn=9511338730&index=0&w=250&h=250|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Kreisin kahelit seikkailut, nokkela sanailu ja mainio kuvitus siivittävät kahden kaveruksen menoa.\n\nMegakuvitettu lastanromaanisarja alkaa. Andy ja Terry asuvat maailman PARHAASSA puumajassa ja kirjoittavat siitä kirjaa. Tässä majassa voi tapahtua ihan mitä tahansa, sillä sen uima-allas on täynnä tappajahaita, yläkerrassa on limsalähde ja maanalaisessa labrassa voi kehitellä vaikkapa jättiläisbanaanin.|
@@ -1983,7 +1983,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Totuuskeiju-sarja] {
 	[b-aut]:Haig, Matt|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1333727&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Haig%2C+Matt%2C+kirjoittaja&callnumber=&size=medium&title=Totuuskeiju&recordid=satakirjastot.1333727&source=Solr&isbn=9527269857&index=0&w=250&h=250|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Totuuskeijulla on huolia. Siitä tuntuu, ettei se voi koskaan saada ystäviä, sillä kaikki aina loukkaantuvat sen suorapuheisuudesta. Totuuskeijun on nimittäin aina puhuttava vain ja ainoastaan totta. Lopulta oma sukukin hylkää hänet ja Totuuskeiju päättää lähteä tien päälle. Monen mutkan kautta Totuuskeiju päätyy Helsinkiin.|
@@ -2010,7 +2010,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Rex Dexter -sarja] {
 	[b-aut]:Reynolds, Aaron|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1411883&index=0&size=large&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1411883&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Rex Dexter haluaisi kuollakseen koiran. Hän on suorastaan syntynyt koiranomistajaksi. Hänen nimensäkin on Rex, herranjestas, sehän on koiran nimi. Mikä tahansa piski olisi parempi kuin ei piskiä ollenkaan, mutta unelmien täyttymys olisi suklaanruskea labradorinnoutaja.\n\nKun Rexin syntymäpäivä viimein koittaa, hän saa vanhemmiltaan laatikon, jossa on reiät ja josta kuuluu lupaavaa raapimista. Voisiko se olla...? Kyllä!! Laatikosta paljastuu... kana. Lemmikkikana?\n\nTuntia ja neljäätoista minuuttia myöhemmin kana on jäänyt jyrän alle (ja kuollut), Rex on kirottu ja Rexin huoneessa kummittelee villieläimiä. Nämä kutsumattomat vieraat ovat meluisia ja sotkuisia. Ja ne vaativat Rexiä selvittämään, miksi ne ovat kuolleet omituisissa merkeissä.|
@@ -2028,7 +2028,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Isämies-sarja] {
 	[b-aut]:Unkari, Arttu|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1373762&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1373762&index=0&size=large&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Varokaa, Isämies on täällä! Ratkiriemukas uusi sarja alkaa.
@@ -2047,7 +2047,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Fowlin kaksoset -sarja] {
 	[b-aut]:Colfer, Eoin|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1353001&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1353001&index=0&size=large&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:11-vuotiaat kaksoset Myles ja Beckett ovat kahteen pekkaan yötä kotona pelkän Fowlien tekoälyturvajärjestelmän vahdittavina. Yö muuttuu mielenkiintoiseksi, kun maan alta putkahtaa karannut minipeikko, jota jahtaavat niin pahamaineinen liikemies, salaperäinen agenttinunna kuin peikon perään lähetetty keijukonstaapeli. Alkaa kiihkeä seikkailu, jonka pyörteissä Fowlin kaksoset joutuvat tulilinjalle, siepataan, haudataan, pidätetään ja nirhataan (vain hetkeksi). Mikäpä lujittaisi paremmin kaksosten sidettä toisiinsa!|
@@ -2474,7 +2474,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Loukuttaja] {
 	[b-aut]:Aho, Marja|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1297611&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Aho%2C+Marja%2C+kirjoittaja&callnumber=&size=medium&title=Loukuttaja+%3A+nuortenromaani&recordid=satakirjastot.1297611&source=Solr&isbn=9523154389&index=0&w=250&h=250|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Usva on luokan hyljeksitty, kissanpissalta haiseva kummajainen, joka vapaa-ajallaan haluaa mieluummin loukuttaa pakkasessa värjötteleviä kulkukissoja, kuin osallistua luokan rientoihin. Hän haluaisi palavasti puhua eläinten oikeuksista eläinsuojeluneuvojana toimivan, löytöeläintaloa pyörittävän äitinsä tavoin, mutta häneltä puuttuu rohkeus sanoa epäkohdista ääneen. Hän tietää, että jos hän koulussa avaisi suunsa kertoakseen Jennalle ja luokan muille tytöille mielipiteensä näiden huonosta lemmikkien kohtelusta, saisi hän koko luokan ivat päälleen. Koulun ruokalassa hän katsoo surullisena, kun muut syövät lihaa. Hän haluaisi kertoa kaikille, millaisissa oloissa tuotantoeläimet joutuvat elämään.\n\nUsva ihailee isosiskoaan Unnaa, muiden mielipiteistä vähät välittävää aktivistia, joka luontoa ja eläimiä suojellakseen ja niiden kaltoinkohtelulle huomiota saadakseen on valmis vaikka köyttämään itsensä kettingillä puuhun tai turkistarhan oveen. Usvan isäpuoli Ii-Pee yrittää valaa arkaan tyttöön itseluottamusta puujalkavitseillään ja rennolla elämänasenteellaan.|
@@ -2492,7 +2492,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Ihme ilmat!: miksi ilmasto muuttuu] {
 	[b-aut]:Ertimo, Laura|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322513&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ertimo%2C+Laura%2C+kirjoittaja&callnumber=&size=medium&title=Ihme+ilmat%21+%3A+miksi+ilmasto+muuttuu&recordid=satakirjastot.1322513&source=Solr&isbn=9523511394&index=0&w=250&h=250|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Ihme ilmat! -tietokirja vastaa lasten kiperiin kysymyksiin ilmastonmuutoksesta ja kertoo, miten voimme pistää sille yhdessä hanttiin. Kaksi nokkelaa kaverusta, Lotta ja Kasper, kyllästyvät vanhempiensa vältteleviin vastauksiin kummista keleistä. He päättävät selvittää, mistä ilmaston muuttumisessa todella on kyse.\n\nIhme ilmat! on topakka ja toiveikas lasten tietokirja siitä, miten ihminen aiheuttaa ilmastonmuutoksen ja mitä me voimme tehdä paremman tulevaisuuden puolesta. Samalla se vinkkaa, miten ihan jokainen pystyy treenaamaan omia ilmastotaitojaan ja elämään niin, ettei hiilidioksidi pöllyä joka käänteessä. Ilmastonmuutoksen pinteestä ei kuitenkaan selvitä pelkillä arjen nikseillä. Siksi tämä kirja kertoo innostavasti myös yhdessä tekemisen voimasta.|
