@@ -34,13 +34,13 @@
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.350822|
 }
 
-[Ystävä avaruudessa] {
-	[b-aut]:Jeffers, Oliver|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Jeffers%2C+Oliver&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4+avaruudessa&recordid=satakirjastot.323008&source=Solr&isbn=9512355159&index=0&w=1200&h=1200|
+[Kissat tykkää tähtitieteestä] {
+	[b-aut]:Howell, Izzi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1413812&index=0&size=large&source=Solr|
 	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
-	[b-des]:Kun kaapin perältä löytyy lentokone, pojan on pakko kokeilla sitä heti! Innoissaan hän lentää aina avaruuteen asti - vain huomatakseen, että tankki on tyhjentynyt. Poika tekee pakkolaskun Kuuhun, jonne on pelastautunut myös eräs toinen olento: marsilainen. Yhdessä he miettivät avun ongelmaansa. Kotiinpaluun hetki on onnellinen mutta haikea - mahtavatko he tavata enää koskaan?|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.323008|
+	[b-des]:Tieteestä innostuneet kissat ovat täällä taas! Tiesitkö, että Auringon pinta on niin kuuma, että timantitkin sulavat siellä? Tai että yksi Venuksen vuorokausi kestää kauemmin kuin kokonainen vuosi Maassa? Tällä kertaa tiedekissat tutustuvat tähtitieteen totuuksiin. Ovatko faktat "OMG", "Vau!" vai "Eikä?"|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1413812|
 }
 
 [Pieni avaruuskirja] {
@@ -52,15 +52,6 @@
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1292979|	
 }
 
-[Hulda ja Jalmari avaruustiedemiehinä] {
-	[b-aut]:Majaluoma, Markus|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Majaluoma%2C+Markus&callnumber=&size=medium&title=Hulda+ja+Jalmari+avaruustiedemiehin%C3%A4&recordid=satakirjastot.462664&source=Solr&isbn=9526606981&index=0&w=1200&h=1200|
-	[b-cat]:1. Lukutoukka|
-	[b-tag]:Aika ja avaruus|
-	[b-des]:Hulda ja Jalmari löytävät kirpputorilta kaukoputken. Sillä näkee avaruuteen. Sillä näkee Kuun vuoret ja kraatterit ja Marsin punaisen hiekan. Sillä näkee Otavan ja löytää suunnan pohjoiseen, jossa joulupukki asuu. Mutta onko avaruudessa asukkaita? Se selviää kirjan lopussa.|
-        [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.462664|
-}
-
 [Ensimmäinen virtahepo kuussa] {
 	[b-aut]:Ross, Tony|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ross%2C+Tony&callnumber=&size=medium&title=Ensimm%C3%A4inen+virtahepo+kuussa&recordid=satakirjastot.274455&source=Solr&isbn=9518837635&index=0&w=1200&h=1200|
@@ -68,6 +59,15 @@
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Tarina kahdesta virtahevosta, joilla on yhteinen unelma: olla ensimmäinen virtahepo kuussa. Ökyrikas Herkules Hippo-Potamus III rakennuttaa kuulentoaan varten jättimäisen avaruuskeskuksen, kun taas Marjo... no, Marjo ei rakennuta.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.274455|
+}
+
+[Ylös avaruuteen] {
+	[b-aut]:Saramäki, Rinna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1375957&index=0&size=large&source=Solr|
+	[b-cat]:1. Lukutoukka|
+	[b-tag]:Aika ja avaruus|
+	[b-des]:Avaruusalus Kaguaanin miehistö saa tehtäväkseen viedä rahdin kuuasemalle. Paikan päällä selviää, että Mars-tukikohtaan ei ole saatu minkäänlaista yhteyttä sitten aurinkomyrskyn. Alus miehistöineen lähtee Marsiin selvittämään tilannetta. Onnistuvatko he väistämään valtavaa asteroidia, joka uhkaa iskeytyä planeetan pintaan?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1375957|	
 }
 
 [Kun kohtaat avaruusolennon: viisi tärkeää ohjetta] {
@@ -79,16 +79,6 @@
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1294308|	
 }
 
-[Avaruusritarit ja jäälohikäärmeet] {
-	[b-aut]:Webster, Sheryl|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.253853&index=0&size=medium&w=1200&h=1200|
-	[b-cat]:1. Lukutoukka|
-	[b-tag]:Aika ja avaruus|
-	[b-des]:Pyöreän planeetan avaruusritarit ovat lopen kyllästyneitä jäälohikäärmeiden jatkuvaan kiusantekoon. Onneksi ritari Artturi Rohkea tutustuu jäälohikäärmeen poikaseen ja keksii ongelmaan ratkaisun - kuin leikiten! |
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.253853|	
-}
-
-
 [Maailman viimeiset tyypit] {
 	[b-aut]:Brallier, Max|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Brallier%2C+Max%2C+kirjoittaja&callnumber=&size=medium&title=Maailman+viimeiset+tyypit.+1&recordid=satakirjastot.1291054&source=Solr&isbn=9510437778&index=0&w=1200&h=1200|
@@ -96,15 +86,6 @@
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Siitä asti kun hirviökatastrofi tuhosi maailman sellaisena kuin me sen tunnemme, 13-vuotias Jack on asunut puumajassaan suojanaan katapultteja ja vallihauta, seuranaan videopelit ja ravintonaan loputon varasto Oreo-keksejä ja Mountain Dew'ta. Kun taistelu zombeja, siipirähkiä ja köynnösryönejä vastaan käy yksinäiseksi, Jack yhdistää voimansa nörtti-Quintin ja ääliö-Dirkin kanssa. Jack on päättänyt pelastaa ihastuksensa Junen ja maailman - ja olla olematta enää koskaan mikään keskivertokaveri! Pystyykö hän siihen? |
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1291054|
-}
-
-[Avaruusolentojen etsijän käsikirja] {
-	[b-aut]:Brake, Mark|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Brake%2C+Mark&callnumber=&size=medium&title=Avaruusolentojen+etsij%C3%A4n+k%C3%A4sikirja+%3A+aloittelevan+avaruustutkijan+opas&recordid=satakirjastot.384420&source=Solr&isbn=9522402168&index=0&w=1200&h=1200|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-tag]:Aika ja avaruus|
-	[b-des]:Olemmeko yksin kaikkeudessa, vai onko ulkoavaruudessa elämää? Onko meillä kosmisia naapureita? Maailma on niin suuri, että nykyisin pidetään jo epätodennäköisenä, että olisimme sen ainoita eläviä asukkaita. Mutta miten ulkoavaruuden elämää voi etsiä? Opaskirja kertoo vaihe vaiheelta, miten elämä on syntynyt ja kehittynyt maapallolla ja kuinka elämää voi itse etsiä muualta maailmankaikkeudesta. Aloittelevalle avaruustutkijalle selviää muun muassa, millaisia elinympäristöjä ulkoavaruudessa on, kauanko siellä on voinut olla elämää, miltä vieraat elämänmuodot saattaisivat näyttää ja miten olentojen kanssa voitaisiin kommunikoida.|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.384420|
 }
 
 [Onneksi oli maitoa] {
@@ -143,13 +124,13 @@
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=Kepler62&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
 }
 
-[Prinsessa, lurjus ja maalaispoika: tarina elokuvasta Star Wars: uusi toivo] {
-	[b-aut]:Bracken, Alexandra|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Bracken%2C+Alexandra&callnumber=&size=medium&title=Prinsessa%2C+lurjus+ja+maalaispoika+%3A+tarina+elokuvasta+Star+Wars%3A+uusi+toivo&recordid=satakirjastot.341494&source=Solr&isbn=9513242951&index=0&w=1200&h=1200|
+[Viimeinen ihminen] {
+	[b-aut]:Bacon, Lee|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1403166&index=0&size=large&source=Solr|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-tag]:Aika ja avaruus|
-	[b-des]:Galaktisen Imperiumin kaikkien aikojen suurin joukkotuhoase Kuolemantähti on valmistumassa, ja kapinallisten ainoa toivo on prinsessan, lurjuksen ja maalaispojan käsissä. Tämä kiehtova romaani kertoo alkuperäisen Star Wars -trilogian ensimmäisen elokuvan (episodi IV) tarinan kolmen päähenkilön - prinsessa Leian, Han Solon ja Luke Skywalkerin - näkökulmasta.|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.341494|
+	[b-des]:Ihmiset ovat hävinneet maapallolta ja sitä asuttavat robotit, joista jokaisella on tehtävä ja tarkoitus. Eräänä päivänä tapahtuu mahdoton: XR-935 tapaa ihmistyttö Emman. Alkaa huima, jännittävä seikkailu, joka etenee mutkien kautta riemastuttaviin oivalluksiin ja ystävyyteen.|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1403166|
 }
 
 [W.A.R.P. -sarja] {
@@ -171,13 +152,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=%22Historian+vartijat%22&type=AllFields|
 }
 
-[Darlah: 172 tuntia kuussa] {
-	[b-aut]:Harstad, Johan|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Harstad%2C+Johan&callnumber=&size=medium&title=Darlah+%3A+172+tuntia+Kuussa&recordid=satakirjastot.266005&isbn=951235425X&index=0&w=1200&h=1200|
+[Imperiumin perilliset -sarja] {
+	[b-aut]:Källner, Oskar|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1451746&index=0&size=large&source=Solr|
 	[b-tag]:Aika ja avaruus|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:NASA palaa Kuuhun yli 40 vuoden jälkeen ja järjestää maailmanlaajuisen arvonnan. Norjalainen Mia, japanilainen Midori ja ranskalainen Antoine ovat kolme onnekasta, jotka pääsevät mukaan ainutlaatuiselle palkintomatkalle vuoden 1969 kuuraketin kopiolla. Samaan aikaan dementoinut entinen astronautti seuraa kauhulla matkan uutisointia - Kuuhun ei pidä palata! Mutta nuoret ovat jo perillä. Sitten yhteys Maahan katkeaa, tukikohdan generaattori sammuu, Antoine katoaa... Ja Kuun pimeä puoli näyttää pelottavat, visusti vaietut kasvonsa.|
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.266005|
+	[b-des]:Alice ja Elias asuvat vanhempineen Uppsalan laitamilla. Eräänä iltana äiti katoaa ja isä pidätetään. Sisarukset saavat selville, että äiti on joutunut avaruusolentojen kaappaamaksi. Samalla heidän silmänsä avautuvat näkemään, että kaikkeus on täynnä mitä kummallisimpia asioita: palkkionmetsästäjiä, galaktisia imperiumeja, hirviöitä, laseraseita. Kun Alice ja Elias tempautuvat avaruuden syövereihin, paljastuu totuus myös heidän omasta taustastaan. Eeppisen avaruusseikkailusarjan avaus saa haukkomaan henkeä.|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?dfApplied=1&lookfor=imperiumin+perilliset+k%C3%A4llner&type=AllFields&sort=main_date_str+asc%2Cid+asc|
+}
+
+[Avaruuden rajalla] {
+	[b-aut]:Leisko, Satu,|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1416219&index=0&size=large&source=Solr|
+	[b-tag]:Aika ja avaruus|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:On vuosi 3527. Visa matkustaa Telakalle, tutkimuskeskukseen Maan yläpuolella. Siellä on tuntematon avaruusalus. Visa tutustuu alukseen salaa ja selvittää sen salaisuuden. Tietääkö salaisuuden joku muukin? Mitä tapahtuu, kun Visa puolustaa alusta?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1416219|
 }
 
 [Kysy astronautilta: kaikki avaruudessa elämisestä] {
@@ -245,13 +235,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22unelmakoirat%22+jalo&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20|
 }
 
-[Leon lemmikit -sarja] {
-	[b-aut]:Llewellyn, Claire|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Llewellyn%2C+Claire&callnumber=&size=medium&title=Miisun+torkut&recordid=satakirjastot.412779&isbn=9518830622&index=0&w=1200&h=1200|
+[Pet Agents -sarja] {
+	[b-aut]:Kaarla, Riina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1430243&index=0&size=large&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Miisu-kissa haluaisi ottaa nokoset, mutta ei saa hetken rauhaa. Äiti hätistää sen pois kaapista, isä tuolilta - ja ulkonakin Haukku alkaa jahdata Miisua. Löytyisikö puun oksalta rauhallinen nukkumapaikka?|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=llewellyn+leon&type=AllFields|
+	[b-des]:Scifi-herkuilla ja pörröisillä lemmikeillä hurmannut agenttikolmikko merellä!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Pet+Agents.+Kati-e+%26+Ti-bot%22&type=Series&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22|
+}
+
+[Pet Agents Lemmikkifrendit -sarja] {
+	[b-aut]:Kaarla, Riina|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1499033&index=0&size=large&source=Solr|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Lemmikkifrendit-sarja ilmestyy rinnakkain Pet Agents -sarjan ohessa. Ensimmäisessä Lemmikkifrendit-kirjassa kerrotaan, miten kuusivuotias Kati-e sai ensimmäisten lemmikkinsä, miten hän tutustui parhaaseen ystäväänsä Lisaan ja rakensi ensimmäisen robottinsa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Pet+Agents.+Lemmikkifrendit%22&type=Series|
 }
 
 [Hotelli Flamingo -sarja] {
@@ -290,6 +289,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.441700|
 }
 
+[Hurja jengi -sarja] {
+	[b-aut]:Blabey, Aaron|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355685&index=0&size=large&source=Solr|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-des]:Saammeko esitellä: Hurja jengi. Mahdottoman rämäpäinen ja vaarallinen ja... kerta kaikkiaan hurja! Mutta nyt he aikovat ryhtyä sankareiksi.Tästedes herrat Susi,Piraija, Käärme ja Hai vannovat ryhtyvänsä vain ja ainoastaan hyviin tekoihin... halusit tai et. Hyppää jo kyytiin!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&lookfor=hurja+jengi+blabey&type=AllFields&sort=main_date_str+asc%2Cid+asc|	
+}
 
 [Arvaa kenen luut] {
 	[b-aut]:Cap, Henri|
@@ -309,13 +316,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355686|	
 }
 
-[Tutut oudot eläimet: 100+3 asiaa joita et eläinkunnasta tiennyt] {
-	[b-aut]:Cruz, Carlos da|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Cruz%2C+Carlos+da&callnumber=&size=medium&title=Tutut+oudot+el%C3%A4imet+%3A+100%2B3+asiaa+joita+et+el%C3%A4inkunnasta+tiennyt&recordid=satakirjastot.430443&isbn=9513182339&index=0&w=1200&h=1200|
+[Ähtärin eläinpuiston asukit] {
+	[b-aut]:Heikkilä, Mervi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1406483&index=0&size=large&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Hauska ja värikäs tietokirja esittelee outoja eläintapoja maapallon joka kolkasta.\n\nFlora Von Hetula on biologi-seikkailijatar, jonka erikoisalaa ovat erikoisesti käyttäytyvät eläimet. Kirja kiertää Floran seurassa koko maapallon ja esittelee hänen löytämiään merkillisiä tapoja ja ominaisuuksia. Osa eläimistä on meille hyvinkin tuttuja kuten sammakot, elefantit ja muurahaiset, mutta tiedämmekö niistäkään kaikkea? Tiesitkö esimerkiksi, että virtahepojen maito on vaaleanpunaista, merisaukolla on turkissaan taskut ja sammakko syö silmiensä avulla? Tutut oudot eläimet sisältää runsaasti hauskoja visuaalisia elementtejä, joissa riittää tutkittavaa moneksi lukukerraksi! Lisäviihdykettä tarjoavat kirjan lomaan sirotellut tietokilpailukysymykset.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.430443|
+	[b-des]:Eläinpuistossa asuvien eläinten elämä voi olla täynnä yllättäviä käänteitä. Joskus eläimet päätyvät ihmisten hoiviin uskomattomien sattumusten kautta. Tai ne jättävät erikoisella luonteellaan lähtemättömän jäljen hoitajiensa sydämeen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1406483|
+}
+
+[Käppänät] {
+	[b-aut]:Levola, Jaana|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Levola%2C+Jaana%2C+kirjoittaja&callnumber=&size=large&title=K%C3%A4pp%C3%A4n%C3%A4t&recordid=satakirjastot.1322497&source=Solr&isbn=9523042289&index=0|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Käppänät on tarina 10-vuotiaasta Venlasta, sekä hänen koiristaan Milosta ja Missystä. Koulussa Venla on aika yksinäinen. Häntä kiusataan lukemisesta, joka on vielä hidasta. Venlan mummu on joutunut sairaalaan ja muuttaa sitten vanhainkotiin. Venla käy tapaamassa mummuaan lähes päivittäin. Venla aloittaa Milo-koiran kanssa uuden harrastuksen ja sitä kautta rohkaistuu esiintymään luokan edessä. Missy-koira taas tuo Venlalle varmuutta lukemiseen. Näin heistä tulee hyvä pari ilahduttamaan vanhuksia. Pienten koirien avulla avautuu myös mahdollisuus ystävyyteen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322497|
 }
 
 [Venla-sarja] {
@@ -354,6 +370,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1299503|
 }
 
+[Kissakopla] {
+	[b-aut]:Stelmaszyk, Agnieszka|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1360462&index=0&size=large&source=Solr|
+	[b-tag]:Eläinmaailman ihmeet|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Chrishin perheessä on jo ennestään neljä kissaa, mutta kun hän löytää kylmänä jouluaattona kolme suloista kissanpentua palelemassa ulkona, ei hän voi niitä jättää yksinään. Niinpä perheessä on seitsemän kissaa. Kissanpennut ovat hassuja, sillä ne tykkäävät erityisesti katsoa televisiota! Ja lisäksi ne saavat myös perheen neljä aikaisempaa kissaa innostumaan television töllötyksestä. Jos Chris olisi tiennyt, mitä television tuijottelusta seuraa, hän olisi sammuttanut sen oitis. Mutta nyt oli liian myöhäistä ja oli kärsittävä seuraukset...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1360462|
+}
+
 [Mikä tahansa Holy Webbin kirjoista] {
 	[b-aut]:Webb, Holly|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Webb%2C+Holly&callnumber=&size=medium&title=Max%2C+pikku+karkulainen&recordid=satakirjastot.257835&isbn=9512351609&index=0&w=1200&h=1200|
@@ -364,13 +389,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-[Hurja jengi -sarja] {
-	[b-aut]:Blabey, Aaron|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1355685&index=0&size=medium&w=250&h=250&source=Solr|
+[Eläinten rakkauselämä] {
+	[b-aut]:Gathen, Katharina von der|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1373758&index=0&size=large&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Saammeko esitellä: Hurja jengi. Mahdottoman rämäpäinen ja vaarallinen ja... kerta kaikkiaan hurja! Mutta nyt he aikovat ryhtyä sankareiksi.Tästedes herrat Susi,Piraija, Käärme ja Hai vannovat ryhtyvänsä vain ja ainoastaan hyviin tekoihin... halusit tai et. Hyppää jo kyytiin!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=hurja+jengi+blabey&type=AllFields&sort=main_date_str+asc|
+	[b-des]:Tutustu eläinten seurusteluun, lisääntymiseen ja perhe-elämään. Flamingot flirttailevat porukalla. Merihevoset tanssahtelevat suut yhteen liimautuneina. Tervapääskyt lempivät ilmassa. Leijonat saattavat paritella jopa 40 kertaa päivässä, pandat eivät juuri koskaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1373758|
 }
 
 [Klara-sarja] {
@@ -400,16 +425,25 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&lookfor=+%22soturikissat%22++hunter%2C+erin+&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
 }
 
-[Jasmiina-sarja] {
+[Ponimme Possukka] {
 	[b-aut]:Lukkarila, Päivi|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lukkarila%2C+P%C3%A4ivi&callnumber=&size=medium&title=Ihana+Panda&recordid=satakirjastot.307492&isbn=9512359391&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377059&index=0&size=large&source=Solr|
 	[b-tag]:Eläinmaailman ihmeet|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Jasmiinalle käy niin kuin elokuvissa: hän saa isotädiltään perinnön ponin ostamista varten. No, perintö ei ole suurensuuri, mutta kyllä sillä jonkinlaisen ponin voi hankkia. Eräänä päivänä myyntisivustoille ilmestyy unelmaponi Panthera, jonka huimaa uraa Jasmiina on seurannut jo pitkään. Esteratsuksi Pantherasta ei enää ole, ja hintakin on turhan kova. On järjetöntä haaveilla ponista, joka ei sovi omiin tarpeisiin millään mittareilla, mutta Jasmiina ei vain saa Pandaa mielestään.\n\nKolmetoistavuotiaan Jasmiinan kouluratsastusharrastusta seuraava sarja alkaa. Ratsastuksen ja tallitunnelmien lomassa uudessa sarjassa pohditaan kotijoukkojen merkitystä nuoren harrastajan taustavoimina.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jasmiina+lukkarila&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+	[b-des]:Olipa kerran pieni poni, jonka mielestä parasta maailmassa oli laukata täyttä vauhtia. Vaikka se ei erityisesti pitänyt veteen menemisestä, se oli nimetty mertenjumalan, Poseidonin, mukaan. Ystävät kuitenkin kutsuivat sitä Possukaksi, ja ystäviä tällä ponilla riitti. Moni lapsi ehtikin olemaan Possukan opissa, ja tärkeintä, mitä Possukka heille opetti, oli se, että me ihmiset voimme olla parhaita ystäviä eläinten kanssa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1377059|
 }
 
 
+
+[Elsan ja Elmerin etsivätoimisto -sarja] {
+	[b-aut]:Bagge, Tapani|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1426506&index=0&size=large&source=Solr|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Elsa ja Elmeri jälleen rosvojen jäljillä!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Elsan+ja+Elmerin+etsiv%C3%A4toimisto%22&type=Series&sort=main_date_str+asc%2Cid+asc|
+}
 
 [Taskuvarkaat kiinni!] {
 	[b-aut]:Bross, Helen|
@@ -418,15 +452,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Tässä tarinassa Dina ja Lenni pääsevät tositoimiin, kun Lennin äidiltä Johannalta varastetaan kaupungilla lompakko. Onneksi kummallakin on hyvä päättelykyky ja tarkka muisti.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298530|
-}
-
-[Merirosvot aarrejahdissa] {
-	[b-aut]:French, Vivian|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=French%2C+Vivian&callnumber=&size=medium&title=Merirosvot+aarrejahdissa&recordid=satakirjastot.429048&isbn=9518839166&index=0&w=1200&h=1200|
-	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Lassi on liittynyt merirosvolaivaston miehistöön vastoin äitinsä toivetta, koska haluaa löytää kultaa ja rikastua. Hänelle selviää pian, että laivan kapteeni on pahamaineinen Mustaparta. Ja mikä vielä hurjempaa, kapteeni Mustaparta haluaa syöttää Lassin haille... |
-  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.429048|
 }
 
 [Mestarietsivä Karoliina] {
@@ -486,15 +511,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22hotelli+h%C3%A4m%C3%A4r%C3%A4%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Etsiväkoira-sarja] {
-	[b-aut]:Wallace, Karen|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wallace%2C+Karen&callnumber=&size=medium&title=Kiilt%C3%A4v%C3%A4t+johtolangat&recordid=satakirjastot.362058&isbn=9518832706&index=0&w=1200&h=1200|
-	[b-tag]:Epäilyttäviä asioita|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Eräänä aamuna maatilan eläimet heräävät ja huomaavat, että joku on yön aikana jättänyt niille lahjan. Etsiväkoira saa nuuskia, kuka on ollut asialla... Toisessa kirjassa eläimet näkevät lumessa isot jalanjäljet. Apua, kenen ne ovat? Pystyykö etsiväkoira ratkaisemaan arvoituksen?|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22etsiv%C3%A4koira%22&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
 [Lasse-Maijan etsivätoimisto -sarja] {
 	[b-aut]:Widmark, Martin|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Widmark%2C+Martin&callnumber=&size=medium&title=Hotellin+arvoitus&recordid=satakirjastot.240285&isbn=9513130304&index=0&w=1200&h=1200|
@@ -524,6 +540,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&dfApplied=1&lookfor=clue+horst&type=AllFields|
 }
 
+[Harmaa hakkeri -sarja] {
+	[b-aut]:Hulkko, Johanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377050&index=0&size=large&source=Solr|
+	[b-tag]:Epäilyttäviä asioita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Glasieriksi kutsuttu salaperäinen hakkeri riemastuttaa koulukavereitaan hakkeroimalla käytävän näyttötauluihin hauskoja viestejä ja siirtelemällä koulun kelloja. Viaton huvi muuttuu jännittäväksi seikkailuksi, kun yksi oppilaista, Nico, tarvitsee kipeästi apua. Pystyykö edes Glasier pelastamaan Nicon perheen, kun vastassa on kaupungin mahtavin yritys Hopea, jonka johtaja ei kaihda kieroakaan peliä?|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=harmaa+hakkeri+hulkko&type=AllFields&sort=main_date_str+asc%2Cid+asc|
+}
+
 [Geoetsivät-sarja] {
 	[b-aut]:Hulkko, Johanna|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hulkko%2C+Johanna&callnumber=&size=medium&title=Geoetsiv%C3%A4t+ja+vaeltava+aave&recordid=satakirjastot.234100&source=Solr&isbn=9512357097&index=0&w=250&h=250|
@@ -533,13 +558,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=%22Geoetsiv%C3%A4t%22&type=AllFields&sort=main_date_str+asc|
 }
 
-[Löytöreteilijät-sarja] {
-	[b-aut]:Kress, Adrienne|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kress%2C+Adrienne%2C+kirjoittaja&callnumber=&size=medium&title=K%C3%A4tketty+ovi&recordid=satakirjastot.320868&isbn=9511296701&index=0&w=1200&h=1200|
+[Pages & kumppanit -sarja] {
+	[b-aut]:James, Anna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1471862&index=0&size=large&source=Solr|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Sebastianin säntillinen maailma menee mullin mallin, kun hän törmää pimeällä kujalla sijaitsevaan outoon kerhoon, jossa kokoontuvat aikamme suurimmat seikkailijat ja tutkimusmatkailijat. |
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=l%C3%B6yt%C3%B6retkeilij%C3%A4t+kress&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:11-vuotias Tilly on asunut isovanhempiensa kirjakaupan yläpuolella siitä lähtien, kun hänen äitinsä katosi mystisesti pian Tillyn syntymän jälkeen. Eräänä päivänä Tilly huomaa, että klassisia lastenkirjojen hahmoja alkaa vaellella kaupassa. Hahmot hyppäävät kirjojen sivuilta oikeaan elämään mystisellä kirjoissa matkustamisen taialla. Apulaisinaan Vihervaaran Anna ja Ihmemaan Liisa, Tilly päättää ratkaista hänen äitinsä katoamisen mysteerin. Hän astuu rohkeasti kohti tuntematonta tietämättä, millainen seikkailu häntä odottaa ja mitä vaaroja hänellä on edessään...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Pages+%26+kumppanit%22&type=Series&sort=main_date_str+asc%2Cid+asc|
 }
 
 [Zac Power -sarja] {
@@ -624,13 +649,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&dfApplied=1&lookfor=%22Lasilapset%22&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22|
 }
 
-[Arkeomysteeri -sarja] {
-	[b-aut]:Rossi, Nemo|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rossi%2C+Nemo&callnumber=&size=medium&title=Rooman+sudet&recordid=satakirjastot.420904&isbn=951039159X&index=0&w=1200&h=1200|
+[Oboin kirja] {
+	[b-aut]:Salmi, Veera|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1503414&index=0&size=large&source=Solr|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Vanhempiensa kansainvälisen työn perässä Italiaan kotiutuneet kaverukset Kaius ja Leo ovat jo tottuneet paikalliseen suurpiirteisyyteen. Poikien todistama tuore peltikolari on sinänsä harmiton, mutta pakettiauton lastina olevien laatikoiden oudot kirjainsymbolit herättävät tarkkasilmäisten teinien huomion. Kaiuksen omatoiminen hakkerisisar Silva saa selville, että kirjainyhdistelmä IRPI viittaa paitsi arkeologisiin aarteisiin myös Apollo-jumalan muinaisiin palvelijoihin. Kirjastossa viihtyvä Kaius tonkii lisätietoa mystisestä susipapistosta, ja suoraa toimintaa kannattava Leo luotsaa kolmikon hämärämiesten salaisille kaivauksille vuoristoon. Nuorten uteliaisuus johdattaa lopulta vuosituhansia vanhan salaisuuden jäljille.|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=arkeomysteeri&type=AllFields&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:13-vuotias Oboi on karannut etsimään entistä kotitaloaan. Hän päätyy katastrofin kärsineeseen kummalliseen kaupunkiin, jossa kukaan ei osaa lukea. Ihmisten toimia ohjaa kämmeneen kytketyn laitteen kautta salaperäinen Wanda, joka kertoo heille kaiken, mitä heidän pitää tietää ja tehdä. Kirpputorilla Oboi törmää naiseen, joka antaa hänelle kirjan. Naisen mukaan kirja voi muuttaa kaiken ja auttaa löytämään sen minkä Oboi luuli kadonneen ikuisesti. Ja yhtäkkiä tarinoita inhoava Oboi saakin huomata, että hänestä on tullut tarinan sankari, se orpo poika, jonka pitää pelastaa koko maailma.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1503414|
 }
 
 [Poika: murha seitsemännellä luokalla] {
@@ -735,15 +760,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Viisikko+Blyton&type=AllFields&sort=main_date_str+desc|
 }
 
-[Matilda] {
-	[b-aut]:Dahl, Roald|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Dahl%2C+Roald%2C+kirjoittaja&callnumber=&size=medium&title=Matilda&recordid=satakirjastot.1275520&source=Solr&isbn=951043728X&index=0&w=250&h=250|
-	[b-tag]:Ikisuosikkeja|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Matilda Wormwoodin isä on huijariautokauppias, jonka mielestä Matilda on sietämätön kiusankappale. Hänen äitinsä taas viettää kaikki päivät bingohallissa. Ja Matildan koulua johtava neiti Trunchbull se vasta tapaus onkin. Raivopäärehtori vihaa jokaista oppilastaan ja telkeää heidät pahamaineiseen Poteroon pienimmästäkin rikkeestä. Mutta Matildallapa onkin paitsi veitsenterävä pää, myös yliluonnollisia kykyjä. Ja nyt hän on saanut mahdottomista aikuisista tarpeekseen. Varokoon koko sakki - Matilda aikoo antaa heille sellaisen opetuksen, jota he eivät ihan heti unohdakaan!|
-  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Elanguage%3A%22fin%22&lookfor=Dahl+Matilda&type=AllFields|
-}
-
 [Neiti etsivä -sarja] {
 	[b-aut]:Keene, Carolyn|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Keene%2C+Carolyn&callnumber=&size=medium&title=Neiti+Etsiv%C3%A4+ja+jalokivilippaan+arvoitus&recordid=satakirjastot.336884&source=Solr&isbn=9513102971&index=0&w=250&h=250|
@@ -760,6 +776,24 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Peter, Susan, Edmund ja Lucy löytävät tien vaatekaapin kautta tarumaailma Narniaan. Siellä he kohtaavat mahtavan leijonan, Aslanin, ja liittoutuvat hänen kanssaan taistellakseen Valkoista Noitaa vastaan ja pelastaakseen Narnian pimeyden voimilta.|
   	[b-ava]:https://satakirjastot.finna.fi/Cover/Show?author=Scarry%2C+Richard%2C+kirjoittaja%2C+taiteilija&callnumber=&size=medium&title=Mato+Matalan+onnenp%C3%A4iv%C3%A4t+%3A+Richard+Scarryn+suurimmat+suosikit&recordid=satakirjastot.1290915&isbn=9520404686&index=0&w=1200&h=1200|
+}
+
+[Hulluja satuja] {
+	[b-aut]:Noronen, Paula|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1403003&index=0&size=large&source=Solr|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Komiikan mestarit vauhdissa: pähkähulluissa saduissa seikkailevat mm. kauhuoravat, coolit bilekissat, toimelias Kakkakikkare sekä villit vauvat.|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1403003|
+}
+
+[Satujen sankarit -sarja] {
+	[b-aut]:Percival, Tom|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1375750&index=0&size=large&source=Solr|
+	[b-tag]:Ikisuosikkeja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Pavunvarrestaan kuuluisalla Jaakolla ei ole elämässään huolen häivää. Jaakko asuu parhaiden kavereidensa kanssa kaupungissa, jossa tarinat kirjaimellisesti kasvavat puissa ja hänellä on lemmikkinään jännittävä puhuva kana. Mutta kun Jaakko saa selville, että kaupunkiin tullut uusi lapsi juttelee salaa peikolle, kaikki muuttuu. Jokainen tietää, että peikot tarkoittavat vain ja ainoastaan ongelmia. Siispä Jaakko aikoo tehdä kaikkensa, jotta hän saa todistettua ystävilleen uuden lapsen hämärät puuhat. Silläkin uhalla, että tämä vaatisi varastetun taian käyttämistä!|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Percival%2C+Tom%22&type=Series&sort=main_date_str+asc%2Cid+asc|
 }
 
 [Ihan oikeat viikinkiajan lapset] {
@@ -848,6 +882,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Amelia Kulmuri -sarja] {
+	[b-aut]:Anderson, Laura Ellen|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1498893&index=0&size=large&source=Solr|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Amelia ja hänen ystävänsä ovat innoissaan tulevasta leiriviikosta Valon valtakunnassa. Salaperäisellä leirisaarella kaikki ei kuitenkaan ole aivan sitä, miltä näyttää. Joku ohjailee Amelian venettä matkalla meren yli, ja kaikki saaren asukkaat ovat mystisesti kadonneet. Tutkiessaan metsää Amelia ja hänen ystävänsä löytävät myös hohtavan luumupuun, jonka hedelmillä on heille pikkuruinen yllätys...|
+  	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=Anderson+Amelia+Kulmuri&type=AllFields&sort=main_date_str+asc%2Cid+asc|
+}
+
 [Vesta-Linnea ja kaverit] {
 	[b-aut]:Appelgren, Tove|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1290918&index=0&size=medium&w=1200&h=1200|
@@ -884,22 +927,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lagercrantz+dunne&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
 }
 
-[Paula saa ystävän] {
-	[b-aut]:Reider, Katja|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Reider%2C+Katja&callnumber=&size=medium&title=Paula+saa+yst%C3%A4v%C3%A4n&recordid=satakirjastot.339598&isbn=9518839506&index=0&w=1200&h=1200|
-	[b-tag]:Kaverikiemuroita|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Paula kaipaa ystävää – sellaista, jonka kanssa kulkea kouluun ja jolle kertoa salaisuudet. Niinpä hän ilahtuu, kun luokalle tulee uusi tyttö. Enni ei kuitenkaan tunnu pitävän hänestä. Sitten eräänä aamuna Paula tarvitsee apua, ja Enni osuu paikalle juuri sopivasti... |
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.339598|
-}
-
 [Eetu-sarja] {
 	[b-aut]:Rekola, Teija|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rekola%2C+Teija&callnumber=&size=medium&title=Eetu+ja+ruma+Rusina&recordid=satakirjastot.357966&isbn=9510395587&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rekola%2C+Teija&callnumber=&size=large&title=Eetu+ja+ruma+Rusina&recordid=satakirjastot.357966&source=Solr&isbn=9510395587&index=0|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Eetun perheeseen on saapunut uusi tulokas, pikkusisko Rusina joka hypnotisoi äidin ja isän. Se huutaa yöt ja rikkoo parhaat lelut. Eetu koittaa olla kiltti, mutta kun kuukaudet kuluvat, hänen taakseen kasvaa varjo. Vaan mikä eteen, kun synnytyslaitos ei ota vauvoja takaisin eikä Aunetätikään huoli yllättävää joululahjaa? Nyt on kiire, ennen kuin Rusina hurmaa veljensäkin!|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=rekola+eetu&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20|
+	[b-des]:Eetun perheeseen on saapunut uusi tulokas, pikkusisko Rusina joka hypnotisoi äidin ja isän. Se huutaa yöt ja rikkoo parhaat lelut. Eetu koittaa olla kiltti, mutta kun kuukaudet kuluvat, hänen taakseen kasvaa varjo. Vaan mikä eteen, kun synnytyslaitos ei ota vauvoja takaisin eikä Aunetätikään huoli yllättävää joululahjaa? Nyt on kiire, ennen kuin Rusina hurmaa veljensäkin! Koomisia kiepsautuksia täynnä oleva tarina käsittelee railakkaasti lapsiperheille tuttua aihetta, sisarkateutta. Mervi Lindmanin raikkaista, vauhdikkaista kuvista pursuaa huumori ja elämänilo.|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&lookfor=eetu+rekola&type=AllFields&filter%5B%5D=%7Elanguage%3A%22fin%22|
 }
 
 [Sandra ja kaverikiemurat] {
@@ -986,6 +1020,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
+[Filigraanityttö] {
+	[b-aut]:Holopainen, Anu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1405336&index=0&size=large&source=Solr|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-tag]:Kaverikiemuroita|	
+	[b-des]:Kaksi asiaa pitää Ennin elämän oikeilla raiteilla: filigraanisormus ja leluhylly, jossa lapsuusvuosien pehmot istuvat aina tietyssä järjestyksessä. Jos järjestys menee sekaisin, Enni uskoo jonkin vaaran uhkaavan häntä itseään tai hänen läheisiään. Sormusta Enni pyörittää hädän hetkellä kolme kertaa oikealle, kolme kertaa vasemmalle. Silloin Varoittaja hänen päässään vaikenee ja olo on turvallinen. Kukaan ei sitä ymmärrä. Mutta sitten Enni näkee jotakin. Kohtalotoverin?|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1405336|
+}
+
 [Verkot] {
 	[b-aut]:Kallioniemi, Tuula|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320327&index=0&size=medium&w=1200&h=1200|
@@ -1004,6 +1047,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.279236|
 }
 
+[Roope, Make ja lusikkatesti] {
+	[b-aut]:Kuutti, Maria|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1501480&index=0&size=large&source=Solr|
+	[b-tag]:Kaverikiemuroita|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Roope, Make ja lusikkatesti kuvaa humoristisesti ja samaistuttavasti nuoren pojan elämää ja ongelmia - niin vauhdikkaita kommelluksia kuin kaverisuhteiden kiemuroita. Uuden kirjasarjan avausteoksessa on runsas kuvitus, ja osa luvuista on kerrottu sarjakuvan keinoin. Kuutosluokkalainen Roope haaveilee moposta, johon on säästänyt rahaa jo monta vuotta. Vihdoinkin hän on saamassa sellaisen - jos vain kerää koulusta tarpeeksi positiivisia Wilma-merkintöjä. Valitettavasti Roopen paras kaveri Make on hivenen ylivilkas ja saa Roopen mukaansa erilaisiin hölmöilyihin, joiden seuraukset pöllähtävät välillä sananmukaisesti omalle naamalle. Miten mopohaaveen käy?|
+  	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1501480|
+}
+
 [Myyty tyttö] {
 	[b-aut]:Mattila-Laine, Satu|
 	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?id=satakirjastot.1303285&index=0&size=medium&w=1200&h=1200|
@@ -1011,15 +1063,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Sata vuotta sitten Suomessa köyhä lapsi saatettiin myydä huutokaupalla hoidokiksi. Näitä lapsia kutsuttiin huutolaisiksi. Myyty tyttö kertoo Lempin tarinan.|
   	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1303285|
-}
-
-[Ihme] {
-	[b-aut]:Palacio, R.J.|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palacio%2C+R.+J.&callnumber=&size=medium&title=Ihme&recordid=satakirjastot.300904&isbn=9510418919&index=0&w=1200&h=1200|
-	[b-tag]:Kaverikiemuroita|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:August Pullmanin kasvot ovat pahasti epämuodostuneet. Kotikoulua tähän mennessä käynyt Auggie on nyt aloittamassa viidennen luokan oikeassa koulussa. Se kiehtoo ja pelottaa. Hän on ihan tavallinen nuori epätavallisten kasvojensa takana, mutta saako Auggie uudet koulukaverinsa uskomaan sen?|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ihme+palacio&type=AllFields&limit=20&sort=|
 }
 
 [Sori vaan, se on totuus] {
@@ -1031,14 +1074,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.282728|
 }
 
-[Ystäväni Vicky] {
-	[b-aut]:Wilson, Jaqueline|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Wilson%2C+Jacqueline&callnumber=&size=medium&title=Yst%C3%A4v%C3%A4ni+Vicky&recordid=satakirjastot.311469&isbn=9511203940&index=0&w=1200&h=1200|
-	[b-tag]:Kaverikiemuroita|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Vicky on 12-vuotiaan Jaden paras ystävä, ja Jade tekee aina niin kuin Vicky haluaa. Kun Vicky menehtyy liikenneonnettomuudessa, Jaden maailma romahtaa. Miksi heidän piti riidellä juuri ennen onnettomuutta? Pian Jade huomaa, ettei komentelevainen Vicky ole jättänyt häntä - tuntuu kuin tämä yhä seuraisi Jaden jokaista liikettä ja sanaa. Eikä Jade aina ole kaikesta samaa mieltä kuin Vicky. Huono omatunto piinaa Jadea, mutta lopulta hän uskaltaa valita itse niin sanansa kuin ystävänsäkin.|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.311469|
-}
 
 
 
@@ -1096,6 +1131,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=viiru+ja+pesonen+nordqvist&type=AllFields&sort=main_date_str+desc|
 }
 
+[Ella-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Ella+Lapissa&recordid=satakirjastot.296285&source=Solr&isbn=9513139360&index=0&w=250&h=250|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Minä olen Ella, olen ensimmäisellä luokalla. Meillä on mukava luokka ja mukava opettaja, tai oli, sillä viime aikoina opettaja on ollut vähän hermostunut…|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+desc%2Cid+asc&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&join=AND&bool0%5B%5D=AND&lookfor0%5B%5D=ella&lookfor0%5B%5D=parvela&lookfor0%5B%5D=timo&type0%5B%5D=AllFields&type0%5B%5D=AllFields&type0%5B%5D=AllFields|
+}
 
 [Kapteeni Kalsari -sarja] {
 	[b-aut]:Pilkey, Dav|
@@ -1106,6 +1149,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=pilkey+kapteeni+kalsari&type=AllFields|
 }
 
+
+[Vinski ja näkymättömyyspulveri] {
+	[b-aut]:Aapeli|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1403153&index=0&size=large&source=Solr|
+	[b-tag]:Kirja vai elokuva|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Koko kaupungin tuntema Vinski ostaa näkymättömyyspulveria ja samalla ystävystyy Hömpstadin kaupungin apteekkarin kanssa. Alkaa hulvaton seikkailu, jossa tehdään hyviä tekoja!|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1403153|
+}
 
 [Jali ja suklaatehdas] {
 	[b-aut]:Dahl, Roald|
@@ -1132,6 +1184,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Vilja on rosvopäällikkö Hurja-Kaarlo Rosvolan heräteryöstö - tavallisesti Rosvolat nappaavat autoista vain karkkeja ja muuta syötävää, barbeja ja lehtiä. Mummolamatkalla ollut Vilja tulee mukaan vähän vahingossa, rosvoperheen omien lasten Helen ja Kallen seuraksi. \n\nTytön järkytys muuttuu pian ymmärrykseksi. Hänestä on hauskaa, kun kaahataan nasta laudassa, pysähdytään uimaan milloin huvittaa, ryöstetään karkkeja, paetaan poliiseja ja Viljan isää, pelataan jatsia, syödään ulkona ja nukutaan teltassa.|
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=me+rosvolat+kolu&type=AllFields|
+  [additionalInformation]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Me rosvolat.|
 }
 
 [Supermarsu-sarja] {
@@ -1161,22 +1214,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.264272|
 }
 
-[Apua, ryöstö!] {
-	[b-aut]:Trenter, Laura|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Trenter%2C+Laura&callnumber=&size=large&title=Apua%2C+ry%C3%B6st%C3%B6%21&recordid=satakirjastot.411742&isbn=9511208799&index=0|
+[Kauhuagentti Nelli Rapp -sarja] {
+	[b-aut]:Widmark, Martin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Widmark%2C+Martin&callnumber=&size=medium&title=Hirvi%C3%B6akatemia&recordid=satakirjastot.384633&source=Solr&isbn=9513149501&index=0&w=250&h=250|
 	[b-tag]:Kirja vai elokuva|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Yhdeksänvuotias Sebastian ja hänen ystävänsä Johanna joutuvat postiryöstön silminnäkijöiksi. \n\nTapaus säikäyttää Sebastianin tolaltaan - Johanna reagoi ryhtymällä selvittämään ryöstöä omin päin. Lapset päätyvät vakoilemaan epäilyttävän tuntuista naapuria, jolla on samanlaiset kengät kuin postiryöstäjällä. \n\nPelko ei kuitenkaan jätä Sebastiania rauhaan, ja hänet viedään psykologin puheille. Kun Hämähäkkimiehestä pitävä psykologi voittaa pojan luottamuksen, voi toipuminen alkaa. Myös postiryöstön tekijät löytyvät lopulta Johannan ja Sebastianin vihjeen perusteella.|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.411742|
-}
-
-[Prätkäjengin jäljillä] {
-	[b-aut]:Trenter, Laura|
-	[b-cov]:https://www.kirjasampo.fi/sites/default/files/styles/medium/public/kulsa_cache/images/media.onki.fi/7/2/4/saha/kirjasampo/0_2760095217449768480.jpg?itok=Vn63b394|
-	[b-tag]:Kirja vai elokuva|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:10-vuotias Julian, poliisin poika, selvittelee kotikorttelissaan tapahtunutta ampumavälikohtausta: kuka moottoripyöräkerholaisista ampui isää ja miksi? Kun lisäksi näyttää siltä, että jengi on kostanut nappaamalla Julianin pikkusiskon Rebeckan, veljen on ryhdyttävä omin voimin palauttamaan perheen elämänuskoa. Shitheads-jengin päämajan ympärillä vakoillessaan Julian kohtaa Jimin - joka onneksi osoittautuu poikkeuksellisen ystävälliseksi... Kertomuksen edetessä uhka vähenee ja luottamus ja vastuu tulevat kantaviksi teemoiksi.|
-  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.342194|
+	[b-des]:Tervetuloa Hirviöakatemian oppilaaksi. Eräänä syysiltana Nelli Rappin isä avaa kirjekuoren, josta paljastuu kutsu vieraisille arvoituksellisen Hannibal-sedän luokse. Rappin perhe pakkautuu autoon ja ajaa sedän maaseutukartanoon. Perillä he huomaavat, että talo muistuttaa todellista kummituslinnaa. Ovella heidät ottaa vastaan valtavan pitkä, mustiin pukeutunut hovimestari. Ruokasali taas on täynnä vieraita, joilla on kaikilla merkillinen, lepakonmuotoinen rintakoru. Yläkerrasta Nelli löytää salamyhkäisen luokkahuoneen ja Lappaja-Leenan, Hirviöakatemian opettajan. Seuraavaksi Nelli ja hänen koiraystävänsä London joutuvat vastakkain ihka oikean vampyyrin kanssa - ainakin melkein! Nellin täytyy nimittäin läpäistä kiperä koe, ennen kuin hänet voidaan hyväksyä opiskelijaksi Hirviöakatemiaan, opinahjoon, joka kouluttaa kauhuagentteja...|
+  [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&lookfor=Kauhuagentti+Nelli+Rapp&type=AllFields&sort=main_date_str+asc%2Cid+asc|
 }
 
 
@@ -1198,15 +1242,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=jos+viel%C3%A4+j%C3%A4%C3%A4n+forman&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Coraline varjojen talossa] {
-	[b-aut]:Gaiman, Neil|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Russell%2C+P.+Craig&callnumber=&size=medium&title=Coraline&recordid=satakirjastot.357136&isbn=9522330663&index=0&w=1200&h=1200|
+[Ihme] {
+	[b-aut]:Palacio, R. J.|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Palacio%2C+R.+J.&callnumber=&size=large&title=Ihme&recordid=satakirjastot.300904&source=Solr&isbn=9510418919&index=0|
 	[b-tag]:Kirja vai elokuva|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Kun Coraline löytää omituisen oven, hän astuu sen kautta toiseen maailmaan ja toiseen taloon, joka muistuttaa hänen omaa kotiaan... paitsi että siellä kaikki on paremmin. Ainakin aluksi. Ruoka on makoisampaa, naapurit ovat jännittävämpiä ja lelulaatikko täynnä leijailevia vieterienkeleitä sekä hampaitaan narskuttavia dinosauruksen kalloja. Mutta talossa asuvat myös toinen isä ja toinen äiti, jotka haluavat, että Coraline jää asumaan heidän luokseen. He haluavat, että hän ompelee silmiinsä napit eikä ikinä lähde pois. Coraline joutuu käyttämään kaikki keinonsa ja urheutensa, mikäli hän mielii palata oikeaan kotiinsa ja pelastaa oikeat vanhempansa.|
-  [b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=gaiman+coraline&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
+	[b-des]:August Pullmanin kasvot ovat pahasti epämuodostuneet. Kotikoulua tähän mennessä käynyt Auggie on nyt aloittamassa viidennen luokan oikeassa koulussa. Se kiehtoo ja pelottaa. Hän on ihan tavallinen nuori epätavallisten kasvojensa takana, mutta saako Auggie uudet koulukaverinsa uskomaan sen?|
+  [b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.300904|
 }
-
 
 [Percy Jackson -sarja] {
 	[b-aut]:Riordan, Rick|
@@ -1228,6 +1271,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 
 
+[Yrmeä yksisarvinen -sarja] {
+	[b-aut]:Bird, Pip|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377170&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Koulussa ja koulusta|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Paras tarina yksisarvisista ja ystävyydestä ikinä. Riemukas ja taikojentäyteinen uusi kirjasarja alakoululaisille. Mira ei malta odottaa, että pääsee aloittamaan Yksisarviskoulun. Kun ensimmäinen koulupäivä vihdoin koittaa, määrätään kaikille oppilaille oma yksisarvisystävä. Ne ovat toinen toistaan uljaampia ja ylväämpiä ‒paitsi Teppo. Teppo ei ole tavallinen taianomainen yksisarvinen. Hän on ennemmin yrmeä kuin kimmeltävä ja kiinnostuneempi lounaasta kuin huikeista löytöretkistä. Mira ei silti lannistu. Tepon kanssa hän aikoo olla paras Taikalaukassa!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=yrme%C3%A4+yksisarvinen&type=AllFields&sort=main_date_str+desc%2Cid+asc|
+}
 
 [Eka B -sarja] {
 	[b-aut]:Bross, Helena|
@@ -1247,15 +1298,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=kahjo+kouluni+gutman&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Karoliina -sarja] {
-	[b-aut]:Kallioniemi, Tuula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Karoliina+ja+noidutut+tossut&recordid=satakirjastot.374987&isbn=9511230018&index=0&w=1200&h=1200|
-	[b-tag]:Koulussa ja koulusta|
-	[b-cat]:1. Lukutoukka|
-	[b-des]: Tomera 6-vuotias Karoliina Paju saa vihdoin aloittaa Ruusutarhan esikoulun! Melkein kaikki Kissankellot-ryhmän eskarilaiset ovat onneksi tuttuja jo päiväkodista. Kiinassa syntyneen Linin pinkkien hiletossujen rinnalla Karoliinan omat tarhatossut näyttävät kauhean tylsiltä. Ei siis ihme, että ne muuttuvat yhtäkkiä noidutuiksi, ne vain kieppuvat kieppumistaan - onhan ne ostettu naapurin noita-akalta! Kun sanavalmiin Karoliinan mielikuvitus lähtee villiin laukkaan, aika ei käy pitkäksi kavereilla eikä opettajilla!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=karoliina+kallioniemi+tuula&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
 [Reuhurinteen ala-aste -sarja] {
 	[b-aut]:Kallioniemi, Tuula|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula&callnumber=&size=medium&title=Reuhurinne.+1&recordid=satakirjastot.411660&isbn=9511223720&index=0&w=1200&h=1200|
@@ -1265,7 +1307,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=reuhurinteen+kallioniemi+tuula&type=AllFields|
 }
 
-[Patrik ja superseniorit] {
+[Patrik ja superseniorit -sarja] {
 	[b-aut]:Klingenberg, Malin|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Klingenberg%2C+Malin%2C+kirjoittaja&callnumber=&size=medium&title=Patrik+ja+superseniorit.+Osa+1%2C+Seniorivoimaa%21&recordid=satakirjastot.1297568&isbn=9515247128&index=0&w=1200&h=1200|
 	[b-tag]:Koulussa ja koulusta|
@@ -1281,7 +1323,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Vilttitossua harmittaa, kun hän kuulee, että Heinähatun luokka pääsee onkiretkelle. Vilttitossu päättää huijata Heinähattua: hän pyytää naapurin Halise Alibullenia opettamaan kirjoittamista. "Kirjoita, että 'onkiretki peruutettu'", Vilttitossu ehdottaa. Halise ihmettelee outoa lausetta, mutta tottelee. Vilttitossu sujauttaa paperin kotinsa postiluukusta, Heinähattu lukee viestin, olettaa, että opettaja on sairas ja jää kotiin.\n\nSeuraavana aamuna olkihattupäinen, oudosti lyhentynyt "Heinähattu" marssii onkiretkelle luokan kanssa. Hän ryhtyy ärhäkällä tyylillään johtamaan luokkaa, joka villiintyy ennennäkemättömällä tavalla. Alibullenin neidit sattuvat kävelemään retkeläisten ohi, ja mainitsevat siitä Heinähatulle - joka pian ymmärtää asioiden oikean laidan. Mutta mitä tapahtuu, kun retkellä onkin kaksi Heinähattua? Heinähattu, Vilttitossu ja ärhäkkä koululainen on koominen tarina siitä, kun isosisko on koulussa ja pikkusisko tuntee olonsa yksinäiseksi. Se kertoo myös siitä lyhyestä ajasta ihmisen elämässä, jolloin kouluun meno on ihanaa.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.383891|
-	[additionalInformation]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Heinähattu, Vilttitossu ja ärhäkkä koululainen.
+	[additionalInformation]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Heinähattu, Vilttitossu ja ärhäkkä koululainen.|
 }
 
 [Koulussa on käärme] {
@@ -1293,6 +1335,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1239919|
 }
 
+
+[Maagisten eläinten koulu] {
+	[b-aut]:Auer, Margit|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1416296&index=0&size=large&source=Solr|
+	[b-tag]:Koulussa ja koulusta|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Tällä koululla on salaisuus. Onnekkaimmat löytävät täältä parhaan ystävän - maagisen eläimen. Mikään ei ole entisellään sen jälkeen kun lemmikkikauppias Mortimer Morrison vierailee koulussa. Hänellä nimittäin on mukanaan joukko maagisia eläimiä, jotka etsivät itselleen omaa ihmistä. Ujo Benni toivoo ystäväkseen villiä saalistajaa, mutta kilpikonna Henrietta osoittautuukin hänen parhaaksi ystäväkseen. Ida puolestaan löytää vihdoin jonkun jonka kanssa puhua - ketun, josta tulee hänen paras ystävänsä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=Maagisten+el%C3%A4inten+koulu&type=AllFields&limit=20&sort=|
+}
 
 [Konsta-sarja] {
 	[b-aut]:Kallioniemi, Tuula|
@@ -1310,15 +1361,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:"Nimeni on Lotta, olen 10-vuotias ja ihan normaali. Ainakin normaalimpi kuin vanhempani ja kaksi pönttöveljeäni. Siksi en ollenkaan ymmärrä, miksi juuri minulle on viime aikoina sattunut niin paljon kummia juttuja. Vaikka se, että koulussa taululle ilmestyy itsestään todella noloja tekstejä tai että lempiruokani maistuu yhtäkkiä ruusukaalilta. Yök! Johtuuko se intialaisesta nokkahuilusta, jonka äiti antoi minulle? Tällaiseen minulla ei nyt riitä aika. Haluan nimittäin oman lemmikkieläimen. Ja minulla on jo hyvä suunnitelma sen saamiseksi."|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=lotta+levoton+panterm%C3%BCller&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
-}
-
-[Iso Nipa -sarja] {
-	[b-aut]:Peirce, Lincoln|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Peirce%2C+Lincoln&callnumber=&size=medium&title=Iso+Nipa+on+ykk%C3%B6nen&recordid=satakirjastot.311656&isbn=9511282069&index=0&w=1200&h=1200|
-	[b-tag]:Koulussa ja koulusta|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Hyväntahtoista alakouluhuumoria ja mahtavaa tilannekomiikkaa! Helppolukuisen sarjakuvakertomuksen vitsikäs antisankari saa pojatkin tarttumaan kirjaan Nipalla on taipumusta sarkastisiin huomioihin ja aika suuret luulot itsestään. Hänellä on myös tapana ajautua selkkauksiin, vaikkei hän mikään pahis olekaan. Eräänä päivänä hän tajuaa rikkoneensa ennätyksen. Kukaan muu ei ole aiemmin saanut seitsemää muistutusta yhden ainoan koulu päivän aikana. Vihdoin hän on osoittanut olevansa jossakin lajissa ykkönen!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=iso+nipa+peirce&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
 
 [Tom Gates -sarja] {
@@ -1385,6 +1427,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=n%C3%B6rtti+delikouras&type=AllFields&sort=main_date_str+asc|
 }
 
+[Vuokko Vehma - elämä ja teot] {
+	[b-aut]:Hietala, Nelli|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1542226&index=0&size=large&source=Solr|
+	[b-tag]:Koulussa ja koulusta|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Vuokko Vehma on 13-vuotias ja poikkeustapaus. Hänellä on aavistuksen verran mutkikas perhetausta ja lievästi sanottuna erikoinen pukeutumismaku. Vuokko ei kuitenkaan ole halukas tinkimään värikkäästä tyylistään eikä salaisesta toiveestaan paljastua suureksi taiteilijaneroksi. Kun kokkikerhoon pölähtää pääkaupunkiseudulta toinen outolintu, tilanne muuttuu kertaheitolla ja kuviksen kiusallinen parityöprojektikin tarjoaa uusia haasteita. Koulun halloween-bileissä taitaa olla nyt kaksi yksinäistä sutta...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1542226|
+}
+
 [Luutarhurin tapaus] {
 	[b-aut]:Lipasti, Roope|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1291055&index=0&size=medium&w=1200&h=1200|
@@ -1401,15 +1452,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Atte on pojista ainoa, joka pystyy venymään Alpo Korvan rooliin Häräntappoase-näytelmässä. Tosielämän yllätyskohtauksissa oikeita repliikkejä ei tunnu sitten löytyvänkään. Ainakaan silloin, kun tarkkisluokan kiehtova tyttö tulee kirjastossa vastaan ja lainaa samaisen romaanin. Mustiin verhoutunut Anni huomaa kohta vajoavansa päiväunelmiin. Kun Annin apua tarvitaan näytelmän puvuston korjailussa, hän on riemuissaan tutustuessaan valovoimaiseen Elovena-poikaan Atteen. Samalla hän ihmettelee, mitä onkaan tapahtumassa sille ahdistuneelle naisenalulle, joka tähän asti on halunnut vain paeta omiin mielikuviinsa? Kuvankauniin vastanäyttelijättärensä Jennin suhteen Atte on tunteissaan harvinaisen selvillä vesillä. Mutta salaperäisen Annin sydämen elämää suurempi Alpo Korvakin kai yrittäisi voittaa omakseen.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.329024|
-}
-
-[Painajainen leirikoulussa] {
-	[b-aut]:Pietikäinen, Markku|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.423914&index=0&size=medium&w=1200&h=1200|
-	[b-tag]:Koulussa ja koulusta|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Villen, Jussin ja Emman luokan seikkailu leirikoulussa muuttuu totiseksi todeksi, kun leiripaikan erikoinen isäntä Väinö Kolu ottaa koko luokan panttivangikseen. Yrmeä Kolu näyttää kykenevän julmiin tekoihin, ja leiriläisten riveissä leviävät sekasorto ja pelko. Löytävätkö he yhdessä keinon selviytyä?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.423914|
 }
 
 [Eleanor & Park] {
@@ -1431,6 +1473,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Mortina asuu Tuoni-tädin ja Kaiho-koiransa kanssa aavemaisessa Villa Tuonelassa, jossa seurana ovat myös suvun esi-isät. Mortina haaveilee ikäisistään leikkikavereista, mutta Tuoni-täti on tämän kieltänyt: kylän lapset saattaisivat pahanpäiväisesti pelästyä zombityttöä, ja zombit voitaisiin häätää kodistaan, jota kyläläiset luulevat autiotaloksi. Halloween-juhlan lähestyessä neuvokas ja lannistumaton Mortina kuitenkin keksii mainion keinon ystävystyä toisten lasten kanssa! |
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22&lookfor=mortina+cantini&type=AllFields&sort=main_date_str+asc|
+}
+
+[Sara ja Sassafrassa -sarja] {
+	[b-aut]:Citro, Asia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1399839&index=0&size=large&source=Solr|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Sara ja Sassafrassa -sarja on täynnä taikaolentoja, arvoituksia ja seikkailuja. Jokaisessa kirjassa Sara ja hänen kissansa tutustuvat uuteen olentoon, jolla on ongelma ratkottavana. Tiedettä apuna käyttäen kaverukset auttavat hellyttäviä otuksia ja sukeltavat taikaolentojen maailmaan.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Sara+ja+Sassafrassa%22&type=Series|
 }
 
 [Pyjamapiraatit] {
@@ -1478,15 +1529,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=y%C3%B6koulu+noronen&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&limit=20|
 }
 
-[Kissapojan yö] {
-	[b-aut]:Richemont, Enid|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Richemont%2C+Enid&callnumber=&size=medium&title=Kissapojan+y%C3%B6&recordid=satakirjastot.360992&isbn=9518837074&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Eräänä iltana Rasmus-kissalla on omituinen olo. Se katsoo kauhuissaan käpäliään, joihin putkahtaa oudon näköisiä sormia ja varpaita. Pian Rasmus huomaa osaavansa jopa puhua! Sen omistaja Masa on järkyttynyt - mitä Rasmukselle on oikein tapahtunut?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.360992|
-}
-
 
 [Maan kätkemät] {
 	[b-aut]:Aarnio, Reetta|
@@ -1497,22 +1539,24 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna-test.fi/Search/Results?filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&dfApplied=1&lookfor=maan+k%C3%A4tkem%C3%A4t+aarnio&type=AllFields&sort=main_date_str+asc|
 }
 
-[Hirviökäsikirja] {
-	[b-aut]:Koski, Mervi|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Koski%2C+Mervi&callnumber=&size=medium&title=Hirvi%C3%B6k%C3%A4sikirja&recordid=satakirjastot.341638&isbn=951235232X&index=0&w=1200&h=1200|
+[Pohjantuli-sarja] {
+	[b-aut]:Falch, Malin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1452778&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Lasten ja nuorten ikuinen lempiaihe herää henkiin tässä huiman monipuolisessa ja hauskassa hirviöoppaassa, joka esittelee liki 80 toinen toistaan karmivampaa otusta eri puolilta maailmaa. Valikoimassa ovat mukana tunnetuimmat kammotukset sekä kaukomailta että lähempää, mm. Medusa, kyklooppi, lohikäärme, jeti, isojalka, vampyyri, Loch Nessin hirviö, hippokamppi, ukkoslintu ja Kerberos.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.341638|
+	[b-des]:Sonja on tavallinen norjalainen tyttö, joka pitää ratsastamisesta ja haaveilee seikkailuista. Eräänä yönä, revontulien loistaessa, hänen kotiinsa ilmestyy salaperäinen poika, joka kertoo olevansa kotoisin toisesta maailmasta. Poika kutsuu Sonjan mukaansa myyttien ja magian täyteiselle matkalle, joka muuttaa hänen elämänsä...|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Pohjantuli%22&type=Series|
 }
 
-[Villitalo] {
-	[b-aut]:Kolu, Siri|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320329&index=0&size=medium&w=1200&h=1200|
+
+
+[Unohtunut maa] {
+	[b-aut]:Leisko, Satu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Leisko%2C+Satu&callnumber=&size=large&title=Unohtunut+maa&recordid=satakirjastot.314566&source=Solr&isbn=9515805716&index=0|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kun vanha huvila ottaa jalat alleen, talon lapset päättävät selvittää, mistä kummasta oikein on kysymys.\n\nTomtomin isä pääsee talonmieheksi mysteerimiljonääri van Böökin omistamaan vanhaan hienoon huvilaan. Rapinalinna on vielä paljon ihmeellisempi kuin Tomtom on osannut odottaa - perheen muuttoa seuraavana yönä se lähtee kaikkien asukkaiden yllätykseksi liikkeelle.\n\nMiksi talolla on jalat? Voiko sitä ohjata niin kuin autoa? Millaiseen seikkailuun se oikein on asukkaita viemässä? Ja ennen kaikkea, ketkä sitä ajavat takaa ja mistä syystä? Siinä Tomtomilla ja talon muilla lapsilla riittää ratkottavaa.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320329|
+	[b-des]:Susannan elämässä kaikki muuttuu, kun isä muuttaa pois. Mikään ei ole enää hauskaa tai samanlaista kuin ennen. Kurja tilanne saa uuden käänteen, kun Susanna tapaa metsän laidassa ihmeellisen Aarnin. Hän vie Susannan harsomaailmaan. Paikka tuntuu kummallisen tutulta. Onko Susanna käynyt harsomaailmassa ennenkin? Satu Leiskon selkokielinen nuorten fantasiakirja Unohtunut maa vie lukijan ollumien ja liekkojen arvoitukselliseen maahan. Tapahtumien pyörteissä tarinan päähenkilö Susanna huomaa, miten toivottominkin tilanne voi kääntyä hyväksi. Helppolukuinen nuortenkirja on suunnattu yläkoululaisille lukijoille.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.314566|
 }
 
 [Suuri hirviökirja] {
@@ -1522,6 +1566,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Arvoisat ihmiset. Tämä kirja on toisenlainen kuin kaikki muut maailman kirjat, sillä sitä ei ole kirjoittanut ihminen, vaan oikea HIRVIÖ! Luit aivan oikein: hirviö on kirjoittanut sen. Tähän saakka ihmiset ovat luulleet hirviöitä mielikuvitusolennoiksi, jotka kuuluvat vain sadun ja fantasian maailmaan. Mutta, uskokaa tai älkää, hirviöt ovat yhtä todellisia kuin ihmiset, kasvit, eläimet, pilvet ja kaikki muu. Hirviöt vain ovat tähän asti pysyneet visusti piilossa. Syyn siihen löydät tästä kirjasta. Samalla selviää myös, miksi hirviöt eivät enää halua piileskellä... Tieto hirviöiden olemassaolosta voi tietysti tuntua järkyttävältä. Mutta hirviöt pelottavat meitä vain, koska emme tiedä niistä mitään! Kannattaa siis ehdottomasti tutustua niihin ja lukea tämä kirja. Sitä paitsi, hirviöt ovat meille läheisempää sukua kuin arvaammekaan.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.253697|
+}
+
+[Hirviö ja Helmikki] {
+	[b-aut]:Meggitt-Phillips, Jack|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1403164&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Hirviö ja Helmikki aloittaa karmivan hauskan sarjan kaiken ahmivasta hirviöstä ja Helmikki-tytöstä, johon ei mokoma otus tee vaikutusta. 511-vuotiaan Ebenezer Pinsetin ullakolla asuu hirviö, joka vaatii ruoakseen kaikkea mahdollista kaktuksista kotikissaan ja toimittaa vastineeksi Ebenezerille nuoruuseliksiiriä. Yhtenä päivänä hirviö kääntää nälkäisen katseensa Helmikin puoleen, mutta tyttö onkin pippurinen tapaus...|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1403164|
 }
 
 [Maailman viimeiset noidat] {
@@ -1580,6 +1633,24 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alismaan+tarinat+collins&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
+[Taikuuden aika -sarja] {
+	[b-aut]:Cowell, Cressida|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1354569&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Velhokuninkaan kuopus Xar aiheuttaa heimolleen harmaita hiuksia: pojalla ei ole taikavoimia, ja hän kapinoi isäänsä vastaan. Toive on soturikuningattaren tytär, joka puolestaan hallitsee taikuuden, vaikka taikuus onkin soturiheimossa ankarasti kiellettyä. Taikavoimiensa vuoksi hän joutuu jatkuvasti kommelluksiin. Velhot ja soturit ovat vanhastaan perivihollisia, mutta Xar ja Toive sattuvat tutustumaan toisiinsa. Heidän on pakko yhdistää voimansa kun ilmenee, että julma noitakuningas kätyreineen uhkaa sekä velhojen että sotureiden heimoa.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=taikuuden+aika+cowell&type=AllFields&dfApplied=1&limit=20|
+}
+
+[Cavallonin kronikat -sarja] {
+	[b-aut]:Forester, Kim
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Lohikäärmeitä ja hirviöitä|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Vuosisata sitten Cavallonin viisi kansaa - yksisarviset, kentaurit, vedenhevoset, pegasokset ja ihmiset - ovat käyneet sodan, joka on päättynyt katkerasti. Yksisarviset pitävät entisiä ihmisliittolaisiaan orjina. Sivistyneet kentaurit uskovat ylemmyyteensä. Vedenhevoset on ajettu merelle. Ja pegasokset, joiden väitetään aloittaneen sodan, ovat paenneet vuorille. Vapaakaupungissa asuva nuori ihmispoika Tal on kuullut vain tarinoita vanhoista ajoista ja verenhimoisista pegasoksista. Kaikki kuitenkin muuttuu yllättäen, kun kaupunkiin hyökätään. Tal tempautuu mukaan tapahtumiin, jotka ratkaisevat Cavallonin kohtalon.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Cavallonin+kronikat%22&type=Series&sort=main_date_str+asc%2Cid+asc|
+}
+
 [Jäälohikäärme] {
 	[b-aut]:Martin, George R.R.|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Martin%2C+George+R.+R.&callnumber=&size=medium&title=J%C3%A4%C3%A4lohik%C3%A4%C3%A4rme&recordid=satakirjastot.357578&isbn=9525802124&index=0&w=1200&h=1200|
@@ -1589,31 +1660,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.357578|
 }
 
-[Taikuri ja taskuvaras -trilogia] {
-	[b-aut]:Mikama, Anniina|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.357829&index=0&size=medium&w=1200&h=1200|
+[Varjot-sarja] {
+	[b-aut]:Parvela, Timo|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1449380&index=0&size=large&source=Solr|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Taikuri ja taskuvaras aloittaa trilogian täynnä silmänkääntötemppuja, juonittelua ja jännitystä. "Vakuutan teille, että teitä vedetään nenästä ihan koko rahan edestä!"\n\nMina asuu kadulla ja varastelee henkensä pitimiksi. Tom on nuori keksijä ja taikuri, jonka Ihmeiden teatteri lumoaa yleisönsä ilta illan jälkeen. Mina ja Tom kohtaavat Helsingissä talvella 1890 ja Minalla on pian osa Tomin taikashow'ssa.Nuoret huomaavat olevansa toisilleen enemmän kuin ystävät, mutta kummankin menneisyydessä on pahoja, selvittämättömiä asioita. He joutuvat juonittelun pyörteeseen ja ajojahtiin, josta he voivat selviytyä vain rohkeutensa avulla - muutama taikatemppu hihassaan.\n\nTaikurin ja taskuvarkaan tarina jatkuu kirjoissa Huijarin oppipoika ja Tinasotamiehet.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?join=AND&bool0%5B%5D=OR&lookfor0%5B%5D=taikuri+ja+taskuvaras&lookfor0%5B%5D=tinasotamiehet&type0%5B%5D=AllFields&type0%5B%5D=AllFields&bool1%5B%5D=AND&lookfor1%5B%5D=Mikama%2C+Anniina&type1%5B%5D=Author&sort=main_date_str+asc|
-}
-
-[Ikimaa-sarja] {
-	[b-aut]:Ohtonen, Kimmo|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Ohtonen%2C+Kimmo%2C+kirjoittaja&callnumber=&size=medium&title=Ikimaa+%3A+soturin+tie&recordid=satakirjastot.427108&isbn=951131565X&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Pohjoisimman maankolkan pohjoisimmasta kylästä katoaa nainen. 12-vuotias Oliver lähtee etsimään äitiään ainoana tukenaan Jätti-karhu. Kaukana Ikimaassa Kalla-tyttö opiskelee viimeistä vuottaan soturikoulussa. Hän haaveilee vapaudesta, elämästä Aarniolan muurien takana. Kallan ja Oliverin hartioilla lepää toivo, kun kuiskaajien kilta ja klaanien vastarinta nousevat kuningas Viktoria vastaan pelastaakseen aarniokansan tuholta.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ohtonen+ikimaa&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
-}
-
-[Sisarla] {
-	[b-aut]:Simukka, Salla|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Simukka%2C+Salla&callnumber=&size=medium&title=Sisarla+%3A+seikkailu+toisessa+maailmassa&recordid=satakirjastot.388697&isbn=951319065X&index=0&w=1200&h=1200|
-	[b-tag]:Lohikäärmeitä ja hirviöitä|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Aliisa tiesi, että oli alkamassa seikkailu ja jos hän jotain oli toivonut, niin oikeaa seikkailua!\n\nSinä talvena lumisade vain jatkui ja jatkui. Pakkanen kiristyi ja koko maailma uhkasi hukkua kinoksiin. 11-vuotias Aliisa putosi lumen halki toiseen maahan, Sisarlaan - ja seikkailuun. \n\nSisarlan sydämessä on ihmeellinen puutarha, jossa asuu mitä merkillisimpiä otuksia: tuulikeijuja, unienkutojia, kyselijäkukkia. Ja yhdessä puussa keikkuu tyttö, Meri. Aliisa on koko ikänsä kaivannut parasta ystävää, ja nyt tuo toive toteutuu. Tytöt eivät ole sattumalta joutuneet Sisarlaan: heidän on löydettävä Sisarlaa hallitseva kuningatar ja saatava oman maailmansa lumisade loppumaan. Mutta Aliisa joutuu vielä vaikeamman tehtävän eteen, kun Meri näyttää unohtaneen heidän ystävyytensä.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.388697|
+	[b-des]:Tontut liikkuvat vain pimeässä. Pete tekee kohtalokkaan vaihtokaupan pelastaakseen ystävänsä. Mitä menetät, kun luovut varjostasi? Trillerimäisessä seikkailussa joulun myytti paljastuu aivan erilaiseksi kuin kukaan on kuvitellut. Pete Valo on epätoivoinen. Sara, hänen paras ja ainoa ystävänsä, on sairas, eikä parannuskeinoa ole. Viimeisenä keinonaan 13-vuotias Pete kuiskaa toiveensa tavaratalon joulupukin korvaan. Hän saa lupauksen, että Sara paranee, mutta vain yhdellä ehdolla: Peten on annettava vastalahjaksi varjonsa. Se ei kuulosta paljolta, mutta on enemmän kuin kukaan on osannut kuvitella.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=varjot+parvela+timo&type=AllFields&limit=20&sort=|
 }
 
 [Synkät vedet -sarja] {
@@ -1645,14 +1698,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Jääkiekko kiehtoo kovasti Eetua, joka uskaltaa alkuun vain unelmoida lajista kaukalon reunalla. Kun Eetu ystävineen saa kuin saakin aloittaa uuden harrastuksen, oppii hän luistelun ja jääkiekon salat nopeasti kannustavan valmentajan opastuksella. Harjoitellessa pitää välillä purra kyllä hammasta, mutta mustelmat unohtuvat, kun Eetu joukkueineen pääsee pelaamaan ensimmäistä matsiaan ? ja vieläpä voittaa sen!|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.433249|
 }
-[Vauhdikas futisleiri] {
-	[b-aut]:Grimm, Sandra|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Grimm%2C+Sandra%2C+kirjoittaja&callnumber=&size=medium&title=Vauhdikas+futisleiri&recordid=satakirjastot.1298539&isbn=9523411918&index=0&w=1200&h=1200|
-	[b-tag]:Nappiksia ja lätkäkiekkoja|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Leo ja muut futisleiriläiset ovat innoissaan, kun he saavat valmentajakseen oikean maajoukkuepelaajan. Ohjelma vain on täynnä kovaa treeniä, eikä juurikaan pelailua. Naapurikentän superfutaajia vastaan käytävässä ottelussa leiriläiset pääsevät vihdoin näyttämään parhaan taituruutensa..|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1298539|
-}
+
 [Jalkapallohuumaa] {
 	[b-aut]:Hanauer, Michaela|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hanauer%2C+Michaela&callnumber=&size=medium&title=Jalkapallohuumaa&recordid=satakirjastot.239596&isbn=9518839492&index=0&w=1200&h=1200|
@@ -1661,14 +1707,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Palloa ei ole hauskaa potkia yksin! Niinpä Luka pestaa pelikaverikseen koiran. Elmolla on pulma: hänen aivan erityinen jalkapallonsa on viety. Maalivahti Laten on voitettava rangaistuspotkuja kohtaan tuntemansa pelko. Anna tykkää Iirosta, mutta ei sitten yhtään jalkapallosta... |
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.239596|
 }
-[Kirppu ja Rami Rautasen räpylä] {
-	[b-aut]:Leinonen, Tarja|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Leinonen%2C+Tarja&callnumber=&size=medium&title=Kirppu+ja+Rami+Rautasen+r%C3%A4pyl%C3%A4&recordid=satakirjastot.454094&isbn=9512361884&index=0&w=1200&h=1200|
+
+[Super Cheer -sarja] {
+	[b-aut]:Heinonen, Henna Helmi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1430280&index=0&size=large&source=Solr|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Eskari-ikäinen Kirppu ja hänen äitinsä muuttavat kahdestaan kirkonkylään, kun isä lähtee Norjaan turskatehtaalle töihin. Kirppu eksyy pesäpallokentän katsomoon ja tutustuu siellä iäkkäänpuoleiseen Leksaan ja tämän espoolaiseen sukulaispoikaan Santtuun. Kerran Kirppu kiipeää yksin katsomon ylimmälle portaalle ja löytää sieltä kotijoukkueen nimekkään lukkarin, Rami Rautasen, räpylän. Kirppu vie räpylän kotiin tyynyn alle ja rutistaa sitä silloin, kun on oikein isää ikävä. Mutta Rami Rautasen peli ei näytä enää sujuvan entiseen malliin?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.454094|
+	[b-des]:Matilda, Ronja, Ella ja Kukka harrastavat cheerleadingiä. Se on vauhdikasta, vähän hurjaa ja tosi kivaa! Tytöt jäävät harkkojen jälkeen salille syömään eväitä. Sähläävän Patteri-koiran ansiosta he joutuvat lukkojen taakse. Ja sitten sammuvat valot! Tarvitaan jokaisen tytön supertaitoja - ja vähän myös Patterin apua - jotta oven avain saadaan ongittua hankalasta paikasta.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Super+Cheer%22&type=Series|
 }
+
 [Lätkä-Lauri-sarja] {
 	[b-aut]:Lipasti, Roope|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lipasti%2C+Roope&callnumber=&size=medium&title=L%C3%A4tk%C3%A4-Lauri+ja+ihmer%C3%A4pyl%C3%A4&recordid=satakirjastot.245075&isbn=9510422649&index=0&w=1200&h=1200|
@@ -1677,13 +1725,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-des]:Laurin elämä on yhtä jääkiekkopeliä. Hän torjuu ja laukoo kotona niin että perintövaasit ovat vaarassa. Maalivahdin polvisuojatkin leikataan äidin riemuksi vierashuoneen patjoista. Sitten Lauri pääsee pelaamaan ihan oikeaan jääkiekkojoukkueeseen ja kaukaloon. Hanskat uhkaavat lentää tiskiin jo ensimmäisten harjoitusten jälkeen, kun kiekot lipuvat yksi toisensa jälkeen hänen ohitseen maaliin. Avuksi löytyy kuitenkin enon pesäpalloräpylä, jossa on kuulemma taikaa.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=l%C3%A4tk%C3%A4+lauri+lipasti&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
-[Oikea ballerina] {
-	[b-aut]:Neubauer, Annette|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Neubauer%2C+Annette&callnumber=&size=medium&title=Oikea+ballerina&recordid=satakirjastot.248363&isbn=951883671X&index=0&w=1200&h=1200|
+
+[Taneli-sarja] {
+	[b-aut]:Lähde, Petja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=L%C3%A4hde%2C+Petja%2C+kirjoittaja&callnumber=&size=medium&title=Taneli+ja+FC+M%C3%B6rl%C3%B6kit&recordid=satakirjastot.1294312&source=Solr&isbn=9512365766&index=0&w=250&h=250|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Tanja on balettikoulun uusi oppilas ja tanssii niin upeasti, että toiset tytöt ovat kateellisia. Vain Siiri yrittää tutustua Tanjaan ja kutsuu tämän syntymäpäivilleen. Hän saa selville jotain jännittävää. Ja sitten Siiri saa itse ikimuistoisen kutsun?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.248363|
+	[b-des]:Mörlökit haastavat Superpallot jalkapallo-otteluun. Jos Mörlökit voittavat, he puhkaisevat Superpallot. Universumissa on vain yksi henkilö, joka voi voittaa Mörlökit. Hän on suomalainen Taneli. Mutta vaikka Taneli on universumin kovin futaaja, pystyykö hänkään voittamaan Mörlökkejä, joilla on kahdeksan jalkaa ja kuusitoista kättä?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=taneli+l%C3%A4hde+petja&type=AllFields&limit=20|
 }
 [Elsa luistelemassa] {
 	[b-aut]:Rahikka, Kerttu|
@@ -1694,18 +1743,18 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.333899|
 }
 
-[Totti-sarja] {
-	[b-aut]:Wickström, Mika|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318829&index=0&size=medium&w=1200&h=1200|
+[Säbähamsterit ja Talttahammasliiga] {
+	[b-aut]:Suomela, Laura|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1549046&index=0&size=large&source=Solr|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Totti pelaa Toukolan Teräksessä eikä mikään ole hänestä hauskempaa kuin jalkapallo. Totti on mestari pomputtelemaan palloa, mutta nyt hän haluaa oppia huiman tempun nimeltä saksipotku. Salaisesta hankkeesta saa tietää vain pallokoira Kaapo. Seuraavassa pelissä Totti aikoo hämmästyttää kaikki taidoillaan...|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?dfApplied=1&lookfor=totti+wickstr%C3%B6m&type=AllFields&sort=main_date_str+asc|
+	[b-des]:Säbähamstereiden hyökkääjä Panu Poski-Pussila polkee vimmatusti juoksupyörässään - hän haluaa olla huippukunnossa, kun joukkue kohtaa pahimman vastustajansa, gerbiilien Jyväjemmarit. Uusi Säbähamsterit-sarja vie lukijat seuraamaan jyrsijöiden salibandyliigan jännittäviä käänteitä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1549046|
 }
 
 
 [IceLove -sarja] {
-	[b-aut]:Henna Helmi|
+	[b-aut]:Heinonen, Henna Helmi|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Henna+Helmi&callnumber=&size=medium&title=Nellyn+uudet+kuviot&recordid=satakirjastot.306391&isbn=9513193489&index=0&w=1200&h=1200|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
@@ -1713,13 +1762,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=icelove&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Pöllitty pallo] {
+[FC Wannaplay -sarja] {
 	[b-aut]:Kallioniemi, Tuula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320326&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula%2C+kirjoittaja&callnumber=&size=medium&title=P%C3%B6llitty+pallo&recordid=satakirjastot.1320326&source=Solr&isbn=9511335308&index=0&w=250&h=250|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Salaman luokalle Rupulan lähiöön tulee uusi oppilas Eetu. Poika puhuu palturia kuin Pinokkio. Hän puhuu helposti myös muut ympäri: pian Rupulan hiekkakentällä treenaa futisjoukkue FC Wannaplay. Salaman ihmeeksi Eetu kelpuuttaa siihen poikia muiltakin luokilta, myös likkoja, Janitan ja Aliman. Ei haittaa, vaikkei kellään ole varaa nappiksiin. Valkuksi Eetu löytää nuhjuisen Massen, joka on pelannut nuorena SM-liigassa. Miksi ihmeessä Eetu tahtoo haastaa Hippolan lähiön joukkueen matsiin? Hippola on ollut jo vuosia Rupulan perivihollinen. Sen joukkueella on nurmikenttä ja nappikset. Mutta Eetu vain uhoaa: "Vapise Hippola, täältä tullaan!"|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1320326|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+FC+Wannaplay&type=AllFields&limit=20|
+}
+
+[Peli on alkanut, Iida!] {
+	[b-aut]:Kuutti, Maria|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1531594&index=0&size=large&source=Solr|
+	[b-tag]:Nappiksia ja lätkäkiekkoja|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Jalkapallo on Iidalle kaikki kaikessa. Hän lukee futiskirjoja, katsoo otteluita ja harjoittelee erilaisia temppuja, mutta tytöille ei ole kaupungissa omaa joukkuetta. Kun paikkakunnalle muuttaa uusi perhe, jonka äiti on entinen SM-tason pelaaja, Iidan toiveet heräävät. Voisiko haave vihdoin toteutua? Vastusta Iidalle tarjoaa isoveli Eemeli, jonka mielestä kaikki pikkusiskossa on tosi noloa. Sisarukset haastavat toisensa kisaan, jota kumpikaan ei halua hävitä. Onneksi Iidan paras kaveri Rozalia on vieressä vaikeissakin tilanteissa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1531594|
 }
 
 [Futaajat-sarja] {
@@ -1731,15 +1789,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=futaajat+ljunggren&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Nuorten jalkapallokirja -sarja] {
-	[b-aut]:|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Part%2C+Michael&callnumber=&size=medium&title=Messi+%3A+uskomaton+tarina&recordid=satakirjastot.428916&isbn=952321327X&index=0&w=1200&h=1200|
-	[b-tag]:Nappiksia ja lätkäkiekkoja|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Ainutlaatuinen kasvutarina jalkapallomaailman valtiaaksi! Tämä kirja on ainoa nuorille tehty tosielämään perustuva tarina Messistä ja hänen polustaan Barcelonaan koko maailman tuntemaksi pelaajaksi.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=%22nuorten+jalkapallokirja%22&type=AllFields&filter[]=search_daterange_mv:%22[2015%20TO%202100]%22|
-}
-
 [Sählymestarit-sarja] {
 	[b-aut]:Veirto, Kalle|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=medium&title=Jyrsij%C3%B6iden+haaste&recordid=satakirjastot.265591&isbn=9512359073&index=0&w=1200&h=1200|
@@ -1749,15 +1798,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=s%C3%A4hlymestarit&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2015+TO+2100%5D%22&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-
-[Tanssii Emman kanssa] {
-	[b-aut]:Aho, Elisabeth|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Aho%2C+Elisabet&callnumber=&size=medium&title=Tanssii+Emman+kanssa&recordid=satakirjastot.376219&isbn=9518836124&index=0&w=1200&h=1200|
+[Meidän omat EM-kisat] {
+	[b-aut]:Veirto, Kalle|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1426504&index=0&size=large&source=Solr|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Yhdeksäsluokkalainen Emma Vainio on oikeastaan helpottunut, kun hänen parinsa ilmoittaa lopettavansa kilpatanssin. Emma on saanut tarpeekseen Joonaksen laiskasta harjoittelutahdista ja myöhästelystä. \n\nKuin tilauksesta kuvioihin ilmestyy komea Matias, joka pyytää Emmaa tanssimaan kanssaan. Emma on innoissaan, sillä Matias on taitava ja motivoitunut harjoittelemaan. Heidän askeleensa tuntuvat sopivan yhteen täydellisesti. \n\nPari viikkoa ennen tärkeitä kisoja Emma saa musertavia uutisia. Matiaksen vanha tanssipari on palannut, ja Emma on jo toista kertaa samana syksynä ilman paria. Onko hänen unohdettava tanssihaaveensa lopullisesti? |
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.376219|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Kevät koittaa koululaisille, ja joillekin koululaisille se merkitsee jalkapalloilun Euroopan mestaruuskilpailujen alkamista, Meidän Omia EM-kilpailuja. Töllinkulman koulu ilmoittautuu mukaan turnaukseen ja tulee valituksi. Teemu Tukki on tietenkin joukkueessa, Super-Mario myös. Lisää kovia pelaajia tarvitaan, mutta mieluummin ansioilla kuin arvalla.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1426504|
 }
+
 
 [Cheertytöt-sarja] {
 	[b-aut]:Aho, Marja|
@@ -1766,6 +1815,30 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Uusi koti, uusi kaupunki, uusi koulu. Ja koulussa opettajana noloakin nolompi isä. Yhdistelmä, joka saa yläkoulun aloittavan Jessiinan vatsan kramppaamaan kauhusta. Kaiken lisäksi pitäisi vielä löytää ystäviä.\n\nLuokassa on onneksi tyttökaksikko Nelli ja Sandra, jotka tutustuttavat Jessiinan paitsi uuteen kouluun myös kiehtovaan harrastukseen. Hengästyttävän vauhdikas cheerleading voltteineen ja ihmispyramideineen tempaa Jessiinan mukaansa. Voltteja heittää pian myös hänen sydämensä, sillä treenihallilla harjoittelee polvet veteliksi sulattava cheerleader Max.\n\nJessiinan ystävyys Nellin ja Sandran kanssa ei kuitenkaan suju ilman ongelmia. Hänen kömpelöt kärrynpyöränsä ja kaveeraaminen Nellin kanssa eivät miellytä Sandraa.\n\nCheerleadingseuran syysnäytös lähestyy. Pian Jessiinalla on edessään kaikista suurin haaste: miten oppia pelottavilta ja ylivoimaisen vaikeilta tuntuvat akrobaattiset liikkeet joukkueen esitystä varten?|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=aho+cheertyt%C3%B6t&type=AllFields&sort=main_date_str+asc|
+}
+
+[Alina-sarja] {
+	[b-aut]:Huusko, Teija|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1352664&index=0&size=large&source=Solr|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:12-vuotias Alina haaveilee balettitanssijan elämästä. Uusi lukukausi alkaa uuden tiukan baletinopettajan kanssa, mikä jännittää ja turhauttaa. Tuntuu kuin opettaja ei huomaisi häntä lainkaan. Vanhemmat eivät ymmärrä, miten vakavaa tämä on. Paras ystävä Venla lopettaa baletin harrastamisen, joten hänestäkään ei saa enää tukea kuten ennen. Ryhmään on tullut uuden opettajan lisäksi myös kaksi uutta tyttöä. Toinen herättää Alinassa ikävää kateutta ja toinen puolestaan huolta. Ryhmässä aloittaa myös valloittava uusi poika Jasper, johon Alina ihastuu muiden tyttöjen tavoin. Joku tytöistä pääsee tanssimaan Jasperin kanssa pääroolia joulun Lumikuningatar-näytökseen. Alina on ujo ja epävarma, mutta hänen unelmansa ovat suuret. Hän on valmis tekemään kaikkensa niiden saavuttamiseksi.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=alina+huusko+teija&type=AllFields&limit=20|
+}
+
+[Pallo on pyöreä, Niki Dundee!] {
+	[b-aut]:Kökkö, Hanna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1510038&index=0&size=large&source=Solr|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Kuudesluokkalainen Niki muuttaa äitinsä kanssa Santakylän pikkukaupunkiin, jonka on vallannut jalkapallokuume. Koko Suomi on haltioissaan EM-kisojen yllätyspronssista, ja Nikin uudessa koulussakin kaikki pyörii jalkapallon ympärillä. Koska Niki on kiinnostuneempi onkimisesta, lukemisesta ja historiasta, hänestä tulee luokan ykköstykin, Mirjami Toivon eli Mimmin, silmätikku ja pilkan kohde. Koska Niki haluaa saada kavereita, hän yrittää oppia. Mikään ei vain tahdo onnistua. Hän tutustuu Ereen ja vie tämän kalaan, mutta senkin ystävyyden Mimmi pilaa. Niki ei kuitenkaan lannistu. Ja kun äidiltä lipsahtaa oleellinen tieto Nikin isästä, pojan maailma pyörähtää uuteen asentoon.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1510038|
+}
+
+[Kuinka saavutetaan zanshin] {
+	[b-aut]:Lukkarila, Päivi|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1392548&index=0&size=large&source=Solr|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Seitsemäsluokkalainen Arsi pelaa tiiminsä kanssa CS: GO:ta ja haaveilee ammattilaispelaajan urasta. Arsin äidin mielestä e-urheilu ei ole oikeaa urheilua, joten hän vaatii poikaansa aloittamaan liikuntaharrastuksen. Kun Korsto, luokan suosituin poika, nolaa Arsin koko koulun ja etenkin ihanan Pupun silmissä, Arsi päättää antaa Korstolle opetuksen. Kun hän saa vielä vihiä, että hänen isänsä, josta äiti ei ole koskaan kertonut hiiskaustakaan, saattaisi olla karateka, on lajivalintakin selvä. Arsi ilmoittautuu karaten alkeiskurssille tarkoituksenaan höykyttää Korstoa oikein kunnolla. Eräänä päivänä Arsille tarjoutuu mahdollisuus kostaa Korstolle, muttei aivan niin kuin hän on kuvitellut. Ja sitten kaikki menee yllättävällä tavalla pieleen.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1392548|
 }
 
 [Hattutemppu] {
@@ -1795,13 +1868,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1260794|
 }
 
-[Kymmenestä metristä] {
-	[b-aut]:Suvitie, Iiris|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1351199&index=0&size=medium&w=1200&h=1200|
+[Kello tuhat (Selkokirja)] {
+	[b-aut]:Tihinen, Mimmu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tihinen%2C+Mimmu&callnumber=&size=large&title=Kello+tuhat&recordid=satakirjastot.264696&source=Solr&isbn=9525321967&index=0|
 	[b-tag]:Nappiksia ja lätkäkiekkoja|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:12-vuotias Varpu haluaa jääräpäisesti aloittaa rohkeutta vaativan harrastuksen: uimahypyn. Päätöksestä lähtee liikkeelle vaiherikas tarina, joka palmikoi yhteen myös kolmen tytön ystävyyttä.\n\nVarpun paras kaveri Klaara inhoaa urheilua, mutta rakastaa hevosia. Uimahypyn myötä Varpun elämään saapuva vauhdikas Kata taas on velhomaailmoista innostunut Harry Potter -fani, todellinen potterhead.\n\nMiten Varpu selviää sisukkuutta vaativista treeneistä ja ensimmäisestä harjoituskilpailusta? Mitkä tekijät lopulta auttavat, että keskenään kolme erilaista tyttöä onnistuvat löytämään ystävyyden avaimet? Uskaltaako korkeanpaikankammoinen Varpu koskaan hypätä hyppytornin ylimmältä tasolta? |
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1351199|
+	[b-des]:Jesse pelaa kymppipaidassa jalkapalloa. Pelit ja kaverit hallitsevat hänen elämäänsä. Sitten Jesse saa koulussa tehtäväkseen arvioida kirjan, minkä tahansa kirjan. Työparikseen Jesse saa samalta luokalta Ninnin. Jesse ei ole lukumiehiä, mutta Ninni rakastaa runoja. Esitelmäkirjaksi Ninni valitseekin runokirjan. Yhteistyön myötä Jesse huomaa, että runoja voi ymmärtää ja niitä voi lausua vaikka karjumalla. Monikerroksinen kirja opastaa pelkojen ja ennakkoluulojen voittamiseen, uuden oppimiseen, ystävyyden voimaan ja kymppimeininkiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.264696|
 }
 
 [Tähtiketju-sarja] {
@@ -1889,14 +1962,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-[Me Ponnekkaat -sarja] {
-	[b-aut]:Clary, Julian|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Clary%2C+Julian&callnumber=&size=medium&title=Me+Ponnekkaat&recordid=satakirjastot.250205&isbn=9511304135&index=0&w=1200&h=1200|
-	[b-tag]:Pöljäilyä ja hassuja tilanteita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Ratkiriemukas tarina hyvin erikoisesta perheestä - naurutakuu! \n\nPonnekkaat ovat aivan tavallinen perhe: he asuvat kivassa talossa, käyvät koulussa ja töissä - ja he tykkäävät kunnon nauruista. Yksi pieni ero heissä on: he ovat hyeenoja. Kyllä, luit aivan oikein - heillä on turkki, heidän häntänsä ovat piilossa vaatteiden alla ja he to-del-la-kin tykkäävät ulvoa naurusta. \n\nTähän asti Ponnekkaat ovat onnistuneet pitämään hyeenamaisen salaisuutensa. Mutta heidän omituinen naapurinsa alkaa epäillä jotakin, ja Ponnekkaat ovat vaarassa paljastua. Ja mitä kaikki sitten sanovat?|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=ponnekkaat+me+clary&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
 
 [Kakka] {
 	[b-aut]:Davies, Nicola|
@@ -1907,31 +1972,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.437137|
 }
 
-[Karhu ja kaniini -sarja] {
-	[b-aut]:Gough, Julian|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Gough%2C+Julian%2C+kirjoittaja&callnumber=&size=medium&title=Kaverin+kamalat+tavat&recordid=satakirjastot.372501&isbn=9511309374&index=0&w=1200&h=1200|
-	[b-tag]:Pöljäilyä ja hassuja tilanteita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Eräänä päivänä karhu herää talviuniltaan - keskelle talvipäivän lumimyräkkää. Kun lumisade lakkaa, hän päättää tehdä lumiukon ja tapaa sitä tehdessään kaniinin, joka väittää osaavansa tehdä varmasti paremman. Riemastuttavaan tarinaan tupsahtaa vielä susi, lumipalloja, nahistunut porkkana ja muutama papana. Ja paljon ystävyyttä!|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=karhu+ja+kaniini+gough&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
-
 [Maailman paras puumaja -sarja] {
 	[b-aut]:Griffiths, Andy|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312083&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kreisin kahelit seikkailut, nokkela sanailu ja mainio kuvitus siivittävät kahden kaveruksen menoa.\n\nMegakuvitettu lastanromaanisarja alkaa. Andy ja Terry asuvat maailman PARHAASSA puumajassa ja kirjoittavat siitä kirjaa. Majassa on 13 kerrosta ja se kasvaa sitä mukaa, kun kaverukset saavat uusia ideoita. Tässä majassa voi tapahtua ihan mitä tahansa, sillä sen uima-allas on täynnä tappajahaita, yläkerrassa on limsalähde ja maanalaisessa labrassa voi kehitellä vaikkapa jättiläisbanaanin.|
+	[b-des]:Kreisin kahelit seikkailut, nokkela sanailu ja mainio kuvitus siivittävät kahden kaveruksen menoa.\n\nMegakuvitettu lastanromaanisarja alkaa. Andy ja Terry asuvat maailman PARHAASSA puumajassa ja kirjoittavat siitä kirjaa. Tässä majassa voi tapahtua ihan mitä tahansa, sillä sen uima-allas on täynnä tappajahaita, yläkerrassa on limsalähde ja maanalaisessa labrassa voi kehitellä vaikkapa jättiläisbanaanin.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+paras+puumaja+griffiths&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Totuuskeiju] {
+[Totuuskeiju-sarja] {
 	[b-aut]:Haig, Matt|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1333727&index=0&size=medium&w=1200&h=1200|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Totuuskeijulla on huolia. Siitä tuntuu, ettei se voi koskaan saada ystäviä, sillä kaikki aina loukkaantuvat sen suorapuheisuudesta. Totuuskeijun on nimittäin aina puhuttava vain ja ainoastaan totta. Lopulta oma sukukin hylkää hänet ja Totuuskeiju päättää lähteä tien päälle. Monen mutkan kautta Totuuskeiju päätyy Helsinkiin.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1333727|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Totuuskeiju%22&type=AllFields&dfApplied=1&limit=20|
 }
 
 [Neropatin päiväkirja -sarja] {
@@ -1952,6 +2008,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=kunnas+kaheli+sakki&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
 }
 
+[Rex Dexter -sarja] {
+	[b-aut]:Reynolds, Aaron|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1411883&index=0&size=large&source=Solr|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Rex Dexter haluaisi kuollakseen koiran. Hän on suorastaan syntynyt koiranomistajaksi. Hänen nimensäkin on Rex, herranjestas, sehän on koiran nimi. Mikä tahansa piski olisi parempi kuin ei piskiä ollenkaan, mutta unelmien täyttymys olisi suklaanruskea labradorinnoutaja.\n\nKun Rexin syntymäpäivä viimein koittaa, hän saa vanhemmiltaan laatikon, jossa on reiät ja josta kuuluu lupaavaa raapimista. Voisiko se olla...? Kyllä!! Laatikosta paljastuu... kana. Lemmikkikana?\n\nTuntia ja neljäätoista minuuttia myöhemmin kana on jäänyt jyrän alle (ja kuollut), Rex on kirottu ja Rexin huoneessa kummittelee villieläimiä. Nämä kutsumattomat vieraat ovat meluisia ja sotkuisia. Ja ne vaativat Rexiä selvittämään, miksi ne ovat kuolleet omituisissa merkeissä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Rex+Dexter%22&type=Series|
+}
+
 [Puluboi-sarja] {
 	[b-aut]:Salmi, Veera|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Salmi%2C+Veera&callnumber=&size=medium&title=Puluboin+ja+ponin+kirja&recordid=satakirjastot.359506&isbn=9511265091&index=0&w=1200&h=1200|
@@ -1959,6 +2024,16 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Eräänä päivänä Puluboi, Hakaniemen torilla asuva pulupoika, päättää lentää pesästä. Kallion katuja kuljeskellessaan hän näkee ovisyvennyksessä istuskelevan tytön ja jää juttusille. Mai, joka haluaisi kovasti olla poni, on karannut kotoa kostoksi äidilleen, joka ei täysin ymmärrä tytön poni-innostusta. \n\nPonin ja Puluboin välille syntyy lämmin ystävyys, ja he päättävät kirjoittaa elämästään kirjan. Molemmat kertovat tapahtumista omalla äänellään ja omin kuvin. Mukaan mahtuu myös räppiä, satuja ja ennen muuta mainoksia, sillä Puluboi haaveilee mainosmiehen urasta.|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=puluboi+salmi&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+}
+
+[Isämies-sarja] {
+	[b-aut]:Unkari, Arttu|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1373762&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Varokaa, Isämies on täällä! Ratkiriemukas uusi sarja alkaa.
+Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä pahempaa on tiedossa - paljastuu, että kaiken takana on hullu keksijä, joka uhkaa uusilla räjäytyksillä, jos kukaan ei ratkaise hänen kieroa arvoitustaan.\nPoliisivoimien ylpeys ja keulakuva, sankarillinen Isämies, ei aikaile, vaan ryhtyy heti selvittämään tapausta. Yhdeksänvuotias Oona tietää kuitenkin, että Isämiehen tutkimukset ovat silkkaa isäilyä. Oonalla ei ole muuta vaihtoehtoa kuin ottaa ohjat omiin käsiinsä.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Is%C3%A4mies%22&type=Series|
 }
 
 [Gangsterimummi] {
@@ -1970,13 +2045,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.263971|
 }
 
-[Hamelnin pillipiipari] {
-	[b-aut]:Brand, Russell|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Brand%2C+Russell&callnumber=&size=medium&title=Hamelnin+pillipiipari&recordid=satakirjastot.322253&isbn=9518875278&index=0&w=1200&h=1200|
+[Fowlin kaksoset -sarja] {
+	[b-aut]:Colfer, Eoin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1353001&index=0&size=medium&w=250&h=250&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Kun tulee aika, hän tulee. Tämä tarkoittaa, että tilanteen vaatiessa paikalle ilmestyy oikea henkilö se voi olla myös nainen huolimatta siitä, mitä sovinisti-Dave väittää. Nyt tuli aika, ja tässä tapauksessa tuli Piipari. Pillipiipari. \n\nRussell Brand ja Chris Riddell ovat päivittäneet Hamelnin kylän nykyaikaan. Näyttämölle marssivat hävyttömän omintakeisina anarkistinen, polygamiassa elävä ja maailman tuleen sytyttävä rottalauma, joukko ylimielisiä ja ilkeitä kyläläisiä, terävänäköinen Sam ja hyvän ja pahan, ilon ja surun yläpuolella oleva Pillipiipari itse. Lopputulos on hillitön, paikoin räävitön ja samalla häkellyttävän herkkä kertomus ihmisluonnosta. \n\nMutta ennen kuin Pillipiipari ja lapset katoavat taivaanrannan taa, pannaan ranttaliksi!|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.322253|
+	[b-des]:11-vuotiaat kaksoset Myles ja Beckett ovat kahteen pekkaan yötä kotona pelkän Fowlien tekoälyturvajärjestelmän vahdittavina. Yö muuttuu mielenkiintoiseksi, kun maan alta putkahtaa karannut minipeikko, jota jahtaavat niin pahamaineinen liikemies, salaperäinen agenttinunna kuin peikon perään lähetetty keijukonstaapeli. Alkaa kiihkeä seikkailu, jonka pyörteissä Fowlin kaksoset joutuvat tulilinjalle, siepataan, haudataan, pidätetään ja nirhataan (vain hetkeksi). Mikäpä lujittaisi paremmin kaksosten sidettä toisiinsa!|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=fowlin+kaksoset&type=AllFields&limit=20|
 }
 
 [Sammakkoprinsessa] {
@@ -2024,13 +2099,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?sort=main_date_str+asc&limit=0&dfApplied=1&lookfor=+angles+paretskoi&type=AllFields&filter%5B%5D=%7Eformat%3A%221%2FBook%2FBook%2F%22|
 }
 
-[Barrikadikesä] {
-	[b-aut]:Siirilä, Jussi|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Siiril%C3%A4%2C+Jussi&callnumber=&size=medium&title=Barrikadikes%C3%A4&recordid=satakirjastot.347483&isbn=951208936X&index=0&w=1200&h=1200|
+[Maailman hauskin] {
+	[b-aut]:Pohjola, Mike|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1449382&index=0&size=large&source=Solr|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:"Tsädäm, ihmiset. Tsä-däm! Jotenkin olin tämän aavistanut mutta en ollut antanut itselleni lupaa uskoa siihen. Se oli niin älytöntä. Hirvittävän, puistattavan, hiuksiaraastavan älytöntä. Isä ja äiti aikoivat hakea Raaka remontti -ohjelmaan." 13-vuotiaan Mayan elämä ei ole helppoa, kun vanhemmat ovat sellaisia kuin ovat: erittäin hyviä vääntämään elämän umpisolmuun. Talo pitäisi remontoida, mutta rahaa siihen ei liiemmin löydy, kun äiti haaveilee taiteilijaelämästä ja isä sai juuri kenkää YT-neuvotteujen tuloksena. Niinpä vanhemmat päättävät hakea uuteen reality-sarjaan, missä koko perheen kaikki kauheudet lätkäistäisiin kaikkien katsojien ruodittavaksi. Maya pakenee pohjoiseen mummolaan ja pikkuserkkunsa Nooran luo, mutta ei elämä sielläkään sen helpompaa ole. Etenkään, kun mummo on kovin altis kiipeämään barrikadeille ja Nooran ihastus Reima onkin kiinnostunut Mayasta. Puhumattakaan siitä sotkusta, mikä syntyy, kun Reima katoaa...|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.347483|
+	[b-des]:Varhaisnuorten helppolukuisessa kirjassa 11-vuotias tubettaja Vilho joutuu vahingossa kilpailijaksi huippusuosittuun viihdeohjelmaan. Hän esittää vitsejä, improvisoi, kehittää sketsihahmoaan ja yrittää pysyä aikuisten koomikkojen perässä.\n\nPikkukaupungin poika Vilho ei voi käsittää, miksi häneen otetaan yhteyttä Helsingistä, Vitsivitsi-ohjelman tuotannosta. Selittävä tekijä on hänen nimimerkkinsä: @SuomenHauskinTubettaja. Kuinka pojan käy televisiomaailman tuiskeessa? Varokaa, näyttämötaiteen ammattilaiset!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1449382|
 }
 
 [Kivimutka-sarja] {
@@ -2072,6 +2147,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.284710|
 }
 
+[Pierun elämää] {
+	[b-aut]:Klingenberg, Malin|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Klingenberg%2C+Malin%2C+kirjoittaja&callnumber=&size=medium&title=Pierun+el%C3%A4m%C3%A4%C3%A4&recordid=satakirjastot.1324200&source=Solr&isbn=9515248779&index=0&w=250&h=250|
+	[b-tag]:Riimejä ja loruja|
+	[b-cat]:1. Lukutoukka|
+	[b-des]:Loruilu on hauskaa ja erityisen hassua se on silloin, kun aiheeksi otetaan kaikkien tuntema ja hyljeksimä pieru.Lastenkirjailijakaksikko Malin Klingenberg ja Sanna Mander ovat luoneet hulvattoman ja ajattoman runoelman, joka nostaa hattua niin nonsense-runoille kuin Lennart Hellsingille.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1324200|
+}
+
 [Kammotuksia] {
 	[b-aut]:Niemelä, Reetta|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322552&index=0&size=medium&w=1200&h=1200|
@@ -2079,15 +2163,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Ne hiipivät hämärissä tai ryömivät koloistaan keskiyöllä. IIK! Niillä on kiiluvat silmät ja terävät hampaat. HUI! Ne ovat kammotuksia!\n\nOnko kammotusten kanssa mahdollista tulla toimeen? Tämä kirja paljastaa yöpuolen kulkijoista yllättäviä asioita, jos siis uskallat lukea! Kuka ilkimys on laittanut kirjaston kirjojen väliin nakkisiivuja? Mitä tehdä, kun yksisilmäinen otus tuijottaa ikkunan takana? Haluatko tutustua myös PÖHKÖÖN, LORVIIN JA SUKKAPÖRÖÖN?|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322552|
-}
-
-[Satakieli ja lakaisukone] {
-	[b-aut]:Niska, Heikki|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niska%2C+Heikki&callnumber=&size=medium&title=Satakieli+ja+lakaisukone&recordid=satakirjastot.299099&isbn=951314139X&index=0&w=1200&h=1200|
-	[b-tag]:Riimejä ja loruja|
-	[b-cat]:1. Lukutoukka|
-	[b-des]:Näin tuumii Jossitteleva piimä Heikki Niskan iloisessa, nonsensehenkisessä lastenrunokokoelmassa, jossa liikutaaan niin maaseudulla kuin Helsingin eri kaupunginosissakin. Luvassa on leikkimieltä ja riemukkaita yllätyksiä, niin kuin oikeassa elämässäkin. Satakieli voi rakastua jämerään lakaisukoneeseen ja musta kissa tulppaaniin, etanaparin matka omiin häihinsä saattaa kestää niin kauan että morsian ei ole enää nuori, vaan jo oikea muori, kun pääsee perille. Oma osastonsa kokoelmassa on myös herkkusuille ja hyvän ruuan ystäville. |
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.299099|
 }
 
 [Risto Räppääjä maalla, merellä ja ilmassa] {
@@ -2118,16 +2193,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 
-
-[Hassut Tassut] {
-	[b-aut]:|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=&callnumber=&size=medium&title=Hassut+tassut&recordid=satakirjastot.312060&isbn=9513150399&index=0&w=1200&h=1200|
-	[b-tag]:Riimejä ja loruja|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Kop-kop-koppiainen menee naparetkelle ja ötökät nakupellen huvipuistoon, hiiri hulmuttaa viiriään pakkasessa ja tiikeri uneksii kissakuusta ja tiikerikakusta. Tuula Korolaisen toimittama teos sisältää hellyttäviä ja humoristisia runoja 20 suomalaiselta runoilijalta.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.312060|
-}
-
 [Yöpuu] {
 	[b-aut]:Heikkilä, Mervi|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Heikkil%C3%A4%2C+Mervi&callnumber=&size=medium&title=Y%C3%B6puu+%3A+H%C3%B6yhensaarten+runoja&recordid=satakirjastot.318997&isbn=9516076580&index=0&w=1200&h=1200|
@@ -2155,22 +2220,22 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1261514|
 }
 
-[Kulta, voisitko syöstä tulta?] {
-	[b-aut]:Lehtinen, Emilia|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lehtinen%2C+Emilia&callnumber=&size=medium&title=Kulta%2C+voisitko+sy%C3%B6st%C3%A4+tulta%3F+%3A+tarinoita+edistyneille+lohik%C3%A4%C3%A4rmeiden+kasvattajille&recordid=satakirjastot.437948&isbn=9510358983&index=0&w=1200&h=1200|
+[Kaupunki kukaties] {
+	[b-aut]:Krutsin, Pia|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1403143&index=0&size=large&source=Solr|
 	[b-tag]:Riimejä ja loruja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Lohikäärmeestä on moneksi! Se herättää huomiota seurapiireissä, ymmärtää haisevien juustojen päälle ja tempaa ratsastajan villiin rodeoon. Emilia Lehtisen ja Laura Valojärven uutuus on välttämätön opus kaikille lohikäärmefarmista haaveileville. Lastenrunokokoelma sisältää kymmenen hurjaa tarinaa, joiden kyydissä saa kiljua riemusta ja pikkuisen pelätäkin. Miksi petojen valioyksilö vaihtaa liharavinnon kesäkeittoon? Mihin Leonardo da Vinci tarvitsee lohikäärmettä? Soveltuvatko lohikäärmeet bisneskäyttöön? Entä mitä tekee lohikäärme, kun hienon herran pylly pärähtää?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.437948|
+	[b-des]:Kaupunki Kukaties vie lapset seikkailuun runokaupungin kaduille, alikulkutunneleista tornitalojen huipulle. Kekseliäät riimit ja kuvitus täynnä yllätyksiä houkuttavat esi- ja alakoululaiset tutkimaan runokaupungin karttaa.\n\nRunokaupungissa järjestyssäännötkin naurattavat ja graffiteista löytyy viestejä. Runoratsuksi alle voi valita yksisarvisen, kaksitahtisen tai vaikka kolmipyöräisen. Matkalla kolutaan läpi koko kaupunki hautausmaalta hiekkalaatikolle ja tutustutaan sen monenmoisiin asukkaisiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1403143|
 }
 
-[Määt ja muut: runoja eläimistä ja ihmisistä] {
+[Kummat ja kammot : runoja ihme otuksista] {
 	[b-aut]:Mariska|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mariska%2C+kirjoittaja&callnumber=&size=medium&title=M%C3%A4%C3%A4t+ja+Muut+%3A+runoja+el%C3%A4imist%C3%A4+ja+ihmisist%C3%A4&recordid=satakirjastot.1257028&isbn=952040175X&index=0&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1449364&index=0&size=large&source=Solr|
 	[b-tag]:Riimejä ja loruja|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Pörröturkki ihmeissänsä ympärilleen kurkki; täysi oli vatsa mutta tyhjä käpypurkki. Joko arvon lukija te jutun selvititte? Olikohan käpyvoro kenties kurre itte? \n\nMariskan eläinrunot ovat täynnä riimien riemua ja kerronnan keveyttä. Runot on kirjoitettu rennolla kädellä, huvittamaan ja liikuttamaan niin lasta kuin aikuista lukijaa. Rytmikkään laululyriikan tavoin ne tarttuvat ja menevät ihon alle, päähän ja sydämeen. \n\nKokoelman sivuilla seikkailee joukko toinen toistaan rakastettavampia eläinhahmoja, kuten uhmaikäinen Lissu Lokintyttö, syrjinnästä apea Pentti Kyy, kuuhullu susi nimeltä Nanna, uneton Rouva Rupikonna, Lammas, joka tahtoo olla Villipeto, sekä moni muu. Siellä täällä vilahtaa myös pieni Siiri Sirpelöinen. Runojen tunnelmat vaihtelevat hulluttelevasta surumieliseen ja anarkiasta kaihoon.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1257028|
+	[b-des]:Sanoittajataiturin lastenrunokokoelma saa lukijan hykertelemään. Teos on täynnä noitia, mörköjä, merenneitoja, kummituksia, lohikäärmeitä ja muita ihmeellisiä otuksia - huumoria unohtamatta!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1449364|
 }
 
 [Mustekala löytää trikoot] {
@@ -2279,13 +2344,13 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1352828|
 }
 
-[Matilda pelastaa maailman] {
-	[b-aut]:Koskinen, Juha-Pekka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1259683&index=0&size=medium&w=1200&h=1200|
+[Pullervo : suuri kirja saimaannorpasta] {
+	[b-aut]:Meretoja, Pinja|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1402999&index=0&size=large&source=Solr|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Kukaan ei voi yksin pelastaa maailmaa. Niin ajattelevat myös Juhani ja Hanna Virtanen, kunnes heille syntyy pieni Matilda-tyttö. Kun Matilda kasvaa, Virtasten jokapäiväinen huoleton elämä pakkauspahvien, muovipullojen ja tyhjien säilykepurkkien maailmassa saa uuden käänteen. Miksi keittiössä on yhden roska-astian sijaan kolme ja lastentarhassa alkaa haista hapan maito? Uskaltaako äiti ja isä enää syödä mitään, etteivät jääkarhut näänny ja linnut putoile taivaalta?|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1259683|
+	[b-des]:WWF:n norppaliven itseoikeutettu tähti Pullervo on hurmannut suomalaiset vuodesta 2016 lähtien. Pinja Meretojan värikylläinen tietokirja koko kansan rakastamasta Pullervosta kertoo saimaannorpan elämästä, historiasta ja tulevaisuudennäkymistä.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1402999|
 }
 
 [Pelastetaan eläimet] {
@@ -2333,7 +2398,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1359816|
 }
 
-
 [Tiedeseikkailu: vesi] {
 	[b-aut]:Vartiainen, Jenni|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1305326&index=0&size=medium&w=1200&h=1200|
@@ -2343,13 +2407,23 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1305326|
 }
 
-[Vesi: kirja maailman tärkeimmästä aineesta] {
+
+[Aika matka! Lotta, Kasper ja luontokadon arvoitus] {
 	[b-aut]:Ertimo, Laura|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.306412&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1457797&index=0&size=large&source=Solr|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Vesi on kirja, jossa selviää, miksi vesi on maailman tärkein aine. Teos jatkaa kaksikon Ertimo-Kontinen Yö-kirjasta (2016) tuttua lapsenkokoista tapaa käsitellä ympäröivän maailman ihmeellisyyttä avoimesti kysyen, tieteenalojen rajat unohtaen. Tekstin kanssa tasavertainen kuvitus tekee arjesta satumaista, monimutkaisesta ymmärrettävää ja vedestä kaunista.\n\nEdessä on elämäsi vesiseikkailu! Tässä kirjassa kuljetaan taivaalla laahaavista pilvistä merten syvyyksiin, Pariisin viemäreistä muinaisten tähtien räjähdyksiin. Vesi on läsnä kaikkialla elämänkulussa ihmeellisten ominaisuuksiensa takia, siksi sen ymmärtäminen avaa silmät elämän perusteille.|
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.306412|
+	[b-des]:Ystävykset Lotta ja Kasper hyppäävät aikakapseliin ja lähtevät uskomattomalle matkalle menneisyyteen. Miten elämä maapallolla on kehittynyt 350 miljoonassa vuodessa? Ja millaisia jälkiä ihminen on ympäristöön jättänyt?\n\nLuonto voi hyvin, kun se on monimuotoinen ja runsas. Lotta ja Kasper saavat selville, että lyhyessä ajassa ihminen on nakertanut monimuotoisuutta hurjaa kyytiä. Luontokadossa on kyse sekä luonnonilmiöistä että ihmisen aiheuttamasta muutoksesta, jolla on ikävät seuraukset. Tulevaisuus näyttää kovin erilaiselta, jos eliölajeja katoaa nykytahtiin. Miten äiti ja isä saavat aamukahviinsa tai Lotta ja Kasper pizzaan tomaattikastiketta, jos pölyttäjät vähenevät?|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1457797|
+}
+
+[100 asiaa maapallon pelastamisesta] {
+	[b-aut]:Hall, Rose|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1414959&index=0&size=large&source=Solr|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Tiedätkö, miten nirhataan energiavampyyri? Entä oletko kuullut lehmien kasvomaskeista?\nTiesitkö, että liiskatuista omenoista voi tehdä kenkiä tai että puiden kaataminenkin voi olla ympäristöteko? Entä oletko koskaan piipahtanut farkkukirjastossa?\n\nSuositun lasten tietokirjasarjan uusin osa sukeltaa päivänpolttavaan aiheeseen. Kirja kertoo sata kiinnostavaa ja mullistavaa ratkaisua niin ilmaston lämpenemisen pysäyttämiseen, luonnon monimuotoisuuden säilyttämiseen kuin kestävän tulevaisuuden edistämiseen. Kirja lievittää ympäristöahdistusta tuomalla hätkähdyttäviäkin näkökulmia siihen, mitä kaikkea voimme tehdä maailmamme hyväksi. Elävästi kirjoitettu ja havainnollisesti kuvitettu opus vastaa loputtomaan tiedonjanoon!|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1414959|
 }
 
 [Lapsen oma metsäkirja] {
@@ -2359,15 +2433,6 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Kirjan tarinaa kuljettaa Nuppu Liituri, nuori liito-orava, joka lähtee etsimään omaa kotimetsää. Lopulta Nuppu löytää oman kodin vanhasta metsästä, Onni-haavan luota. Keväällä Nupun pesäkolossa onkin sitten jo kaksi pikkuliituria.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1355745|
-}
-
-[Isän luokse] {
-	[b-aut]:Linna, Martti|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.374171&index=0&size=medium&w=1200&h=1200|
-	[b-tag]:Yhteinen ympäristömme|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Yhdeksänvuotiaan Katrin isä maalaa taivaanrantaa Brasiliassa. Hänen pikkuveljensä on Sammakkomies, jonka keuhkoja edes lääkäri-äiti ei osaa parantaa. Katri itse on ainoa tyttö, jota Namulan koulun rehtori ja hänen opettajansa Silja Strindberg oikeasti pelkäävät. Kun Katri toimii, mitä tahansa voi tapahtua!\n\nEräänä päivänä Katri saa isältään postia. Hän näkee koulumatkalla keisaripingviinejä ja tajuaa, että hänen on pelastettava melkein yksinään maapallo, sen sademetsät ja pikkuveljensä. Siinä hommassa Operaatio Pottubileet on vasta alkua: jääkarhujen saapuessa on aika etsiä kahvilaiva ja matkata isän luokse Amazonin vihreisiin sademetsiin. |
-	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.374171|
 }
 
 [Ella ja kaverit hiilijalanjäljillä] {
@@ -2434,25 +2499,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1322513|
 }
 
-
-[Etsijät-sarja] {
-	[b-aut]:Hunter, Erin|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Matka+alkaa&recordid=satakirjastot.246933&isbn=9518874743&index=0&w=1200&h=1200|
+[Huimaa-sarja] {
+	[b-aut]:Hurme, Vuokko|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hurme%2C+Vuokko&callnumber=&size=medium&title=Kiepaus&recordid=satakirjastot.281615&source=Solr&isbn=9515242940&index=0&w=250&h=250|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Kolme karhua - jääkarhu Kallik, mustakarhu Lusa ja harmaakarhu Toklo - joutuvat pentuina eroon perheistään, ja heidän on selviydyttävä yksin karussa erämaassa. He päätyvät yhteen ja lähtevät huimaan seikkailuun etsimään uutta tulevaisuutta oppaanaan Ujurak, harmaakarhun pentu, joka ei ole aivan tavallinen karhu...\n\nEtsijät (Seekers) on Soturikissat-kirjoistaan tunnetun ERIN HUNTERIN toinen eläinfantasiasarja. Se vie lukijan villiin pohjoiseen luontoon ja ilmaston lämmetessä muuttuvaan ympäristöön. Matka alkaa on sarjan ensimmäinen osa.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22etsij%C3%A4t%22++hunter%2C+erin+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
+	[b-des]:Lenna Anderssen eli elämänsä kahdeksan ensimmäistä vuotta kaupungissa, jonka nimi oli Kardum, maailmassa, joka oli kääntynyt nurin päin. Siellä missä ennen oli taivas, oli nyt maa, ja missä piti olla maata jalkojen alla, olikin vain huikaiseva pudotus tyhjyyteen. Tapahtuma, jota kutsuttiin Kiepaukseksi, oli mullistanut kaiken. Ihmiset ovat kuitenkin oppineet pärjäämään ylösalaisessa maailmassaan, ja Lennan perheen elämä Kardumissa on oikeastaan juuri sopivan jännittävää ja mukavaa - kunnes puhdas vesi alkaa loppua. Miten Lennan ja hänen perheensä, äidin, isän, pikkusiskon ja lemmikkikanan, käy? Uskaltavatko he lähteä etsimään tulevaisuuttaan toisesta maailmasta, joka ehkä on jossain heidän allaan, taivaalla?|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?limit=0&lookfor=%22Huimaa%22&type=Series&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22|
+	[additionalInformation]:Vaihtoehtoisesti saman kirjan selkokielinen versio: Männikkölahti, Hanna: Kiepaus.|
 }
-
-[Selviytyjät-sarja] {
-	[b-aut]:Hunter, Erin|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hunter%2C+Erin&callnumber=&size=medium&title=Yll%C3%A4tt%C3%A4v%C3%A4+vihollinen&recordid=satakirjastot.276922&isbn=9518875030&index=0&w=1200&h=1200|
-	[b-tag]:Yhteinen ympäristömme|
-	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
-	[b-des]:Keneen voi luottaa tosipaikan tullen?\n\nBella ja muut hihnakoirat ovat asettuneet Suuren murahduksen jälkeen metsään, jossa on kylliksi puhdasta vettä ja saalista. Aluetta alkaa kuitenkin vaatia laumalleen hurjien villikoirien pitelemätön johtaja. Uusia selviytymis- ja taistelutaitoja Lykyltä oppineet hihnakoirat eivät anna periksi vaan panevat vastaan kaikin tavoin.\n\nBella punoo vihollislauman pään menoksi mutkikkaan juonen, joka perustuu Lykyn älykkääseen ja ovelaan toimintaan. Vaikka Lykky kaipaa itsenäistä elämäänsä, hän ei halua jättää tovereitaan pulaan ja suostuu auttamaan. Lykkyä koetellaan tehtävässä monin tavoin - ja hänen todellinen luontonsa testataan, kun päätösten aika koittaa.\n\nSelviytyjät (Survivors) on Erin Hunterin eläinfantasiasarja, jossa lukija pääsee tarkastelemaan maailmaa koiran silmin. Yllättävä vihollinen on sarjan toinen osa.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=+%22selviytyj%C3%A4t%22++hunter%2C+erin+NOT+etsij%C3%A4t+NOT+soturikissat&type=AllFields&filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=search_daterange_mv%3A%22overlap%7C%5B2011+TO+2100%5D%22&dfApplied=1&limit=50&sort=main_date_str+asc|
-}
-
 
 [Minerva: elävien luiden laakso] {
 	[b-aut]:Juba|
@@ -2461,6 +2516,15 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Minervan huimassa vauhdissa ei aika käy pitkäksi. Lasten supersankarin seikkailut ovat täynnä vauhtia ja vaarallisia tilanteita.\n\nSaammeko esitellä: Minerva, seikkailijatar Matkustusvälineet: Gekko ja kylpyamme Matkakohde: Elävien luiden laakso Tehtävä tänään: Pelastaa Elävien luiden laakso piinaavalta kuivuudelta.|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1253331|
+}
+
+[Luonnonsuojelija : säästetään yhdessä Suomen luontoa ekoteoilla] {
+	[b-aut]:Ovaskainen, Minna|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1457955&index=0&size=large&source=Solr|
+	[b-tag]:Yhteinen ympäristömme|
+	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
+	[b-des]:Luonnonsuojelija-kirja kertoo pienistä ja suuremmistakin asioista ja valinnoista, joita jokainen voi tehdä ympäristön hyväksi - luonnossa, kotona, pihalla ja puutarhassa sekä laajemmalti yhteiskunnassa.|
+	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1457955|
 }
 
 [Linnunsitoja] {
