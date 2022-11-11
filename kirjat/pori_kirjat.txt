@@ -1644,7 +1644,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Cavallonin kronikat -sarja] {
 	[b-aut]:Forester, Kim
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solrhttps://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=medium&w=250&h=250&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=large&source=Solr|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vuosisata sitten Cavallonin viisi kansaa - yksisarviset, kentaurit, vedenhevoset, pegasokset ja ihmiset - ovat käyneet sodan, joka on päättynyt katkerasti. Yksisarviset pitävät entisiä ihmisliittolaisiaan orjina. Sivistyneet kentaurit uskovat ylemmyyteensä. Vedenhevoset on ajettu merelle. Ja pegasokset, joiden väitetään aloittaneen sodan, ovat paenneet vuorille. Vapaakaupungissa asuva nuori ihmispoika Tal on kuullut vain tarinoita vanhoista ajoista ja verenhimoisista pegasoksista. Kaikki kuitenkin muuttuu yllättäen, kun kaupunkiin hyökätään. Tal tempautuu mukaan tapahtumiin, jotka ratkaisevat Cavallonin kohtalon.|
@@ -1981,14 +1981,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+paras+puumaja+griffiths&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-[Totuuskeiju-sarja] {
-	[b-aut]:Haig, Matt|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Haig%2C+Matt%2C+kirjoittaja&callnumber=&size=medium&title=Totuuskeiju&recordid=satakirjastot.1333727&source=Solr&isbn=9527269857&index=0&w=250&h=250|
-	[b-tag]:Pöljäilyä ja hassuja tilanteita|
-	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Totuuskeijulla on huolia. Siitä tuntuu, ettei se voi koskaan saada ystäviä, sillä kaikki aina loukkaantuvat sen suorapuheisuudesta. Totuuskeijun on nimittäin aina puhuttava vain ja ainoastaan totta. Lopulta oma sukukin hylkää hänet ja Totuuskeiju päättää lähteä tien päälle. Monen mutkan kautta Totuuskeiju päätyy Helsinkiin.|
-	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Totuuskeiju%22&type=AllFields&dfApplied=1&limit=20|
-}
+
 
 [Neropatin päiväkirja -sarja] {
 	[b-aut]:Kinney, Jeff|
