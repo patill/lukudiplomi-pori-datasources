@@ -72,7 +72,7 @@
 
 [Kun kohtaat avaruusolennon: viisi tärkeää ohjetta] {
 	[b-aut]:Tamminen, Petri|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294308&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Tamminen%2C+Petri%2C+kirjoittaja&callnumber=&size=large&title=Kun+kohtaat+avaruusolennon+%3A+viisi+t%C3%A4rke%C3%A4%C3%A4+ohjetta&recordid=satakirjastot.1294308&source=Solr&isbn=9512365642&index=0|
 	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Voisiko sinun pihallesi laskeutua avaruusalus? Esimerkiksi jo huomenna? Riippuu pihan koosta. Avaruusalus tarvitsee tilaa suunnilleen saman verran kuin keskikokoinen vesilätäkkö. Entä mihin kellonaikaan avaruusalus voisi laskeutua? Avaruusalukset voivat laskeutua jopa puoli kahdeksalta aamulla. Sehän on ihan pian. Se on niin pian, että sitä kannattaa ajatella heti.|
@@ -172,7 +172,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Kysy astronautilta: kaikki avaruudessa elämisestä] {
 	[b-aut]:Peake, Tim|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294247&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Peake%2C+Tim%2C+kirjoittaja&callnumber=&size=large&title=Kysy+astronautilta+%3A+kaikki+avaruudessa+el%C3%A4misest%C3%A4&recordid=satakirjastot.1294247&source=Solr&isbn=9523510452&index=0|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Miltä tuntuu matkustaa 10 kertaa luotia nopeammin? Miksi avaruudessa haisee? Kuinka nopea internet avaruudessa on? Palattuaan puolen vuoden komennukseltaan Kansainväliseltä avaruusasemalta astronautti Tim Peakelle on sadellut tuhansia kysymyksiä - onhan hän sentään avaruudessa olemisen huimapäinen asiantuntija! Kirjassaan hän vastaa yli sataan avaruusaiheiseen kysymykseen. Peake kertoo elämästä avaruudessa asiantuntevasti ja tieteellisellä tarkkuudella, mutta silti ymmärrettävästi ja huumoria unohtamatta.|
@@ -1031,7 +1031,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Verkot] {
 	[b-aut]:Kallioniemi, Tuula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1320327&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kallioniemi%2C+Tuula%2C+kirjoittaja&callnumber=&size=large&title=Verkot&recordid=satakirjastot.1320327&source=Solr&isbn=951134398X&index=0|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-tag]:Kaverikiemuroita|	
 	[b-des]:Sere on todettu kiusaajien pääpukariksi. Hän joutuu vaihtamaan koulua ja muuttamaan isovaarin luo pikkukaupunkiin. Serellä ja isovaarilla synkkaa, ja koti järven rannalla on Seren unelmapaikka. Kalastus on sekä tytön että papan mielipuuhaa. Sana kiirii entisestä koulusta, jossa Sere oli iso kiho. Uudet luokkakaverit antavat Serelle tylyn opetuksen, mitä hän ei kerro aikuisille. Kohta isovaarin talon ikkuna tuhritaan kananmunilla. Sere tunnistaa kyllä kuvion. Hän ajattelee tahtomattaan Näätää, jota itse kiusasi. Noinko kaikki oli vanhassa koulussa tapahtunut? Riittääkö nyt kiusaamisen syyksi se, että Sere on uusi oppilas?|
@@ -1058,7 +1058,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Myyty tyttö] {
 	[b-aut]:Mattila-Laine, Satu|
-	[b-cov]:https://satakirjastot.finna-test.fi/Cover/Show?id=satakirjastot.1303285&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Mattila-Laine%2C+Satu%2C+kirjoittaja&callnumber=&size=large&title=Myyty+tytt%C3%B6&recordid=satakirjastot.1303285&source=Solr&isbn=9525940497&index=0|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Sata vuotta sitten Suomessa köyhä lapsi saatettiin myydä huutokaupalla hoidokiksi. Näitä lapsia kutsuttiin huutolaisiksi. Myyty tyttö kertoo Lempin tarinan.|
@@ -1438,7 +1438,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Luutarhurin tapaus] {
 	[b-aut]:Lipasti, Roope|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1291055&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lipasti%2C+Roope%2C+kirjoittaja&callnumber=&size=large&title=Luutarhurin+tapaus+%3A+Oskari+Onniston+uskomattomat+vastoink%C3%A4ymiset&recordid=satakirjastot.1291055&source=Solr&isbn=9510435775&index=0|
 	[b-tag]:Koulussa ja koulusta|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Oskari Onnisto aloittaa uuden sarjan, jossa opitaan, kuinka monella eri tavalla teinipojan on mahdollista munata itsensä täydellisesti. Kirja avaa painajaismaista kouluarkea hervottomalla huumorilla!\n\n- Meillä on luokan kassassa nyt 34 euroa, luokanvalvojamme laski. - Sillä päästään koulun takapihalle ja takaisin, jos hyvä tuuri käy.\n\n7 A:n opettaja on luvannut oppilaille luokkaretken. Oskarin ja kavereiden silmissä siintävät New York, Pariisi ja turkoosi meri. Todellisuus on karumpi: luokkaretki tehdään kaivokseen, joka on koko kaupungin ylpeys. Paha vain, että Oskarin isä sattuu olemaan kaivoksen johtaja Nolouden huippu saavutetaan, kun isä lähtee heille oppaaksi. Maan alla luokkaretki saa jo lähes painajaismaiset mittasuhteet, kun he tapaavat omituisen Luutarhurin. Tämä otus on ihan liian mielikuvituksellinen ollakseen edes olemassa, mutta silti se saa aikaan jopa uskomattomamman rumban kuin rehtori Limatainen maan päällä. Ja se on sitten jo aika paljon.|
@@ -1644,7 +1644,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Cavallonin kronikat -sarja] {
 	[b-aut]:Forester, Kim
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1377938&index=0&size=large&source=Solr|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1411884&index=0&size=large&source=Solr|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vuosisata sitten Cavallonin viisi kansaa - yksisarviset, kentaurit, vedenhevoset, pegasokset ja ihmiset - ovat käyneet sodan, joka on päättynyt katkerasti. Yksisarviset pitävät entisiä ihmisliittolaisiaan orjina. Sivistyneet kentaurit uskovat ylemmyyteensä. Vedenhevoset on ajettu merelle. Ja pegasokset, joiden väitetään aloittaneen sodan, ovat paenneet vuorille. Vapaakaupungissa asuva nuori ihmispoika Tal on kuullut vain tarinoita vanhoista ajoista ja verenhimoisista pegasoksista. Kaikki kuitenkin muuttuu yllättäen, kun kaupunkiin hyökätään. Tal tempautuu mukaan tapahtumiin, jotka ratkaisevat Cavallonin kohtalon.|
@@ -2113,7 +2113,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Kivimutka-sarja] {
 	[b-aut]:Veirto, Kalle|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.392842&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Veirto%2C+Kalle&callnumber=&size=large&title=Kivimutka+ja+kadonnut+luokka&recordid=satakirjastot.363838&source=Solr&isbn=9512357666&index=0|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Kohta 13-vuotiaan Jiikoo Kivimutkan elämän täyttävät jalkapallo ja Akun taskarit. Sitten uudelta naapurilta katoaa kesken syntymäpäivien työpaikka. Jiikoo ja Suomen söpöin laulajanalku Cake M. nousevat valokeilaan pääepäiltyinä. Kun aikuiset eivät pääse puusta pitkään asioiden selvittämisessä, Kivimutkan on verestettävä etsiväntaitojaan ja tartuttava toimeen. Niin hän tutustuu Kolinaan ja Pääkallonaamaan ja joutuu elämänsä järisyttävimpään seikkailuun.|
@@ -2514,7 +2514,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Minerva: elävien luiden laakso] {
 	[b-aut]:Juba|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1253331&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Juba%2C+sarjakuvantekij%C3%A4&callnumber=&size=large&title=Minerva+%3A+el%C3%A4vien+luiden+laakso&recordid=satakirjastot.1253331&source=Solr&isbn=9511325779&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Minervan huimassa vauhdissa ei aika käy pitkäksi. Lasten supersankarin seikkailut ovat täynnä vauhtia ja vaarallisia tilanteita.\n\nSaammeko esitellä: Minerva, seikkailijatar Matkustusvälineet: Gekko ja kylpyamme Matkakohde: Elävien luiden laakso Tehtävä tänään: Pelastaa Elävien luiden laakso piinaavalta kuivuudelta.|
