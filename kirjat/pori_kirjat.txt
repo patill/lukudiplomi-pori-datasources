@@ -45,7 +45,7 @@
 
 [Pieni avaruuskirja] {
 	[b-aut]:Kunnas, Mauri|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1292979&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri%2C+kirjoittaja%2C+taiteilija&callnumber=&size=large&title=Pieni+avaruuskirja&recordid=satakirjastot.1292979&source=Solr&isbn=9511328298&index=0|
 	[b-cat]:1. Lukutoukka|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Mikä on linnunrata? Voiko mustaan aukkoon tipahtaa? Minkä niminen on suurin planeetta? Aurinkokuntamme ihmeitä - planeetat, Kuu, asteroidit, vuoden- ja vuorokaudenajat - pienimmille tiedonjanoisille. |
@@ -108,7 +108,7 @@
 
 [Rakettimatka avaruuteen] {
 	[b-aut]:Hiekkalinna, Tero|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324052&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hiekkalinna%2C+Tero%2C+kirjoittaja&callnumber=&size=large&title=Rakettimatka+avaruuteen&recordid=satakirjastot.1324052&source=Solr&isbn=9512364638&index=0|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-tag]:Aika ja avaruus|
 	[b-des]:Rakettimatka avaruuteen lennättää jännittävälle kiertoajelulle Kaukoputkimiehen seurassa! Kirja on mahtava tietopaketti miehitetyistä avaruuslennoista, avaruusluotaimista, planeettalaskeutujista ja planeettamönkijöistä. Kirjassa perehdytään avaruusrakettien historiaan, aurinkokunnan eri planeetoille lähetettyihin avaruusluotaimiin, avaruusasemiin ja avaruussukkuloihin - unohtamatta historiallista käyntiä Kuussa 50 vuotta sitten. Lukija saa tutustua avaruusasemiin ja eläytyä niin jättimäisen Saturn V -kuuraketin laukaisuun kuin mönkijäajeluun Kuussa.|
@@ -162,7 +162,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 }
 
 [Avaruuden rajalla] {
-	[b-aut]:Leisko, Satu,|
+	[b-aut]:Leisko, Satu|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1416219&index=0&size=large&source=Solr|
 	[b-tag]:Aika ja avaruus|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
@@ -533,7 +533,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [CLUE-sarja] {
 	[b-aut]:Horst, Jørn Lier|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.433450&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Horst%2C+J%C3%B8rn+Lier%2C+kirjoittaja&callnumber=&size=large&title=Kultaisen+kellon+arvoitus&recordid=satakirjastot.1312062&source=Solr&isbn=9511322230&index=0|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:CLUE on Jorn Lier Horstin salapoliisisarja 9-13 -vuotiaille lukijoille. Salamanterin arvoitus on sarjan ensimmäinen osa, ja se julkaistiin Norjassa 2012. Sarja nousi nopeasti Norjan myydyimmäksi nuorille lukijoille suunnatuksi kirjasarjaksi. |
@@ -578,7 +578,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Universumin avain] {
 	[b-aut]:Muhonen, Anne|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.334046&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Muhonen%2C+Anne&callnumber=&size=large&title=Universumin+avain&recordid=satakirjastot.334046&source=Solr&isbn=9522703338&index=0|
 	[b-tag]:Epäilyttäviä asioita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Tarina saa alkunsa kun Kalle löytää kotoaan avaimen, joka ei kuitenkaan sovi mihinkään kotoa löytyvään lukkoon. Äiti esittää hurjan arvelun, että se voisi olla Universumin avain! Tästä alkaa Universumin oven hillitön etsintä. Etsintäpartioon liittyvät Kallen paras ystävä, lätäkön toisella puolella asustava Hirppa sekä uusi tuttavuus, Aino. Etsijät löytävät vihjeen toisensa jälkeen, mutta löytyykö ovi, ja mitä kaikkea Universumi pitääkään sisällään?|
@@ -966,7 +966,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Kajo, Kuunvalo ja Kolmikolkka] {
 	[b-aut]:Liitsola, Hilkka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1324169&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Liitsola%2C+Hilkka%2C+kirjoittaja&callnumber=&size=large&title=Kajo%2C+Kuunvalo+ja+Kolmikolkka&recordid=satakirjastot.1324169&source=Solr&isbn=9523412930&index=0|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Kajo on Korkeamuuri-nimisessä orpokodissa asuva tyttö, joka haluaa epätoivoisesti päästä pois ankeasta ja ilottomasta elämästään. Eräänä päivänä hänelle aukeaakin tilaisuus päästä karkaamaan, mutta kuinka ollakaan: kaksi merirosvoa sieppaa hänet mukaansa - juuri niin kuin hän oli salaa toivonutkin!\n\nUimataidoton ja vähäisesti kiipeilemään tottunut Kajo on aluksi merirosvojen matkassa aivan hädissään. Kajosta tehdään kuitenkin Merenkiitäjän laivatyttö, ja muu miehistö on vain mielissään, kun Kajo ei suostu uudessa tehtävässään miten tahansa pompoteltavaksi. Samalla Kajon vanhemmista ja menneisyydestä alkaa selvitä yllättäviä asioita...|
@@ -984,7 +984,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Masi Tulppa - pääsy kieletty!] {
 	[b-aut]:Mäkipää, Jari|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.337071&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4kip%C3%A4%C3%A4%2C+Jari&callnumber=&size=large&title=Masi+Tulppa+%3A+p%C3%A4%C3%A4sy+kielletty%21&recordid=satakirjastot.337071&source=Solr&isbn=9513193047&index=0|
 	[b-tag]:Kaverikiemuroita|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Alakoulua käyvällä Masi Tulpalla on täydellinen kesälomasuunnitelma: Pelaa SamuRaita, katso Bittiritaria, piirrä Hukkajätkä-sarjista. Masin ei tarvitse poistua huoneestaan edes lounaan perässä - hän vain lämmittää mikropitsan omasta jääkaapistaan. Kaikki menee kuitenkin pilalle, kun Masin vanhemmat saavat kummallisen älynväläyksen: he keksivät palkata pojalle lastenhoitajan.\n\nMasi ei törkeään temppuun niin vain alistu. Lapsenvahtipalvelu Vahtisilmän epäilyttävä toimitusjohtaja Vihtori Hiilenpää ehdottaa Masille viikon koeaikaa. Sehän sopii - Masi aikoo tehdä hyvin selväksi, ettei lastenvahtia kaivata. Hän saa vastaansa monen sortin hoitajia, joista kukaan ei näytä tajuavan olevansa tarpeeton sivuhenkilö. Lisäksi Masia häiriköi sottainen ja piinallisen puhelias naapurinpoika Pellervo Hulmukka, joka kuvittelee nappaavansa hänestä kaverin. Masi Tulpalla on tasan viikko aikaa pelastaa kesälomansa!|
@@ -1131,7 +1131,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
   [b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&dfApplied=1&lookfor=viiru+ja+pesonen+nordqvist&type=AllFields&sort=main_date_str+desc|
 }
 
-[Ella-sarja] {
+[Ella-kirjat] {
 	[b-aut]:Parvela, Timo|
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo&callnumber=&size=medium&title=Ella+Lapissa&recordid=satakirjastot.296285&source=Solr&isbn=9513139360&index=0&w=250&h=250|
 	[b-tag]:Kirja vai elokuva|
@@ -1189,7 +1189,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Supermarsu-sarja] {
 	[b-aut]:Noronen, Paula|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.440631&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Noronen%2C+Paula%2C+kirjoittaja&callnumber=&size=large&title=Supermarsu&recordid=satakirjastot.440631&source=Solr&isbn=9512407337&index=0|
 	[b-tag]:Kirja vai elokuva|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:11-vuotiaan Emilian unelma toteutuu, kun hän saa lemmikseen ikioman marsun. Mutta Marsu-Halonen ei ole mikä tahansa karvapallo. Kun se puraisee Emiliaa sormeen, hänestä tulee Supermarsu! Ja supervoimia todella tarvitaan, kun Lahden mäkimontussa asustava Jättiläismarsu antaa Emilialle suuren supermarsutehtävän: hänen on pelastettava Itämeri. Silakoiden kuljettaminen kylpyammeeseen ei selvästikään riitä! Miten yksi pieni marsu (joka tosin osaa lentää ja käyttää muitakin supermarsuvoimia) voi pelastaa kokonaisen meren?|
@@ -1318,7 +1318,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Heinähattu, Vilttitossu ja ärhäkkä koululainen ] {
 	[b-aut]:Nopola, Sinikka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.383891&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=M%C3%A4nnikk%C3%B6lahti%2C+Hanna%2C+kirjoittaja&callnumber=&size=large&title=Hein%C3%A4hattu%2C+Vilttitossu+ja+%C3%A4rh%C3%A4kk%C3%A4+koululainen&recordid=satakirjastot.354874&source=Solr&isbn=9523041568&index=0|
 	[b-tag]:Koulussa ja koulusta|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Vilttitossua harmittaa, kun hän kuulee, että Heinähatun luokka pääsee onkiretkelle. Vilttitossu päättää huijata Heinähattua: hän pyytää naapurin Halise Alibullenia opettamaan kirjoittamista. "Kirjoita, että 'onkiretki peruutettu'", Vilttitossu ehdottaa. Halise ihmettelee outoa lausetta, mutta tottelee. Vilttitossu sujauttaa paperin kotinsa postiluukusta, Heinähattu lukee viestin, olettaa, että opettaja on sairas ja jää kotiin.\n\nSeuraavana aamuna olkihattupäinen, oudosti lyhentynyt "Heinähattu" marssii onkiretkelle luokan kanssa. Hän ryhtyy ärhäkällä tyylillään johtamaan luokkaa, joka villiintyy ennennäkemättömällä tavalla. Alibullenin neidit sattuvat kävelemään retkeläisten ohi, ja mainitsevat siitä Heinähatulle - joka pian ymmärtää asioiden oikean laidan. Mutta mitä tapahtuu, kun retkellä onkin kaksi Heinähattua? Heinähattu, Vilttitossu ja ärhäkkä koululainen on koominen tarina siitä, kun isosisko on koulussa ja pikkusisko tuntee olonsa yksinäiseksi. Se kertoo myös siitä lyhyestä ajasta ihmisen elämässä, jolloin kouluun meno on ihanaa.|
@@ -1498,7 +1498,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Hai%2C+Magdalena%2C+kirjoittaja&callnumber=&size=medium&title=Painajaispuoti+ja+kamala+kutituspulveri&recordid=satakirjastot.1257110&isbn=9510433640&index=0&w=1200&h=1200|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:1. Lukutoukka|
-	[b-des]:Varokaa aavetöhnää! \n\nUusi karmivan hauska Lukupalat-sarja kertoo neuvokkaasta Ninnistä, joka pestautuu kauppa-apulaiseksi eriskummalliseen Painajaispuotiin. \n\nNinni etsii töitä ja astuu rohkeasti sisään Painajaispuotiin. Myyntitiskin takaa hän löytää kaupan omistajan Kumma-Ukon, joka on tikahtumassa nauruun. Joku ketku on ripotellut tämän päälle aimo annoksen kutituspulveria!|
+	[b-des]:Varokaa aavetöhnää! Uusi karmivan hauska Lukupalat-sarja kertoo neuvokkaasta Ninnistä, joka pestautuu kauppa-apulaiseksi eriskummalliseen Painajaispuotiin. Ninni etsii töitä ja astuu rohkeasti sisään Painajaispuotiin. Myyntitiskin takaa hän löytää kaupan omistajan Kumma-Ukon, joka on tikahtumassa nauruun. Joku ketku on ripotellut tämän päälle aimo annoksen kutituspulveria!|
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?filter%5B%5D=%7Eformat%3A%220%2FBook%2F%22&filter%5B%5D=%7Ebuilding_sub_str_mv%3A%222%22&filter%5B%5D=%7Elanguage%3A%22fin%22&filter%5B%5D=%7Emajor_genre_str_mv%3A%22fiction%22&dfApplied=1&lookfor=hai+painajaispuoti&type=AllFields|
 }
 
@@ -1579,7 +1579,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Maailman viimeiset noidat] {
 	[b-aut]:Nuotio, Eppu|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318620&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nuotio%2C+Eppu%2C+kirjoittaja&callnumber=&size=large&title=Maailman+viimeiset+noidat&recordid=satakirjastot.1318620&source=Solr&isbn=9522795216&index=0|
 	[b-tag]:Lohikäärmeitä ja hirviöitä|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Kaupungissa on alkanut tapahtua kummia. Ihmisiä muuttuu sammakoiksi ja autoja jättihyytelöiksi. Sekasortoa aiheuttavien tapahtumien syynä ei voi olla kukaan muu kuin maailman viimeisen noitasuvun mustan haaran ilkeät kaksoset Lukas ja Liida. Noidat kokoontuvat hätäkokoukseen. Hetkeäkään ei ole hukattavaksi, mutta kaikki ei sujukaan ihan suunnitelmien mukaan. Kokouksen sotkee eripuraa aiheuttava yllätys, joka osoittautuu kuitenkin ratkaisevaksi tekijäksi hurjassa hyvän ja pahan taistelussa.|
@@ -1909,7 +1909,7 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 
 [Prinsessa Pikkiriikki -sarja] {
 	[b-aut]:Lampela, Hannele|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.330433&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Lampela%2C+Hannele&callnumber=&size=large&title=Prinsessa+Pikkiriikki&recordid=satakirjastot.330433&source=Solr&isbn=9511295772&index=0|
 	[b-tag]:Pöljäilyä ja hassuja tilanteita|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Joko tunnet Prinsessa Pikkiriikin? Etkö? No, pian tulet tuntemaan, sillä Pikkiriikki ja hänen taikakoiransa Makkara ovat täällä jäädäkseen. Kolme ihanaa ääneenluettavaa tarinaa yhdessä kirjassa. Ensimmäisessä tarinassa komenteluun kyllästynyt Pikkiriikki lähettää taikakoiransa Makkaran avustuksella kaikki aikuiset Himskattiin määräilemästä. Toisessa Pikkiriikki näyttää pitkää nenää Räkä-Eetulle ja saa ystävän Prinsessa Pöjöläisestä. Ja kolmannessa Pikkiriikin äidin sisuksiin muuttaa rasittava Urpo ja Pikkiriikki ja Pöjöläinen päättävät rakentaa oman talon.|
@@ -1981,7 +1981,14 @@ Lontoon Bloomsbury, 1898. Apupoika Rileyn pitäisi uskollisuutensa takeeksi tuik
 	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=maailman+paras+puumaja+griffiths&type=AllFields&dfApplied=1&limit=20&sort=main_date_str+asc|
 }
 
-
+[Totuuskeiju-sarja] {
+	[b-aut]:Haig, Matt|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Haig%2C+Matt%2C+kirjoittaja&callnumber=&size=medium&title=Totuuskeiju&recordid=satakirjastot.1333727&source=Solr&isbn=9527269857&index=0&w=250&h=250|
+	[b-tag]:Pöljäilyä ja hassuja tilanteita|
+	[b-cat]:2. Kirja-ahmatti|
+	[b-des]:Totuuskeijulla on huolia. Siitä tuntuu, ettei se voi koskaan saada ystäviä, sillä kaikki aina loukkaantuvat sen suorapuheisuudesta. Totuuskeijun on nimittäin aina puhuttava vain ja ainoastaan totta. Lopulta oma sukukin hylkää hänet ja Totuuskeiju päättää lähteä tien päälle. Monen mutkan kautta Totuuskeiju päätyy Helsinkiin.|
+	[b-ava]:https://satakirjastot.finna.fi/Search/Results?lookfor=%22Totuuskeiju%22&type=AllFields&dfApplied=1&limit=20|
+}
 
 [Neropatin päiväkirja -sarja] {
 	[b-aut]:Kinney, Jeff|
@@ -2151,7 +2158,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Kammotuksia] {
 	[b-aut]:Niemelä, Reetta|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1322552&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Niemel%C3%A4%2C+Reetta%2C+kirjoittaja&callnumber=&size=large&title=Kammotuksia&recordid=satakirjastot.1322552&source=Solr&isbn=952354117X&index=0|
 	[b-tag]:Riimejä ja loruja|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Ne hiipivät hämärissä tai ryömivät koloistaan keskiyöllä. IIK! Niillä on kiiluvat silmät ja terävät hampaat. HUI! Ne ovat kammotuksia!\n\nOnko kammotusten kanssa mahdollista tulla toimeen? Tämä kirja paljastaa yöpuolen kulkijoista yllättäviä asioita, jos siis uskallat lukea! Kuka ilkimys on laittanut kirjaston kirjojen väliin nakkisiivuja? Mitä tehdä, kun yksisilmäinen otus tuijottaa ikkunan takana? Haluatko tutustua myös PÖHKÖÖN, LORVIIN JA SUKKAPÖRÖÖN?|
@@ -2233,7 +2240,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Mustekala löytää trikoot] {
 	[b-aut]:Nopola, Sinikka|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318728&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Nopola%2C+Sinikka%2C+kirjoittaja&callnumber=&size=large&title=Mustekala+l%C3%B6yt%C3%A4%C3%A4+trikoot+%3A+riimirunoja&recordid=satakirjastot.1318728&source=Solr&isbn=9520408908&index=0|
 	[b-tag]:Riimejä ja loruja|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Naali haluaa olla normaali, ja mustekala teettää kymmenlahkeiset trikoot. Kärpänen löytää minisalkun mennessään työpaikkahaastatteluun ja voikukkadiiva kärsii ?tavallisesta? lajistaan. Löytääkö orpo Amanda kodin, ja pääseekö nuuka Kaarlo saituudestaan? Kaikenikäisten riimirunot kertovat eläinten, ihmisten ja kasvien yllättävistä kohtaloista - äkkikäänteitä kaihtamatta.|
@@ -2348,7 +2355,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Pelastetaan eläimet] {
 	[b-aut]:Moser, Annette|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1298540&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Moser%2C+Annette%2C+kirjoittaja&callnumber=&size=large&title=Pelastetaan+el%C3%A4imet%21&recordid=satakirjastot.1298540&source=Solr&isbn=9523411926&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Sisu ja Onni päättävät alkaa pelastaa hämähäkkejä, sillä kaikilla eläimillä on oikeus elää! Fridasta tulee eläintenpelastaja valppaan Simson-koiransa avulla, kun tämä saa lenkillä vainun kissanpojasta. Kenelle eksynyt pikkuinen mahtaa kuulua? Seitsemän pientä tarinaa eläinten maailmasta.|
@@ -2415,7 +2422,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1414959&index=0&size=large&source=Solr|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
-	[b-des]:Tiedätkö, miten nirhataan energiavampyyri? Entä oletko kuullut lehmien kasvomaskeista?\nTiesitkö, että liiskatuista omenoista voi tehdä kenkiä tai että puiden kaataminenkin voi olla ympäristöteko? Entä oletko koskaan piipahtanut farkkukirjastossa?\n\nSuositun lasten tietokirjasarjan uusin osa sukeltaa päivänpolttavaan aiheeseen. Kirja kertoo sata kiinnostavaa ja mullistavaa ratkaisua niin ilmaston lämpenemisen pysäyttämiseen, luonnon monimuotoisuuden säilyttämiseen kuin kestävän tulevaisuuden edistämiseen. Kirja lievittää ympäristöahdistusta tuomalla hätkähdyttäviäkin näkökulmia siihen, mitä kaikkea voimme tehdä maailmamme hyväksi. Elävästi kirjoitettu ja havainnollisesti kuvitettu opus vastaa loputtomaan tiedonjanoon!|
+	[b-des]:Tiedätkö, miten nirhataan energiavampyyri? Entä oletko kuullut lehmien kasvomaskeista? Tiesitkö, että liiskatuista omenoista voi tehdä kenkiä tai että puiden kaataminenkin voi olla ympäristöteko? Entä oletko koskaan piipahtanut farkkukirjastossa?\n\nSuositun lasten tietokirjasarjan uusin osa sukeltaa päivänpolttavaan aiheeseen. Kirja kertoo sata kiinnostavaa ja mullistavaa ratkaisua niin ilmaston lämpenemisen pysäyttämiseen, luonnon monimuotoisuuden säilyttämiseen kuin kestävän tulevaisuuden edistämiseen. Kirja lievittää ympäristöahdistusta tuomalla hätkähdyttäviäkin näkökulmia siihen, mitä kaikkea voimme tehdä maailmamme hyväksi. Elävästi kirjoitettu ja havainnollisesti kuvitettu opus vastaa loputtomaan tiedonjanoon!|
 	[b-ava]:https://satakirjastot.finna.fi/Record/satakirjastot.1414959|
 }
 
@@ -2430,7 +2437,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Ella ja kaverit hiilijalanjäljillä] {
 	[b-aut]:Parvela, Timo|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1318731&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Parvela%2C+Timo%2C+kirjoittaja&callnumber=&size=large&title=Ella+ja+kaverit+hiilijalanj%C3%A4ljill%C3%A4&recordid=satakirjastot.1318731&source=Solr&isbn=9520408894&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Minun nimeni on Ella. Olen jo melkein kolmannella luokalla. Meidän luokkamme on kaksi ja puoli A. Se on luultavasti maailman ainoa puolikas luokka, mutta onneksi meidän opettajamme on ihan kokonainen. Hän on lisäksi tosi mukava, paitsi että viime aikoina opettaja on ollut vähän huolestunut. Hän on nimittäin pikkaisen huolissaan maapallosta.|
@@ -2439,7 +2446,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Luontopartio pelastaa eläimiä] {
 	[b-aut]:Rottböll, Grethe|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312081&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Rottb%C3%B6ll%2C+Grethe%2C+kirjoittaja&callnumber=&size=large&title=Luontopartio+pelastaa+el%C3%A4imi%C3%A4&recordid=satakirjastot.1312081&source=Solr&isbn=9511330527&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:2. Kirja-ahmatti|
 	[b-des]:Hei sinä siellä! Tykkäätkö luonnosta ja eläimistä?\n\nOnni ja Leena tykkäävät myös. He perustavat oman kerhon: Luontopartion. Luonto ja eläimet tarvitsevat apua, ja tehtävää on paljon. Onni ja Leena nikkaroivat lepakkopönttöjä, suojelevat perhosen toukkien nokkospuskakodin, pelastavat sammakot pyörätieltä ja rakentavat asuntoja mehiläisille.\n\nRyhdy sinäkin luonnon apulaiseksi! Kirjassa on paljon vinkkejä, joiden avulla voit itsekin suojella lähiluontoasi.|
