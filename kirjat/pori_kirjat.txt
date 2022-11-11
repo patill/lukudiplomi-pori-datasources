@@ -2376,7 +2376,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Kadonneiden eläinten saari] {
 	[b-aut]:Pitkänen, Pasi|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.259587&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Pitk%C3%A4nen%2C+Pasi&callnumber=&size=large&title=Kadonneiden+el%C3%A4inten+saari&recordid=satakirjastot.259587&source=Solr&isbn=9510415693&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Matias vie pikkusiskonsa Jennin syntymäpäivän kunniaksi sirkukseen. Jenni rakastaa leijonia ja on pukeutunut leijonapukuun. Kun lavalle talutetaan pikkuinen leijonanpentu, Jenni pääsee silittämään sitä. Mutta sitten tapahtuu kauheita: sirkuksen katon läpi syöksyy otus, joka kaappaa mukaansa niin Jennin kuin leijonanpennunkin!\n\nMatias ja leijonaisä lähtevät yhdessä pelastusretkelle, joka vie heidät kauas meren yli, salaperäiselle viidakkosaarelle. Siellä elää toinen toistaan oudompia otuksia. Mutta ovatko Jenni ja leijonanpentu saarella? Ja miksi saarella on niin erikoisia eläimiä?|
@@ -2385,7 +2385,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Niilo rakentaa pöntön] {
 	[b-aut]:Savisaari, Aira|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1294306&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Savisaari%2C+Aira%2C+kirjoittaja&callnumber=&size=large&title=Niilo+rakentaa+p%C3%B6nt%C3%B6n&recordid=satakirjastot.1294306&source=Solr&isbn=9512365367&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:On kevät. Niilo ja Hilla kiipeävät lintutorniin. Niilo katsoo kiikarilla. Näyttää siltä, että harakka lentää ihan Niilon nenän edestä. Silti Niilo ei ylety sormilla lintuun. Isä kirjoittaa kaikki Niilon ja Hillan näkemät linnut havaintovihkoon. Nyt on myös pönttöpäivä. Tänään Niilo ja Hilla rakentavat linnuille pesäpöntöt. Kun Niilon ja Hillan pöntöt ovat valmiit, Niilo huomaa autotallin nurkassa tyhjän pahvilaatikon. Kohta pihalla alkaa jännittävä pönttöleikki, josta myös isä innostuu.|
@@ -2403,7 +2403,7 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 [Tiedeseikkailu: vesi] {
 	[b-aut]:Vartiainen, Jenni|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1305326&index=0&size=medium&w=1200&h=1200|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Vartiainen%2C+Jenni%2C+kirjoittaja&callnumber=&size=large&title=Tiedeseikkailu+%3A+vesi&recordid=satakirjastot.1305326&source=Solr&isbn=9526353544&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:1. Lukutoukka|
 	[b-des]:Mistä sade syntyy? Miksi painava laiva kelluu vedessä, mutta kevyt viinirypäle uppoaa? Miten voit valmistaa jäätelöä itse tehdyssä pikapakastimessa? Tämä ja paljon muuta selviää, kun sukellat vesiaiheiseen tiedeseikkailuun Piin, Kelvinin ja Hoselin johdolla. Lapsi on luonnostaan utelias ja tutustuu maailmaan kysellen, tutkien ja kokeillen. Kirjan tarinat ja helpot tiedekokeet ruokkivat lapsen luontaista ihmettelyä sekä tarjoavat onnistumisen elämyksiä omien tutkimusten kautta.|
@@ -2531,8 +2531,8 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 }
 
 [Linnunsitoja] {
-	[b-aut]:Waris, Helen|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.386037&index=0&size=medium&w=1200&h=1200|
+	[b-aut]:Waris, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Waris%2C+Helena%2C+kirjoittaja&callnumber=&size=large&title=Linnunsitoja&recordid=satakirjastot.386037&source=Solr&isbn=9511304542&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Helikopteri vie Zemin keskelle merta, majakkasaarelle, jonne Valtion, Kuilujen ja Koneiden valvovat silmät eivät yllä. Saari on vastarintaliikkeen tukikohta, eikä kenenkään ole pakko kertoa, miksi on siellä tai mistä on tullut. Majakan huipulla on kyyhkyslakka. Kyyhkyt kuljettavat viestejä meren yli, ne ovat ainoa viestintäkeino, jota Kone ei hallinnoi. Vain lintujen avulla vastarintaliike pysyy elossa.|
@@ -2540,8 +2540,8 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 }
 
 [Vedenkehrääjä] {
-	[b-aut]:Waris, Helen|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1260791&index=0&size=medium&w=1200&h=1200|
+	[b-aut]:Waris, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Waris%2C+Helena%2C+kirjoittaja&callnumber=&size=large&title=Vedenkehr%C3%A4%C3%A4j%C3%A4&recordid=satakirjastot.1260791&source=Solr&isbn=9511326228&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Saz on päätynyt majakkasaarelta, konevastarinnan tukikohdasta meren taakse Ammabariin. Etsiessään ystäväänsä hän joutuu matkalle läpi sekasortoisen mantereen, jonka vesivarannot ovat ehtymässä. Hiekkaan hautautuvien kaupunkien ja pakolaisvirtojen keskellä Sazin täytyy valita tulevaisuus, jonka puolesta taistella.|
@@ -2550,8 +2550,8 @@ Kaamea kakkaräjähdys lennättää ministerin Kuuhun kesken iltatoimien. Vielä
 
 
 [Jäänvartija] {
-	[b-aut]:Waris, Helen|
-	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?id=satakirjastot.1312071&index=0&size=medium&w=1200&h=1200|
+	[b-aut]:Waris, Helena|
+	[b-cov]:https://satakirjastot.finna.fi/Cover/Show?author=Waris%2C+Helena%2C+kirjoittaja&callnumber=&size=large&title=J%C3%A4%C3%A4nvartija&recordid=satakirjastot.1312071&source=Solr&isbn=9511331477&index=0|
 	[b-tag]:Yhteinen ympäristömme|
 	[b-cat]:3. Luen tosi paljon myös paksuja kirjoja|
 	[b-des]:Vastarinnan kukistumisen jälkeen Thom on jatkanut elämäänsä Maharin Kuilussa, mutta salatun radioviestin nappaaminen suistaa kaiken raiteiltaan. Thom saa selville, että mantereiden tila on kaikkea muuta kuin vakaa. Kun kaaos leviää, Thomin seurue suuntaa asumattomaan pohjoiseen. |
